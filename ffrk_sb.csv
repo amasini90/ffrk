@@ -1,0 +1,2884 @@
+Name,Realm,Character,Tier,Element,Type,Owned
+Crossover,I,Warrior of Light,Unique,Holy,PHY,True
+Shining Wave,I,Warrior of Light,Unique,NE,PHY,False
+Radiant Sword,I,Warrior of Light,SSB,NE,PHY,False
+Ultimate Shield,I,Warrior of Light,BSB,Holy,PHY,False
+Shining Saber,I,Warrior of Light,OSB,Holy,PHY,True
+Bitter End,I,Warrior of Light,USB,Holy,PHY,True
+Radiant Buckler,I,Warrior of Light,USB,Holy,PHY,True
+Hail of Light,I,Warrior of Light,USB,Holy,PHY,True
+Shield of Light,I,Warrior of Light,Chain,Holy,PHY,True
+Crystal Wave,I,Warrior of Light,Chain2,ALL,PHY MAG,False
+Bright Overload,I,Warrior of Light,ASB,Holy,PHY,False
+Radiant Soul,I,Warrior of Light,GL,Holy,PHY,False
+Soul Keeper,I,Warrior of Light,GL2,Holy,PHY,True
+Oversoul,I,Warrior of Light,AW,Holy,PHY,True
+Photon Wave,I,Warrior of Light,Sync,Holy,PHY,True
+True Shining Saber,I,Warrior of Light,Sync,Holy,PHY,True
+Eternal Sword,I,Warrior of Light,OLB,Holy,PHY,False
+Holy Raiment,I,Warrior of Light,GLB,Holy,PHY,False
+Holy Chain,I,Warrior of Light,AD,Holy,PHY,False
+Chaos Cyclone,I,Garland,Unique,Dark,PHY,False
+Chaos Bringer,I,Garland,SSB,Dark,PHY,False
+Bardiche,I,Garland,SSB,Dark,PHY,False
+Twin Swords,I,Garland,BSB,Dark,PHY,True
+Dark Rebirth,I,Garland,BSB,Dark,PHY,False
+Discord Incarnate,I,Garland,OSB,Dark,PHY,False
+Source of Hatred,I,Garland,USB,Dark,PHY,True
+Chaos Genocide,I,Garland,USB,Dark,PHY,True
+Bent on Destruction,I,Garland,Chain,Dark,PHY,True
+Chain of Chaos,I,Garland,Chain3,ALL,PHY MAG,False
+Scion of Malice,I,Garland,ASB,Dark,PHY,False
+Love or Loathe,I,Garland,GL2,Dark,PHY,False
+Glimpse of Chaos,I,Garland,GL,Dark,PHY,True
+Soul of Chaos,I,Garland,AW,Dark,PHY,False
+Sinister Reincarnation,I,Garland,Sync,Dark,PHY,False
+Dark Raiment,I,Garland,GLB,Dark,NA,True
+Dark Flash (Garland),I,Garland,GLB,Dark,PHY,False
+Apex Soul of Chaos,I,Garland,AD,Dark,PHY,True
+Sacred Prayer,I,Sarah,Unique,NE,NA,False
+Ballad of Cornelia,I,Sarah,Unique,NE,NA,True
+Ancient Lute,I,Sarah,SSB,NE,NA,False
+Age-old Hymn,I,Sarah,BSB,NE,NA,True
+Ballad of Light,I,Sarah,USB,NE,NA,False
+Song of Reunion,I,Sarah,USB,NE,NA,True
+Dawn Song,I,Sarah,USB,NE,NA,False
+Crystal's Gleam,I,Sarah,USB,NE,NA,True
+Light Rondo,I,Sarah,GL,NE,NA,True
+Love of Cornelia,I,Sarah,GL,NE,NA,True
+Melody of Light,I,Sarah,GL2,NE,NA,False
+Grandiose Song,I,Sarah,AW,NE,NA,False
+Far-Reaching Prayer,I,Sarah,Sync,NE,NA,False
+Dancing Edge,I,Wol,Unique,NE,PHY,False
+Arc Slash,I,Wol,SSB,NE,PHY,False
+Shijin Spiral,I,Wol,BSB,NE,PHY,True
+Howl of Hell,I,Wol,BSB,NE,PHY,True
+Overkill,I,Wol,USB,NE,PHY,True
+True Arc Slash,I,Wol,USB,Holy Earth,PHY,False
+Sudden Smite,I,Wol,USB,Holy Earth,PHY,True
+True Sudden Smite,I,Wol,ASB,Holy Earth,PHY,False
+Elemental Choice,I,Wol,GL,Holy Earth,PHY,False
+Weakness Weapon,I,Wol,GL2,Earth Holy,NA,True
+Rune Saber,I,Wol,AW,Holy Earth,PHY,False
+Begraben,I,Wol,Sync,Earth Holy,PHY,False
+Axle Cutter,I,Wol,OLB,Earth Holy,PHY,False
+Purging Steel,I,Wol,AD,Earth Holy,PHY,False
+Awoken Sudden Smite,I,Wol,DuAW,Earth Holy,PHY,False
+Elemental Gift,I,Echo,Unique,Lightning,MAG,False
+Hastening Gift,I,Echo,SSB,NE,NA,True
+Breaker's Gift,I,Echo,SSB,NE,NA,True
+Echo's Prize,I,Echo,BSB,NE,NA,False
+Echoing Mischief,I,Echo,BSB,Holy,MAG,True
+Echo Collaboration,I,Echo,USB,NE,NA,True
+Echo Showtime,I,Echo,USB,NE,NA,False
+Faerie Cry,I,Echo,GL2,NE,NA,True
+Voice of Light,I,Echo,AW,NE,NA,False
+Faerie Tale,I,Echo,Sync,NE,NA,False
+Moment of Clarity,I,Master,SSB,NE,PHY,True
+Show of Courage,I,Master,BSB,NE,PHY,True
+Fighting Frenzy,I,Master,USB,Earth Fire Lightning,PHY,False
+Empty Fist,I,Master,USB,NE,PHY,False
+Pinnacle Pugilist,I,Master,ASB,Earth Fire Lightning,PHY,True
+Psyche Up,I,Master,GL,Earth Fire Lightning,PHY,False
+Undivided Focus,I,Master,GL,NE,PHY,False
+Blazing Speed,I,Master,GL2,NE,PHY,True
+Driving Fist,I,Master,AW,Earth Fire Lightning,PHY,False
+Raging Spirit,I,Master,Sync,Earth Fire Lightning,PHY,False
+Witch's Brew,I,Matoya,SSB,NE,MAG,False
+Inner Eye,I,Matoya,BSB,Fire Ice Lightning,MAG,True
+Crystal Power,I,Matoya,USB,Fire Ice Lightning,MAG,True
+Crystal Burst,I,Matoya,ASB,Fire Ice Lightning,MAG,False
+Witch's Concoction,I,Matoya,GL2,Fire Ice Lightning,NA,True
+Witch's Awakening,I,Matoya,AW,Fire Ice Lightning,MAG,True
+Cauldron Chant,I,Matoya,Sync,Fire Ice Lightning,MAG,False
+Matoya's Might,I,Matoya,AD,Fire Ice Lightning,MAG,False
+Elan Vital,I,Meia,SSB,Water Ice,MAG,True
+Famfrit,I,Meia,BSB,Water,MAG,True
+Pallida Mors,I,Meia,OSB,Water,MAG,True
+Surging Wave,I,Meia,USB,Water,MAG,False
+Blue Water Magic,I,Meia,Chain3,Water,MAG,False
+Fata Fiore,I,Meia,ASB,Water,MAG,False
+Fiat Lux,I,Meia,GL,Water,MAG,False
+True Lux,I,Meia,GL2,Water,MAG,False
+Megido Flood,I,Meia,AW,Water,MAG,False
+Farfall Nera,I,Meia,AW,Water,MAG,False
+Primal Undine,I,Meia,Sync,Water,MAG,False
+Fanatical Dance,I,Meia,AD,Water,MAG,False
+Scourge Edge,I,Thief,SSB,Wind Poison,PHY,False
+Invisibreak,I,Thief,BSB,Wind Poison,PHY,True
+Hollow Blast,I,Thief,USB,Wind Poison,PHY,True
+Dust Devil,I,Thief,ASB,Wind Poison,PHY,True
+Wind Trick,I,Thief,GL,Wind Poison,PHY,True
+Wind Drive,I,Thief,GL2,Wind,PHY,False
+Lively Thieves,I,Thief,AW,Wind Poison,PHY,False
+Notorious Thieves,I,Thief,AW,Wind Poison,PHY,True
+Crescent Gale,I,Thief,Sync,Wind Poison,PHY,False
+Wild Rose Vow,II,Firion,Unique,NE,PHY,True
+Lord of Arms,II,Firion,SSB,NE,PHY,True
+Shining Blade,II,Firion,SSB,Holy,PHY,True
+Weaponsmaster,II,Firion,BSB,Holy,PHY,True
+Rose of Rebellion,II,Firion,OSB,Holy,PHY,True
+Double Trouble,II,Firion,USB,Holy,PHY,True
+Rush of Arms,II,Firion,USB,Holy Fire Ice,PHY,True
+Fervid Blazer,II,Firion,USB,Holy Fire Ice,PHY,True
+Blade Combo,II,Firion,USB,Holy Fire Ice,PHY,False
+Thorns of the Rose,II,Firion,ASB,Holy Fire Ice,PHY,True
+Weapon Specialist,II,Firion,GL,NE,PHY,True
+Weapon Change,II,Firion,GL2,Holy Fire Ice,PHY,False
+Crown of Arms,II,Firion,AW,Holy Fire Ice,PHY,False
+Ruler of Arms,II,Firion,AW,Holy Fire Ice,PHY,False
+Blizzard Lord,II,Firion,Sync,Ice,PHY,False
+Weapon Master,II,Firion,Sync,Holy Fire,PHY,False
+Full Mastery,II,Firion,Sync,Holy Fire Ice,PHY,True
+Wild Rose Fist,II,Firion,OLB,Holy Fire Ice,PHY,True
+Blast,II,Maria,Unique,NE,MAG,False
+Thunder XVI,II,Maria,SSB,Lightning,MAG,False
+Meteor XVI,II,Maria,BSB,Earth,MAG,False
+Kerplode XXXII,II,Maria,OSB,Earth,MAG,False
+Magma XXXII,II,Maria,USB,Earth,MAG,True
+Earth Bond,II,Maria,Chain4,Earth,MAG,False
+Meteor Shower LXIV,II,Maria,ASB,Earth,MAG,True
+Faith VIII,II,Maria,GL,Earth,MAG,False
+Earth Infusion XVI,II,Maria,GL2,Earth,MAG,False
+Sagittarius LXIV,II,Maria,AW,Earth,MAG,False
+Armageddon XCIX,II,Maria,Sync,Earth,MAG,True
+Cosmic Arrow XCIX,II,Maria,Sync,Earth,MAG,False
+Galaxia XCIX,II,Maria,AD,Earth,MAG,False
+Gaia Drum,II,Guy,SSB,Earth,PHY,True
+Gigantbreak,II,Guy,BSB,Earth,PHY,False
+True Strength,II,Guy,USB,Earth,PHY,True
+Lupine Maul,II,Guy,USB,Earth,PHY,True
+Gaia Impact,II,Guy,ASB,Earth,PHY,False
+Gaia Support,II,Guy,GL2,Earth,NA,False
+Heroic Might,II,Guy,AW,Earth,PHY,False
+Moon Howl,II,Guy,Sync,Earth,PHY,False
+Silent Support,II,Guy,AD,Earth,PHY,False
+Hand of the Emperor,II,Leon,Unique,NE,PHY,True
+Darkborn Blade,II,Leon,SSB,Dark,PHY,False
+Dark Knight's Charge,II,Leon,BSB,Dark,PHY,True
+Lord of Darkness,II,Leon,USB,Dark,PHY,True
+Darkness Breaker,II,Leon,USB,Dark,PHY,False
+Weapon of Darkness,II,Leon,USB,Dark,PHY,False
+Soul of Darkness,II,Leon,ASB,Dark,PHY,True
+Force of Darkness,II,Leon,GL,Dark,PHY,False
+Rebellious Strike,II,Leon,GL2,Dark,PHY,False
+Knight in the Dark,II,Leon,AW,Dark,PHY,False
+Shadow Force,II,Leon,Sync,Dark,PHY,False
+Teleport XVI,II,Minwu,Unique,NE,MAG,False
+Will of the White Mage,II,Minwu,SSB,NE,NA,True
+Seal of Heaven,II,Minwu,BSB,Holy,MAG,False
+Holy XVI,II,Minwu,BSB,Holy,MAG,False
+Enduring Revival,II,Minwu,USB,NE,NA,True
+Bright Sigil,II,Minwu,USB,Holy,MAG,False
+Light of Mysidia,II,Minwu,USB,Holy,MAG,True
+Ultima (II),II,Minwu,ASB,Holy,MAG,False
+Divine Dealings,II,Minwu,GL,Holy,NA,False
+Shatter Seal,II,Minwu,GL2,Holy,MAG,False
+Seal of Mysidia,II,Minwu,AW,Holy,MAG,False
+Holy XCIX,II,Minwu,Sync,Holy,MAG,False
+Holy Verdict,II,Minwu,OLB,Holy,MAG,False
+Holy Raiment,II,Minwu,GLB,Holy,NA,True
+Apex Ultima,II,Minwu,AD,Holy,MAG,False
+Holy Bond (Minwu),II,Minwu,Chain4,Holy,MAG,False
+Awoken Seal of Heaven,II,Minwu,DuAW,Holy,MAG,False
+Flames of Kashuan,II,Gordon,Unique,Fire,MAG,False
+Goddess's Bell,II,Gordon,Unique,NE,PHY,True
+Kashuan's Resolve,II,Gordon,SSB,NE,NA,True
+Egil's Blaze,II,Gordon,BSB,Fire,PHY,True
+A Leader Wakes,II,Gordon,USB,Fire,PHY,True
+Rebellion's Link,II,Gordon,Chain2,ALL,PHY MAG,True
+Brotherly Redemption,II,Gordon,GL,Fire,PHY,True
+Royal Honor,II,Gordon,GL,Fire,NA,False
+Kashuan Royal Shield,II,Gordon,AW,Fire,PHY MAG,False
+Inspiring Moment,II,Gordon,AW,NE,NA,False
+Honored Memory,II,Gordon,Sync,NE,NA,False
+Hour of Purpose,II,Gordon,AD,Fire,PHY MAG,False
+Captain's Command,II,Leila,Unique,NE,NA,False
+Pirate's Knives,II,Leila,SSB,Water,PHY,False
+Poison Cloud XVI,II,Leila,BSB,Poison,PHY,True
+Pirate Scourge,II,Leila,USB,Water Poison,PHY,True
+Pirate's Gaze,II,Leila,USB,Water,PHY,False
+Poison Bond,II,Leila,Chain4,Poison,PHY MAG,True
+Water Bond,II,Leila,Chain4,Water,PHY MAG,False
+Splash LXIV,II,Leila,ASB,Water,PHY,False
+Aqua Venom,II,Leila,GL2,Water Poison,PHY,False
+Pirate's Pluck,II,Leila,GL2,Water,NA,False
+Pirate's Cutlass,II,Leila,AW,Water,PHY,True
+Split Edge,II,Leila,Sync,Water,PHY,False
+Hollow Beauty,II,Leila,Sync,Poison,PHY,False
+Pirate's Splash,II,Leila,AD,Water,PHY,False
+Wyvern,II,Ricard,Unique,Fire,PHY,False
+Highwind Secrets,II,Ricard,SSB,Wind,PHY,True
+Pride of Deist,II,Ricard,BSB,Wind,PHY,False
+Wyvern's Roar,II,Ricard,USB,Wind Lightning,PHY,True
+Raging Stormlance,II,Ricard,ASB,Wind Lightning,PHY,True
+Dragoon Justice,II,Ricard,GL2,Wind Lightning,NA,False
+Last Dragoon's Resolve,II,Ricard,GL2,NE,NA,False
+Last Dragoon,II,Ricard,AW,Wind Lightning,PHY,False
+Windbolt Dragoon,II,Ricard,Sync,Wind Lightning Water Dark,PHY,False
+Noble Sacrifice,II,Josef,Unique,NE,NA,True
+Avalanche,II,Josef,Unique,Ice,PHY,True
+Snows of Death,II,Josef,SSB,Ice,PHY,False
+Snow Crush,II,Josef,SSB,Ice,PHY,False
+Undaunted Hero,II,Josef,BSB,Ice,PHY,False
+Hero's Smash,II,Josef,USB,Ice,PHY,True
+Heroic Soul,II,Josef,USB,NE,NA,False
+Dauntless Courage,II,Josef,Chain3,ALL,PHY MAG,False
+Hero's Backbone,II,Josef,ASB,Ice,PHY,False
+Hero's Roar,II,Josef,GL,Ice,PHY,False
+Heroic Class,II,Josef,GL2,Ice,NA,False
+Hero's Heart,II,Josef,GL2,NE,NA,True
+Purposeful Journey,II,Josef,AW,Ice,PHY,False
+Snow Savvy,II,Josef,AW,Ice Earth,PHY,False
+Hero's Resolve,II,Josef,Sync,Ice,PHY,False
+Heroic Blow,II,Josef,Sync,Ice,PHY,False
+Heroic Hardhead,II,Josef,OLB,Ice,PHY,False
+Frost Flash (Josef),II,Josef,GLB,Ice,PHY,False
+Snowfield Survivor,II,Josef,AD,Ice,PHY,False
+Prison of Sorrow,II,Emperor,SSB,Dark,MAG,True
+Winds of War,II,Emperor,BSB,Dark Wind,MAG,False
+Hell's Maw,II,Emperor,BSB,Dark Earth,MAG,True
+Dire Apocalypse,II,Emperor,USB,Earth Wind,MAG,False
+Repentence Thorns,II,Emperor,USB,Dark Earth,MAG,True
+Kaiser Wave,II,Emperor,USB,Dark Earth Wind,MAG,False
+Invasion XXXII,II,Emperor,Chain2,Earth,MAG,True
+Nihilistic Glamour,II,Emperor,ASB,Dark Earth Wind,MAG,False
+Clever Ruse,II,Emperor,GL,Lightning,NA,False
+Tyrannical Directive,II,Emperor,GL,Dark Earth Wind,MAG,True
+Hellish Gale,II,Emperor,GL2,Dark Earth Wind,MAG,True
+Elemental Domination,II,Emperor,AW,Dark Earth Wind,MAG,True
+Illegal Flare,II,Emperor,AW,Dark,MAG,False
+World Dominator,II,Emperor,Sync,Dark Earth Wind,MAG,False
+Prayer for Peace,II,Hilda,BSB,NE,NA,False
+Sentimental Moon,II,Hilda,USB,NE,NA,False
+Winning Waltz,II,Hilda,USB,NE,NA,True
+Dignity Preserved,II,Hilda,GL2,NE,NA,False
+Blossoming Peace,II,Hilda,AW,NE,NA,True
+Road to Victory,II,Hilda,AW,NE,NA,False
+Wild Rose Blossom,II,Hilda,Sync,NE,NA,False
+Ring of Love,II,Scott,SSB,Fire,PHY,False
+Scathing Sun,II,Scott,BSB,Fire,PHY,True
+Boundless Spirit,II,Scott,USB,NE,NA,True
+Dawnfire,II,Scott,ASB,Fire,PHY,True
+Ardent Valor,II,Scott,GL,Fire,NA,False
+Hungry for Battle,II,Scott,GL2,Fire,NA,False
+Kashuan Kingsblade,II,Scott,AW,Fire,PHY,False
+Scarlet Pyroblade,II,Scott,Sync,Fire,PHY,False
+Advance,III,Luneth,Unique,NE,NA,False
+Blade Torrent,III,Luneth,Unique,NE,PHY,False
+Swordshower,III,Luneth,SSB,Wind,PHY,True
+Eternal Wind,III,Luneth,BSB,Wind,PHY,False
+Heavenly Gust,III,Luneth,OSB,Wind,PHY,True
+Zephir Memories,III,Luneth,USB,Wind,PHY,False
+Howling Vortex,III,Luneth,USB,Wind,PHY,False
+Winds of Possibility,III,Luneth,Chain2,Wind,PHY,False
+Storm of Blades,III,Luneth,ASB,Wind,PHY,False
+Howling Winds,III,Luneth,GL,Wind,PHY,False
+Master Dragoon,III,Luneth,GL2,NE,NA,True
+Wind Chosen,III,Luneth,AW,Wind,PHY,False
+Cloud Runner,III,Luneth,AW,Wind,PHY,False
+Silver Wind,III,Luneth,Sync,Wind,PHY,False
+Dragon's Tornado,III,Luneth,Sync,Wind,PHY,False
+Tempest Dash,III,Luneth,OLB,Wind,PHY,False
+Wind Flash (Luneth),III,Luneth,GLB,Wind,PHY,False
+Soothing Light,III,Arc,Unique,NE,NA,True
+Renewing Rains,III,Arc,SSB,NE,NA,True
+Word of Kindness,III,Arc,SSB,NE,NA,True
+Break of Valor,III,Arc,BSB,Holy,MAG,False
+Auroral Grace,III,Arc,BSB,Holy,MAG,False
+Summon Leviath,III,Arc,USB,Water,MAG,True
+Water's Grace,III,Arc,USB,Holy Water,MAG,True
+Heavenly Rains,III,Arc,USB,NE,NA,False
+Lightbringers,III,Arc,Chain3,ALL,PHY MAG,False
+Divine Wave,III,Arc,ASB,Holy Water,MAG,False
+Soaring Melody,III,Arc,GL,NE,NA,False
+Shimmerwave Song,III,Arc,GL2,Holy Water,NA,False
+Sacred Breath,III,Arc,GL2,Holy Water,NA,True
+Awaken Leviath,III,Arc,AW,Holy Water,MAG,False
+Grace of Water,III,Arc,AW,Holy Water,MAG,False
+Invoke Leviath,III,Arc,Sync,Holy Water,MAG,True
+Spellbreak Volley,III,Refia,Unique,NE,PHY,True
+Blazing Fists,III,Refia,SSB,NE,PHY,True
+Dance of Carnage,III,Refia,BSB,Fire,PHY,True
+Burning Devotion,III,Refia,USB,Fire,PHY,True
+Forge Pillar,III,Refia,USB,Fire,PHY,False
+Trine Flamefist,III,Refia,ASB,Fire,PHY,False
+Bridled Love,III,Refia,GL,Fire,PHY,False
+Beacon of Love,III,Refia,GL2,Fire,NA,True
+Battering Heat,III,Refia,AW,Fire,PHY,False
+Searing Circle,III,Refia,Sync,Fire,PHY,False
+Earth Ward,III,Ingus,Unique,NE,NA,False
+Gaia's Vengeance,III,Ingus,SSB,NE,PHY,True
+Titan's Blade,III,Ingus,SSB,Earth,PHY,False
+Oathsworn Espada,III,Ingus,BSB,Earth,PHY,False
+Faith Escutcheon,III,Ingus,BSB,Earth,PHY,True
+Gaian Promise,III,Ingus,USB,Earth,PHY,True
+Attested Strenght,III,Ingus,Chain,Earth,PHY,True
+Titanic Bash,III,Ingus,ASB,Earth,PHY,False
+Gaia Sword,III,Ingus,GL,Earth,PHY,False
+Titanic Force,III,Ingus,GL2,Earth,NA,False
+Order of Sasune,III,Ingus,GL2,NE,NA,True
+Solid Titan,III,Ingus,AW,Earth,PHY,False
+Monolith Sword,III,Ingus,AW,Earth,PHY,False
+Knight's Assault,III,Ingus,Sync,Earth,PHY,False
+Paragon of Chivalry,III,Ingus,Sync,Earth,PHY,False
+Apex Devout Soul,III,Ingus,AD,Earth,PHY,False
+Bolt of the Ancients,III,Desch,Unique,Lightning,MAG,False
+Selfless Spirit,III,Desch,Unique,NE,NA,False
+Roiling Memories,III,Desch,SSB,Lightning,MAG,True
+Ancient Lightning,III,Desch,BSB,Lightning,MAG,True
+Roar of Duty,III,Desch,USB,Lightning,MAG,False
+Lightning Embodied,III,Desch,Chain2,Lightning,MAG,True
+Violet Flash,III,Desch,GL,Lightning,NA,False
+Shattering Thunder,III,Desch,GL,Lightning,MAG,False
+Violet Strike,III,Desch,GL2,Lightning,NA,False
+Growling Thunder,III,Desch,GL2,Lightning,NA,False
+Owen's Rage,III,Desch,AW,Lightning,MAG,False
+Distant Lightning,III,Desch,AW,Lightning,MAG,False
+Life Spark,III,Desch,Sync,Lightning,MAG,False
+Owen's Will,III,Desch,OLB,Lightning,MAG,False
+Apex Violet Flash,III,Desch,AD,Lightning,MAG,False
+Onion Slice,III,Onion Knight,SSB,NE,PHY,True
+Blowback,III,Onion Knight,SSB,NE,MAG,True
+Vessel of Fate,III,Onion Knight,BSB,NE,PHY MAG,True
+Sword and Spell,III,Onion Knight,OSB,NE,PHY MAG,True
+Forbidden Power,III,Onion Knight,USB,NE,PHY,True
+Forbidden Wisdom,III,Onion Knight,USB,NE,MAG,True
+Sage Unleashed,III,Onion Knight,USB,Fire Water Wind Earth,MAG,True
+Unleashed Potential,III,Onion Knight,Chain2,ALL,PHY MAG,True
+Mystic Fencer Might,III,Onion Knight,ASB,Fire Water Wind Earth,PHY,False
+Mystic Fencer Arts,III,Onion Knight,ASB,Fire Water Wind Earth,MAG,False
+Onion Soul,III,Onion Knight,GL,NE,NA,True
+Fluctuating Power,III,Onion Knight,GL,Fire Water Wind Earth,NA,True
+Onion Water,III,Onion Knight,GL2,Water,NA,True
+Onion Aero,III,Onion Knight,GL2,Wind,MAG,True
+Onion Earth,III,Onion Knight,GL2,Earth,NA,False
+Stalwart Potential,III,Onion Knight,AW,Fire Water Wind Earth,PHY,True
+Arcane Potential,III,Onion Knight,AW,Fire Water Wind Earth,MAG,True
+Turbo-Hit +,III,Onion Knight,AW,Wind Water Fire Earth,PHY,False
+Channel Water,III,Onion Knight,Sync,Water,MAG,False
+Channel Earth,III,Onion Knight,Sync,Earth,MAG,False
+Channel Wind,III,Onion Knight,Sync,Wind,MAG,False
+Onion Dual Wield,III,Onion Knight,Sync,Wind Water Fire Earth,PHY,False
+Water Flash (Onion Knight),III,Onion Knight,GLB,Water,MAG,False
+Apex Blowback,III,Onion Knight,AD,Water,MAG,False
+Tornado,III,Onion Knight,AD,Wind,MAG,False
+Anti-air Particle Beam,III,Cloud of Darkness,SSB,Dark Holy,MAG,False
+Fusillade Particle Beam,III,Cloud of Darkness,BSB,Dark Holy,MAG,True
+0-Form Particle Beam,III,Cloud of Darkness,BSB,Dark,MAG,True
+Convergent Particle Beam,III,Cloud of Darkness,OSB,Dark,MAG,False
+Insulating Appendages,III,Cloud of Darkness,USB,Dark Lightning,MAG,False
+Wide-Angle Particle Beam,III,Cloud of Darkness,USB,Dark Lightning,MAG,True
+Flood of Darkness,III,Cloud of Darkness,Chain2,Dark,MAG,True
+Feint Particle Beam,III,Cloud of Darkness,ASB,Dark Lightning,MAG,True
+Saturating Particle Flux,III,Cloud of Darkness,GL2,NE,NA,True
+Swathed in Darkness,III,Cloud of Darkness,GL2,Dark,NA,False
+Lightning Deluge,III,Cloud of Darkness,GL2,Lightning,NA,False
+Arcane Rampart,III,Cloud of Darkness,GL,NE,NA,False
+Wrath Particle Beam,III,Cloud of Darkness,AW,Dark Lightning,MAG,True
+High-Speed Particle Beam,III,Cloud of Darkness,AW,Dark Lightning,MAG,True
+Obstruction Particle Beam,III,Cloud of Darkness,AW,Dark Lightning,MAG,False
+Diffusion Particle Beam,III,Cloud of Darkness,Sync,Dark,MAG,False
+Scatter Particle Beam,III,Cloud of Darkness,Sync,Dark Lightning,MAG,False
+Fabled Particle Beam,III,Cloud of Darkness,OLB,Dark,MAG,False
+Spiraling Flash (CoD),III,Cloud of Darkness,GLB,Dark Lightning,MAG,False
+Ultra Particle Beam,III,Cloud of Darkness,AD,Dark Lightning,MAG,False
+Life of Devotion,III,Aria,SSB,NE,NA,True
+Maiden of Water,III,Aria,BSB,NE,NA,True
+Seaborne Encounter,III,Aria,USB,NE,NA,False
+Prismatic Light,III,Aria,USB,NE,NA,False
+Divine Curtain,III,Aria,GL2,NE,NA,True
+Remnant Light,III,Aria,GL2,NE,NA,False
+Maiden's Miracle,III,Aria,AW,NE,NA,True
+Ephemeral Maiden,III,Aria,Sync,NE,NA,True
+Rainbow Prayer,III,Aria,Sync,NE,NA,False
+Darkness,IV,Decil,Unique,NE,PHY,False
+Dark Cannon,IV,Decil,Unique,NE,PHY,False
+Soul Eater,IV,Decil,Unique,NE,PHY,False
+Shadowbringer,IV,Decil,SSB,NE,PHY,False
+Abyss Gate,IV,Decil,BSB,Dark,PHY,False
+Dark Flame,IV,Decil,BSB,Dark Fire,PHY,True
+Endless Darkness,IV,Decil,USB,Dark,PHY,True
+Nightmare Blade,IV,Decil,ASB,Dark,PHY,True
+Evil Force,IV,Decil,GL,NE,NA,True
+Evil Zone,IV,Decil,GL2,Dark,NA,False
+Dark Crescent,IV,Decil,AW,Dark,PHY,False
+Shadow Blazer,IV,Decil,Sync,Dark,PHY,False
+Tenebrous Blast,IV,Decil,Sync,Dark,PHY,False
+Abyssal Onslaught,IV,Decil,OLB,Dark,PHY,False
+Job Change,IV,Decil,AD,Dark,PHY,False
+Radiant Wings,IV,Pecil,Unique,Holy,PHY,True
+Sentinel,IV,Pecil,Unique,NE,NA,False
+Saint's Fall,IV,Pecil,SSB,Holy,PHY,True
+Paladin Force,IV,Pecil,BSB,Holy,PHY,False
+Radiant Blast,IV,Pecil,BSB,Holy,PHY,False
+Arc of Light,IV,Pecil,OSB,Holy,PHY,True
+Sacred Cross,IV,Pecil,USB,Holy,PHY,False
+Holy Blade,IV,Pecil,USB,Holy,PHY MAG,False
+Paladin Wall,IV,Pecil,USB,NE,NA,True
+Crystal Vanguard,IV,Pecil,USB,Holy,PHY,True
+Chain of Light,IV,Pecil,Chain,Holy,PHY,True
+Benevolent Prayer,IV,Pecil,Chain3,ALL,PHY MAG,False
+Bond (Pecil),IV,Pecil,Chain4,ALL,PHY MAG,False
+Holy Devastation,IV,Pecil,ASB,Holy,PHY,False
+Saintly Force,IV,Pecil,GL,Holy,NA,True
+Valiant Force,IV,Pecil,GL,Holy,NA,True
+Defiant Force,IV,Pecil,GL2,NE,NA,False
+Shining Crescent,IV,Pecil,AW,Holy,PHY MAG,True
+Trinity Crusade,IV,Pecil,AW,Holy,PHY MAG,False
+Shine Braver,IV,Pecil,Sync,Holy,PHY MAG,False
+Sacred Charge,IV,Pecil,OLB,Holy,PHY MAG,False
+Soul Shift,IV,Pecil,AD,Holy,PHY MAG,False
+Awoken Radial Blast,IV,Pecil,DuAW,Holy,PHY MAG,False
+Lancet,IV,Kain,Unique,NE,PHY,True
+Gungnir,IV,Kain,Unique,NE,PHY,False
+Rising Drive,IV,Kain,SSB,NE,PHY,False
+Dragoon's Pride,IV,Kain,BSB,Lightning,PHY,True
+Kain's Lance,IV,Kain,OSB,Lightning,PHY,True
+Luminous Dragon,IV,Kain,USB,Lightning,PHY,True
+Dragon's Wrath,IV,Kain,USB,Lightning,PHY,False
+Surging Darkness,IV,Kain,USB,Lightning Dark,PHY,False
+Impulse Drive,IV,Kain,Chain,Lightning,PHY,False
+Lightning Bond (Kain),IV,Kain,Chain4,Lightning,PHY,False
+Dragoon Dive,IV,Kain,ASB,Lightning,PHY,False
+Evil Tornado Dive,IV,Kain,ASB,Dark,PHY,False
+Draconinc Tempest,IV,Kain,GL,Lightning,NA,True
+Dragon's Descent,IV,Kain,GL2,NE,NA,True
+Primed Jump,IV,Kain,GL2,NE,NA,False
+Lance of the Dragon,IV,Kain,AW,Lightning,PHY,True
+Raging Dragoon,IV,Kain,AW,Lightning Dark,PHY,False
+Blood Dragoon,IV,Kain,Sync,Lightning,PHY,False
+Cross Javelin,IV,Kain,Sync,Lightning Dark,PHY,False
+Lightning Raiment (Kain),IV,Kain,GLB,Lightning,NA,False
+Dual Dragon Dive,IV,Kain,OLB,Lightning Dark,PHY,False
+Apex Jump,IV,Kain,AD,Lightning,PHY,False
+Awoken Gungnir,IV,Kain,DuAW,Lightning,PHY,False
+Radiant Breath,IV,Rydia,Unique,Holy,MAG,True
+Summon Eidolon II,IV,Rydia,Unique,Ice,MAG,False
+Odin,IV,Rydia,SSB,NE,MAG,False
+Mournful Cry,IV,Rydia,BSB,Earth,MAG,False
+Law of the Eidolons,IV,Rydia,BSB,Holy Water,MAG,True
+Eidolon Emissary,IV,Rydia,OSB,Earth Water Holy,MAG,True
+Lord of the Seas,IV,Rydia,USB,Water,MAG,True
+Fated Encounter,IV,Rydia,USB,Water,MAG,False
+Raging Giant,IV,Rydia,USB,Earth,MAG,True
+Past and Present,IV,Rydia,ASB,Earth Water Holy,MAG,True
+Secret of Mist,IV,Rydia,GL,NE,NA,False
+Secret of the Eidolons,IV,Rydia,GL2,Earth,NA,False
+Mist Wall,IV,Rydia,GL2,Earth Water Holy,NA,False
+Feymarch Power,IV,Rydia,GL2,Water Earth Holy,MAG,False
+Summon Eidolon King,IV,Rydia,AW,Earth Water Holy,MAG,True
+Feymarch Frontier,IV,Rydia,AW,Earth Water Holy,MAG,True
+Broken Heart,IV,Rydia,Sync,Water,MAG,False
+Eidolon Zanzetsuken,IV,Rydia,Sync,Earth,MAG,False
+Holy Burst,IV,Rydia,Sync,Holy,MAG,True
+Eidolon Confidante,IV,Rydia,OLB,Earth Water Holy,MAG,True
+Water Raiment (Rydia),IV,Rydia,GLB,Water,NA,False
+Gaia's Wrath,IV,Rydia,AD,Earth,MAG,False
+Deluge (IV),IV,Rydia,AD,Water Holy,MAG,True
+Call Me Queen,IV,Rydia,AD,Water,MAG,False
+Guardian Titan,IV,Rydia,Guardian,Earth,MAG,False
+Awoken Lord of the Seas,IV,Rydia,DuAW,Water,MAG,False
+Divine Favor,IV,Rosa,Unique,NE,NA,False
+Miracle,IV,Rosa,Unique,NE,NA,False
+Divine Heal,IV,Rosa,SSB,NE,NA,True
+Holy Ray,IV,Rosa,BSB,Holy,MAG,True
+Benediction,IV,Rosa,USB,NE,NA,False
+White Mage Wonder (IV),IV,Rosa,USB,NE,NA,True
+Divine Guard,IV,Rosa,GL,NE,NA,True
+Divine Shelter,IV,Rosa,GL2,NE,NA,False
+Sacred Healing,IV,Rosa,AW,NE,NA,False
+Theme of Love,IV,Rosa,Sync,NE,NA,False
+White Angelus,IV,Rosa,Sync,Holy,MAG,False
+fabled Song,IV,Edward,Unique,NE,NA,False
+Song of Swiftness,IV,Edward,Unique,NE,NA,False
+Soulsong,IV,Edward,SSB,NE,NA,False
+Whisperweed Ballad,IV,Edward,BSB,Holy,PHY,True
+Hero's Rime,IV,Edward,USB,NE,NA,False
+Mirage Song,IV,Edward,USB,NE,NA,False
+Song of Hope,IV,Edward,Chain2,Holy,MAG,False
+Paean Echoes,IV,Edward,GL,Holy,NA,False
+Take Heart!,IV,Edward,AW,NE,NA,True
+King's Quad,IV,Edward,Sync,NE,NA,False
+Sylph's Providence,IV,Yang,Unique,NE,PHY,False
+Exploding Volcano Kick,IV,Yang,SSB,Earth,PHY,False
+Seven-Star Heavenly Fist,IV,Yang,BSB,Earth,PHY,False
+Shuddering Fist,IV,Yang,USB,Earth,PHY,False
+Fist Dance,IV,Yang,ASB,Earth,PHY,True
+Concentrate (IV),IV,Yang,GL,Earth,NA,False
+Kick Fest,IV,Yang,AW,Earth,PHY,False
+Oboro Strike,IV,Yang,Sync,Earth,PHY,False
+Chaincast Boltstorm,IV,Palom,SSB,Lightning,MAG,False
+Twincast Magic Barrage,IV,Palom,SSB,Holy Fire Lightning,MAG,False
+Tri-disaster,IV,Palom,BSB,Fire Ice Lightning,MAG,True
+Thunderstorm,IV,Palom,USB,Ice Lightning,MAG,False
+Particle Bomb,IV,Palom,USB,Fire Ice Lightning,MAG,True
+Extreme Thunder,IV,Palom,ASB,Fire Ice Lightning,MAG,False
+Black Magic Touch,IV,Palom,GL,NE,NA,True
+Thunder Cross,IV,Palom,GL2,Lightning,NA,False
+Brilliant Swagger,IV,Palom,GL2,Fire Ice Lightning,NA,False
+Thunderous Malady,IV,Palom,AW,Lightning,MAG,False
+True Thunderstorm,IV,Palom,AW,Fire Ice Lightning,MAG,False
+Coordinated Twin Meteor,IV,Palom,Sync,Fire Ice Lightning,MAG,False
+Triple Crush,IV,Palom,OLB,Fire Ice Lightning,MAG,False
+Lightning Raiment (Palom),IV,Palom,GLB,Lightning,NA,False
+Sync,IV,Porom,SSB,NE,NA,False
+Twin Star,IV,Porom,SSB,NE,NA,False
+Healing Wind (IV),IV,Porom,BSB,NE,NA,False
+Pure White Magic,IV,Porom,USB,NE,NA,False
+Corrdinated Renew,IV,Porom,USB,NE,NA,False
+Pray (IV),IV,Porom,USB,NE,NA,False
+White Magic Touch,IV,Porom,GL,NE,NA,True
+Mysidian Guard,IV,Porom,GL2,NE,NA,False
+White Magic Waypoint,IV,Porom,AW,NE,NA,False
+Sync Renew,IV,Porom,Sync,NE,NA,False
+Font of Wisdom,IV,Tellah,Unique,NE,NA,False
+Dire Meteor,IV,Tellah,Unique,NE,MAG,True
+Last Gasp,IV,Tellah,SSB,NE,NA,True
+Sage's Sagacity,IV,Tellah,BSB,Earth,MAG,True
+Sage's Resolve,IV,Tellah,USB,Earth,MAG,False
+Grand Astron,IV,Tellah,USB,Earth,MAG,False
+Sage's Stone Ward,IV,Tellah,Chain3,Earth,MAG,False
+Sage's Scar,IV,Tellah,ASB,Earth,MAG,False
+Resonating Strata,IV,Tellah,GL2,Earth,NA,False
+Sage's Will,IV,Tellah,GL2,NE,NA,False
+Sage's Revelation,IV,Tellah,AW,Earth,MAG,False
+Earth Vortex,IV,Tellah,AW,Earth,MAG,False
+Sage's Remembrance,IV,Tellah,Sync,Earth,MAG,True
+Earth Flash (Tellah),IV,Tellah,GLB,Earth,MAG,False
+Eblan Water Veil,IV,Edge,Unique,Water,PHY,False
+Eblan Dual Wield,IV,Edge,Unique,Lightning,PHY,True
+Inferno (IV),IV,Edge,SSB,Fire,PHY,False
+Eblan Doppelganger,IV,Edge,SSB,NE,NA,True
+Seething Waters,IV,Edge,BSB,Water,PHY,True
+Chaotic Moon,IV,Edge,USB,Water Lightning,PHY,False
+Noxious Fangs,IV,Edge,USB,Water Poison,PHY,False
+Chain of Water,IV,Edge,Chain,Water,PHY,True
+Eblan Universe,IV,Edge,ASB,Water Fire Lightning,PHY MAG,False
+Azure Flash,IV,Edge,GL2,NE,NA,True
+Eblan Discipline,IV,Edge,GL2,Water Fire Lightning,NA,False
+Triune,IV,Edge,AW,Water,PHY MAG,True
+Eblan Harmony,IV,Edge,Sync,Water Fire Lightning,PHY MAG,True
+Eblan Lotus,IV,Edge,OLB,Water Fire Lightning,PHY,False
+Ultimate Art: Advent of Phoenix,IV,Edge,AD,Water Fire Lightning,PHY MAG,False
+Lunar Auspice,IV,Fusoya,Unique,NE,MAG,True
+Lunarian Might,IV,Fusoya,SSB,NE,NA,True
+Lunarian Prayer,IV,Fusoya,BSB,Holy,MAG,False
+Lunarian Enigma,IV,Fusoya,USB,Holy,MAG,True
+Lunarian Longing,IV,Fusoya,Chain2,ALL,PHY MAG,True
+Lunarian Fury,IV,Fusoya,ASB,Holy,MAG,False
+Lunar Blessing,IV,Fusoya,GL2,Holy,MAG,False
+Lunar Beam,IV,Fusoya,GL,Holy,NA,True
+Lunarian Spirit,IV,Fusoya,AW,Holy,MAG,False
+Supersault Magic,IV,Fusoya,AW,Holy,MAG,False
+Lunar Lineage,IV,Fusoya,Sync,Holy,MAG,False
+Prayer to the Moon,IV,Fusoya,OLB,Holy,MAG,False
+Apex Double Black Magic,IV,Fusoya,AD,Holy,MAG,False
+Awoken Lunarian Prayer,IV,Fusoya,DuAW,Holy,MAG,False
+Black Fang,IV,Golbez,Unique,NE,MAG,False
+Nightglow,IV,Golbez,Unique,Dark,MAG,False
+Genesis Rock,IV,Golbez,SSB,Dark,MAG,True
+Cosmic Ray,IV,Golbez,SSB,Dark,MAG,False
+Twin Moon,IV,Golbez,BSB,Dark,MAG,False
+Abyssal Quasar,IV,Golbez,BSB,Dark,MAG,True
+Master of Baron,IV,Golbez,USB,Dark,MAG,False
+Creature of Shadow,IV,Golbez,USB,Dark,MAG,False
+Darkbind Miasma,IV,Golbez,Chain2,Dark,MAG,False
+Archfiend Shadow Wave,IV,Golbez,ASB,Dark,MAG,False
+Cloaked in Night,IV,Golbez,GL,Dark,NA,True
+Chaos Barrier,IV,Golbez,GL2,Dark,NA,True
+Dark Dungeon,IV,Golbez,AW,Dark,MAG,True
+Dark Meteor,IV,Golbez,Sync,Dark,MAG,False
+Jump Start,IV,Cid (IV),SSB,Lightning,PHY,False
+Monkey Wrench,IV,Cid (IV),SSB,NE,PHY,False
+Falcon Drill,IV,Cid (IV),BSB,Lightning,PHY,False
+X Chaser,IV,Cid (IV),USB,Lightning,PHY,False
+Lightning Stamp,IV,Cid (IV),USB,Lightning,PHY,True
+Thor's Mighty Hammer,IV,Cid (IV),ASB,Lightning,PHY,True
+So Young!,IV,Cid (IV),GL2,Lightning,NA,False
+Engineer's Trial,IV,Cid (IV),AW,Lightning,PHY,False
+Rocket Launcher,IV,Cid (IV),Sync,Lightning,PHY,False
+Cross Slash (IV),IV,Ceodore,SSB,Holy,PHY,False
+Holy Cross,IV,Ceodore,BSB,Holy,PHY,True
+Trinity Slash,IV,Ceodore,USB,Holy Lightning,PHY,False
+Twin Rush,IV,Ceodore,USB,Holy,PHY,False
+Holy Fellowship,IV,Ceodore,Chain2,Holy,PHY,False
+Gleam Thruster,IV,Ceodore,ASB,Holy,PHY,False
+Cross Charge,IV,Ceodore,GL2,NE,NA,False
+Lunar Force,IV,Ceodore,GL2,Holy,NA,False
+Shimmering Cross,IV,Ceodore,AW,Holy,PHY,True
+Advanced Blade,IV,Ceodore,Sync,Holy,PHY,True
+Vibra Plus,IV,Ceodore,OLB,Holy,PHY,False
+Divine Flash (Ceodore),IV,Ceodore,GLB,Holy,PHY,True
+Vibra Final,IV,Ceodore,AD,Holy,PHY,False
+Fire Exemplar,IV,Rubicante,SSB,Fire,MAG,False
+Trueflame Inferno,IV,Rubicante,BSB,Fire,MAG,True
+Point-Blank Inferno,IV,Rubicante,USB,Fire Dark,MAG,False
+Searing Flame,IV,Rubicante,Chain2,Fire,MAG,True
+Apocalypse Inferno,IV,Rubicante,ASB,Fire,MAG,False
+Whirling Blaze,IV,Rubicante,GL2,Fire,NA,False
+Cremation,IV,Rubicante,AW,Fire,MAG,True
+Crimson Magefire,IV,Rubicante,AW,Fire,MAG,False
+Flamespire Warrior,IV,Rubicante,Sync,Fire,MAG,False
+Apex Inferno,IV,Rubicante,AD,Fire,MAG,False
+Chakra (IV),IV,Ursula,SSB,NE,NA,True
+Five Star Crimson Palm,IV,Ursula,BSB,Earth Fire,PHY,False
+Crushing Fist,IV,Ursula,USB,Earth Fire,PHY,False
+Gaia Chakra,IV,Ursula,USB,Earth,NA,False
+Moonflower Skyfall,IV,Ursula,ASB,Earth Fire,PHY,True
+Assert Dominance,IV,Ursula,GL,NE,NA,False
+Monastic Secret,IV,Ursula,GL2,NE,NA,False
+Fist Flourish,IV,Ursula,AW,Earth Fire,PHY,False
+Twin Wing Frenzy,IV,Ursula,Sync,Earth Fire,PHY,False
+Maelstrom (IV),IV,Barbariccia,BSB,Wind,MAG,False
+Whirlwind,IV,Barbariccia,USB,Wind,MAG,True
+Secret Breeze,IV,Barbariccia,Chain3,Wind,MAG,False
+Raging Squall,IV,Barbariccia,ASB,Wind,MAG,True
+Eye of the Tornado,IV,Barbariccia,GL2,Wind,NA,False
+Storm of Darkness,IV,Barbariccia,AW,Wind Dark,MAG,True
+Raging Wind,IV,Barbariccia,Sync,Wind,MAG,True
+Harsh Wind,IV,Barbariccia,OLB,Wind,MAG,True
+Royal Devotion,V,Lenna,Unique,NE,NA,False
+Princess's Favor,V,Lenna,Unique,NE,NA,False
+Flames of War,V,Lenna,Unique,NE,NA,True
+Pride of Tycoon,V,Lenna,SSB,NE,NA,True
+Phoenix of Tycoon,V,Lenna,BSB,Holy,MAG,False
+Tender Mercy,V,Lenna,BSB,NE,NA,True
+Tycoon Princess,V,Lenna,USB,NE,NA,True
+Essence of Water,V,Lenna,USB,NE,NA,True
+Moogle Boost,V,Lenna,USB,NE,NA,False
+Princesses' Prayer,V,Lenna,USB,NE,NA,False
+Tycoon's Protection,V,Lenna,GL2,NE,NA,True
+Greatest Love,V,Lenna,GL,NE,NA,True
+Champion of Life,V,Lenna,AW,NE,NA,True
+Spreading One's Wings,V,Lenna,AW,NE,NA,True
+White Magic Mastery,V,Lenna,Sync,NE,NA,True
+Fist of the Dawn,V,Galuf,Unique,NE,PHY,True
+Unyielding Fist,V,Galuf,Unique,NE,NA,False
+Unshaken Resolve,V,Galuf,SSB,NE,PHY,True
+Inner Peace,V,Galuf,SSB,Fire,NA,False
+Renewed Vigor,V,Galuf,BSB,Earth Fire,PHY,False
+Sweet Sorrow,V,Galuf,BSB,Fire Earth,PHY,False
+Martial Might,V,Galuf,USB,Earth,NA,True
+Heart and Soul,V,Galuf,USB,Earth Fire,PHY,True
+Unending Toil,V,Galuf,USB,Earth,PHY,False
+Immortal Soul,V,Galuf,Chain2,Earth,PHY,True
+Closest Bonds,V,Galuf,ASB,Earth,PHY,False
+Abiding Strike,V,Galuf,GL,Earth,PHY,False
+Iron Valor,V,Galuf,GL2,Earth,NA,False
+King of Bal,V,Galuf,GL2,Earth,NA,False
+Laws of Nature,V,Galuf,AW,Earth,PHY,False
+Dawn Combo,V,Galuf,AW,Earth,PHY,False
+Dawn Unity,V,Galuf,Sync,Earth,PHY,False
+Soul Successor,V,Galuf,Sync,Earth,PHY,False
+Gaia Gazer,V,Galuf,OLB,Earth,PHY,True
+Fantastic Symmetry,V,Gogo (V),SSB,NE,NA,True
+Deep Aqua Breath,V,Gogo (V),BSB,Water,MAG,True
+Sunken Rhapsody,V,Gogo (V),USB,Water,NA,True
+Secret Revelation?,V,Gogo (V),Chain2,Water,MAG,True
+Abyssal Revelation,V,Gogo (V),GL2,Water,NA,False
+Deep Imitation,V,Gogo (V),GL,Water,NA,True
+Undersea Fantasia,V,Gogo (V),AW,Water,MAG,False
+Punishing Waterja,V,Gogo (V),AW,Water,MAG,False
+Submarine Whirlpool,V,Gogo (V),Sync,Water,MAG,False
+Aqua Breath Mastery,V,Gogo (V),OLB,Water,MAG,False
+Death Claw,V,Gilgamesh,Unique,NE,PHY,False
+Repentance,V,Gilgamesh,Unique,NE,PHY,True
+Faithful Companion,V,Gilgamesh,SSB,NE,PHY,False
+Gilgamesh Morphing Time,V,Gilgamesh,BSB,NE,PHY,True
+Gilgamesh Scorching Time,V,Gilgamesh,BSB,Fire,PHY,False
+Strange Bedfellow,V,Gilgamesh,OSB,NE,PHY,False
+No Justice,V,Gilgamesh,USB,Fire,PHY,True
+All's Fair,V,Gilgamesh,USB,NE,PHY,True
+Supreme Deliverance,V,Gilgamesh,USB,Fire,PHY,False
+Historic Splendor,V,Gilgamesh,Chain2,Fire,PHY,False
+Weapons of War,V,Gilgamesh,ASB,Fire,PHY,True
+Safe Bastion,V,Gilgamesh,GL,NE,NA,False
+Time to Tussle!,V,Gilgamesh,GL2,NE,NA,False
+I'm on Fire!,V,Gilgamesh,GL,Fire,NA,True
+Swordmaster's Bravado,V,Gilgamesh,AW,Fire,PHY,False
+Faithful Friends,V,Gilgamesh,AW,Fire,PHY,True
+Future Ally,V,Gilgamesh,Sync,Fire,PHY,False
+Captain's Duel,V,Gilgamesh,OLB,Fire,PHY,False
+Blade Wing,V,Bartz,Unique,Wind,PHY,True
+Choco Romp,V,Bartz,Unique,Wind,PHY,True
+Lupine Barrage,V,Bartz,Unique,NE,PHY,True
+Trueblade of Legend,V,Bartz,SSB,NE,PHY,True
+Light of the Four,V,Bartz,BSB,Wind Water Fire Earth,PHY,False
+Woken Water,V,Bartz,BSB,Water,PHY,False
+Latent Power,V,Bartz,BSB,Earth Wind,PHY,False
+Call of the Wind,V,Bartz,BSB,Wind,PHY,False
+Call of the Flame,V,Bartz,BSB,Fire,PHY,True
+Hand of the Crystals,V,Bartz,OSB,Wind Water Fire Earth,PHY,True
+Chosen Traveler,V,Bartz,USB,Wind Water Fire Earth,PHY,True
+Crystals' Chosen,V,Bartz,USB,Wind Water Fire Earth,PHY,True
+Essence of Wind,V,Bartz,USB,Wind,PHY,False
+Crystalline Focus,V,Bartz,ASB,Wind Water Fire Earth,PHY,True
+Master Spellblade,V,Bartz,GL,NE,NA,True
+Tetrad Beam,V,Bartz,GL,Wind Water Fire Earth,NA,False
+Quest of the Four,V,Bartz,GL2,Wind,NA,False
+Gaia's Favor,V,Bartz,GL2,Earth,NA,True
+Fluid Power,V,Bartz,GL2,Water,NA,False
+Blazing Power,V,Bartz,GL2,Fire,NA,True
+Tetra Spellblade,V,Bartz,AW,Wind Water Fire Earth,PHY,True
+Flame Awakening,V,Bartz,AW,Fire,PHY,True
+Rousing Winds,V,Bartz,AW,Wind,PHY,False
+Rousing Earth,V,Bartz,AW,Earth,PHY,False
+Rousing Water,V,Bartz,AW,Water,PHY,False
+Ethereal Bond,V,Bartz,Sync,Wind,PHY,False
+Earthen Bond,V,Bartz,Sync,Earth,PHY,False
+Aqueous Bond,V,Bartz,Sync,Water,PHY,False
+Flaming Bond,V,Bartz,Sync,Fire,PHY,False
+Element Bringer,V,Bartz,OLB,Wind Water Fire Earth,PHY,False
+Master of Earth,V,Bartz,AD,Earth,PHY,False
+Master of Wind,V,Bartz,AD,Wind,PHY,False
+Master of Fire,V,Bartz,AD,Fire,PHY,False
+Master of Water,V,Bartz,AD,Water,PHY,False
+Awoken Rousing Winds,V,Bartz,DuAW,Wind,PHY,False
+Kindred Spirit,V,Faris,Unique,NE,PHY,True
+Sea Lord's Broadside,V,Faris,Unique,NE,PHY,False
+Serpent's Gale,V,Faris,SSB,Wind Lightning,PHY,True
+Beryl Serpent,V,Faris,BSB,NE,PHY,False
+Landlubber Lambast,V,Faris,BSB,Wind Fire,PHY,False
+Pirate Princess,V,Faris,USB,Wind,PHY,True
+Phantom,V,Faris,USB,NE,PHY,False
+Pirate Storm,V,Faris,USB,Wind,PHY,False
+Essence of Flame,V,Faris,USB,Fire Wind,PHY,False
+Eternal Bond,V,Faris,Chain2,Wind,PHY,True
+Heartening Call,V,Faris,Chain3,ALL,PHY MAG,True
+Blazing Bow,V,Faris,ASB,Wind Fire,PHY,False
+Faithful Sea Dog,V,Faris,GL,Wind Fire,PHY,False
+Pirate's Daring,V,Faris,GL,Wind Fire,NA,False
+Syldra's Blessing,V,Faris,GL2,NE,NA,True
+Pirate's Bravery,V,Faris,AW,Wind Fire,PHY,True
+Flamestorm,V,Faris,AW,Wind Fire,PHY,False
+Precious Friend,V,Faris,Sync,Wind Fire,PHY,False
+Serpent's Roar,V,Faris,OLB,Wind Fire,PHY,False
+Winds of Home,V,Dorgann,SSB,Wind,PHY,True
+Uncharted Lands,V,Dorgann,BSB,Wind Earth,PHY,True
+Brotherhood of the Dawn,V,Dorgann,USB,Wind Earth,PHY,True
+Protector of Worlds,V,Dorgann,ASB,Wind Earth,PHY,False
+Last Word,V,Dorgann,GL,NE,NA,True
+Dawn's Union,V,Dorgann,GL2,Earth,NA,False
+Passing the Torch,V,Dorgann,AW,Wind Earth,PHY,False
+Blade Lore,V,Dorgann,AW,Wind Earth,PHY,False
+Resolute Flashing Blade,V,Dorgann,Sync,Earth,PHY,False
+Warriors of Dawn,V,Dorgann,AD,Earth,PHY,False
+Dark Earth Shaker,V,Exdeath,Unique,Dark,MAG,True
+Grand Cross,V,Exdeath,Unique,NE,MAG,True
+Power of the Void,V,Exdeath,SSB,Dark,MAG,True
+Neo Almagest,V,Exdeath,SSB,Dark,MAG,False
+Neo Black Hole,V,Exdeath,BSB,Dark,MAG,True
+Neo Grand Cross,V,Exdeath,USB,Dark,MAG,True
+Delta Hole,V,Exdeath,USB,Dark,MAG,True
+Balance of Power,V,Exdeath,USB,Dark Holy,MAG,False
+Dimensional Void,V,Exdeath,ASB,Dark Holy,MAG,False
+Orbital Power,V,Exdeath,GL,Dark,NA,True
+Orbital Energy,V,Exdeath,GL,Holy,NA,False
+Unknown Orbit,V,Exdeath,GL2,Dark Holy,NA,False
+Emptiness Break,V,Exdeath,AW,Dark Holy,MAG,False
+Almagest,V,Exdeath,Sync,Dark,MAG,False
+Space Disorder,V,Exdeath,Sync,Dark Holy,MAG,True
+100 Gs,V,Exdeath,OLB,Dark Holy,MAG,False
+Might of the Void,V,Exdeath,AD,Dark Holy,MAG,False
+Wind Drake's Roar,V,Krile,Unique,NE,MAG,False
+Sheepsong,V,Krile,SSB,NE,MAG,True
+Unspoken Bond,V,Krile,SSB,NE,MAG,False
+Tomorrow's Promise,V,Krile,BSB,Fire,MAG,False
+Brimstone,V,Krile,BSB,Fire,MAG,True
+Meteoric Assault,V,Krile,OSB,Fire,MAG,False
+Gift of Hope,V,Krile,USB,Earth,MAG,False
+Kindred Flame,V,Krile,USB,Fire,MAG,True
+Terrestrial Incandescence,V,Krile,USB,Fire Earth,MAG,True
+Cleansing,V,Krile,USB,Fire,MAG,True
+Unbroken Chain,V,Krile,Chain,Fire,MAG,True
+Dearest Friends,V,Krile,Chain2,ALL,PHY MAG,False
+Gaia's Rage,V,Krile,ASB,Eart,MAG,False
+Raging Hellfire,V,Krile,ASB,Fire,MAG,False
+Cloud of Dust,V,Krile,GL,Earth,NA,True
+Boundless Love,V,Krile,GL,Fire,NA,False
+Ancestral Devotion,V,Krile,GL2,Fire Earth,MAG,False
+Bestial Exodus,V,Krile,AW,Fire Earth,MAG,False
+Baldesion Attack,V,Krile,Sync,Fire Earth,MAG,False
+Starfall Devastation,V,Krile,OLB,Fire Earth,MAG,False
+Earth Raiment (Krile),V,Krile,GLB,Earth,NA,False
+Wind Drake's Back,V,Krile,AD,Fire,MAG,False
+Spellsword Iceshock,V,Xezat,SSB,Ice Lightning,PHY,False
+Spellstorm Frostclash,V,Xezat,BSB,Ice Lightning,PHY,True
+Spellstrike Rimebolt,V,Xezat,USB,Ice Lightning,PHY,False
+Spellstrike Icecrusher,V,Xezat,USB,Ice Lightning Earth,PHY,False
+Glacial Spark,V,Xezat,ASB,Ice Lightning Earth,PHY,False
+Surgate Tactics,V,Xezat,GL2,NE,NA,False
+Fleet Assault,V,Xezat,AW,Ice Earth Lightning,PHY,False
+Spellskill Frostbreaker,V,Xezat,Sync,Ice Earth Lightning,PHY,False
+Martial Legacy,V,Xezat,AD,Ice Earth Lightning,PHY,False
+Lupine Howl,V,Kelger,SSB,NE,NA,False
+Sonic Swiftness,V,Kelger,BSB,Earth Wind,PHY,False
+Lupine Attack,V,Kelger,USB,Earth Wind,PHY,False
+Lupine Boost,V,Kelger,ASB,Earth,PHY,False
+Fury of the Wolf,V,Kelger,GL2,Earth,NA,False
+Wolf Howl,V,Kelger,GL,Earth,PHY,False
+True Lupine Attack,V,Kelger,AW,Earth,PHY,True
+Lupine Force,V,Kelger,AW,Earth,PHY,False
+Ferocious Alpha,V,Kelger,Sync,Earth,PHY,False
+Dawn Guidance,V,Kelger,OLB,Earth,PHY,False
+Apex Lupine Attack,V,Kelger,AD,Earth,PHY,False
+Trance Fira,VI,Terra,Unique,Fire,MAG,True
+Trance Flood,VI,Terra,Unique,Water,MAG,True
+Magitek Missile,VI,Terra,SSB,NE,MAG,False
+Fire Beam,VI,Terra,SSB,Fire,MAG,False
+Blood of Espers,VI,Terra,BSB,Fire Water,MAG,False
+Finding Love,VI,Terra,BSB,Fire,MAG,False
+Scorching Flames,VI,Terra,OSB,Fire,MAG,True
+Omen,VI,Terra,USB,Fire,MAG,False
+Tornado Combo,VI,Terra,USB,Wind,MAG,False
+Magitek Inferno,VI,Terra,USB,Fire,MAG,False
+Riot Wind,VI,Terra,ASB,Wind,MAG,True
+Inferno Combo,VI,Terra,ASB,Fire,MAG,True
+Esper Flame,VI,Terra,GL,Fire,NA,True
+Storm Harbinger,VI,Terra,GL,Wind,NA,False
+Reviving Wind,VI,Terra,GL2,Wind,MAG,False
+Illusory Flame,VI,Terra,GL2,Fire,NA,False
+Violent Sword,VI,Terra,AW,Wind,MAG,False
+Chaotic Inferno,VI,Terra,AW,Fire,MAG,False
+Inferno Cross,VI,Terra,Sync,Fire,MAG,True
+Riot Storm,VI,Terra,Sync,Wind,MAG,False
+Half-Esper Might,VI,Terra,OLB,Fire Wind,MAG,False
+Fire Raiment (Terra),VI,Terra,GLB,Fire,NA,True
+Trance (Terra),VI,Terra,AD,Wind,MAG,False
+Riot Blade,VI,Terra,AD,Fire,MAG,False
+Mirage Dive,VI,Locke,Unique,NE,PHY,False
+Phoenix Plunder,VI,Locke,Unique,Fire,PHY,False
+Valiant Strike,VI,Locke,SSB,NE,PHY,False
+Southern Cross,VI,Locke,SSB,Fire,PHY,False
+Mirage Phoenix,VI,Locke,BSB,Fire Holy,PHY,False
+On the Hunt,VI,Locke,BSB,Fire,PHY,True
+Miracle of Kohlingen,VI,Locke,OSB,Fire Holy,PHY,False
+Burning Spirit,VI,Locke,USB,Fire,PHY,False
+Returners Unite,VI,Locke,USB,Fire,PHY,True
+Burning Steel,VI,Locke,USB,Fire,PHY,False
+Atomic Dive,VI,Locke,Chain,Fire,PHY MAG,True
+Bond (Locke),VI,Locke,Chain4,ALL,PHY MAG,False
+Blade of the Phoenix,VI,Locke,ASB,Fire,PHY,False
+Heat of Passion,VI,Locke,GL,Fire,NA,False
+Heat Slicer,VI,Locke,GL2,Fire,PHY,False
+Heat Spirit,VI,Locke,GL2,Fire,NA,False
+Adventure Awaits,VI,Locke,AW,Fire,PHY,True
+Phoenix Heat,VI,Locke,Sync,Fire,PHY,True
+Shredding Spin,VI,Locke,Sync,Fire,PHY,True
+Fire Raiment (Locke),VI,Locke,GLB,Fire,NA,False
+Apex Mirage Dive,VI,Locke,AD,Fire,PHY,False
+Guardian Phoenix,VI,Locke,Guardian,Fire,PHY,False
+Runic Blade,VI,Celes,Unique,NE,NA,False
+Spinning Edge,VI,Celes,Unique,Wind,PHY,False
+Indomitable Blade,VI,Celes,SSB,NE,PHY,True
+Maria's Song,VI,Celes,BSB,Holy Fire Ice,PHY,True
+Invincible Blade,VI,Celes,BSB,Holy Ice,PHY,True
+Blade Unbound,VI,Celes,OSB,Holy Wind,PHY,True
+Whetted Blade,VI,Celes,USB,Holy Ice Wind,PHY,True
+Mystic Blade,VI,Celes,USB,Ice,PHY,False
+More the Merrier,VI,Celes,Chain2,Ice,PHY,True
+Glorious Blade,VI,Celes,ASB,Holy Ice Wind,PHY,True
+Rune Knight's Ambition,VI,Celes,GL,NE,PHY,False
+Rune Knight's Triumph,VI,Celes,GL,Ice,NA,True
+Invincible Swordplay,VI,Celes,GL2,NE,NA,False
+Rune Knight's Honor,VI,Celes,GL2,Ice,NA,True
+Blade of Holy Binding,VI,Celes,GL2,Holy,NA,True
+Twin Spin,VI,Celes,AW,Holy Ice,PHY,False
+Unflinching Blade,VI,Celes,AW,Holy Ice,PHY,False
+Proud Blade,VI,Celes,Sync,Holy,PHY,False
+Mystical Snow,VI,Celes,Sync,Ice,PHY,False
+Virtuous Blade,VI,Celes,Sync,Holy Ice,PHY,False
+Awoken Blade,VI,Celes,OLB,Holy Ice,PHY,False
+Apex Spinning Edge,VI,Celes,AD,Ice,PHY,False
+Sunbath,VI,Mog,Unique,NE,NA,False
+Heroic Harmony,VI,Mog,Unique,NE,NA,True
+Earth Blues,VI,Mog,SSB,Earth,MAG,False
+Love Serenade,VI,Mog,BSB,NE,NA,True
+Forest Nocturne,VI,Mog,USB,NE,NA,False
+Twilight Requiem,VI,Mog,USB,NE,NA,False
+Hopeful Reunion,VI,Mog,Chain2,ALL,PHY MAG,True
+Guardian Symphony,VI,Mog,GL2,NE,NA,False
+Memory Dance,VI,Mog,GL2,NE,NA,False
+Dance as One,VI,Mog,AW,NE,NA,False
+Wind Rhapsody,VI,Mog,AW,NE,NA,False
+Snow Ensemble,VI,Mog,Sync,NE,NA,False
+Bioblaster,VI,Edgar,Unique,Poison,PHY,False
+Drill,VI,Edgar,Unique,NE,PHY,False
+Chainsaw,VI,Edgar,SSB,Poison,PHY,False
+Trifecta Drill,VI,Edgar,BSB,Poison Fire Lightning,PHY,True
+Bio Chainsaw,VI,Edgar,BSB,Poison,PHY,False
+Armageddon Blast,VI,Edgar,OSB,Poison,PHY,False
+Royal Brotherhood,VI,Edgar,USB,Poison Fire Lightning,PHY,True
+Proven Weaponry,VI,Edgar,USB,Poison Fire Lightning,PHY,False
+Corteous Gesture,VI,Edgar,Chain3,ALL,PHY MAG,False
+Bravo Figaro!,VI,Edgar,ASB,Poison Fire Lightning,PHY,False
+Critical Call,VI,Edgar,GL,NE,PHY,False
+King of Figaro,VI,Edgar,GL2,Poison Fire Lightning,NA,True
+Trinity Down,VI,Edgar,GL2,Poison Fire Lightning,NA,False
+Bravo Drill,VI,Edgar,AW,Poison Fire Lightning,PHY,True
+Trinity Boost,VI,Edgar,Sync,Poison Fire Lightning,PHY,False
+Bio Boost,VI,Edgar,Sync,Poison,PHY,False
+Royal Blast,VI,Edgar,OLB,Poison Fire Lightning,PHY,False
+Razor Gale,VI,Sabin,Unique,NE,PHY,False
+Rising Phoenix,VI,Sabin,Unique,Fire,PHY,True
+Soul Spiral,VI,Sabin,SSB,NE,NA,True
+Phantom Rush,VI,Sabin,SSB,NE,PHY,False
+Perdition's Phoenix,VI,Sabin,BSB,Fire,PHY,True
+Scorching Meteor Strike,VI,Sabin,OSB,Fire,PHY,False
+Explosive Fist,VI,Sabin,USB,Fire,PHY,False
+Tiger Break,VI,Sabin,ASB,Fire,PHY,False
+Invigorating Fist,VI,Sabin,GL,NE,PHY,True
+Smoldering Fist,VI,Sabin,GL2,Fire,NA,True
+Firewyrm Barrage,VI,Sabin,AW,Fire,PHY,False
+Fiery Bond,VI,Sabin,Sync,Fire,PHY,False
+Wild Fang,VI,Shadow,Unique,NE,PHY,True
+Shadow Fang,VI,Shadow,SSB,NE,PHY,True
+Shuriken Storm,VI,Shadow,BSB,Dark,PHY,True
+Abandoned Past,VI,Shadow,USB,Dark,PHY,True
+Darkbound Blade,VI,Shadow,USB,Dark,PHY,True
+Shape and Shadow,VI,Shadow,Chain3,Dark,PHY,False
+Shadow Assassin,VI,Shadow,ASB,Dark,PHY,False
+Wrapped in Darkness,VI,Shadow,GL,NE,PHY,True
+Abyssal Cloak,VI,Shadow,GL,Dark,NA,True
+Fleeting Shadow,VI,Shadow,GL2,NE,NA,False
+Assassin Lord,VI,Shadow,AW,Dark,PHY,True
+Davastating Carnage,VI,Shadow,Sync,Dark,PHY,False
+Apex Shadow Fang,VI,Shadow,AD,Dark,PHY,False
+Bushido Dragon,VI,Cyan,Unique,NE,PHY,True
+Bushido Flurry,VI,Cyan,Unique,NE,PHY,False
+Bushido Bloodmoon,VI,Cyan,SSB,NE,PHY,False
+Bushido Sky,VI,Cyan,SSB,NE,PHY,False
+Bushido Tempest,VI,Cyan,BSB,NE,PHY,False
+Bushido Oblivion,VI,Cyan,USB,Fire,PHY,False
+Crimson Bushido,VI,Cyan,USB,Fire,PHY,True
+Tsubame Gaeshi,VI,Cyan,ASB,Fire,PHY,False
+Doma's Valor,VI,Cyan,GL2,NE,PHY,True
+Searing Stance,VI,Cyan,GL,Fire,NA,False
+Doma Devout,VI,Cyan,GL2,Fire,PHY,False
+Bushido Flash,VI,Cyan,AW,Fire,PHY,False
+Bushido Tiger,VI,Cyan,Sync,Fire,PHY,False
+Gigavolt Rage,VI,Gau,Unique,Lightning,PHY,False
+Meteor Rage,VI,Gau,SSB,NE,PHY,False
+Maul of the Wild,VI,Gau,BSB,Fire,PHY,False
+Savory Treat,VI,Gau,USB,Lightning Wind,PHY,False
+Feral Friends,VI,Gau,ASB,Lightning Wind,PHY,True
+Explosive Thrust,VI,Gau,GL,Wind,PHY,False
+Feral Rampage,VI,Gau,GL2,Lightning Wind,NA,False
+Ready to Rampage,VI,Gau,GL2,NE,PHY,True
+On the Rampage,VI,Gau,AW,Lightning Wind,PHY,False
+Plunging Claws,VI,Gau,AW,Lightning Wind,PHY,False
+X-Cutter Rage,VI,Gau,Sync,Lightning Wind,PHY,False
+Dive Bomb,VI,Setzer,Unique,Fire,PHY,False
+Prismatic Flash,VI,Setzer,Unique,NE,PHY,False
+Fixed Dice,VI,Setzer,SSB,NE,PHY,False
+Red Card,VI,Setzer,SSB,NE,PHY,False
+Mostly Megaflare,VI,Setzer,BSB,NE,PHY,True
+Chocobo Cheat,VI,Setzer,USB,Dark,PHY,True
+Jokers Wild,VI,Setzer,USB,NE,PHY,True
+Highest Stakes,VI,Setzer,USB,Dark,PHY,True
+Hat-Trick,VI,Setzer,ASB,Dark,PHY,True
+Dream Vault,VI,Setzer,GL2,Dark,NA,False
+Peaceful Requiem,VI,Setzer,AW,Dark,PHY,False
+Dealer Shuffle,VI,Setzer,Sync,Dark,PHY,False
+Sabre Soul,VI,Strago,Unique,NE,MAG,False
+Aqua Breath,VI,Strago,Unique,Water,MAG,False
+Mighty Guard (VI),VI,Strago,SSB,NE,NA,False
+Lore,VI,Strago,BSB,Water Wind Earth,MAG,False
+Blue Soul,VI,Strago,OSB,Water Earth,MAG,True
+El Nino Breath,VI,Strago,USB,Water,MAG,True
+Twin Mage,VI,Strago,USB,Water Wind,MAG,False
+Blue Field,VI,Strago,Chain2,Water,MAG,False
+Aqua Splash,VI,Strago,ASB,Water,MAG,True
+Blue Costume,VI,Strago,GL2,Water,NA,False
+Exploit Weakness,VI,Strago,GL2,NE,MAG,False
+Magic Tempest,VI,Strago,AW,Wind,MAG,False
+Tidal Master,VI,Strago,AW,Water,MAG,False
+Tidal Fall,VI,Strago,AW,Water,MAG,False
+Tsunami,VI,Strago,Sync,Water,MAG,False
+Bubble Tornado,VI,Strago,Sync,Water Wind,MAG,False
+Jet Splash,VI,Strago,OLB,Water,MAG,False
+Apex Lore,VI,Strago,AD,Water,MAG,False
+Ink Blast,VI,Relm,Unique,NE,MAG,True
+Brush Up,VI,Relm,Unique,NE,NA,True
+Portrait of Lakshmi,VI,Relm,SSB,NE,NA,True
+Star Prism,VI,Relm,BSB,Holy,MAG,True
+Divine Portrait,VI,Relm,USB,NE,NA,True
+Friendly Sketch,VI,Relm,USB,NE,NA,False
+Dreamy Potion,VI,Relm,USB,NE,NA,False
+Perfect Likeness,VI,Relm,GL,NE,NA,True
+Cure Sketch,VI,Relm,GL,NE,NA,False
+Thamasa Guard,VI,Relm,GL2,NE,NA,False
+Milky Way,VI,Relm,AW,NE,NA,False
+Rough Sketch,VI,Relm,AW,NE,NA,False
+Galaxy Prism,VI,Relm,Sync,NE,NA,False
+Maw of the Beast,VI,Gogo (VI),SSB,NE,PHY MAG,False
+Punishing Meteor,VI,Gogo (VI),BSB,NE,PHY MAG,True
+Righteous Mimicry,VI,Gogo (VI),USB,NE,PHY MAG,True
+Imitation Suit,VI,Gogo (VI),GL2,Fire Ice Wind Earth,NA,True
+Mass Mimicry,VI,Gogo (VI),AW,NE,MAG,True
+Repeated Mimic,VI,Gogo (VI),AW,Fire Ice Wind Earth,MAG,False
+True Punishing Meteor,VI,Gogo (VI),Sync,Fire Ice Wind Earth,PHY MAG,True
+Green Cherry,VI,Umaro,SSB,Ice,PHY,True
+Master's Voice,VI,Umaro,BSB,Ice,PHY,True
+Snowball Throwdown,VI,Umaro,USB,Ice,PHY,False
+Boss Bomber,VI,Umaro,ASB,Ice,PHY,True
+Sinewy Power,VI,Umaro,GL,Ice,NA,True
+Clobbering Blow,VI,Umaro,AW,Ice,PHY,False
+Snowfall Strike,VI,Umaro,Sync,Ice,PHY,False
+Havoc Wing,VI,Kefka,Unique,NE,MAG,False
+Magic Infusion,VI,Kefka,Unique,NE,NA,False
+Forsaken Null,VI,Kefka,SSB,NE,MAG,False
+Symphony of Madness,VI,Kefka,BSB,Poison Dark,MAG,False
+Harness the Fiend,VI,Kefka,BSB,Dark Poison,MAG,False
+Ruin Beckons,VI,Kefka,OSB,Dark,MAG,False
+Magitek Rampage,VI,Kefka,USB,Dark Poison,MAG,False
+Magitek Triad,VI,Kefka,ASB,Dark Poison,MAG,False
+Path to Madness,VI,Kefka,GL,Dark,NA,False
+Scornful Laugh,VI,Kefka,GL2,Dark Poison,NA,False
+Stroke of Destruction,VI,Kefka,AW,Dark Poison,MAG,False
+Symphony of Destruction,VI,Kefka,AW,Poison,MAG,False
+Rising Tone,VI,Kefka,Sync,Dark Poison,MAG,False
+Catastrophe Zero,VI,Kefka,OLB,Dark Poison,MAG,False
+Dark Raiment (Kefka),VI,Kefka,GLB,Dark,NA,False
+Cruelest Angel,VI,Kefka,AD,Dark Poison,MAG,False
+Shock,VI,Leo,SSB,Holy,PHY,True
+Warrior's Warrior,VI,Leo,BSB,Holy Earth,PHY,True
+Shock Imperial,VI,Leo,USB,Holy Earth,PHY,True
+Second Rebellion,VI,Leo,USB,Earth Holy,PHY,False
+Shocking Glory,VI,Leo,ASB,Earth Holy,PHY,False
+General's Protection,VI,Leo,GL,Earth,NA,True
+Height of Chivalry,VI,Leo,GL2,Earth,PHY,True
+Indomitable Purpose,VI,Leo,GL2,NE,NA,True
+General's Slash,VI,Leo,AW,Earth Holy,PHY,False
+Fallen Warrior's Blade,VI,Leo,AW,Earth Holy,PHY,False
+Shattering Highblade,VI,Leo,Sync,Earth Holy,PHY,True
+Braver,VII,Cloud,Unique,NE,PHY,False
+Cross Slash,VII,Cloud,Unique,NE,PHY,False
+Climhazzard,VII,Cloud,Unique,Wind,PHY,True
+Blade Beam,VII,Cloud,SSB,NE,PHY,True
+Fenrir Overdrive,VII,Cloud,BSB,NE,PHY,True
+Cloud Cycle,VII,Cloud,BSB,Wind,PHY,True
+Sonic Blade (KH),VII,Cloud,BSB,Dark Wind,PHY,False
+Finishing Touch,VII,Cloud,OSB,Wind,PHY,True
+Cherry Blossom (FFT),VII,Cloud,OSB,Lightning Ice Fire,PHY,True
+Ultra Cross Slash,VII,Cloud,USB,Wind Dark,PHY,True
+Darkpetal Bloom,VII,Cloud,USB,Dark,PHY,True
+Climirage,VII,Cloud,USB,Wind,PHY,False
+Bond (Cloud),VII,Cloud,Chain4,ALL,PHY MAG,False
+Sonic Braver,VII,Cloud,ASB,Wind,PHY,False
+Eye of Darkness,VII,Cloud,ASB,Dark,PHY,True
+Mako Abyss,VII,Cloud,GL,Dark,PHY,True
+Mako Power,VII,Cloud,GL,Wind,PHY,False
+Jenova Cell Power,VII,Cloud,GL2,Dark,NA,False
+Aerial Fang,VII,Cloud,GL2,Wind,PHY,True
+Triple Slash,VII,Cloud,GL2,Wind Dark,PHY,True
+Truth and Illusion,VII,Cloud,GL2,Wind Dark,NA,False
+Sephiroth Cell Quickening,VII,Cloud,AW,Dark,PHY,False
+Angelic Synergy,VII,Cloud,AW,Wind,PHY,True
+Dark Side Braver,VII,Cloud,AW,Wind Dark,PHY,False
+Meteor Rain,VII,Cloud,Sync,Dark,PHY,True
+Apex Slash,VII,Cloud,Sync,Wind,PHY,False
+Mako Strike,VII,Cloud,Sync,Wind Dark,PHY,False
+Omnislash,VII,Cloud,AD,Wind,PHY,False
+Grenade Bomb,VII,Barret,Unique,NE,PHY,False
+Satellite Beam,VII,Barret,Unique,Lightning,PHY,False
+Hammerblow,VII,Barret,Unique,NE,PHY,True
+Hyper Grenade Bomb,VII,Barret,SSB,Fire,PHY,False
+Ungarmax,VII,Barret,SSB,NE,PHY,False
+Massive Hammerblow,VII,Barret,BSB,NE,PHY,True
+Height of Anger,VII,Barret,USB,Fire Wind,PHY,False
+I'm The Leader Here!,VII,Barret,Chain3,ALL,PHY MAG,False
+Angry Mind,VII,Barret,GL,Fire,NA,False
+Avenging Flames,VII,Barret,GL2,Fire,NA,False
+AVALANCHE Scheme,VII,Barret,AW,Fire Wind,PHY,False
+Uncontrolled Beam,VII,Barret,AW,Fire Wind,PHY,False
+Rocket Hammerblow,VII,Barret,Sync,Fire,PHY,False
+Volcanic Cannon,VII,Barret,OLB,Fire,PHY,False
+Catastrophe,VII,Barret,AD,Fire,PHY,False
+Somersault,VII,Tifa,Unique,NE,PHY,False
+Burning Arrow,VII,Tifa,Unique,NE,PHY,False
+Waterkick,VII,Tifa,Unique,NE,PHY,True
+Dolphin Blow,VII,Tifa,SSB,NE,PHY,True
+Rolling Blaze,VII,Tifa,BSB,Earth,PHY,True
+Meteor Crusher,VII,Tifa,BSB,Earth,PHY,False
+Meteor Strike,VII,Tifa,OSB,Earth,PHY,False
+Meteodrive,VII,Tifa,USB,Earth,PHY,True
+Meteor Combo,VII,Tifa,USB,Earth,PHY,False
+Platinum Strike,VII,Tifa,ASB,Earth,PHY,True
+Zangan Awakening,VII,Tifa,GL,NE,PHY,True
+Rock Render,VII,Tifa,GL,Earth,PHY,False
+Eruption Garb,VII,Tifa,GL2,Earth,NA,True
+Meteor Arts,VII,Tifa,AW,Earth,PHY,False
+Zangan's Infinitude,VII,Tifa,Sync,Earth,PHY,True
+Limit Combo,VII,Tifa,Sync,Earth,PHY,True
+Crushing Palm,VII,Tifa,OLB,Earth,PHY,False
+Final Heaven,VII,Tifa,AD,Earth,PHY,False
+Healing Wind,VII,Aerith,Unique,NE,NA,False
+Planet Protector,VII,Aerith,Unique,NE,NA,False
+Fury Brand,VII,Aerith,Unique,NE,NA,False
+Dargon Force,VII,Aerith,Unique,NE,NA,False
+Pulse of Life,VII,Aerith,SSB,NE,NA,False
+White Materia,VII,Aerith,BSB,Holy,MAG,True
+Prayer of Salvation,VII,Aerith,BSB,NE,NA,False
+Hidden Bloom,VII,Aerith,USB,NE,NA,False
+Innocent Cure,VII,Aerith,USB,NE,NA,True
+Star Whisper,VII,Aerith,GL2,NE,NA,False
+Refreshing Breeze,VII,Aerith,GL2,NE,NA,True
+Star Pulse,VII,Aerith,AW,NE,NA,True
+Blue-Eyed Sentinel,VII,Aerith,Sync,NE,NA,False
+Lunatic High,VII,Red XIII,Unique,NE,NA,False
+Trine,VII,Red XIII,Unique,Lightning,MAG,False
+Howling Moon,VII,Red XIII,Unique,NE,NA,True
+Stardust Ray,VII,Red XIII,SSB,NE,PHY,True
+Protector's Roar,VII,Red XIII,SSB,NE,NA,True
+Cosmo Canyon,VII,Red XIII,BSB,NE,PHY,True
+Earth Rave,VII,Red XIII,USB,Earth,MAG,True
+Mighty Warrior,VII,Red XIII,USB,NE,NA,False
+Howling Earth,VII,Red XIII,Chain2,Earth,MAG,True
+Stardust Shot,VII,Red XIII,ASB,Earth,MAG,False
+Expanding Earth,VII,Red XIII,GL2,Earth,NA,False
+Lunatic Roar,VII,Red XIII,AW,Earth,MAG,False
+Soaring Comet,VII,Red XIII,Sync,Earth,MAG,False
+Comet Soar,VII,Red XIII,OLB,Earth,MAG,False
+Landscaper,VII,Yuffie,Unique,Earth,PHY,False
+Clear Tranquil,VII,Yuffie,Unique,NE,NA,False
+Bloodfest,VII,Yuffie,Unique,NE,PHY,False
+Gauntlet,VII,Yuffie,SSB,NE,PHY,True
+Doom of the Living,VII,Yuffie,BSB,Water,PHY,True
+Guardian of Wutai,VII,Yuffie,BSB,Water,PHY,True
+Clearest Tranquil,VII,Yuffie,USB,Water,PHY,True
+Landscaper (KH),VII,Yuffie,USB,Earth,PHY,False
+Freewheeling Gauntlet,VII,Yuffie,USB,Water,PHY,False
+Improvised Camouflage,VII,Yuffie,USB,Water Earth,PHY,False
+Smoke Shell,VII,Yuffie,Chain3,Water,PHY,True
+Freewheeling Bloodfest,VII,Yuffie,ASB,Water,PHY,True
+Freewheeling Earthrite,VII,Yuffie,ASB,Earth,PHY,True
+Freewheeling Reflection,VII,Yuffie,GL,NE,NA,False
+Stillwater Crag,VII,Yuffie,GL,Water Earth,NA,True
+Ebb and Flow,VII,Yuffie,GL2,Water,NA,False
+Earth Veil Slam,VII,Yuffie,GL2,Earth,NA,False
+Sublime Doom,VII,Yuffie,AW,Water Earth,PHY,False
+Sublime Landscaper,VII,Yuffie,AW,Earth,PHY,True
+Moonless Shower,VII,Yuffie,Sync,Water,PHY,False
+Dominate Mind,VII,Yuffie,Sync,Earth,PHY,False
+Soaring Kunai,VII,Yuffie,OLB,Water Earth,PHY,False
+All Creation,VII,Yuffie,AD,Water,PHY,False
+Awoken Gauntlet,VII,Yuffie,DuAW,Water,PHY,False
+Toy Soldier,VII,Cait Sith,Unique,NE,MAG,True
+Moogle Dance,VII,Cait Sith,SSB,NE,NA,False
+Battle Trumpet,VII,Cait Sith,SSB,NE,MAG,False
+Lucky Girl,VII,Cait Sith,BSB,NE,MAG,True
+Danger Dice,VII,Cait Sith,USB,NE,NA,True
+Random Summon?,VII,Cait Sith,USB,NE,NA,False
+Planetary Protector,VII,Cait Sith,GL2,NE,NA,False
+Hit the Jackpot,VII,Cait Sith,AW,NE,NA,True
+Miraculous Luck,VII,Cait Sith,Sync,NE,NA,False
+Chain Shot,VII,Vincent,Unique,NE,PHY,True
+Cerberus Shell,VII,Vincent,SSB,NE,MAG,False
+Bestial Roar,VII,Vincent,SSB,Fire,MAG,True
+Galian Beast,VII,Vincent,BSB,Fire,PHY MAG,False
+Flame Penalty,VII,Vincent,BSB,Fire,PHY MAG,False
+Lucrecia's Lament,VII,Vincent,USB,Fire,PHY MAG,True
+Dirge of Cerberus,VII,Vincent,USB,Fire,PHY MAG,False
+Marksman's Spite,VII,Vincent,USB,Fire,PHY MAG,False
+Cerberus Soul,VII,Vincent,Chain2,Fire,MAG,False
+Forsaken Power,VII,Vincent,GL,Fire,PHY MAG,True
+Munitions Reload,VII,Vincent,GL2,NE,NA,False
+Chthonian Blaze,VII,Vincent,AW,Fire,PHY MAG,True
+Galian Saber,VII,Vincent,AW,Fire,PHY MAG,False
+Bestial Claws,VII,Vincent,Sync,Fire,PHY MAG,False
+Chaos Saber,VII,Vincent,Sync,Fire,PHY MAG,False
+Galian Scratch,VII,Vincent,OLB,Fire,PHY MAG,False
+Satan Slam,VII,Vincent,AD,Fire,PHY MAG,False
+Air Strike,VII,Zack,Unique,NE,PHY,False
+Rush Assault,VII,Zack,Unique,NE,PHY,True
+Apocalypse,VII,Zack,SSB,NE,PHY,True
+Meteor Shots,VII,Zack,BSB,Wind Earth,PHY,True
+Climhazzard Xeno,VII,Zack,USB,Wind,PHY,True
+Lazy Mirage,VII,Zack,USB,Wind,PHY,True
+Lucky Stars,VII,Zack,Chain,Wind,PHY,True
+Sonic Braver Xeno,VII,Zack,ASB,Wind,PHY,False
+Storm Squat,VII,Zack,GL,Wind,NA,True
+Air Blast,VII,Zack,GL2,Wind,PHY,False
+Sonic Squat,VII,Zack,GL2,Wind,NA,True
+Proud Heritage,VII,Zack,AW,Wind,PHY,True
+Road to Heroism,VII,Zack,AW,Wind Dark,PHY,False
+Come Get It!,VII,Zack,Sync,Wind,PHY,False
+Shadow Flare,VII,Sephiroth,Unique,NE,PHY,True
+Hell's Gate,VII,Sephiroth,Unique,NE,PHY,True
+Nibelheim Nightmare,VII,Sephiroth,Unique,Fire,PHY,False
+Black Materia,VII,Sephiroth,SSB,NE,PHY,False
+Transience,VII,Sephiroth,SSB,Dark,PHY,False
+Reunion,VII,Sephiroth,BSB,Fire,PHY,False
+Octaslash,VII,Sephiroth,BSB,Dark,PHY,True
+Heaven's Light,VII,Sephiroth,OSB,Dark Fire,PHY,False
+Heartless Angel,VII,Sephiroth,USB,Dark,PHY,False
+Zanshin,VII,Sephiroth,USB,Dark,PHY,False
+Crimson Lotus,VII,Sephiroth,USB,Fire,PHY,False
+Purgatorial Flames,VII,Sephiroth,ASB,Fire,PHY,False
+Setting Sun,VII,Sephiroth,ASB,Dark,PHY,True
+Jenova's Might,VII,Sephiroth,GL,Dark,NA,True
+Fervent Shadow,VII,Sephiroth,GL2,Dark,NA,False
+Shimmer Flash,VII,Sephiroth,GL2,NE,NA,True
+Stigma,VII,Sephiroth,AW,Dark,PHY,False
+Underworld Guardian,VII,Sephiroth,AW,Fire,PHY,False
+Flames of Nibelheim,VII,Sephiroth,AW,Dark Fire,PHY,False
+Demonic Lord,VII,Sephiroth,Sync,Dark,PHY,False
+Crimson Octaslash,VII,Sephiroth,Sync,Fire,PHY,False
+Dark Illumination,VII,Sephiroth,OLB,Dark,PHY,False
+Jenova,VII,Sephiroth,AD,Fire,PHY,False
+Sunburst,VII,Sephiroth,AD,Dark,PHY,True
+Dynamite,VII,Cid (VII),Unique,NE,PHY,True
+Hyper Jump,VII,Cid (VII),Unique,NE,PHY,True
+Dragon,VII,Cid (VII),Unique,Wind,PHY,False
+Pilot's Steel,VII,Cid (VII),SSB,NE,NA,True
+Big Brawl,VII,Cid (VII),SSB,Wind,PHY,True
+Dragon Dive,VII,Cid (VII),BSB,Wind,PHY,False
+Dynamite Boost,VII,Cid (VII),USB,Wind,PHY,False
+Cid in Charge,VII,Cid (VII),Chain2,ALL,PHY MAG,True
+Smokig Dive,VII,Cid (VII),ASB,Wind,PHY,False
+Cleared for Takeoff!,VII,Cid (VII),GL,Wind,NA,False
+Rocket Jump,VII,Cid (VII),GL2,Wind,PHY,False
+Dreams of Space,VII,Cid (VII),AW,Wind,PHY,False
+Turk Light,VII,Reno,Unique,Lightning,MAG,True
+Pyramid,VII,Reno,Unique,NE,MAG,False
+Turk Bombshell,VII,Reno,SSB,NE,MAG,False
+Turk Triad,VII,Reno,BSB,Lightning,PHY,True
+Turk Special,VII,Reno,USB,Lightning,PHY MAG,True
+Pyramid Pinnacle,VII,Reno,USB,Lightning,PHY MAG,False
+Chain of Thunder,VII,Reno,Chain,Lightning,PHY MAG,True
+Overpowered Rod,VII,Reno,ASB,Lightning,PHY MAG,True
+Electro Rod Charge,VII,Reno,GL2,Lightning,NA,False
+Electro Rod Mark II,VII,Reno,AW,Lightning,PHY MAG,True
+Our Day Off,VII,Reno,Sync,Lightning,PHY MAG,False
+Pyramid Tetra,VII,Reno,OLB,Lightning,PHY MAG,False
+Winds of Pride,VII,Angeal,SSB,Holy,PHY,False
+Unleashed Wrath,VII,Angeal,BSB,Holy Wind,PHY,False
+Idle Rage,VII,Angeal,USB,Holy Wind,PHY,False
+Wings of Atonement,VII,Angeal,ASB,Holy Wind,PHY,False
+Blade Invocation,VII,Angeal,GL,Holy Wind,PHY,False
+Envious Thunder,VII,Angeal,GL,NE,NA,False
+You Owe Me One,VII,Angeal,GL2,Holy Wind,PHY,False
+Warrior's Dignity,VII,Angeal,GL2,Holy Wind,NA,False
+Pride and Ambition,VII,Angeal,AW,Holy Wind,PHY,True
+Burden of Pride,VII,Angeal,AW,Holy Wind,PHY,False
+White-Winged SOLDIER,VII,Angeal,Sync,Holy Wind,PHY,False
+True Unleashed Wrath,VII,Angeal,OLB,Holy Wind,PHY,True
+Mako Barrage,VII,Rufus,SSB,Dark,PHY,True
+President's Scorn,VII,Rufus,BSB,Dark,PHY,False
+Mako Cannon,VII,Rufus,USB,Dark,PHY,False
+Reign of Terror,VII,Rufus,GL,Dark,PHY,False
+Ambitious Vice,VII,Rufus,GL2,Dark,NA,False
+Recreant Son,VII,Rufus,AW,Dark,PHY,False
+Presidential Power,VII,Rufus,Sync,Dark,PHY,False
+Countertek,VII,Shelke,SSB,NE,NA,True
+Synaptic Net Dive,VII,Shelke,BSB,Lightning,PHY,False
+Transparent Spark,VII,Shelke,USB,Lightning,PHY,False
+Transparent Glimmer,VII,Shelke,USB,Lightning,PHY,False
+Synaptic Current,VII,Shelke,Chain2,Lightning,PHY,False
+Technical Defense,VII,Shelke,GL,NE,NA,False
+Amber Eyes,VII,Shelke,GL2,Lightning,NA,False
+Transparent Bolt,VII,Shelke,AW,Lightning,PHY,True
+Transparent Fulmination,VII,Shelke,AW,Lightning,PHY,True
+Transparent Thunder,VII,Shelke,Sync,Lightning,PHY,False
+Transparent Gleam,VII,Shelke,Sync,Lightning,PHY,False
+Transparent Flash,VII,Shelke,OLB,Lightning,PHY,False
+Apex Synaptic Net Dive,VII,Shelke,AD,Lightning,PHY,False
+Secret Desire,VII,Rude,SSB,NE,NA,False
+Ultimate Grand Spark,VII,Rude,BSB,Earth,PHY MAG,False
+Chain Grand Spark,VII,Rude,USB,Earth,PHY MAG,False
+Chain of Stone,VII,Rude,Chain,Earth,PHY MAG,True
+Rising Headbutt,VII,Rude,ASB,Earth Lightning,PHY MAG,False
+Masterful Control,VII,Rude,GL,NE,NA,False
+Spare Sunglasses,VII,Rude,GL2,Earth Lightning,NA,False
+Earthwalker Conduction,VII,Rude,AW,Earth Lightning,PHY MAG,False
+Rookie Turk,VII,Elena,SSB,Fire,PHY,True
+Elite Operator,VII,Elena,BSB,Fire,PHY,False
+Special Bomb,VII,Elena,USB,Fire,PHY,True
+Endless Fascination,VII,Elena,USB,Fire Lightning,PHY,False
+Chain of Fire,VII,Elena,Chain,Fire,PHY,True
+Rookie Rampage,VII,Elena,ASB,Fire Lightning,PHY,False
+Super Sneak Attack,VII,Elena,GL2,Fire Lightning,NA,False
+Sudden Bombardment,VII,Elena,GL,Fire,PHY,False
+Exemplary Turks,VII,Elena,AW,Fire Lightning,PHY,False
+Apocalypse Genesis,VII,Genesis,USB,Fire,PHY,True
+SOLDIER's Epic,VII,Genesis,ASB,Fire,PHY,False
+Epic of Creation,VII,Genesis,GL2,Fire,PHY,False
+Epic of Destruction,VII,Genesis,GL,Fire,NA,True
+Epic of Heroism,VII,Genesis,GL2,NE,NA,False
+Genesis Rhapsody,VII,Genesis,AW,Fire,PHY,False
+Purgatorial Wave,VII,Genesis,Sync,Fire,PHY,False
+Light of Doom,VII,Genesis,OLB,Fire,PHY,False
+LOVELESS,VII,Genesis,AD,Fire,PHY,False
+Rough Divide,VIII,Squall,Unique,Ice,PHY,True
+Fated Circle,VIII,Squall,Unique,NE,PHY,False
+Mystic Flurry,VIII,Squall,Unique,NE,PHY,False
+Blasting Zone,VIII,Squall,SSB,NE,PHY,False
+Lion's Roar,VIII,Squall,BSB,Fire Wind,PHY,True
+Steely Blade,VIII,Squall,BSB,Ice,PHY,True
+Revolver Drive,VIII,Squall,BSB,Fire,PHY,True
+Sub-Zero Blast,VIII,Squall,OSB,Ice,PHY,True
+Brutal Blast,VIII,Squall,USB,Ice,PHY,True
+Lion of Destiny,VIII,Squall,USB,Ice,PHY,True
+Fated Fangs,VIII,Squall,USB,Fire,PHY,True
+Double Junction,VIII,Squall,USB,Ice Fire,PHY,True
+Blasting Drive,VIII,Squall,ASB,Ice,PHY,True
+Revolver Overdrive,VIII,Squall,ASB,Fire,PHY,False
+Fated Aura,VIII,Squall,GL,Fire,NA,True
+Blasting Force,VIII,Squall,GL2,Ice,NA,False
+Fated Force,VIII,Squall,GL2,Fire,NA,True
+Blasting Aura,VIII,Squall,GL,Ice,NA,True
+Fatal Frost,VIII,Squall,AW,Ice,PHY,True
+End of Flame,VIII,Squall,AW,Fire,PHY,False
+Blasting Draw,VIII,Squall,AW,Ice Fire,PHY,False
+Cross Your Heart,VIII,Squall,Sync,Ice,PHY,False
+Burst Blade,VIII,Squall,Sync,Ice Fire,PHY,False
+Fated Flame,VIII,Squall,Sync,Fire,PHY,False
+Lion Heart,VIII,Squall,AD,Ice,PHY,False
+Renzokuken Iceflame,VIII,Squall,OLB,Ice Fire,PHY,False
+Angel Wing Bolt,VIII,Rinoa,Unique,Lightning,MAG,False
+Angel Wing Quake,VIII,Rinoa,Unique,Earth,MAG,False
+The Brothers,VIII,Rinoa,Unique,Earth,MAG,False
+Wishing Star,VIII,Rinoa,SSB,NE,MAG,False
+Angelo Strike,VIII,Rinoa,SSB,Earth,MAG,True
+Sorceress's Awakening,VIII,Rinoa,BSB,Earth Ice,MAG,True
+Angel Wing Ice Shards,VIII,Rinoa,BSB,Ice,MAG,True
+Angelstar,VIII,Rinoa,OSB,Earth,MAG,False
+Angel Wing Frost Vortex,VIII,Rinoa,USB,Ice,MAG,True
+Angel Wing Earth Edict,VIII,Rinoa,USB,Earth,MAG,False
+Angel Wing Ice Ruin,VIII,Rinoa,USB,Ice,MAG,True
+Shiva,VIII,Rinoa,Chain,Ice,PHY MAG,True
+Angel Wing Sublunar,VIII,Rinoa,Chain3,Ice,MAG,False
+Angel Wing Comet,VIII,Rinoa,ASB,Ice Earth,MAG,True
+Angel Wing Magic Mien,VIII,Rinoa,GL,NE,NA,True
+Sublime Sorcery,VIII,Rinoa,GL2,NE,NA,False
+Angel Wing Ice Dust,VIII,Rinoa,GL2,Ice,MAG,False
+Grand Refrain,VIII,Rinoa,GL2,Earth,NA,False
+Cherubim Shot,VIII,Rinoa,AW,Ice,MAG,False
+Star Cradle,VIII,Rinoa,AW,Earth,MAG,True
+Star of Hope,VIII,Rinoa,AW,Ice Earth,MAG,False
+Angel Wing Firmament,VIII,Rinoa,Sync,Earth,MAG,True
+Angel Wing Cross,VIII,Rinoa,Sync,Ice,MAG,False
+Apocalypse R,VIII,Rinoa,Sync,Ice,MAG,False
+Angel Wing Permafrost,VIII,Rinoa,OLB,Ice Earth,MAG,False
+Angel Wind Extreme,VIII,Rinoa,AD,Ice,MAG,False
+Maser Eye,VIII,Quistis,Unique,NE,MAG,True
+Mighty Guard (VIII),VIII,Quistis,SSB,NE,NA,False
+Cerberus,VIII,Quistis,SSB,NE,NA,True
+Hail to the Queen,VIII,Quistis,BSB,Poison,MAG,False
+Doomtrain,VIII,Quistis,OSB,Poison,MAG,True
+Kingsguard,VIII,Quistis,USB,NE,NA,False
+Mixed Breath,VIII,Quistis,USB,Water Poison,MAG,False
+Lethal Poison Breath,VIII,Quistis,Chain2,Poison,PHY MAG,True
+Savant's Teachings,VIII,Quistis,Chain3,ALL,PHY MAG,False
+Triple Triad King,VIII,Quistis,ASB,Water Poison,MAG,False
+Pride of the King,VIII,Quistis,GL,NE,NA,False
+Aqua Bubbles,VIII,Quistis,GL2,Water,NA,False
+King's Charge,VIII,Quistis,GL2,NE,NA,False
+Lesson Time,VIII,Quistis,AW,Water Poison,MAG,False
+Ultra Waves,VIII,Quistis,AW,Water Poison,MAG,True
+Homing Laser,VIII,Quistis,Sync,Water Poison,MAG,False
+Ray of Poison,VIII,Quistis,Sync,Poison,MAG,False
+Apex Shockwave Pulsar,VIII,Quistis,AD,Water Poison,MAG,False
+Guardian Doomtrain,VIII,Quistis,Guardian,Poison,MAG,False
+Burning Rave,VIII,Zell,Unique,NE,PHY,False
+Meteor Barrage,VIII,Zell,Unique,NE,PHY,True
+Different Beat,VIII,Zell,SSB,NE,PHY,False
+Combat King,VIII,Zell,SSB,NE,PHY,True
+Duelist,VIII,Zell,BSB,Fire,PHY,True
+Fiery Meteor Barret,VIII,Zell,BSB,NE,PHY,False
+Burning Duel,VIII,Zell,USB,Fire,PHY,True
+King of the Ring,VIII,Zell,ASB,Fire,PHY,False
+Assiduous Heat,VIII,Zell,GL2,Fire,NA,False
+Academic Arts,VIII,Zell,GL,Fire,PHY,False
+My Final Punch,VIII,Zell,AW,Fire,PHY,True
+Flare Duel,VIII,Zell,Sync,Fire,PHY,False
+My Final Heaven,VIII,Zell,AD,Fire,PHY,False
+Trabia's Light,VIII,Selphie,Unique,NE,NA,True
+Rapture,VIII,Selphie,Unique,NE,MAG,True
+Dreamstage,VIII,Selphie,SSB,NE,NA,True
+Strange Vision,VIII,Selphie,BSB,Holy,MAG,True
+Reality or Truth,VIII,Selphie,BSB,NE,NA,True
+Slots Full Cure,VIII,Selphie,USB,NE,NA,True
+Booyaka Slots,VIII,Selphie,USB,NE,NA,True
+Trabia Slots,VIII,Selphie,USB,NE,NA,True
+Slot Cure,VIII,Selphie,USB,NE,NA,True
+Bon Vivant,VIII,Selphie,GL,NE,NA,True
+Wall Slots,VIII,Selphie,GL2,NE,NA,True
+Selphie's Band,VIII,Selphie,AW,NE,NA,False
+Comrades' Return,VIII,Selphie,Sync,NE,NA,False
+Fast Ammo,VIII,Irvine,Unique,NE,PHY,False
+Canister Shot,VIII,Irvine,Unique,NE,PHY,False
+Dark Shot,VIII,Irvine,SSB,NE,PHY,True
+Hyper Sniper,VIII,Irvine,SSB,NE,PHY,False
+Flame Shot,VIII,Irvine,BSB,Fire,PHY,False
+Hyper Canister,VIII,Irvine,BSB,Fire,PHY,True
+Break Shot,VIII,Irvine,USB,Fire,PHY,True
+Hyper Ignition,VIII,Irvine,USB,Fire,PHY,True
+Bygone Days,VIII,Irvine,Chain2,ALL,PHY MAG,False
+Quick Shot F,VIII,Irvine,ASB,Fire,PHY,False
+Assault Standby,VIII,Irvine,GL2,Fire,NA,True
+Armor Shot,VIII,Irvine,AW,Fire,PHY,True
+Witch-Hunt Snipe,VIII,Irvine,AW,Fire,PHY,False
+Quick Canister,VIII,Irvine,Sync,Fire,PHY,False
+Demon Slice,VIII,Seifer,Unique,NE,PHY,False
+Bloodfest,VIII,Seifer,Unique,NE,PHY,False
+Zanzetsuken Reverse,VIII,Seifer,SSB,NE,PHY,True
+Death by Committee,VIII,Seifer,SSB,Dark Lightning Wind,PHY,True
+Sorceress's Knight,VIII,Seifer,BSB,Dark,PHY,False
+Brutal Takedown,VIII,Seifer,BSB,Dark Fire,PHY,True
+Forbidden Fellslash,VIII,Seifer,USB,Dark Fire,PHY,False
+Knight of Destiny,VIII,Seifer,USB,Dark Fire,PHY,False
+Sorceress Strings,VIII,Seifer,Chain2,Dark,PHY,True
+Forbidden Bloodfest,VIII,Seifer,ASB,Dark Fire,PHY,True
+Problem Child,VIII,Seifer,GL,Dark,PHY,True
+Relentless Ambition,VIII,Seifer,GL2,Dark Fire,NA,False
+Carnage Cut,VIII,Seifer,AW,Dark Fire,PHY,False
+Forbidden Shadowflame Strike,VIII,Seifer,AW,Dark Fire,PHY,False
+Absolutely No Mercy,VIII,Seifer,Sync,Dark Fire,PHY,False
+Apex Zanzetsuken Reverse,VIII,Seifer,AD,Dark,PHY,False
+Missile Salvo,VIII,Laguna,Unique,NE,PHY,True
+Desperado,VIII,Laguna,SSB,NE,PHY,True
+Freezing Barrage,VIII,Laguna,SSB,Ice,PHY,True
+Visions of the Past,VIII,Laguna,SSB,NE,PHY,False
+Freezing Beam,VIII,Laguna,BSB,Ice,PHY,True
+Split Laser,VIII,Laguna,BSB,Lightning,PHY,False
+Ragnarok Buster,VIII,Laguna,USB,Ice,PHY,True
+Ragnarok Blade,VIII,Laguna,USB,Ice,PHY,False
+Junction Link,VIII,Laguna,Chain2,Ice,PHY,False
+Freezing Crush,VIII,Laguna,ASB,Ice,PHY,True
+Freeze Missiles,VIII,Laguna,GL,Ice,PHY,True
+Junction Freeze,VIII,Laguna,GL2,Ice,NA,False
+Tactical Attack,VIII,Laguna,AW,Ice,PHY,True
+Parallel Desperado,VIII,Laguna,AW,Ice,PHY,False
+Freezing Downpour,VIII,Laguna,Sync,Ice,PHY,False
+Tactical Freeze,VIII,Laguna,OLB,Ice,PHY,False
+Ultimate Ragnarok Cannon,VIII,Laguna,AD,Ice,PHY,False
+Inaugural Parade,VIII,Edea,Unique,NE,NA,False
+Ice Strike,VIII,Edea,SSB,Ice,MAG,True
+Time Crush,VIII,Edea,SSB,Dark,MAG,False
+Maelstrom,VIII,Edea,BSB,Ice Dark,MAG,True
+Astral Time,VIII,Edea,USB,Ice Dark,MAG,True
+Astral Realm,VIII,Edea,USB,Ice Dark,MAG,True
+Ice Sorceress,VIII,Edea,Chain2,Ice,MAG,False
+Grief Judgment,VIII,Edea,ASB,Ice Dark,MAG,False
+Power Succession,VIII,Edea,GL,Ice,NA,True
+Cold-Hearted Guise,VIII,Edea,GL2,Ice,NA,True
+Sweet Frozen Dream,VIII,Edea,GL2,Ice,MAG,False
+Astral Soul,VIII,Edea,AW,Ice Dark,MAG,False
+Sourcerous Binding,VIII,Edea,Sync,Ice Dark,MAG,False
+Frost Flash (Edea),VIII,Edea,GLB,Ice,MAG,False
+Apex Ice Strike,VIII,Edea,AD,Ice,MAG,True
+Aura (VIII),VIII,Raijin,SSB,NE,NA,True
+Raijin Special,VIII,Raijin,BSB,Lightning,PHY,False
+Dragon Rising,VIII,Raijin,OSB,Lightning,PHY,True
+Dragon Soaring,VIII,Raijin,USB,Lightning,PHY,True
+Lightning Raid,VIII,Raijin,USB,Lightning,PHY,False
+Dragon Ascent,VIII,Raijin,ASB,Lightning,PHY,False
+Thundering Hammer,VIII,Raijin,GL,Lightning,NA,False
+Indomitable Will,VIII,Raijin,GL2,NE,NA,False
+Indomitable Thunderclap,VIII,Raijin,GL2,NE,NA,False
+Stormcall,VIII,Raijin,AW,Lightning,PHY,False
+Thunderstorm Assault,VIII,Raijin,Sync,Lightning,PHY,False
+Raijin Destruction Special,VIII,Raijin,OLB,Lightning,PHY,False
+Jin,VIII,Fujin,Unique,NE,NA,True
+Zan,VIII,Fujin,SSB,Wind,MAG,True
+Metsu,VIII,Fujin,BSB,Wind,MAG,True
+Into the Storm,VIII,Fujin,OSB,Wind,MAG,False
+Storm,VIII,Fujin,USB,Wind,MAG,True
+Shou,VIII,Fujin,Chain2,Wind,MAG,False
+Bluster,VIII,Fujin,ASB,Wind,MAG,False
+Winds,VIII,Fujin,GL,Wind,NA,False
+Nagi,VIII,Fujin,GL2,NE,NA,False
+Periphery,VIII,Fujin,GL2,Wind,NA,False
+Ran,VIII,Fujin,AW,Wind,MAG,True
+Ka,VIII,Fujin,AW,Wind,MAG,False
+Fusai,VIII,Fujin,Sync,Wind,MAG,False
+Interesting Times,VIII,Kiros,SSB,NE,PHY,True
+Exsanguination,VIII,Kiros,BSB,Dark Ice,PHY,False
+Katar Dance,VIII,Kiros,USB,Dark Ice,PHY,False
+Switch Reduction,VIII,Kiros,GL2,Dark Ice,NA,False
+Repeated Exsanguination,VIII,Kiros,AW,Dark Ice,PHY,False
+Exotic Impact,VIII,Kiros,Sync,Dark Ice,PHY,False
+Thirst for Life,VIII,Kiros,OLB,Dark Ice,PHY,True
+Wordless Promise,VIII,Ward,SSB,NE,NA,False
+Massive Anchor,VIII,Ward,BSB,Earth Wind,PHY,False
+Anchor Rain,VIII,Ward,USB,Water Ice Earth,PHY,True
+Quick Critical,VIII,Ward,GL2,NE,NA,False
+Anchor Crush,VIII,Ward,AW,Water Ice Earth,PHY,True
+Anchoring Trio,VIII,Ward,Sync,Water Ice Earth,PHY,False
+True Maelstrom,VIII,Ultimecia,BSB,Wind Dark,MAG,True
+Sorceress Call,VIII,Ultimecia,OSB,Wind Dark,MAG,True
+Cycle of Steel,VIII,Ultimecia,USB,Wind Dark,MAG,True
+Hell's Judgment,VIII,Ultimecia,USB,Wind Dark,MAG,True
+Blades of Time,VIII,Ultimecia,ASB,Wind Dark,MAG,False
+Veil of Shadows,VIII,Ultimecia,GL2,Wind,NA,False
+Temporal Dominance,VIII,Ultimecia,GL2,Dark,MAG,False
+Time Tamperer,VIII,Ultimecia,GL,NE,NA,False
+Apocalypse (VIII),VIII,Ultimecia,AW,Wind Dark,MAG,True
+Dancing Axe,VIII,Ultimecia,AW,Wind Dark,MAG,False
+Shockwave Pulsar,VIII,Ultimecia,Sync,Wind,MAG,False
+Abyssal Attractor,VIII,Ultimecia,Sync,Dark,MAG,False
+Wind Raiment (Ultimecia),VIII,Ultimecia,GLB,Wind,NA,False
+Apex Maelstrom,VIII,Ultimecia,AD,Dark,MAG,False
+Awoken Apocalypse,VIII,Ultimecia,DuAW,Wind Dark,MAG,True
+Scoop Art,IX,Zidane,Unique,NE,PHY,False
+Rumble Rush,IX,Zidane,Unique,NE,PHY,True
+Shift Break,IX,Zidane,SSB,NE,PHY,False
+Storm Impulse,IX,Zidane,SSB,Wind,PHY,True
+Stellar Circle 5,IX,Zidane,BSB,Wind,PHY,True
+Solution 9,IX,Zidane,BSB,Wind,PHY,True
+Meo Twister,IX,Zidane,OSB,Wind,PHY,True
+Gale Unbound,IX,Zidane,USB,Wind,PHY,False
+Grand Lethal,IX,Zidane,USB,Wind,PHY,True
+Bond (Zidane),IX,Zidane,Chain4,ALL,PHY MAG,False
+Rumble Twister,IX,Zidane,ASB,Wind,PHY,True
+Aerial Ace,IX,Zidane,GL,Wind,PHY,True
+Tail Draft,IX,Zidane,GL2,Wind,NA,False
+Reverse Gaia,IX,Zidane,AW,Wind,PHY,True
+Not Alone,IX,Zidane,Sync,Wind,PHY,False
+Blast Flag,IX,Zidane,OLB,Wind,PHY,False
+Wind Raiment (Zidane),IX,Zidane,GLB,Wind,NA,False
+Grand Lethal Extreme,IX,Zidane,AD,Wind,PHY,True
+Leviathan,IX,Garnet,Unique,Water,MAG,False
+Ramuh,IX,Garnet,Unique,Lightning,MAG,False
+Divine Guardian,IX,Garnet,SSB,NE,NA,True
+Enveloping Warmth,IX,Garnet,SSB,NE,NA,False
+Dagger of Resolve,IX,Garnet,BSB,Lightning Holy,MAG,True
+Trial by Lightning,IX,Garnet,BSB,Lightning,MAG,True
+Trance Ramuh,IX,Garnet,USB,Lightning,MAG,False
+Secret Bloodline,IX,Garnet,USB,Lightning,MAG,True
+Thunderstorm Princess,IX,Garnet,USB,Lightning Holy,MAG,False
+Resilient Memories,IX,Garnet,Chain2,Lightning,MAG,False
+Decisive Thunderclap,IX,Garnet,ASB,Lightning,MAG,False
+Maiden's Mettle,IX,Garnet,GL2,NE,NA,False
+Soul of Ramuh,IX,Garnet,GL2,Lightning Holy,NA,False
+Maiden's Summon,IX,Garnet,GL,Lightning,MAG,False
+Thunder Serenade,IX,Garnet,AW,Lightning,MAG,False
+Summoner's Legacy,IX,Garnet,AW,Lightning Holy,MAG,True
+Peridot Thunder,IX,Garnet,Sync,Lightning,MAG,False
+Rendezvous Hour,IX,Garnet,Sync,Holy Lightning,MAG,False
+Truespark Anthem,IX,Garnet,OLB,Lightning,MAG,False
+Thundering Dark,IX,Garnet,AD,Lightning,MAG,False
+Awoken Ramuh,IX,Garnet,DuAW,Lightning,MAG,False
+Doublecast Venom,IX,Vivi,Unique,Poison,MAG,False
+Doublecast Meteorite,IX,Vivi,Unique,NE,MAG,True
+Doublecast Decay,IX,Vivi,SSB,Dark,MAG,False
+Magic Fury,IX,Vivi,BSB,Fire Lightning Ice,MAG,True
+Proof of Existence,IX,Vivi,BSB,Fire,MAG,True
+Life's Torch,IX,Vivi,OSB,Fire,MAG,False
+King of Jump Rope,IX,Vivi,USB,NE,NA,True
+Beyond the Twilight,IX,Vivi,USB,Fire,MAG,False
+Clamorous Magic,IX,Vivi,USB,Ice Water Lightning,MAG,False
+Freezing Shock,IX,Vivi,USB,Fire Ice Lightning,MAG,False
+Trance Empower Vivi,IX,Vivi,Chain3,Fire,MAG,False
+Fleeting Life,IX,Vivi,ASB,Fire,MAG,True
+Freezing Sparkhammer,IX,Vivi,ASB,Ice Lightning,MAG,False
+Stoke Flames,IX,Vivi,GL2,Fire,NA,True
+True Black Mage,IX,Vivi,GL,Fire,NA,True
+Spontaneity,IX,Vivi,GL,Ice Lightning,NA,False
+Magic Airs,IX,Vivi,GL2,Fire Ice Lightning,NA,False
+Balefire Pyre,IX,Vivi,AW,Fire,MAG,True
+Tipping Point,IX,Vivi,AW,Ice Lightning,MAG,True
+Athlete Queen,IX,Vivi,AW,Fire Ice Lightning,MAG,True
+Glittering Flame,IX,Vivi,Sync,Fire,MAG,False
+Icebolt Advent,IX,Vivi,Sync,Ice Lightning,MAG,True
+Elemental Ball,IX,Vivi,OLB,Fire Ice Lightning,MAG,True
+Doomsday Icebolt,IX,Vivi,AD,Ice Lightning,MAG,False
+Thunder Slash,IX,Steiner,Unique,Lightning,PHY,False
+Sword Art Stock Break,IX,Steiner,Unique,NE,PHY,False
+Sword Art Climhazzard,IX,Steiner,SSB,NE,PHY,False
+Sword Magic Firaga,IX,Steiner,SSB,Fire,PHY,False
+Knight's Honor,IX,Steiner,BSB,Fire,PHY,True
+Knight's Oath,IX,Steiner,BSB,Fire Lightning Ice,PHY,False
+Imbued Blade,IX,Steiner,OSB,Fire Lightning Ice,PHY,False
+Enlightened Blade,IX,Steiner,USB,Fire Lightning Ice,PHY,False
+Steiner Rush,IX,Steiner,USB,Fire Lightning Ice,PHY,True
+Sworn Protector,IX,Steiner,Chain2,ALL,PHY MAG,True
+Frostfire Thunder Slash,IX,Steiner,ASB,Fire Lightning Ice,PHY,True
+Enduring Loyalty,IX,Steiner,GL2,NE,NA,False
+Ironclad Vow,IX,Steiner,GL,NE,NA,False
+Just a Flesh Wound,IX,Steiner,GL2,Fire Lightning Ice,NA,False
+Double Climhazzard,IX,Steiner,AW,Fire Lightning Ice,PHY,True
+Triple Minus Strike,IX,Steiner,AW,Fire Lightning Ice,PHY,False
+Double Shock,IX,Steiner,Sync,Fire Lightning Ice,PHY,False
+Reckless Blade,IX,Steiner,Sync,Fire Lightning Ice,PHY,False
+Frostfire Thunder Carnage,IX,Steiner,OLB,Fire Lightning Ice,PHY,True
+Charge!,IX,Steiner,AD,Fire Lightning Ice,PHY,False
+Dragon Breath,IX,Freya,Unique,NE,PHY,False
+Six Dragons,IX,Freya,SSB,Wind,PHY,False
+Cherry Blossom,IX,Freya,SSB,Wind,PHY,False
+Dragon's Crest,IX,Freya,BSB,Wind,PHY,True
+Moonblossom Dragon,IX,Freya,USB,Wind,PHY,True
+Dragoon's Storm,IX,Freya,USB,Wind,PHY,False
+Sandstorm Lance,IX,Freya,USB,Wind,PHY,False
+Chain of Air,IX,Freya,Chain,Wind,PHY MAG,True
+Lunar Ray,IX,Freya,ASB,Wind,PHY,False
+Eternal Harvest,IX,Freya,GL2,Wind,NA,False
+Dragon Cross,IX,Freya,AW,Wind,PHY,False
+Homeland's Honor,IX,Freya,AW,Wind,PHY,False
+Cliffdance Winds,IX,Freya,Sync,Wind,PHY,False
+Mighty Guard (IX),IX,Quina,Unique,NE,NA,False
+Angel's Snack,IX,Quina,Unique,NE,NA,False
+Frog Drop,IX,Quina,SSB,NE,PHY,False
+Angel's Banquet,IX,Quina,BSB,Water,PHY,True
+Pumpkin Head,IX,Quina,BSB,NE,PHY,True
+Culinary Curiosity,IX,Quina,USB,NE,NA,True
+Midnight Snack,IX,Quina,USB,Water Earth Poison,PHY,False
+So Happy,IX,Quina,Chain3,ALL,PHY MAG,False
+Delta Def-Less,IX,Quina,GL,Water Earth Poison,NA,True
+Self Matra Magic,IX,Quina,GL2,NE,NA,True
+Angelic White Wind,IX,Quina,GL2,NE,NA,False
+Delicious Discovery!,IX,Quina,AW,Water Earth Poison,PHY,False
+Culinary Climb,IX,Quina,Sync,Water Earth Poison,PHY,True
+Emerald Light,IX,Eiko,Unique,NE,NA,False
+Withering Winds,IX,Eiko,Unique,Wind,MAG,False
+Flames of Rebirth,IX,Eiko,SSB,NE,NA,True
+Prayer of the Lost,IX,Eiko,BSB,NE,NA,False
+Guardian Mog,IX,Eiko,USB,NE,NA,True
+Trance Regenga,IX,Eiko,USB,NE,NA,True
+Soothing Flute,IX,Eiko,USB,NE,NA,False
+Sonic Homing,IX,Eiko,USB,Holy Wind,MAG,False
+Phoenix Feather,IX,Eiko,USB,NE,NA,False
+Homing Blast,IX,Eiko,ASB,Holy Wind,MAG,False
+Eiko's Secret Weapon,IX,Eiko,GL2,Wind,NA,False
+Nacre Light,IX,Eiko,GL2,NE,NA,False
+Sleight of Eiko,IX,Eiko,GL,NE,NA,True
+Terra Homing,IX,Eiko,AW,Holy Wind,MAG,True
+Twin Maiden Prayer,IX,Eiko,AW,NE,NA,True
+Seraphic Rebirth,IX,Eiko,Sync,Holy Wind,MAG,False
+Blessed Winds,IX,Eiko,Sync,Wind Holy,MAG,False
+Apex Terra Homing,IX,Eiko,AD,Wind,MAG,True
+Guardian Madeen,IX,Eiko,Guardian,Wind Holy,MAG,False
+Aura,IX,Amarant,Unique,NE,NA,False
+Scarlet Elan,IX,Amarant,Unique,NE,PHY,True
+Power Throw,IX,Amarant,SSB,NE,PHY,False
+Fists of Flame,IX,Amarant,BSB,Fire,PHY,False
+Faithful Fist,IX,Amarant,USB,Fire,PHY,False
+Detonating Fist,IX,Amarant,USB,Fire Lightning,PHY,False
+Outlaw Combo,IX,Amarant,ASB,Fire Lightning,PHY,True
+Outlaw Spirit,IX,Amarant,GL,Fire,NA,False
+Outlaw Soul,IX,Amarant,GL2,Fire,NA,False
+Hidden Vocation,IX,Amarant,AW,Fire,PHY,True
+Blazing Godfist,IX,Amarant,AW,Fire,PHY,False
+Ironfire Countdown,IX,Amarant,Sync,Fire,PHY,False
+Seiken Stock Break,IX,Beatrix,Unique,Holy,PHY,True
+Rose of May,IX,Beatrix,Unique,NE,PHY,True
+Seiken Shock,IX,Beatrix,SSB,NE,PHY,True
+Sword of the Clear Mind,IX,Beatrix,SSB,Holy,PHY,False
+Knight Protector,IX,Beatrix,BSB,Holy,PHY,False
+Seiken Thunder Slash,IX,Beatrix,BSB,Holy Lightning,PHY,True
+Seiken Climhazzard,IX,Beatrix,OSB,Holy,PHY,False
+Rose Finale,IX,Beatrix,USB,Holy,PHY,True
+Seiken Holy Hazzard,IX,Beatrix,ASB,Holy,PHY,False
+Rose Catharsis,IX,Beatrix,GL2,Holy,NA,True
+Noblest Kinght,IX,Beatrix,GL,Holy,NA,False
+Seiken Climcross,IX,Beatrix,AW,Holy,PHY,False
+Seiken Shock End,IX,Beatrix,Sync,Holy,PHY,False
+Spectral Break,IX,Beatrix,Sync,Holy,PHY,False
+Seiken,IX,Beatrix,AD,Holy,PHY,False
+Dread of Death,IX,Kuja,Unique,Dark,MAG,False
+Darkflare Star,IX,Kuja,SSB,Dark,MAG,False
+Clutch Strike,IX,Kuja,SSB,Dark,MAG,False
+Force Symphony,IX,Kuja,BSB,Dark,MAG,True
+Corrupt Refrain,IX,Kuja,BSB,Dark,MAG,False
+Final Requiem,IX,Kuja,OSB,Dark,MAG,False
+Reaper's Call,IX,Kuja,USB,Dark,MAG,False
+Soulsplitter,IX,Kuja,USB,Dark,MAG,False
+Chaotic Rhapsody,IX,Kuja,USB,Dark,MAG,True
+Cloudburst Blessing,IX,Kuja,Chain3,Dark,MAG,False
+Planet Requiem,IX,Kuja,ASB,Dark,MAG,False
+Soul Charge,IX,Kuja,GL,Dark,NA,False
+Dark Refrain,IX,Kuja,GL2,Dark,NA,False
+Ultima Symphony,IX,Kuja,AW,Dark,MAG,False
+Chaos Divider,IX,Kuja,Sync,Dark,MAG,False
+Force Requiem,IX,Kuja,OLB,Dark,MAG,True
+Soul Resonance,IX,Kuja,AD,Dark,MAG,False
+Tantalus Break,IX,Marcus,SSB,Wind Poison,PHY,False
+Poison Impulse,IX,Marcus,BSB,Wind Poison,PHY,False
+Phantom Hazard,IX,Marcus,USB,Wind Poison,PHY,False
+Moment of Vengeance,IX,Marcus,USB,Wind Poison,PHY,False
+Triple Twister,IX,Marcus,ASB,Wind Poison,PHY,False
+Leave it to Me,IX,Marcus,GL,Wind Poison,NA,False
+Blade Gambit,IX,Marcus,AW,Wind Poison,PHY,True
+There You Go!,IX,Marcus,Sync,Wind Poison,PHY,False
+Spiral Cut,X,Tidus,Unique,NE,PHY,False
+Slice & Dice,X,Tidus,Unique,NE,PHY,True
+Swiftform,X,Tidus,Unique,NE,NA,True
+Leap & Rush,X,Tidus,Unique,NE,PHY,False
+Jecht Shot,X,Tidus,SSB,Water,PHY,False
+Abes All-star,X,Tidus,BSB,Water,PHY,False
+Sonic Strike,X,Tidus,BSB,Water,PHY,True
+Energy Rain,X,Tidus,OSB,Water,PHY,False
+Day to Remember,X,Tidus,USB,Water,PHY,True
+Quick Rush,X,Tidus,USB,Water,PHY,False
+A Fleeting Dream,X,Tidus,Chain,Water,PHY MAG,True
+Slash & Splash,X,Tidus,ASB,Water,PHY,False
+Ace Form,X,Tidus,GL,Water,NA,True
+Sphere Form,X,Tidus,GL2,Water,NA,True
+Splash Buster,X,Tidus,AW,Water,PHY,False
+Rising Dream,X,Tidus,AW,Water,PHY,True
+Blitz Ace,X,Tidus,Sync,Water,PHY,True
+Blitz Yell,X,Tidus,Sync,Water,PHY,False
+Heavy Rain,X,Tidus,OLB,Water,PHY,False
+Water Raiment (Tidus),X,Tidus,GLB,Water,NA,False
+Apex Blitz Ace,X,Tidus,AD,Water,PHY,False
+The Sending,X,Yuna,Unique,Holy,MAG,False
+Hymn of the Fayth,X,Yuna,Unique,NE,NA,True
+Farplane Wind,X,Yuna,Unique,Holy,MAG,True
+Dragon's Roar,X,Yuna,SSB,NE,MAG,False
+Miracle Veil,X,Yuna,SSB,NE,NA,False
+Trigger Happy,X,Yuna,BSB,NE,MAG,True
+Tenets of the Fayth,X,Yuna,BSB,NE,MAG,False
+Song for Spira,X,Yuna,USB,NE,NA,True
+Grand Summon Overdrive,X,Yuna,USB,Holy Wind,MAG,False
+Heavenly Blessing,X,Yuna,USB,NE,NA,False
+Whistle Promise,X,Yuna,USB,NE,NA,True
+Calm Prayer,X,Yuna,USB,NE,NA,False
+Fanciful Ballad,X,Yuna,Chain3,Holy,MAG,False
+Grand Summon Dragonlord,X,Yuna,ASB,Holy Wind,MAG,False
+Boundless Heart,X,Yuna,GL2,Holy,NA,False
+Fayth's Refuge,X,Yuna,GL,Holy,NA,False
+Bright Prospects,X,Yuna,GL,Holy,NA,False
+Yearning Prayer,X,Yuna,GL2,NE,NA,False
+Final Wall,X,Yuna,GL2,NE,NA,False
+Cradling Words,X,Yuna,AW,NE,NA,False
+For the Calm,X,Yuna,AW,Holy Wind,MAG,True
+Farplane Wish,X,Yuna,Sync,Holy Wind,MAG,False
+Guardian Valefor,X,Yuna,Guardian,Holy Wind,MAG,False
+Status Reels,X,Wakka,Unique,NE,PHY,True
+Attack Reels,X,Wakka,Unique,NE,PHY,False
+Aurochs Reels,X,Wakka,SSB,NE,PHY,False
+Dual Buster,X,Wakka,BSB,Water,PHY,True
+Assault Reels,X,Wakka,BSB,NE,PHY,False
+Aurochs Spirit,X,Wakka,USB,Water,PHY,True
+Aurochs' Shot,X,Wakka,USB,Water,PHY,True
+Blitz Discipline,X,Wakka,Chain3,ALL,PHY MAG,False
+Centre Attack,X,Wakka,GL2,Water,PHY,False
+Ocean Reels,X,Wakka,GL2,Water,NA,False
+Ace Lesson,X,Wakka,AW,Water,PHY,True
+Last Blitz,X,Wakka,AW,Water,PHY,False
+Aurochs Spirit+,X,Wakka,Sync,Water,PHY,False
+Water Flash (Wakka),X,Wakka,GLB,Water,PHY,False
+Apex Aurochs Reels,X,Wakka,AD,Water,PHY,False
+Firaga Fury,X,Lulu,Unique,Fire,MAG,True
+Focus (X),X,Lulu,Unique,NE,NA,True
+March of the Moogles,X,Lulu,SSB,Ice,MAG,False
+Icy Smile,X,Lulu,SSB,Ice,MAG,True
+Triple Threat,X,Lulu,BSB,Ice Fire Water,MAG,False
+Abaddon Blizzaja,X,Lulu,USB,Ice,MAG,True
+Blizzard & Water Fury,X,Lulu,USB,Ice Water,MAG,True
+Triple Trick,X,Lulu,USB,Ice Water Lightning,MAG,False
+Twin Temptations,X,Lulu,ASB,Ice Water,MAG,True
+Icy Beauty,X,Lulu,GL,Ice,NA,False
+Overlapping Futures,X,Lulu,GL2,Ice Water Lightning,NA,False
+Aqueous Beauty,X,Lulu,GL,Water,NA,False
+The Future Waits,X,Lulu,AW,Ice Water,MAG,True
+Voltech Fury,X,Lulu,AW,Ice Water Lightning,MAG,False
+Plushie Magic,X,Lulu,Sync,Ice Water Lightning,MAG,False
+Ultima Fury,X,Lulu,AD,Ice Water Lightning,MAG,False
+Mighty Guard (X),X,Kimahri,Unique,NE,NA,False
+Ronso Jump,X,Kimahri,Unique,NE,PHY,False
+Fang of Gagazet,X,Kimahri,SSB,NE,PHY,False
+Aqua Breath (X),X,Kimahri,BSB,Water,PHY,True
+Ronso Breath,X,Kimahri,USB,Water,PHY,False
+Undimmed Spirit,X,Kimahri,USB,Water,NA,False
+Azure Lance,X,Kimahri,ASB,Water Fire,PHY,True
+Aqua Landing,X,Kimahri,GL2,Water,NA,False
+Dragonfang Current,X,Kimahri,AW,Water,PHY,False
+Inherited Resolve,X,Kimahri,Sync,Water,PHY,False
+Hazardous Shell,X,Rikku,Unique,NE,PHY,False
+Machina Sabotage,X,Rikku,Unique,NE,PHY,True
+Hyper NulAll,X,Rikku,Unique,NE,NA,False
+Master Thief,X,Rikku,SSB,NE,PHY,False
+Al Bhed Brew,X,Rikku,SSB,NE,NA,True
+Machinations,X,Rikku,BSB,Water Lightning,PHY,True
+Team Bomb,X,Rikku,BSB,Water,PHY,False
+Thief Dressphere,X,Rikku,USB,Water,PHY,False
+Hyper Mighty G,X,Rikku,USB,NE,NA,True
+Eternal Dedication,X,Rikku,Chain2,ALL,PHY MAG,False
+Hyper Enwater,X,Rikku,Chain2,Water,PHY,False
+Secret Concoction,X,Rikku,GL2,NE,NA,True
+Mega Enwater,X,Rikku,GL2,Water,NA,False
+Marine Time,X,Rikku,GL,Water,NA,True
+Water Buster,X,Rikku,AW,Water,PHY,False
+Dynamic Mix,X,Rikku,AW,Water,PHY,True
+Tidal Wave,X,Rikku,Sync,Water,PHY,True
+True Aqua Toxin,X,Rikku,Sync,Water,PHY,False
+Mix Bubble Bomb,X,Rikku,OLB,Water,PHY,False
+Mix,X,Rikku,AD,Water,PHY,False
+Dragon Fang,X,Auron,Unique,NE,PHY,True
+Shooting Star,X,Auron,Unique,NE,PHY,False
+Undefeated,X,Auron,Unique,NE,PHY,True
+Banishing Blade,X,Auron,SSB,NE,PHY,False
+Tornado,X,Auron,BSB,Fire,PHY,False
+Bushido,X,Auron,BSB,NE,PHY,False
+Fiery Heart,X,Auron,BSB,Fire,PHY,True
+Unwavering Resolve,X,Auron,OSB,Fire,PHY,True
+Alkaid,X,Auron,USB,Fire,PHY,False
+Lost Arts,X,Auron,USB,Fire,PHY,True
+Nog Fire,X,Auron,Chain2,Fire,PHY,True
+Ash and Dust,X,Auron,ASB,Fire,PHY,False
+Flaming Reflection,X,Auron,GL2,Fire,NA,True
+Scorching Shank,X,Auron,GL,Fire,PHY,True
+Guardian Grit,X,Auron,GL,Fire,NA,True
+Blazing Fate,X,Auron,AW,Fire,PHY,False
+Legendary Guardian,X,Auron,AW,Fire,PHY,False
+Secret Shooting Star,X,Auron,Sync,Fire,PHY,False
+True Banishing Blade,X,Auron,Sync,Fire,PHY,False
+Secret Dragon Fang,X,Auron,OLB,Fire,PHY,False
+Apex Tornado,X,Auron,AD,Fire,PHY,False
+Jecht Beam,X,Jecht,Unique,NE,PHY,False
+Jecht Rush,X,Jecht,Unique,NE,PHY,False
+Ultimate Jecht Shot,X,Jecht,SSB,NE,PHY,True
+Jecht's Blade,X,Jecht,SSB,Dark,PHY,False
+Wound Up,X,Jecht,BSB,Fire,PHY,False
+Final Transformation,X,Jecht,BSB,Dark,PHY,False
+Blitz King,X,Jecht,OSB,Dark Fire,PHY,True
+Struggle Within,X,Jecht,USB,Dark Fire,PHY,False
+Ultimate Jecht Rush,X,Jecht,USB,Dark,PHY,True
+Jecht Slash,X,Jecht,USB,Fire,PHY,True
+Jecht Impact,X,Jecht,ASB,Dark Fire,PHY,True
+Jecth Charge,X,Jecht,GL,Dark Fire,NA,False
+Jecht Spirit,X,Jecht,GL,NE,NA,False
+Triumphant Grasp,X,Jecht,AW,Dark Fire,PHY,False
+Jecht Dream,X,Jecht,AW,Dark Fire,PHY,True
+Meteor Shot,X,Jecht,Sync,Dark Fire,PHY,False
+Ultimate Jecht Beam,X,Jecht,OLB,Dark Fire,PHY,False
+Fake Out,X,Jecht,AD,Dark Fire,PHY,False
+Aeons of Wing and Flame,X,Braska,SSB,Fire,MAG,True
+Wandering Flame,X,Braska,SSB,Fire,MAG,True
+Summoner's Dream,X,Braska,SSB,NE,NA,False
+Trine Summoning,X,Braska,BSB,Fire Lightning,MAG,False
+Sorrowbane Flame,X,Braska,USB,Fire,MAG,False
+Twin Summoning,X,Braska,USB,Fire Lightning,MAG,False
+Greater Ifrit,X,Braska,ASB,Fire,MAG,True
+Crimson Prayer,X,Braska,GL2,Fire,MAG,False
+A Dream of Journey's End,X,Braska,GL,Fire,NA,False
+Summon Fire II,X,Braska,AW,Fire,MAG,False
+Summon Flamebeast,X,Braska,AW,Fire,MAG,False
+High Summoner's Flame,X,Braska,Sync,Fire,MAG,False
+Sword Dance,X,Paine,SSB,Earth Wind,PHY,True
+Liquid Steel,X,Paine,SSB,Water,PHY,True
+Whelmen,X,Paine,BSB,Water,PHY,True
+Grand Storm,X,Paine,BSB,Water Earth Wind,PHY,True
+Rushing Steel,X,Paine,USB,Water,PHY,False
+Gullwinged Perfection,X,Paine,USB,Water,PHY,False
+Throttle Alluvion,X,Paine,USB,Water,PHY,True
+Cool Holiday,X,Paine,Chain2,Water,PHY,True
+Strike and Strip,X,Paine,ASB,Water,PHY,True
+Maulwings Flurry,X,Paine,GL2,Water,NA,False
+Bring the Pain!,X,Paine,GL2,Water,NA,True
+YRP Combo!,X,Paine,AW,Water,PHY,False
+Water Throttle,X,Paine,Sync,Water,PHY,False
+Liquid Steel Throttle,X,Paine,Sync,Water,PHY,False
+Full Throttle Cap Break,X,Paine,AD,Water,PHY,False
+Cross Cleave,X,Seymour,SSB,Dark,MAG,False
+Anima's Pain,X,Seymour,BSB,Dark,MAG,True
+Guado Grudge,X,Seymour,BSB,Dark,MAG,True
+Merciless Barrage,X,Seymour,USB,Dark,MAG,True
+Eternal Peace,X,Seymour,USB,Dark,MAG,False
+Oblivion,X,Seymour,Chain,Dark,PHY MAG,False
+Lance of Atrophy,X,Seymour,ASB,Dark,MAG,False
+Dark Imaginings,X,Seymour,GL,Dark,NA,True
+A Son's Yearning,X,Seymour,GL2,Dark,MAG,False
+Requiem of Destruction,X,Seymour,AW,Dark,MAG,False
+Feel My Pain!,X,Seymour,AW,Dark,MAG,False
+Begrudging Soul,X,Seymour,Sync,Dark,MAG,False
+Vidofnir,XI,Shantotto,SSB,NE,MAG,True
+Primordial Elements,XI,Shantotto,SSB,Fire Ice Lightning,MAG,True
+Play Rough,XI,Shantotto,BSB,Lightning Fire Ice,MAG,True
+A Thousand Suns,XI,Shantotto,USB,Lightning Ice Fire,MAG,True
+Frightening Lightning,XI,Shantotto,Chain,Lightning,PHY MAG,True
+Bond (Shantotto),XI,Shantotto,Chain4,ALL,PHY MAG,False
+New Thunder Chain,XI,Shantotto,Chain3,Lightning,MAG,False
+Colossal Shantotto,XI,Shantotto,ASB,Lightning,MAG,True
+Elemental Celerity,XI,Shantotto,GL,Lightning,NA,True
+Thrills and Spills!,XI,Shantotto,GL2,Lightning,MAG,False
+Federation Demon,XI,Shantotto,AW,Lightning,MAG,True
+Chain Thunder Play,XI,Shantotto,Sync,Lightning,MAG,False
+Ancient Magic Burst II,XI,Shantotto,OLB,Lightning,MAG,True
+Salvation Scythe,XI,Shantotto,AD,Lightning,MAG,False
+Tachi Jinpu,XI,Ayame,SSB,Wind,PHY,True
+Meikyo Shisui,XI,Ayame,BSB,Ice,PHY,True
+Ancestral Blade,XI,Ayame,OSB,Ice,PHY,False
+Hagakure Yukikaze,XI,Ayame,USB,Ice,PHY,True
+Tachi: Ageha Cho,XI,Ayame,ASB,Ice,PHY,True
+Overwhelm,XI,Ayame,GL,Ice,NA,False
+Ikishoten,XI,Ayame,GL2,Ice,NA,False
+Shin-Setsugekka,XI,Ayame,AW,Ice,PHY,False
+Winter Moon Blossom,XI,Ayame,Sync,Ice,PHY,False
+Apex Skillchain,XI,Ayame,AD,Ice,PHY,False
+Swift Blade,XI,Curilla,SSB,Holy,PHY,False
+Intervention,XI,Curilla,BSB,Holy,PHY,False
+Holy Circle,XI,Curilla,USB,NE,NA,True
+Extreme Defense,XI,Curilla,USB,NE,NA,True
+Dawn Prayer,XI,Curilla,Chain3,ALL,PHY MAG,False
+Circle Blade,XI,Curilla,ASB,Holy,PHY,True
+Sacred Seal,XI,Curilla,GL2,Holy,NA,False
+One-Eyed Swordmaster,XI,Curilla,GL,Holy,NA,False
+Vorpal Blade,XI,Curilla,AW,Holy,PHY,False
+Knights of Round,XI,Curilla,Sync,Holy,PHY,False
+Rigorous Reverie,XI,Prishe,SSB,NE,NA,False
+Nullifying Dropkick,XI,Prishe,BSB,NE,PHY,True
+Auroral Uppercut,XI,Prishe,USB,NE,PHY,False
+Asuran Fists,XI,Prishe,USB,Lightning Ice,PHY,False
+Heroine's Combat,XI,Prishe,Chain2,ALL,PHY MAG,False
+One Inch Punch,XI,Prishe,ASB,Lightning Ice,PHY,False
+Impetus,XI,Prishe,GL2,Lightning Ice,NA,False
+Raging Flurry,XI,Prishe,AW,Lightning Ice,PHY,True
+Hundred Fists,XI,Prishe,Sync,Lightning Ice,PHY,False
+Chi Blast,XI,Prishe,OLB,Lightning Ice,PHY,False
+Knuckle Sandwich,XI,Prishe,AD,Lightning Ice,PHY,False
+Powder Keg,XI,Lion,SSB,NE,PHY,False
+Walk the Plank,XI,Lion,BSB,NE,PHY,True
+Pirate Pummel,XI,Lion,USB,NE,PHY,True
+Dancing Edge (XI),XI,Lion,USB,Water,PHY,False
+Scatter Shot,XI,Lion,ASB,Water,PHY,True
+Shark Bite,XI,Lion,GL2,Water,PHY,True
+Pirate's Tutelage,XI,Lion,GL,Water,NA,False
+Evisceration,XI,Lion,AW,Water,PHY,False
+Mandalic Stab,XI,Lion,Sync,Water,PHY,False
+Apex Walk the Plank,XI,Lion,AD,Water,PHY,False
+Remove & Resist,XI,Aphmau,SSB,NE,NA,True
+Realignment,XI,Aphmau,BSB,Lightning,MAG,True
+Overdrive (XI),XI,Aphmau,USB,NE,NA,True
+Imperial Heal,XI,Aphmau,USB,Holy,MAG,True
+Instant Manipulation,XI,Aphmau,GL2,NE,NA,True
+Benediction (XI),XI,Aphmau,AW,NE,NA,False
+Automation Band,XI,Aphmau,Sync,NE,NA,False
+Freezebite,XI,Zeid,SSB,Dark Ice,PHY,False
+Abyssal Strike,XI,Zeid,BSB,Dark,PHY,True
+Darksheen Blade,XI,Zeid,USB,Dark,PHY,False
+Shockwave (XI),XI,Zeid,ASB,Dark,PHY,True
+Chastise,XI,Zeid,GL2,Dark,PHY,False
+Sickle Moon,XI,Zeid,AW,Dark,PHY,True
+Scourge (XI),XI,Zeid,Sync,Dark,PHY,False
+Ground Strike,XI,Zeid,OLB,Dark,PHY,False
+Torcleaver,XI,Zeid,AD,Dark,PHY,True
+Vivifying Waltz,XI,Lilisette,BSB,Lightning Wind,PHY,True
+Sensual Dance,XI,Lilisette,USB,Lightning Wind,PHY,True
+Climactic Flourish,XI,Lilisette,GL2,NE,NA,False
+Desperate Flourish,XI,Lilisette,AW,NE,NA,False
+Rousing Samba,XI,Lilisette,Sync,NE,NA,False
+Guardian Lady Lilith,XI,Lilisette,Guardian,Lightning Wind,PHY,False
+True Strike,XI,Naja,USB,Earth,PHY,False
+Salaheem Slam,XI,Naja,ASB,Earth,PHY,True
+Warrior's Charge,XI,Naja,GL,Earth,NA,True
+White Whorl,XII,Vaan,Unique,NE,PHY,True
+Windburst,XII,Vaan,Unique,NE,PHY,True
+Piercing Blow,XII,Vaan,SSB,NE,PHY,False
+Pyroclasm,XII,Vaan,SSB,NE,PHY,False
+Ark Blast,XII,Vaan,BSB,NE,PHY,True
+Blood-Red Spiral,XII,Vaan,OSB,NE,PHY,False
+License Acquired,XII,Vaan,USB,Wind,PHY,False
+Cruelest Azure,XII,Vaan,USB,NE,PHY,True
+Calamitous Orb,XII,Vaan,USB,Wind,PHY,True
+Wind of Liberation,XII,Vaan,Chain3,Wind,PHY,False
+Whitest Whorl,XII,Vaan,ASB,Wind,PHY,False
+Rabanastre Rumble,XII,Vaan,GL,Wind,PHY,True
+Spiral Wind II,XII,Vaan,GL2,Wind,NA,False
+Spiral Wind,XII,Vaan,GL,Wind,NA,False
+Dreadnought,XII,Vaan,AW,Wind,PHY,False
+Luminescence,XII,Vaan,AW,Wind,PHY,False
+Head Strike,XII,Vaan,Sync,Wind,PHY,False
+Cruel Veil,XII,Vaan,Sync,Wind,PHY,False
+Swift Superstar,XII,Vaan,OLB,Wind,PHY,False
+Apex Pyroclasm,XII,Vaan,AD,Wind,PHY,False
+Element of Treachery,XII,Balthier,Unique,NE,PHY,True
+Tides of Fate,XII,Balthier,Unique,Water,PHY,False
+Strahl Strafe,XII,Balthier,SSB,Fire,PHY,False
+Inferno,XII,Balthier,SSB,Fire,PHY,True
+Gatling Gun,XII,Balthier,BSB,Fire,PHY,False
+Sprak of Change,XII,Balthier,BSB,Fire,PHY,True
+S-85 Cyclotrone,XII,Balthier,OSB,Fire,PHY,False
+Makara,XII,Balthier,USB,Fire,PHY,False
+Edge of Treachery,XII,Balthier,USB,Fire,PHY,True
+Prodigal Son,XII,Balthier,Chain2,ALL,PHY MAG,False
+Incendiary Trap,XII,Balthier,Chain3,Fire,PHY,False
+Tales of the Past,XII,Balthier,ASB,Fire,PHY,False
+Rise and Fall,XII,Balthier,GL2,Fire,NA,False
+Snatch Heart,XII,Balthier,GL2,Fire,PHY,False
+Scarlet Sky Fluke,XII,Balthier,GL2,Fire,NA,False
+The Fleetfooted,XII,Balthier,GL,Fire,NA,True
+Untouchable Hellfire,XII,Balthier,AW,Fire,PHY,True
+Catastrophic Grand Cross,XII,Balthier,AW,Fire,PHY,False
+Fierce Big Bang,XII,Balthier,Sync,Fire,PHY,True
+True Fires of War,XII,Balthier,OLB,Fire,PHY,False
+Apex Element of Treachery,XII,Balthier,AD,Fire,PHY,False
+Whip Kick,XII,Fran,Unique,NE,PHY,True
+Shatterheart,XII,Fran,Unique,NE,PHY,False
+Mist Overload,XII,Fran,SSB,NE,PHY,False
+Pinpoint,XII,Fran,SSB,Lightning,PHY,False
+Gaze of the Void,XII,Fran,BSB,NE,PHY,False
+Thundering Hail,XII,Fran,BSB,Ice Lightning,PHY,True
+Vanquished Cries,XII,Fran,USB,Ice Dark,PHY,True
+Sparkchill Fang,XII,Fran,USB,Ice Lightning,PHY,True
+Chain of Blizzard,XII,Fran,Chain,Ice,PHY MAG,True
+Shatterlink,XII,Fran,Chain3,Ice,PHY,True
+Hawkeyed Marksman,XII,Fran,GL2,NE,NA,False
+Steady Grip,XII,Fran,GL2,Ice Lightning,NA,False
+Wild Frolic,XII,Fran,AW,Ice Lightning,PHY,True
+Shatterheart Flash,XII,Fran,AW,Ice Lightning,PHY,False
+Boreal Sparkshot,XII,Fran,Sync,Ice Lightning,PHY,True
+Dual Mist,XII,Fran,OLB,Ice Lightning,PHY,False
+Fulminating Darkness,XII,Basch,Unique,Dark,PHY,False
+Apocalypse Shield,XII,Basch,Unique,NE,NA,True
+Ruin Impendent,XII,Basch,SSB,NE,PHY,True
+Shining Ray,XII,Basch,BSB,Holy,PHY,True
+Righteous Steel,XII,Basch,OSB,Holy Dark,PHY,False
+Clash of Light and Flame,XII,Basch,USB,Holy Fire,PHY,True
+Exemplar of Honor,XII,Basch,USB,NE,NA,False
+Blazing Duality,XII,Basch,USB,Holy Fire Dark,PHY,False
+Faith Shield,XII,Basch,Chain3,ALL,PHY MAG,False
+Swordflash Oath,XII,Basch,Chain3,Holy,PHY,False
+Starfire Purge,XII,Basch,ASB,Holy Fire Dark,PHY,False
+Captain's Resolve,XII,Basch,GL2,Holy Fire,PHY,True
+Captain's Loyalty,XII,Basch,GL2,NE,NA,False
+Flame Purge,XII,Basch,AW,Holy Fire Dark,PHY,False
+True Ruin Impendent,XII,Basch,Sync,Holy Fire,PHY,False
+Brotherly Rift,XII,Basch,Sync,Holy Fire Dark,PHY,False
+Captain's Oathblade,XII,Basch,OLB,Holy Fire,PHY,False
+Apex Flame Purge,XII,Basch,AD,Holy Fire Dark,PHY,False
+Heaven's Wrath,XII,Ashe,Unique,Holy,MAG,False
+Northswain's Glow,XII,Ashe,Unique,NE,MAG,True
+Maelstrom's Bolt,XII,Ashe,SSB,Lightning,MAG,False
+Dusk's Decree,XII,Ashe,BSB,Lightning,MAG,True
+Thunder's Echo,XII,Ashe,OSB,Lightning,MAG,True
+Empyrean's Edict,XII,Ashe,USB,Lightning,MAG,True
+Inspiring Flash,XII,Ashe,USB,Lightning,MAG,True
+Lodestar's Gleam,XII,Ashe,ASB,Lightning,MAG,True
+Dusk Mote,XII,Ashe,GL,Lightning,NA,True
+Dynast-King's Scion,XII,Ashe,GL2,Lightning,NA,False
+Northswain's Bolt,XII,Ashe,AW,Lightning,MAG,False
+Saintly Pride,XII,Ashe,Sync,Lightning,MAG,True
+Channeling Bolt,XII,Ashe,Sync,Lightning,MAG,False
+Thunder Flash (Ashe),XII,Ashe,GLB,Lightning,MAG,False
+Apex Heaven's Wrath,XII,Ashe,AD,Lightning,MAG,False
+War Dance,XII,Penelo,Unique,NE,NA,False
+Mincing Minuet,XII,Penelo,Unique,Holy,MAG,False
+Intercession,XII,Penelo,SSB,Holy,MAG,False
+Resurrection,XII,Penelo,BSB,NE,NA,True
+Evanescence,XII,Penelo,BSB,Holy,MAG,True
+Dance of Rapture,XII,Penelo,USB,NE,NA,False
+Tear Drops,XII,Penelo,USB,NE,NA,True
+Childhood Bond,XII,Penelo,GL2,NE,NA,False
+Dancing Heart,XII,Penelo,AW,NE,NA,False
+Shining Vindication,XII,Penelo,Sync,NE,NA,False
+Enrage,XII,Gabranth,Unique,Dark,PHY,False
+Fulminating Oblivion,XII,Gabranth,SSB,Dark,PHY,True
+Avenger,XII,Gabranth,SSB,Dark,PHY,True
+Innocence,XII,Gabranth,BSB,Dark,PHY,False
+Hatred,XII,Gabranth,OSB,Dark,PHY,False
+Ruin Unflinching,XII,Gabranth,USB,Dark,PHY,False
+Frost Purge,XII,Gabranth,USB,Dark,PHY,False
+Ruinous Hatred,XII,Gabranth,Chain2,Dark,PHY,False
+Hateful Rush,XII,Gabranth,ASB,Dark,PHY,False
+Fathomless Grievance,XII,Gabranth,GL2,Dark,NA,False
+Hour of Vengeance,XII,Gabranth,GL2,NE,NA,True
+Darksteel Wrath,XII,Gabranth,GL,Dark,NA,True
+Endless Wail,XII,Gabranth,AW,Dark,PHY,False
+Vengeful Judgment,XII,Gabranth,Sync,Dark,PHY,False
+Dual Rend,XII,Gabranth,OLB,Dark,PHY,False
+Archadian Draught,XII,Larsa,SSB,NE,NA,False
+Manufacted Marvel,XII,Larsa,SSB,NE,NA,True
+Life Crystal,XII,Larsa,BSB,NE,NA,True
+Scintillating Potion,XII,Larsa,USB,NE,NA,True
+Potion Shower,XII,Larsa,USB,NE,NA,False
+Potions Aplenty,XII,Larsa,USB,NE,NA,False
+Hi-Potion (XII),XII,Larsa,GL2,NE,NA,False
+Alabaster Path,XII,Larsa,GL2,NE,NA,True
+Unsullied Prince,XII,Larsa,GL,NE,NA,True
+Soothing Wave,XII,Larsa,AW,NE,NA,True
+Tracer Potion,XII,Larsa,AW,NE,NA,False
+Amity Potion,XII,Larsa,Sync,NE,NA,False
+Mach Wave,XII,Vayne,SSB,Dark,PHY MAG,False
+Force of Will,XII,Vayne,BSB,Dark,PHY MAG,False
+Divine Sword,XII,Vayne,OSB,Dark Holy,PHY MAG,True
+Tree of Sephira,XII,Vayne,USB,Dark,PHY MAG,True
+Relentless Drive,XII,Vayne,USB,Dark,PHY MAG,True
+Chain of Dark,XII,Vayne,Chain,Dark,PHY MAG,True
+Soaring Spirits,XII,Vayne,ASB,Dark,PHY MAG,True
+Dark Conquest,XII,Vayne,GL2,Dark,PHY MAG,False
+Solidor's Shadow,XII,Vayne,GL2,Dark,PHY MAG,False
+Military Manifesto,XII,Vayne,AW,Dark,PHY MAG,False
+Stygian Wave,XII,Vayne,AW,Dark,PHY MAG,False
+Steel Fusillade,XII,Vayne,Sync,Dark,PHY MAG,True
+Contempt,XII,Vayne,OLB,Dark,PHY MAG,False
+Dual Swords,XII,Reks,SSB,NE,PHY,True
+Whitefall,XII,Reks,BSB,Lightning Ice,PHY,False
+Son of Dalmasca,XII,Reks,USB,Lightning,NA,True
+Thunderblade Rush,XII,Reks,USB,Lightning,PHY,False
+Courageous Mind,XII,Reks,GL2,Lightning,NA,True
+Dalmascan Oath,XII,Reks,AW,Lightning,PHY,False
+Dalmascan Spiral,XII,Reks,AW,Lightning,PHY,True
+Dalmascan Hazard,XII,Reks,Sync,Lightning,PHY,True
+Blaze Rush,XIII,Lightning,Unique,NE,PHY,True
+Smite,XIII,Lightning,Unique,NE,PHY,False
+Stormborn,XIII,Lightning,Unique,Lightning,NA,False
+Crushing Blow,XIII,Lightning,SSB,Lightning,PHY,False
+Lightning Strike,XIII,Lightning,SSB,Lightning,PHY,False
+Focused Bolts,XIII,Lightning,BSB,Lightning,PHY,False
+Requiem of the Goddess,XIII,Lightning,BSB,NE,PHY,True
+Thunderfall,XIII,Lightning,OSB,Lightning,PHY,True
+Army of One,XIII,Lightning,USB,Lightning,PHY,True
+Dangerous Beauty,XIII,Lightning,USB,Holy Lightning,PHY,True
+Lightning Blitz,XIII,Lightning,USB,Lightning,PHY,True
+Blaze Slash,XIII,Lightning,ASB,Lightning,PHY,True
+Glittering Feather,XIII,Lightning,ASB,Holy,PHY,True
+Bond (Lightning),XIII,Lightning,Chain4,ALL,PHY MAG,False
+Seismic Strike,XIII,Lightning,GL,Lightning,PHY,False
+Rending Thunder,XIII,Lightning,GL2,Lightning,PHY,False
+War God's Resolve,XIII,Lightning,GL2,Holy,NA,False
+Army of One Evolved,XIII,Lightning,AW,Lightning,PHY,False
+Elegant Drive,XIII,Lightning,AW,Holy,PHY,True
+Gestalt Drive,XIII,Lightning,Sync,Lightning,PHY,False
+Centuria of One,XIII,Lightning,Sync,Holy,PHY,True
+Artemis's Arrows,XIII,Lightning,OLB,Lightning,PHY,False
+Zanzetsuken,XIII,Lightning,AD,Lightning,PHY,True
+Sovereign Fist,XIII,Snow,Unique,NE,PHY,True
+Challenge,XIII,Snow,Unique,Ice,PHY,False
+Froststrike,XIII,Snow,Unique,Ice,PHY,True
+Diamond Dust,XIII,Snow,SSB,Ice,PHY,False
+Entrench,XIII,Snow,SSB,NE,PHY,True
+A Hero Rides,XIII,Snow,BSB,Ice,PHY,False
+Here we go!,XIII,Snow,BSB,Ice,PHY,False
+Dogged Hero,XIII,Snow,USB,Ice,PHY,False
+Soaring Tension,XIII,Snow,USB,Ice,PHY,False
+Revenge Wall,XIII,Snow,USB,NE,NA,False
+Frost Geyser,XIII,Snow,Chain,Ice,PHY MAG,True
+Icefist Smash,XIII,Snow,ASB,Ice,PHY,False
+Hero's Fist,XIII,Snow,GL2,Ice,PHY,False
+Icicle Veil,XIII,Snow,GL,Ice,NA,False
+Icicle Form,XIII,Snow,GL2,Ice,NA,True
+Diamond Gazer,XIII,Snow,AW,Ice,PHY,False
+Indomitable Love,XIII,Snow,AW,Ice,PHY,True
+Diamond Fist,XIII,Snow,Sync,Ice,PHY,False
+A Dream Revealed,XIII,Snow,Sync,Ice,PHY,False
+Ice Chain Promise,XIII,Snow,OLB,Ice,PHY,False
+Ice Raiment (Snow),XIII,Snow,GLB,Ice,NA,False
+Frost Sanction,XIII,Snow,AD,Ice,PHY,False
+Deprotega,XIII,Vanille,Unique,NE,MAG,False
+Oerba's Boon,XIII,Vanille,Unique,NE,NA,False
+Miracle Prayer,XIII,Vanille,SSB,NE,NA,True
+Transcendent Dream,XIII,Vanille,BSB,Holy,MAG,False
+Shifting Worlds,XIII,Vanille,BSB,NE,NA,False
+Bonds of Awakening,XIII,Vanille,USB,NE,NA,True
+Convalescence,XIII,Vanille,USB,NE,NA,False
+Overdo Awakening,XIII,Vanille,USB,NE,NA,True
+Restitution,XIII,Vanille,USB,NE,NA,False
+Need for Speed,XIII,Vanille,GL,NE,NA,True
+Quick Guard,XIII,Vanille,GL2,NE,NA,False
+Swift Recovery,XIII,Vanille,GL2,NE,NA,False
+Quick Curasa,XIII,Vanille,GL,NE,NA,False
+Rose Promenade,XIII,Vanille,AW,NE,NA,True
+Come On Hecaton!,XIII,Vanille,Sync,NE,NA,False
+Steel of Oath,XIII,Vanille,Sync,Earth,MAG,False
+Boon,XIII,Sazh,Unique,NE,NA,True
+Caltrop Bomb,XIII,Sazh,Unique,Fire,PHY,False
+Godsend,XIII,Sazh,SSB,NE,NA,True
+The Choco-Chick,XIII,Sazh,SSB,NE,NA,True
+Choco-Chick Blues,XIII,Sazh,BSB,NE,PHY,True
+Gifted Pilot,XIII,Sazh,USB,NE,NA,False
+This is Gonna Sting!,XIII,Sazh,USB,Fire,PHY,False
+Mission Seeker,XIII,Sazh,Chain3,ALL,PHY MAG,False
+Father's Friend,XIII,Sazh,AW,NE,PHY,False
+Solitary Struggle,XIII,Sazh,AW,Fire Ice Lightning,PHY,False
+Dual Assault,XIII,Sazh,Sync,Fire Ice Lightning,PHY,False
+Father's Gift,XIII,Sazh,OLB,Fire Ice Lightning,PHY,False
+Apex Cold Blood,XIII,Sazh,AD,Fire Ice Lightning,PHY,False
+Brutal Sanction,XIII,Hope,Unique,NE,MAG,True
+Earthquake,XIII,Hope,Unique,Earth,MAG,True
+Last Resort,XIII,Hope,SSB,Holy,MAG,True
+Divine Judgment,XIII,Hope,BSB,Holy,MAG,False
+Explosive Fist,XIII,Hope,BSB,Holy,MAG,True
+Retributive Blast,XIII,Hope,OSB,Holy,MAG,False
+Divine Fist,XIII,Hope,USB,Holy,MAG,True
+Reflecting Arc,XIII,Hope,USB,Holy,MAG,False
+Enchanted Boomerang,XIII,Hope,Chain2,Holy,MAG,True
+Celestial Prison,XIII,Hope,ASB,Holy,MAG,True
+Resolute Faith,XIII,Hope,GL,Holy,NA,True
+Future Hope,XIII,Hope,GL2,NE,NA,True
+Heavenly Judgment,XIII,Hope,AW,Holy,MAG,True
+Righteous Wrath,XIII,Hope,AW,Holy,MAG,False
+Dreadnought Rampage,XIII,Hope,Sync,Holy,MAG,False
+Divine Flash (Hope),XIII,Hope,GLB,Holy,MAG,False
+Apex Last Resort,XIII,Hope,AD,Holy,MAG,False
+Awoken Retributive Blast,XIII,Hope,DuAW,Holy,MAG,False
+Pulsar Burst,XIII,Fang,Unique,NE,PHY,False
+High Dive,XIII,Fang,Unique,NE,PHY,False
+Highwind (XIII),XIII,Fang,SSB,Fire Wind,PHY,True
+Aerial Loop,XIII,Fang,SSB,Wind,PHY,False
+Megaflare,XIII,Fang,BSB,Wind,PHY,True
+Raging Whirlwind,XIII,Fang,BSB,Wind,PHY,False
+Soaring Spear,XIII,Fang,OSB,Wind,PHY,False
+Bahamut Dive,XIII,Fang,USB,Wind,PHY,False
+Whim of Ragnarok,XIII,Fang,USB,Wind,PHY,True
+Devoted Warriors,XIII,Fang,Chain2,ALL,PHY MAG,True
+Wind Bond (Fang),XIII,Fang,Chain4,Wind,PHY,False
+Gran Pulse Stormspear,XIII,Fang,ASB,Wind,PHY,False
+Smash Blast,XIII,Fang,GL,Wind,PHY,False
+Dragon Blast,XIII,Fang,GL2,Wind,PHY,False
+Destruction Dive,XIII,Fang,AW,Wind,PHY,False
+Bahamut Assault,XIII,Fang,Sync,Wind,PHY,True
+Apex Highwind (XIII),XIII,Fang,AD,Wind,PHY,False
+Highwind Dive,XIII,Fang,OLB,Wind,PHY,False
+Awoken Whirlwind,XIII,Fang,DuAW,Wind,PHY,False
+Clock Master,XIII,Serah,Unique,NE,MAG,True
+Ultima Arrow,XIII,Serah,SSB,NE,MAG,False
+Endless Blessings,XIII,Serah,SSB,NE,NA,True
+Moonfrost Arrows,XIII,Serah,BSB,Ice,MAG,False
+Eternity Unpromised,XIII,Serah,BSB,Ice,MAG,False
+Etro Arrow,XIII,Serah,USB,Ice,MAG,False
+Artemis Volley,XIII,Serah,USB,Ice,MAG,True
+Aquatic Strike,XIII,Serah,USB,Water,MAG,False
+Etro Fusion,XIII,Serah,Chain2,Ice,MAG,True
+Artemis Frost,XIII,Serah,ASB,Ice Water,MAG,True
+Artemis Zone,XIII,Serah,GL2,Ice,NA,False
+Artemis Shower,XIII,Serah,GL2,Water,MAG,True
+Artemis Veil,XIII,Serah,GL,Ice,NA,False
+Artemis Field,XIII,Serah,GL,Water,NA,True
+Artemis Charge,XIII,Serah,GL2,NE,NA,False
+Ultracold,XIII,Serah,AW,Ice Water,MAG,False
+Arrow of Tears,XIII,Serah,AW,Water,MAG,False
+Transcendent Arrow,XIII,Serah,Sync,Ice,MAG,False
+Tidal Arrow,XIII,Serah,Sync,Water,MAG,True
+Apex Ultima Arrow,XIII,Serah,AD,Ice,MAG,False
+Offensive Shift,XIII,Cid Raines,Unique,NE,MAG,False
+Seraphic Ray,XIII,Cid Raines,SSB,Holy,MAG,True
+Seraph's Wing,XIII,Cid Raines,SSB,NE,MAG,True
+Metamorphose,XIII,Cid Raines,BSB,Dark Holy,MAG,True
+Shattered Dreams,XIII,Cid Raines,OSB,Dark Holy,MAG,True
+Wings of Despair,XIII,Cid Raines,USB,Dark Holy,MAG,False
+True Miracle,XIII,Cid Raines,USB,Dark Holy,MAG,True
+Seraphic End,XIII,Cid Raines,ASB,Dark Holy,MAG,True
+Seraphic Shift,XIII,Cid Raines,GL2,Dark Holy,NA,False
+Dark Shift,XIII,Cid Raines,GL,NE,NA,False
+Angel of Doom,XIII,Cid Raines,AW,Dark Holy,MAG,True
+Dystopian Shift,XIII,Cid Raines,AW,Dark Holy,MAG,False
+Last Destiny,XIII,Cid Raines,Sync,Dark Holy,MAG,False
+Deathblow,XIII,Noel,SSB,NE,PHY,False
+Meteor Javelin,XIII,Noel,BSB,NE,PHY,False
+Hunter's Rimefang,XIII,Noel,BSB,Ice,PHY,False
+Break Frost,XIII,Noel,BSB,Ice,PHY,True
+Ice Javelin,XIII,Noel,USB,Ice,PHY,False
+Blizzard Hunt,XIII,Noel,USB,Ice,PHY,True
+Ice Bond (Noel),XIII,Noel,Chain4,Ice,PHY,True
+Icefang Lance,XIII,Noel,ASB,Ice Water,PHY,False
+Hunting Javelin,XIII,Noel,GL2,Ice,PHY,False
+Sunleth Blow,XIII,Noel,GL2,Ice Water,NA,False
+Blessing of Shadows,XIII,Noel,AW,Ice,PHY,False
+Hunter's Pride,XIII,Noel,AW,Water,PHY,False
+Future Remembrance,XIII,Noel,Sync,Ice Water,PHY,True
+Javelin Rush,XIII,Noel,OLB,Ice Water,PHY,False
+Apex Meteor Javelin,XIII,Noel,AD,Ice Water,PHY,False
+Awoken Break Frost,XIII,Noel,DuAW,Ice Water,PHY,False
+Call Reinforcements,XIII,Nabaat,SSB,Dark,MAG,False
+Sacrifice Pawn,XIII,Nabaat,BSB,Dark,MAG,False
+Giver of Pain,XIII,Nabaat,USB,Dark,MAG,False
+Fatal Refrain,XIII,Nabaat,USB,Dark,MAG,False
+Cruelty Gear,XIII,Nabaat,ASB,Dark,MAG,True
+Destructive Gear,XIII,Nabaat,GL,Dark,MAG,False
+Dark Talents,XIII,Nabaat,GL2,Dark,NA,False
+Sadistic Heart,XIII,Nabaat,AW,Dark,MAG,True
+Army Gear,XIII,Nabaat,Sync,Dark,MAG,False
+Malicious Surge,XIII,Nabaat,AD,Dark,MAG,False
+Awoken Cruelty Gear,XIII,Nabaat,DuAW,Dark,MAG,False
+Stoneskin II,XIV,Y'shtola,Unique,NE,NA,True
+Medica II,XIV,Y'shtola,Unique,NE,NA,False
+Aetherial Pulse,XIV,Y'shtola,SSB,NE,NA,True
+Asylum,XIV,Y'shtola,BSB,NE,NA,True
+Goddess's Mercy,XIV,Y'shtola,USB,NE,NA,False
+Dark Expanse,XIV,Y'shtola,USB,Fire Ice Lightning Dark,MAG,False
+Secret of the Lily,XIV,Y'shtola,USB,NE,NA,True
+Divine Benison,XIV,Y'shtola,GL,NE,NA,True
+Stonega Skin,XIV,Y'shtola,GL2,NE,NA,False
+Presence of Mind,XIV,Y'shtola,GL2,Ne,NA,False
+Pulse of Life (XIV),XIV,Y'shtola,AW,NE,NA,False
+Sorceress's Secret,XIV,Y'shtola,AW,Fire Ice Lightning Dark,MAG,False
+Scion's Flare,XIV,Y'shtola,Sync,Fire Ice Lightning Dark,MAG,False
+Scion's Afflatus,XIV,Y'shtola,Sync,NE,NA,False
+Scion's Meteor,XIV,Y'shtola,OLB,Fire Ice Lightning Dark,MAG,True
+Spiritual Ray,XIV,Y'shtola,AD,Fire Ice Lightning Dark,MAG,True
+Dancing Edge,XIV,Thancred,Unique,NE,PHY,False
+Death Blossom,XIV,Thancred,Unique,NE,PHY,False
+Jin-Chi-Ten,XIV,Thancred,SSB,Wind,PHY,False
+Kiss of the Jugulator,XIV,Thancred,SSB,Poison,PHY,False
+Kassatsu Katon,XIV,Thancred,BSB,Fire,PHY,True
+Fang of the Serpent,XIV,Thancred,BSB,Poison,PHY,True
+Kassatsu Doton,XIV,Thancred,BSB,Earth,PHY,False
+Hidden Trick Attack,XIV,Thancred,USB,Earth Wind Poison,PHY MAG,True
+Wheel of Life,XIV,Thancred,USB,Earth Fire,PHY,True
+Hakke Mujinsatsu,XIV,Thancred,ASB,Earth Wind Poison,PHY,True
+Kassatsu,XIV,Thancred,GL2,Earth Wind Poison,NA,False
+Art of Supremacy,XIV,Thancred,AW,Earth Wind Poison,PHY MAG,False
+Assassinate,XIV,Thancred,Sync,Earth Wind Poison,PHY MAG,False
+Internal Release,XIV,Yda,Unique,NE,NA,False
+Twin Snake Dragon Kick,XIV,Yda,SSB,NE,PHY,True
+True Demolition,XIV,Yda,SSB,Earth Fire,PHY,False
+Forbidden Chakra,XIV,Yda,BSB,Fire,PHY,False
+Furious Flurry,XIV,Yda,USB,Earth Fire,PHY,False
+Crimson Enlightenment,XIV,Yda,USB,Fire,PHY,False
+Fire Thrash,XIV,Yda,ASB,Fire,PHY,False
+Riddle of Fire,XIV,Yda,GL2,Fire,NA,False
+Fists of Fire,XIV,Yda,GL,Fire,NA,False
+Fire Tackle,XIV,Yda,AW,Fire,PHY,False
+Dearest Companion,XIV,Yda,Sync,Fire,PHY,False
+Swiftcast Fira,XIV,Papalymo,Unique,Fire,MAG,False
+Enochian Blizzaja,XIV,Papalymo,SSB,Ice,MAG,False
+Ley Lines,XIV,Papalymo,SSB,NE,NA,False
+Enochian Firaja,XIV,Papalymo,BSB,Fire,MAG,True
+Flareja,XIV,Papalymo,OSB,Fire,MAG,False
+Ley Line Firaja,XIV,Papalymo,USB,Fire,MAG,False
+Fate's End,XIV,Papalymo,ASB,Fire,MAG,True
+Magic Trifecta,XIV,Papalymo,GL,NE,MAG,True
+Sharpcast,XIV,Papalymo,GL2,Fire,NA,False
+Enochian Despair,XIV,Papalymo,AW,Fire,MAG,False
+A New Beginning,XIV,Papalymo,Sync,Fire,MAG,True
+Fire Flash (Papalymo),XIV,Papalymo,GLB,Fire,MAG,True
+Scion’s Xenoglossy,XIV,Papalymo,AD,Fire,MAG,False
+Deployment Tactics,XIV,Alphinaud,SSB,NE,NA,True
+Aerial Blast,XIV,Alphinaud,BSB,Wind,MAG,True
+Teraflare,XIV,Alphinaud,USB,Wind Dark,MAG,True
+Excogitation,XIV,Alphinaud,USB,NE,NA,False
+Garuda Exoburst,XIV,Alphinaud,USB,Wind,MAG,True
+Aetherpact,XIV,Alphinaud,Chain2,Wind,MAG,True
+Dreadwyrm Trance,XIV,Alphinaud,ASB,Wind,MAG,True
+Shining Moonstone,XIV,Alphinaud,GL2,Wind,NA,False
+Shockwave,XIV,Alphinaud,GL,Wind,MAG,True
+Starstorm,XIV,Alphinaud,AW,Wind,MAG,True
+Summon Moonstone,XIV,Alphinaud,Sync,NE,NA,False
+Child of the Dawn,XIV,Alphinaud,Sync,Wind,MAG,True
+Tri-Shackle,XIV,Alphinaud,Sync,Wind,MAG,True
+Last Disaster,XIV,Alphinaud,AD,Wind,MAG,False
+Blessing of Light,XIV,Minfilia,SSB,NE,NA,True
+The Echo,XIV,Minfilia,BSB,Holy,PHY,True
+Scion's Guidance,XIV,Minfilia,BSB,Holy,PHY,True
+Call of the Stars,XIV,Minfilia,USB,NE,NA,True
+Entrusted Will,XIV,Minfilia,USB,NE,NA,True
+Scions of the Seventh Dawn,XIV,Minfilia,Chain3,ALL,PHY MAG,False
+Divine Veil,XIV,Minfilia,GL,Holy,NA,False
+Familial Pledge,XIV,Minfilia,GL2,NE,NA,False
+Word of the Mother,XIV,Minfilia,AW,NE,PHY,True
+Will of the Light,XIV,Minfilia,Sync,NE,NA,False
+Rapid Shot,XIV,Cid (XIV),SSB,Fire,PHY,False
+Grenado Shot,XIV,Cid (XIV),BSB,Earth,PHY,True
+Gauss Round,XIV,Cid (XIV),USB,Fire,PHY,True
+Flamethrower,XIV,Cid (XIV),USB,Fire Earth Wind Poison,PHY,False
+Reassemble,XIV,Cid (XIV),GL2,Fire Earth Wind Poison,NA,False
+Heated Combo Shot,XIV,Cid (XIV),AW,Fire Earth Wind Poison,PHY,False
+Garlond Overload,XIV,Cid (XIV),Sync,Fire Earth Wind Poison,PHY,False
+Glacier Bash,XIV,Ysayle,SSB,Ice,MAG,False
+Shiva: Diamond Dust,XIV,Ysayle,BSB,Ice,MAG,True
+Icicle Impact,XIV,Ysayle,USB,Ice,MAG,False
+Ley Line Blizzaja,XIV,Ysayle,ASB,Ice,MAG,False
+Whiteout,XIV,Ysayle,GL2,Ice,NA,True
+Permafrost,XIV,Ysayle,AW,Ice,MAG,False
+Oblivion (XIV),XIV,Ysayle,Sync,Ice,MAG,False
+Ice Raiment (Ysayle),XIV,Ysayle,GLB,Ice,NA,False
+Icy Silence,XIV,Ysayle,AD,Ice,MAG,False
+Royal Authority,XIV,Haurchefant,SSB,Holy Ice,PHY,True
+Time of Need,XIV,Haurchefant,BSB,Holy Ice,PHY,True
+Live to Serve,XIV,Haurchefant,USB,NE,NA,True
+Fortemps Blade,XIV,Haurchefant,USB,Holy Ice,PHY,False
+Resolute Will,XIV,Haurchefant,GL2,Holy,NA,True
+Fortemps Authority,XIV,Haurchefant,AW,Holy Ice,PHY,False
+Passage of Arms,XIV,Haurchefant,Sync,Holy Ice,PHY,False
+Last Bastion,XIV,Haurchefant,OLB,Holy Ice,PHY,False
+Draconian Light,XIV,Estinien,SSB,NE,NA,False
+The Azure Dragoon,XIV,Estinien,BSB,Wind Dark,PHY,False
+Skydragon Dive,XIV,Estinien,USB,Wind Dark,PHY,False
+Crimson Dragoon,XIV,Estinien,USB,Wind Dark,PHY,True
+Life of the Dragon,XIV,Estinien,GL2,Wind Dark,NA,False
+Azure Successor,XIV,Estinien,AW,Wind Dark,PHY,True
+Black Dragon Dive,XIV,Estinien,Sync,Wind Dark,PHY,True
+Vermage,XIV,Alisaie,USB,Wind Lightning,MAG,False
+Pathforger,XIV,Alisaie,Chain2,ALL,PHY MAG,False
+Vercure,XIV,Alisaie,GL2,NE,NA,False
+Manafication,XIV,Alisaie,GL2,Wind Lightning,NA,False
+Embolden Combo,XIV,Alisaie,AW,Wind Lightning,MAG,False
+Heart and Steel,XIV,Alisaie,Sync,Wind Lightning,MAG,False
+Vermillion Scourge,XIV,Alisaie,OLB,Wind Lightning,MAG,True
+Aetheric Sever,XIV,Alisaie,AD,Wind Lightning,MAG,True
+Gladiolus Link,XV,Noctis,SSB,NE,PHY,True
+Kings of Old,XV,Noctis,BSB,NE,PHY,False
+Armiger,XV,Noctis,OSB,NE,PHY,True
+Armiger Wakes,XV,Noctis,USB,NE,PHY,False
+Airstride,XV,Noctis,USB,NE,PHY,False
+Critical Link,XV,Noctis,ASB,NE,PHY,False
+Rush Link,XV,Noctis,ASB,Fire Earth Lightning,PHY,True
+Bond (Noctis),XV,Noctis,Chain4,ALL,PHY MAG,False
+Static Edge,XV,Noctis,GL2,Fire,PHY,False
+Link Up,XV,Noctis,GL2,Fire Earth Lightning,NA,False
+Royal Guardian,XV,Noctis,GL,NE,NA,True
+Warp Factor,XV,Noctis,GL,NE,NA,True
+Regal Flair,XV,Noctis,AW,Fire Earth Lightning,PHY,True
+True Prompto Link,XV,Noctis,Sync,Lightning,PHY,False
+True Ignis Link,XV,Noctis,Sync,Fire,PHY,False
+True Gladiolus Link,XV,Noctis,Sync,Earth,PHY,True
+Ancillary Link-Strike,XV,Noctis,OLB,Fire Earth Lightning,PHY,True
+Steel Pirouette F,XV,Noctis,AD,Fire,PHY,False
+Awoken Warp-strike,XV,Noctis,DuAW,Fire,PHY,True
+Pep Talk,XV,Gladiolus,SSB,NE,NA,True
+Tempest,XV,Gladiolus,BSB,Earth,PHY,True
+Dawnhammer,XV,Gladiolus,OSB,Earth,PHY,True
+Cyclone,XV,Gladiolus,USB,Earth,PHY,False
+Earth Charge,XV,Gladiolus,Chain3,Earth,PHY,False
+Impulse,XV,Gladiolus,ASB,Earth,PHY,False
+Proud Shield,XV,Gladiolus,GL2,Earth,NA,True
+Double Charging...,XV,Gladiolus,GL,NE,PHY,True
+True Shield,XV,Gladiolus,AW,Earth,PHY,False
+Wild Tempest,XV,Gladiolus,Sync,Earth,PHY,True
+Dual Master,XV,Gladiolus,AD,Earth,PHY,False
+Analysis Sting,XV,Ignis,SSB,Fire Lightning Ice,PHY,False
+Stalwart Cook,XV,Ignis,BSB,Fire Lightning Ice,PHY,True
+Sagefire,XV,Ignis,USB,Fire,PHY,False
+Regroup,XV,Ignis,Chain2,ALL,PHY MAG,False
+Tactical Sense,XV,Ignis,GL,Fire,NA,False
+Flameboost Bite,XV,Ignis,AW,Fire,PHY,True
+Tactical Mind,XV,Ignis,AW,Fire,PHY,False
+Sage's Hellfire,XV,Ignis,Sync,Fire,PHY,False
+Starshell,XV,Prompto,SSB,Lightning,PHY,True
+Recoil (XV),XV,Prompto,BSB,Lightning Fire,PHY,False
+Shots Fired,XV,Prompto,BSB,Lightning,PHY,True
+Trigger Happy (XV),XV,Prompto,USB,Lightning,PHY,True
+Custom Starshell,XV,Prompto,Chain2,Lightning,PHY,True
+Party Shot,XV,Prompto,Chain3,ALL,PHY MAG,False
+Ballistic,XV,Prompto,GL2,Lightning,PHY,False
+Spark Rave,XV,Prompto,GL2,Lightning,NA,True
+Prized Quarry,XV,Prompto,AW,Lightning,PHY,False
+Miracle Trigger,XV,Prompto,Sync,Lightning,PHY,False
+Eclipse,XV,Iris,SSB,NE,MAG,False
+Kupo Cure,XV,Iris,BSB,NE,NA,True
+Amicitia's Cheer,XV,Iris,USB,NE,NA,True
+Moogle Trouble,XV,Iris,USB,NE,NA,True
+Trinity Support,XV,Iris,GL2,NE,NA,True
+Choco Tailwind,XV,Iris,AW,NE,NA,False
+Pocket Mega-Potion,XV,Iris,Sync,NE,NA,False
+Aerial Spearouette,XV,Aranea,SSB,Lightning Dark,PHY,False
+Air Superiority,XV,Aranea,BSB,Lightning Dark,PHY,False
+Highwind (XV),XV,Aranea,OSB,Lightning Dark,PHY,True
+Twice the Jump,XV,Aranea,USB,Lightning Dark,PHY,False
+Dragon Leap,XV,Aranea,USB,Lightning Dark,PHY,False
+Highwind OB,XV,Aranea,ASB,Lightning Dark,PHY,False
+Soaring Heights,XV,Aranea,GL2,Lightning,NA,False
+Blitz Rush,XV,Aranea,GL2,Lightning Dark,PHY,True
+True Highwind,XV,Aranea,AW,Lightning Dark,PHY,False
+Spearouette,XV,Aranea,Sync,Lightning Dark,PHY,False
+Apex Highwind,XV,Aranea,AD,Lightning Dark,PHY,False
+Predecessor's Might,XV,Cor,USB,Fire,PHY,True
+In Service of Kings,XV,Cor,ASB,Fire,PHY,False
+Lucian Might,XV,Cor,GL2,NE,NA,False
+Immortal Blade,XV,Cor,GL,Fire,PHY,True
+Harangue,XV,Cor,AW,Fire,PHY,True
+Immortal's Call,XV,Cor,Sync,Fire,PHY,False
+Hydraean Protection,XV,Lunafreya,USB,Water Holy,MAG,True
+Hydraean Oath,XV,Lunafreya,ASB,Water Holy,MAG,True
+Oracle's Mission,XV,Lunafreya,GL2,Water,NA,False
+Oracle's Benevolence,XV,Lunafreya,AW,Water Holy,MAG,True
+For the King,XV,Lunafreya,Sync,Water Holy,MAG,False
+Oracle's Decree,XV,Lunafreya,Sync,Water Holy,MAG,False
+Aura of Darkness (XV),XV,Ardyn,USB,Dark Fire,PHY,False
+Implacable Ruler,XV,Ardyn,GL2,Dark Fire,NA,False
+Shadow King's Might,XV,Ardyn,AW,Dark Fire,PHY,False
+Mega Death,XV,Ardyn,Sync,Dark Fire,PHY,False
+Evil Armiger,XV,Ardyn,OLB,Dark Fire,PHY,False
+Tailwind,FFT,Ramza,Unique,NE,NA,False
+Hail of Stones,FFT,Ramza,Unique,NE,PHY,True
+Shout,FFT,Ramza,SSB,NE,NA,True
+Chant,FFT,Ramza,SSB,NE,NA,False
+Unsung Hero,FFT,Ramza,BSB,Holy,PHY,True
+Battle Cry,FFT,Ramza,BSB,Holy,PHY,True
+Seeker of Truth,FFT,Ramza,USB,Holy,PHY,True
+History's Truth,FFT,Ramza,USB,NE,NA,True
+Flutegrass Memories,FFT,Ramza,Chain2,Holy,PHY,True
+Heretic Tale,FFT,Ramza,Chain2,ALL,PHY MAG,False
+Knight Gallant's Glory,FFT,Ramza,ASB,Holy,PHY,True
+War Cry Commander,FFT,Ramza,GL2,Holy,PHY,True
+Mettle,FFT,Ramza,GL,Holy,NA,False
+Blade of Remembrance,FFT,Ramza,AW,Holy,PHY,True
+Brave Story,FFT,Ramza,Sync,Holy,PHY,False
+Cleansing Strike,FFT,Agrias,Unique,NE,PHY,True
+Hallowed Bolt,FFT,Agrias,SSB,NE,PHY,False
+Holy Knight Charge,FFT,Agrias,SSB,Holy,PHY,True
+Divine Ruination,FFT,Agrias,BSB,Holy,PHY,True
+Holy Blade,FFT,Agrias,OSB,Holy,PHY,False
+Divine Devastation,FFT,Agrias,USB,Holy,PHY,True
+Loyal Blade,FFT,Agrias,USB,Holy,PHY,True
+Divine Retribution,FFT,Agrias,ASB,Holy,PHY,False
+Holy Cross Blade,FFT,Agrias,AW,Holy,PHY,True
+Last Judgment Blade,FFT,Agrias,Sync,Holy,PHY,True
+Bestowed Blade,FFT,Agrias,OLB,Holy,PHY,True
+Crush Armor,FFT,Delita,Unique,NE,PHY,False
+Counter Tackle,FFT,Delita,Unique,NE,NA,False
+Northswain's Strike,FFT,Delita,SSB,NE,PHY,False
+Hero-King,FFT,Delita,BSB,Holy Fire Lightning Ice,PHY,False
+King Apparent,FFT,Delita,USB,Holy Fire Lightning Ice,PHY,False
+Somebody to Love,FFT,Delita,USB,Holy Fire Lightning Ice,PHY,True
+The Valiant,FFT,Delita,ASB,Holy Fire Lightning Ice,PHY,True
+Requiem for the Meager,FFT,Delita,GL,NE,NA,True
+Meager Ambition,FFT,Delita,GL2,Holy Fire Lightning Ice,NA,False
+Hero-King's Strike,FFT,Delita,AW,Holy Fire Lightning Ice,PHY,False
+Hero-King's Ruination,FFT,Delita,Sync,Holy Fire Lightning Ice,PHY,False
+Aegis,FFT,Ovelia,Unique,NE,NA,True
+Princess's Prayer,FFT,Ovelia,SSB,NE,NA,True
+Divine Ward,FFT,Ovelia,SSB,NE,NA,False
+Heart's Lament,FFT,Ovelia,BSB,Holy,MAG,True
+Desperate Plea,FFT,Ovelia,BSB,NE,NA,True
+Divine Dispelna,FFT,Ovelia,USB,NE,NA,True
+Holy Magick Curaja,FFT,Ovelia,USB,Holy,MAG,False
+Lifespring Zephir,FFT,Ovelia,USB,NE,NA,False
+Princess's Plea,FFT,Ovelia,GL2,NE,NA,False
+Saintly Wave,FFT,Ovelia,GL,Holy,NA,False
+Fleeting Thoughts,FFT,Ovelia,AW,NE,NA,False
+Ethereal Princess,FFT,Ovelia,Sync,NE,NA,False
+Leg Shot (FFT),FFT,Mustadio,Unique,NE,PHY,False
+Seal Evil (FFT),FFT,Mustadio,SSB,NE,PHY,False
+Heart Piercer,FFT,Mustadio,SSB,NE,PHY,True
+Sharpshot Spray,FFT,Mustadio,BSB,NE,PHY,False
+Enchanted Machinegun,FFT,Mustadio,USB,Fire,PHY,False
+Sword of Saints,FFT,Orlandeau,SSB,Holy Lightning,PHY,True
+Swordplay,FFT,Orlandeau,BSB,Holy Dark,PHY,False
+Thunder God,FFT,Orlandeau,OSB,Holy Lightning,PHY,True
+Sword Saint,FFT,Orlandeau,USB,Holy Dark,PHY,True
+Swordplay Extraordinaire,FFT,Orlandeau,ASB,Holy Dark,PHY,True
+Sword Saint's Vigor,FFT,Orlandeau,GL,Holy,NA,False
+Sword Saint's Honor,FFT,Orlandeau,GL,NE,NA,False
+Sword Saint's Essence,FFT,Orlandeau,GL2,Holy Dark Earth,NA,False
+Sword Saint's Fervor,FFT,Orlandeau,GL2,Dark Earth,NA,False
+Sword Saint's Savvy,FFT,Orlandeau,AW,Holy Dark,PHY,True
+Seiken Perfection,FFT,Orlandeau,Sync,Holy,PHY,True
+Shadowblade Perfection,FFT,Orlandeau,Sync,Dark Earth,PHY,False
+Holy Swordplay,FFT,Orlandeau,AD,Holy,PHY,True
+Duskblade,FFT,Gaffgarion,SSB,Dark,PHY,False
+Fellsword Dance,FFT,Gaffgarion,BSB,Dark,PHY,False
+Dance with Shadows,FFT,Gaffgarion,USB,Dark,PHY,True
+Unholy Sacrifice,FFT,Gaffgarion,USB,Dark,PHY,False
+Cimmerian Edge,FFT,Gaffgarion,ASB,Dark,PHY,True
+Shadowy Stance,FFT,Gaffgarion,GL2,Dark,NA,True
+Mercenary's Worth,FFT,Gaffgarion,GL,Dark,NA,True
+Dark Stance,FFT,Gaffgarion,GL2,NE,NA,True
+Unyielding Darkblade,FFT,Gaffgarion,AW,Dark,PHY,False
+Dark End,FFT,Gaffgarion,Sync,Dark,PHY,False
+Ashura,FFT,Rapha,SSB,Fire,MAG,True
+Heaven's Wrath (FFT),FFT,Rapha,BSB,Lightning,MAG,False
+Miracle of Scorpio,FFT,Rapha,USB,Lightning,NA,False
+Mystic Mantra,FFT,Rapha,GL,NE,NA,False
+Concordant Mantra,FFT,Rapha,AW,Lightning,MAG,False
+Nether Ashura,FFT,Marach,SSB,Fire Dark,MAG,False
+Hell's Wrath,FFT,Marach,BSB,Lightning Dark,MAG,False
+Khamja Collusion,FFT,Marach,USB,Lightning,MAG,False
+Way of the Khamja,FFT,Marach,GL2,Lightning,MAG,False
+Beastly Wrath,FFT,Marach,AW,Lightning Dark,MAG,False
+Divine Destruction,FFT,Meliadoul,SSB,Earth Holy,PHY,False
+Crush Helm,FFT,Meliadoul,BSB,Earth Holy,PHY,True
+Templar's Fury,FFT,Meliadoul,USB,Earth Holy,PHY,True
+Concentration (FFT),FFT,Meliadoul,GL2,Earth Holy,NA,True
+Shatter Accessory,FFT,Meliadoul,AW,Earth Holy,PHY,True
+Shatter Weapon,FFT,Meliadoul,Sync,Earth Holy,PHY,False
+Nurse,FFT,Marche,SSB,NE,NA,False
+Knight Combo,FFT,Marche,BSB,Holy,PHY,False
+Divine Combo,FFT,Marche,USB,Holy,PHY,False
+Saintly Combo,FFT,Marche,ASB,Holy,PHY,False
+First Aid (FFT),FFT,Marche,GL,NE,NA,True
+Modest Virtue,FFT,Marche,GL2,Holy,NA,False
+Seiken Combo,FFT,Marche,AW,Holy,PHY,True
+Sidekick,FFT,Montblanc,SSB,NE,NA,False
+Black Combo,FFT,Montblanc,BSB,Fire Ice Lightning,MAG,False
+Trinity Combo,FFT,Montblanc,USB,Fire Ice Lightning,MAG,True
+Black Geomancy,FFT,Montblanc,GL2,NE,NA,False
+Black Geomancy Combo,FFT,Montblanc,AW,Fire Ice Lightning,MAG,False
+100% Wool,FFT,Montblanc,Sync,ALL,MAG,False
+Cleric's Prayer,FFT,Alma,SSB,NE,NA,True
+Wisdom of Orbonne,FFT,Alma,BSB,NE,NA,True
+Sacred Barrier,FFT,Alma,USB,NE,NA,True
+Angelic Vessel,FFT,Alma,USB,NE,NA,False
+Auracite Glow,FFT,Alma,USB,NE,NA,True
+Sister's Prayer,FFT,Alma,GL2,NE,NA,True
+Holy Seal,FFT,Alma,AW,NE,NA,True
+Chant of Devotion,FFT,Alma,Sync,NE,NA,False
+Record of Truth,FFT,Orran,BSB,NE,NA,True
+Celestial Stasis,FFT,Orran,USB,NE,NA,True
+Celestial Fate,FFT,Orran,GL2,NE,NA,True
+Celestial River,FFT,Orran,AW,NE,NA,True
+Stargazer,FFT,Orran,Sync,NE,NA,False
+Jackpot Shot,T-0,Ace,SSB,NE,MAG,False
+Firaga RF,T-0,Ace,BSB,Fire,MAG,True
+Firaga SHG,T-0,Ace,BSB,Fire,MAG,True
+Mega Burst,T-0,Ace,OSB,Fire,MAG,False
+Jackpot Triad,T-0,Ace,USB,Fire,MAG,False
+Firaga BOM,T-0,Ace,USB,Fire,MAG,False
+Beginning of the End,T-0,Ace,Chain2,ALL,PHY MAG,True
+Monolith Beam,T-0,Ace,ASB,Fire,MAG,True
+Cut Cards,T-0,Ace,GL,Fire,NA,False
+Support Hand,T-0,Ace,GL2,Fire,NA,False
+Wild Card,T-0,Ace,AW,Fire,MAG,False
+Assault Cards,T-0,Ace,Sync,Fire,MAG,True
+Volcano Card,T-0,Ace,Sync,Fire,MAG,False
+Crimson Cards,T-0,Ace,OLB,Fire,MAG,False
+Apex Jackpot Shot,T-0,Ace,AD,Fire,MAG,False
+Awoken Jackpot Triad,T-0,Ace,DuAW,Fire,MAG,False
+Prelude,T-0,Deuce,SSB,NE,NA,True
+Concerto,T-0,Deuce,BSB,NE,NA,False
+Hymn of Healing,T-0,Deuce,USB,NE,NA,True
+Concerto ff,T-0,Deuce,USB,NE,NA,True
+Vivace,T-0,Deuce,USB,NE,NA,False
+Con Brio,T-0,Deuce,GL2,NE,NA,True
+Communal Harmony,T-0,Deuce,AW,NE,NA,False
+Vital Symphony,T-0,Deuce,Sync,NE,NA,False
+White Knight,T-0,Nine,SSB,NE,NA,False
+Class Zero Basher-in-Chief,T-0,Nine,BSB,Wind,PHY,False
+Whirling Lance,T-0,Nine,USB,Wind,PHY,False
+Javelin Throw,T-0,Nine,ASB,Wind,PHY,False
+Swift Lancer,T-0,Nine,GL2,Wind,PHY,False
+Laser Lance,T-0,Nine,AW,Wind,PHY,True
+Spiral Jump,T-0,Nine,Sync,Wind,PHY,False
+Slayer of Fear,T-0,Machina,SSB,NE,NA,False
+Cyclone Drive,T-0,Machina,BSB,Earth Dark,PHY,True
+Stunning Slash,T-0,Machina,OSB,Earth Dark,PHY,False
+Awakening,T-0,Machina,USB,Earth Dark,PHY,False
+Might of the l'Cie,T-0,Machina,Chain2,Earth,PHY,True
+Vermillion Field,T-0,Machina,Chain3,ALL,PHY MAG,False
+Grand Cascade,T-0,Machina,ASB,Earth Dark,PHY,True
+Dual-Wield Flair,T-0,Machina,GL2,NE,NA,False
+Quake Rush,T-0,Machina,GL2,Earth,PHY,True
+Guardian Blades,T-0,Machina,AW,Earth Dark,PHY,False
+Power of Fear,T-0,Machina,Sync,Earth Dark,PHY,True
+Siphon Sword,T-0,Machina,Sync,Earth Dark,PHY,False
+Apex Guardian Blades,T-0,Machina,AD,Earth Dark,PHY,False
+Awoken Cyclone Drive,T-0,Machina,DuAW,Earth Dark,PHY,False
+Undying Wish,T-0,Rem,SSB,NE,NA,False
+Siphon Delta,T-0,Rem,BSB,Holy Dark,MAG,True
+Cleansing Flame,T-0,Rem,OSB,Holy Fire,MAG,False
+Manalchemy,T-0,Rem,USB,Holy Dark,MAG,True
+Live Another Day,T-0,Rem,USB,NE,NA,True
+Saintly Dagger Toss,T-0,Rem,ASB,Holy Dark,MAG,False
+Tenacious Stand,T-0,Rem,GL2,NE,NA,False
+Saintly Aura,T-0,Rem,GL,Holy,NA,True
+Seraphim Strike,T-0,Rem,AW,Holy Dark,MAG,False
+Saintly Huntcraft,T-0,Rem,Sync,Holy,MAG,False
+Saintly Dagger Boomerang,T-0,Rem,OLB,Holy,MAG,False
+Magic Martyr,T-0,Queen,SSB,Lightning Dark,PHY,True
+Mana Sphere,T-0,Queen,BSB,Lightning Dark,PHY,True
+Gate of Destiny,T-0,Queen,OSB,Lightning Dark,PHY,True
+Divine Judgment Blade,T-0,Queen,USB,Lightning Dark,PHY,True
+Spark Dash,T-0,Queen,USB,Lightning Dark,PHY,False
+Sudden Shift,T-0,Queen,Chain3,Lightning,PHY,False
+Energy Rush,T-0,Queen,ASB,Lightning,PHY,False
+Fiendish Impulse,T-0,Queen,GL2,Lightning,NA,False
+Fiendish Judgment,T-0,Queen,AW,Lightning Dark,PHY,True
+Devastate,T-0,Queen,Sync,Lightning,PHY,False
+Destructive Energy,T-0,Queen,OLB,Lightning,PHY,False
+Thunder Flash (Queen),T-0,Queen,GLB,Lightning,PHY,False
+Apex Savage Heart Mode,T-0,Queen,AD,Lightning,PHY,True
+Trigger Finger,T-0,King,SSB,Lightning,PHY,True
+Magazine Blast,T-0,King,BSB,Lightning Fire,PHY,True
+Endless Waltz,T-0,King,USB,Lightning,PHY,True
+Plasma King,T-0,King,USB,Lightning,PHY,False
+Point-Blank Shot,T-0,King,ASB,Lightning,PHY,True
+King's Trigger,T-0,King,GL2,Lightning,NA,False
+King Snipe Mode,T-0,King,AW,Lightning,PHY,True
+Endless Snipe,T-0,King,Sync,Lightning,PHY,False
+Earthquake (Type-0),T-0,Cinque,SSB,Earth Wind,PHY,False
+Gaia Pulse,T-0,Cinque,BSB,Earth,PHY,True
+Whirling Mace,T-0,Cinque,USB,Earth Wind,PHY,True
+Twenty-One Swings,T-0,Cinque,ASB,Earth,PHY,True
+Grand Slam Swing,T-0,Cinque,GL2,Earth,PHY,True
+Mace Cyclone,T-0,Cinque,AW,Earth Wind,PHY,True
+Payback Mace,T-0,Cinque,AW,Earth Wind,PHY,False
+Meteor Cyclone,T-0,Cinque,Sync,Earth,PHY,False
+Rock Cyclone,T-0,Cinque,Sync,Earth,PHY,False
+Max Charged Mace,T-0,Cinque,OLB,Earth Wind,PHY,False
+Earth Raiment (Cinque),T-0,Cinque,GLB,Earth,NA,True
+Diving Strike,T-0,Seven,BSB,Ice,MAG,False
+Elementalash,T-0,Seven,USB,Ice,MAG,False
+Ice Energy Whip,T-0,Seven,USB,Ice,MAG,False
+Ice Bond (Seven),T-0,Seven,Chain4,Ice,MAG,False
+Drainlash,T-0,Seven,ASB,Ice,MAG,True
+Ice Cube,T-0,Seven,GL,Ice,NA,False
+Icy Moment,T-0,Seven,GL2,Ice,NA,False
+Sadistic Spikes,T-0,Seven,AW,Ice,MAG,True
+Icicle Strike,T-0,Seven,Sync,Ice,MAG,False
+Osmoselash,T-0,Seven,AD,Ice,MAG,False
+Black Hole (Type-0),T-0,Sice,BSB,Dark,PHY,True
+Dark Nebula,T-0,Sice,USB,Dark,PHY,False
+Negative Aura (Type-0),T-0,Sice,ASB,Dark,PHY,False
+Dark Fog,T-0,Sice,GL2,Dark,NA,False
+Grim Reaper,T-0,Sice,AW,Dark,PHY,True
+Death Maelstrom,T-0,Sice,AW,Dark,PHY,False
+Doomshadow Scythe,T-0,Sice,Sync,Dark,PHY,False
+Lightning Flash,T-0,Jack,BSB,Fire,PHY,True
+Deliverance,T-0,Jack,USB,Fire,PHY,False
+Flickering Shadow,T-0,Jack,GL2,Fire,NA,False
+Transience,T-0,Jack,AW,Fire,PHY,False
+Piercing Gleam,T-0,Jack,Sync,Fire,PHY,False
+Glacial Phantasm,T-0,Eight,BSB,Ice,PHY,False
+Icebound Stance,T-0,Eight,USB,Ice,PHY,False
+Ice Render Combo,T-0,Eight,ASB,Ice,PHY,False
+Ice Phalanx,T-0,Eight,GL,Ice,NA,False
+Icebound Billow,T-0,Eight,AW,Ice,PHY,True
+Lightspeed Jab,T-0,Eight,AW,Ice,PHY,False
+Ice Burst Fist,T-0,Eight,Sync,Ice,PHY,False
+Frost Assault,T-0,Eight,OLB,Ice,PHY,False
+Sacrificial Slug (Type-0),T-0,Eight,AD,Ice,PHY,False
+Triple Charged Shot,T-0,Cater,USB,Fire Ice Lightning,PHY,False
+Tri-Color Mine,T-0,Cater,ASB,Fire Ice Lightning,PHY,True
+Elemental Charge,T-0,Cater,GL2,Fire Ice Lightning,NA,False
+Tricky Reload,T-0,Cater,GL2,Fire Ice Lightning,NA,False
+Trine Shot,T-0,Cater,GL,Fire Ice Lightning,PHY,True
+Tri-Color Shot,T-0,Cater,AW,Fire Ice Lightning,PHY,True
+Quad-Color Shot,T-0,Cater,AW,Fire Ice Lightning,PHY,False
+Tri-Color Snipe Mode,T-0,Cater,Sync,Fire Ice Lightning,PHY,True
+Firewall,T-0,Trey,USB,Fire Ice Water,PHY,True
+Charged Arrow Shot,T-0,Trey,USB,Fire Ice Water,PHY,False
+Burst Delta,T-0,Trey,ASB,Fire Ice Water,PHY,False
+Tri-Phantoma,T-0,Trey,GL2,Fire Ice Water,NA,False
+Following Shot,T-0,Trey,GL2,Fire Ice Water,PHY,False
+Tri-Phantoma II,T-0,Trey,GL,Fire Ice Water,NA,True
+Dynamite Arrow,T-0,Trey,AW,Fire Ice Water,PHY,False
+Tri-Raining Arrows,T-0,Trey,AW,Fire Ice Water,PHY,False
+Grand Delta,T-0,Trey,Sync,Fire Ice Water,PHY,False
+Sniper Arrow Shot,T-0,Trey,OLB,Fire Ice Water,PHY,False
+Apex Freezing Rain,T-0,Trey,AD,Fire Ice Water,PHY,False
+Awoken Dynamite Arrow,T-0,Trey,DuAW,Fire Ice Water,PHY,False
+Ars Arcanum,KH,Sora,BSB,Fire Lightning Ice,PHY,False
+Strike Raid,KH,Sora,USB,Fire Lightning Ice,PHY,False
+Ragnarok,KH,Sora,ASB,Fire Lightning Ice,PHY,False
+Valor Form,KH,Sora,GL,Fire,NA,False
+Master Form,KH,Sora,GL,Lightning,NA,False
+Wisdom Form,KH,Sora,GL,Ice,NA,False
+Master Hearts,KH,Sora,AW,Fire Lightning Ice,PHY,False
+Darkhand Helm Split,KH,Riku,BSB,Dark,PHY,True
+Dark Firaga,KH,Riku,USB,Dark,PHY,False
+Aura of Darkness,KH,Riku,ASB,Dark,PHY,True
+Darkhand,KH,Riku,GL,Dark,NA,True
+Dark Cannon (KH),KH,Riku,AW,Dark,PHY,True
+Keyblade Unleashed,KH,Roxas,USB,Holy Dark,PHY,False
+Black Hole,KH,Roxas,ASB,Holy Dark,PHY,False
+Limit Boost,KH,Roxas,GL,Holy Dark,PHY,False
+Magic Hour,KH,Roxas,AW,Holy Dark,PHY,False
+Wild Dance,KH,Axel,USB,Fire Wind,PHY MAG,False
+Inferno Burst,KH,Axel,ASB,Fire Wind,PHY MAG,False
+Fire Wall,KH,Axel,GL,Fire Wind,PHY MAG,False
+Explosion,KH,Axel,AW,Fire Wind,PHY MAG,False
+Ramuh Transfiguration,FFBe,Reynn,SSB,Lightning,MAG,False
+Channel Element: Ice,FFBe,Reynn,BSB,Ice,MAG,False
+Double Mirage,FFBe,Reynn,USB,Ice Water,MAG,True
+Revenge Blast,FFBe,Lann,SSB,NE,PHY,False
+Channel Element: Fire,FFBe,Lann,BSB,Fire,PHY,False
+Mega Mirage Zanzetsuken,FFBe,Lann,OSB,NE,PHY,False
+Atomic Impact,FFBe,Lann,USB,Fire,PHY,False
+Crimson Punch,FFBe,Lann,AW,Fire,PHY,True
+Divine Knight,FFBe,Morrow,SSB,NE,NA,False
+Chrono Break,FFBe,Morrow,BSB,NE,PHY,False
+Swift Chain,FFBe,Morrow,USB,NE,PHY,True
+Angel Feathers,FFBe,Aemo,SSB,NE,NA,True
+Reprogram,FFBe,Aemo,BSB,NE,NA,True
+Photon Barrage,FFBe,Aemo,USB,NE,NA,False
+Impact Leap,FFBe,Wrieg,SSB,Earth,PHY,False
+Force Blaster,FFBe,Wrieg,BSB,Earth,PHY,True
+Petal Pummel,FFBe,Tama,BSB,Holy Fire,MAG,False
+World Parade,FFBe,Tama,USB,NE,NA,True
+Sky Dream,FFBe,Tama,USB,NE,NA,False
+Surging Challenge,FFBe,Tama,AW,Holy,MAG,False
+Miracle Challenge,FFBe,Tama,AW,NE,MAG,False
+Creator's Judgment,FFBe,Enna Kros,BSB,Earth Holy,MAG,False
+Break Time,FFBe,Enna Kros,USB,Earth Holy,MAG,True
+Worldbreaker,FFBe,Enna Kros,ASB,Earth Holy,MAG,False
+The World's Rules,FFBe,Enna Kros,GL,Earth,NA,False
+Soul of Light,FFBe,Enna Kros,GL2,Earth Holy,MAG,False
+Godly Geocrush,FFBe,Enna Kros,AW,Earth Holy,MAG,True
+The Creator's Rules,FFBe,Enna Kros,Sync,Earth,MAG,False
+Creator's Whim,FFBe,Enna Kros,AD,Earth,MAG,False
+Wind Rhapsody,FFBe,Serafie,USB,Wind,MAG,True
+Misdirection,FFBe,Serafie,ASB,Wind,MAG,True
+Rumor Radar,FFBe,Serafie,GL2,Wind,NA,True
+Silent Voice,FFBe,Serafie,AW,Wind,MAG,True
+Mascot Special,FFBe,Serafie,Sync,Wind,MAG,False
+Tickling Wind,FFBe,Serafie,OLB,Wind,MAG,False
+Soul Prominence,FFBe,Rain,USB,Fire Earth,PHY,False
+Glowing Ray,FFBe,Rain,ASB,Fire Earth,PHY,False
+Rising Mantle,FFBe,Rain,GL2,Fire Earth,PHY,False
+Lava Floor,FFBe,Rain,AW,Fire Earth,PHY,False
+Crimson Nova,FFBe,Rain,Sync,Fire Earth,PHY,True
+Blossom Heart,FFBe,Fina,USB,NE,NA,False
+Shining Cheer,FFBe,Fina,GL2,NE,NA,False
+Superior Healing,FFBe,Fina,AW,NE,NA,False
+Eternal Light,FFBe,Fina,Sync,NE,NA,False
+Blade Flash-Awakened,FFBe,Lasswell,USB,Ice Wind,PHY,False
+Exorcising Storm,FFBe,Lasswell,ASB,Ice Wind,PHY,False
+Knightly Bonds,FFBe,Lasswell,GL2,Ice,NA,False
+Azure Sky,FFBe,Lasswell,AW,Ice Wind,PHY,False
+Winter's Oblivion,FFBe,Lasswell,Sync,Ice,PHY,False
+Stormlance Grimoire,Core,Tyro,Unique,Lightning,PHY,False
+Healing Grimoire,Core,Tyro,Unique,NE,NA,True
+Cyclone Grimoire,Core,Tyro,Unique,NE,MAG,False
+Sentinel's Grimoire,Core,Tyro,Unique,NE,NA,True
+Celebration Grimoire,Core,Tyro,Unique,NE,PHY,True
+Last Judgment Grimoire,Core,Tyro,SSB,Earth,PHY,True
+Keeper's Tome,Core,Tyro,BSB,NE,NA,True
+Arbiter's Apocrypha,Core,Tyro,OSB,NE,PHY,True
+Fantasy Unbound,Core,Tyro,USB,NE,PHY,True
+Divine Veil Grimoire,Core,Tyro,USB,NE,NA,True
+Arbiter's Tome,Core,Tyro,USB,NE,NA,False
+Warder's Apocrypha,Core,Tyro,USB,NE,NA,True
+Triple Phase,Core,Tyro,ASB,Holy Dark,PHY,True
+Link of Light,Core,Tyro,ASB,Holy,PHY,True
+Purifying Grimoire,Core,Tyro,GL,NE,NA,True
+True Sentinel's Grimoire,Core,Tyro,GL2,NE,NA,False
+Fantasy Grimoire Vol. I,Core,Tyro,AW,NE,NA,True
+Fantasy Grimoire Vol. II,Core,Tyro,Sync,ALL,PHY MAG,False
+Our Fantasy Unbound,Core,Tyro,AD,ALL,PHY MAG,True
+Bond (Tyro),Core,Tyro,Chain4,ALL,PHY MAG,False
+Awoken Arbiter’s Apochrypha,Core,Tyro,DuAW,ALL,PHY MAG,False
+Double Attack II,Core,Warrior,Unique,NE,PHY,False
+Knight's Shield II,Core,Knight,Unique,NE,NA,True
+Doublecast Thunder,Core,Red Mage,Unique,Lightning,MAG,True
+Magic Signet,Core,Black Mage,Unique,NE,NA,True
+Mass Firaga,Core,Black Mage,Unique,Fire,MAG,False
+Divine Signet,Core,White Mage,Unique,NE,NA,True
+Light Divine,Core,White Mage,Unique,NE,NA,True
+Call II,Core,Summoner,Unique,ALL,MAG,True
+Steady Shot II,Core,Ranger,Unique,NE,PHY,True
+Sidewinder,Core,Ranger,Unique,NE,PHY,False
+Valor Minuet II,Core,Bard,Unique,NE,NA,True
+Magika Coat,Core,Elarra,BSB,NE,NA,True
+Magika Album,Core,Elarra,USB,NE,NA,True
+Magika Orare,Core,Elarra,USB,NE,NA,False
+Magika Plus,Core,Elarra,GL,NE,NA,True
+Magika Amuletum,Core,Elarra,GL2,NE,NA,False
+Magika Phoenix,Core,Elarra,AW,NE,NA,False
+Magika Animus,Core,Elarra,Sync,NE,NA,True
+Magika Stella,Core,Elarra,Sync,NE,NA,False
+Boulder Blow,Core,Biggs,USB,Earth Holy,PHY,True
+Flashy Blow,Core,Biggs,GL,Earth,PHY,False
+Agent's Strike,Core,Biggs,GL2,Earth,PHY,False
+Humongous Strike?,Core,Biggs,AW,Earth Holy,PHY,False
+Prime Explosion,Core,Biggs,Sync,Earth Holy,PHY,False
+Unshackled Power,Core,Biggs,OLB,Earth Holy,PHY,False
+Knight of the Round,Core,Biggs,AD,Earth Holy,PHY,False
+Awoken Boulder Blow,Core,Biggs,DuAW,Earth Holy,PHY,False
+Trickster,Core,Wedge,USB,Wind Lightning,PHY MAG,True
+Fairy Stars,Core,Wedge,GL,Wind,PHY MAG,True
+Mach Star,Core,Wedge,AW,Wind,PHY MAG,False
+Flying Star,Core,Wedge,Sync,Wind,PHY MAG,False
+Tornado Star,Core,Wedge,OLB,Wind,PHY MAG,False
+Star Drive,Core,Wedge,AD,Wind,PHY MAG,False
+Awoken Trickster,Core,Wedge,DuAW,Wind,PHY MAG,False
+Nature's Wrath,Core,Dr. Mog,USB,Holy Fire Ice Lightning,MAG,True
+Our Historia,Core,Dr. Mog,Chain2,ALL,PHY MAG,True
+Bug Hunter,Core,Dr. Mog,ASB,Water Holy Fire Ice Lightning,MAG,True
+Archivist's Source,Core,Dr. Mog,ASB,Holy Fire Ice Lightning,MAG,False
+Waverider Moogle,Core,Dr. Mog,ASB,Water,MAG,True
+Bubble Mode,Core,Dr. Mog,GL,Water,NA,False
+Aqua Mode,Core,Dr. Mog,GL2,Water,NA,False
+Royal Sentinel,Core,Dr. Mog,GL,NE,NA,True
+Royal Resourcefulness,Core,Dr. Mog,GL2,ALL,NA,False
+Tetra Catastrophe,Core,Dr. Mog,AW,Holy Fire Ice Lightning,MAG,False
+Marine Expanse,Core,Dr. Mog,AW,Water,MAG,True
+Waverider Moogle V2,Core,Dr. Mog,AW,ALL,MAG,False
+Rainbow Magic,Core,Dr. Mog,Sync,ALL,MAG,False
+Soaring Fireworks,Core,Dr. Mog,OLB,ALL,MAG,False
+Soaring Moogle,Core,Dr. Mog,GLB,NE,NA,True
+Nameless Historia,Core,Dr. Mog,AD,ALL,MAG,False
