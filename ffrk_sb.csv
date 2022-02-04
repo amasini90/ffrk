@@ -402,11 +402,13 @@ Endless Darkness,IV,Decil,USB,Dark,PHY,True
 Nightmare Blade,IV,Decil,ASB,Dark,PHY,True
 Evil Force,IV,Decil,GL,NE,NA,True
 Evil Zone,IV,Decil,GL2,Dark,NA,False
+Dark Bond (Cecil (Dark Knight)),IV,Decil,Chain4,Dark,PHY,False
 Dark Crescent,IV,Decil,AW,Dark,PHY,False
 Shadow Blazer,IV,Decil,Sync,Dark,PHY,False
 Tenebrous Blast,IV,Decil,Sync,Dark,PHY,False
 Abyssal Onslaught,IV,Decil,OLB,Dark,PHY,False
 Job Change,IV,Decil,AD,Dark,PHY,False
+Awoken Dark Crescent,IV,Decil,DuAW,Dark,PHY,False
 Radiant Wings,IV,Pecil,Unique,Holy,PHY,True
 Sentinel,IV,Pecil,Unique,NE,NA,False
 Saint's Fall,IV,Pecil,SSB,Holy,PHY,True
@@ -589,6 +591,10 @@ Cloaked in Night,IV,Golbez,GL,Dark,NA,True
 Chaos Barrier,IV,Golbez,GL2,Dark,NA,True
 Dark Dungeon,IV,Golbez,AW,Dark,MAG,True
 Dark Meteor,IV,Golbez,Sync,Dark,MAG,False
+Dark Glow,IV,Golbez,Sync,Dark,MAG,False
+Apex Shadow Dragon,IV,Golbez,AD,Dark,MAG,False
+True Shadow Dragon,IV,Golbez,OLB,Dark,MAG,False
+Awoken Dark Dungeon,IV,Golbez,DuAW,Dark,MAG,False
 Jump Start,IV,Cid (IV),SSB,Lightning,PHY,False
 Monkey Wrench,IV,Cid (IV),SSB,NE,PHY,False
 Falcon Drill,IV,Cid (IV),BSB,Lightning,PHY,False
@@ -1438,6 +1444,7 @@ Carnage Cut,VIII,Seifer,AW,Dark Fire,PHY,False
 Forbidden Shadowflame Strike,VIII,Seifer,AW,Dark Fire,PHY,False
 Absolutely No Mercy,VIII,Seifer,Sync,Dark Fire,PHY,False
 Apex Zanzetsuken Reverse,VIII,Seifer,AD,Dark,PHY,False
+Awoken Carnage Cut,VIII,Seifer,DuAW,Dark Fire,PHY,False
 Missile Salvo,VIII,Laguna,Unique,NE,PHY,True
 Desperado,VIII,Laguna,SSB,NE,PHY,True
 Freezing Barrage,VIII,Laguna,SSB,Ice,PHY,True
