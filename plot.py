@@ -25,7 +25,7 @@ def plot_realms(realms,scores):
 
 def plot_elements(elementsPHY,scoresPHY,elementsMAG,scoresMAG):
 
-    fig = make_subplots(rows=2, cols=1, vertical_spacing=0.15)
+    fig = make_subplots(rows=2, cols=1, vertical_spacing=0.05)
 
     fig.append_trace(go.Bar(
         x=elementsPHY, 

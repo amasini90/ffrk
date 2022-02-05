@@ -2,7 +2,7 @@ import streamlit as st
 from streamlit import legacy_caching
 import numpy as np
 import pandas as pd
-import plot
+import plot,analysis
 local_data_path = 'data/ffrk.csv'
 
 def main():
@@ -12,7 +12,7 @@ def main():
     # Title of the App
     st.title('FFRK Helper')
 
-    if st.button('Aggiorna'):
+    if st.button('Update/Refresh'):
         legacy_caching.clear_cache()
     
     # Read in the data
@@ -30,10 +30,11 @@ def main():
     NotOwned = df.groupby(["Owned"]).count().values[0][0]
     Owned = df.groupby(["Owned"]).count().values[1][0]
     
-    st.subheader('My Relics Overview:')
-    col1,col2=st.columns(2)
+    st.header('My Relics Overview:')
+    col1,col2,col3=st.columns(3)
     col1.metric('Owned',Owned)
     col2.metric('Not Owned',NotOwned)
+    col3.metric('Fraction',str(round(100.*(Owned/(NotOwned+Owned)),1))+'%')
 
     # Compute the total Scores by REALM grouping by the appropriate keys
     ww = df.groupby(["Realm","Owned"]).sum()
@@ -43,59 +44,50 @@ def main():
             scores[realm] = ww.loc[realm].loc[True]/(ww.loc[realm].loc[False]+ww.loc[realm].loc[True])
     df3 = pd.DataFrame(scores)
     df3 = df3.T
+    
+    # Realms analysis
+    realms,scores = analysis.get_realm_scores(df3)
+    realms = np.array(realms)
+    scores = np.array(scores)
+    maskRealms = (realms != 'KH') & (realms != 'FFBe')
+    maskedRealms = realms[maskRealms]
+    maskedScores = scores[maskRealms]
+    # Elemental analysis
+    df4,df5 = analysis.get_elem_scores(df,Elements)
 
-    # Results of the REALM check: which ones I should focus on first?
-    st.subheader('Sorted scores by Realm:')
-    #st.table(df3.sort_values(by="Weight", axis=0))
-    realms,scores=[],[]
-    for item in df3.sort_values(by="Weight", axis=0).index:
-        realms.append(item)
-    for item in df3.sort_values(by="Weight", axis=0).values:
-        scores.append(item[0])
-    # Plotly Figure here
+    st.header('Scores')
+    st.subheader('Recommended pulls:')
+    col1,col2,col3=st.columns(3)
+    col1.metric('Realm',maskedRealms[maskedScores==np.min(maskedScores)][0])
+    col2.metric('PHY Elem',df4[df4==np.min(df4)].index[0])
+    col3.metric('MAG Elem',df5[df5==np.min(df5)].index[0])
+
     fig = plot.plot_realms(realms,scores)
     st.plotly_chart(fig, use_container_width=True)
 
-    st.subheader('Sorted scores by Element:')
-    # Elemental part, split by PHY and MAG types; here is more complicated - I need to look for 'elem' in the Element
-    # string and then look up if it's PHY or MAG (or both)
-    # First, I create 2 dictionaries (one PHY, one MAG)
-    PHYelem_dict, MAGelem_dict = {},{}
-    # Then, I loop on Elements
-    for elem in Elements:
-        scoreTot, score1 = 0,0
-        scoreTotMag, score1Mag = 0,0
-        # I loop on the whole df
-        for i in range(len(df["Element"])):
-            
-            # If this row contains 'elem' (or "ALL") and Type is not NaN, I'm interested in it
-            if (type(df["Type"].iloc[i]) == str) and ((elem in df["Element"].iloc[i]) or ("ALL" in df["Element"].iloc[i])):
-                
-                # PHY part
-                if "PHY" in df["Type"].iloc[i]:
-
-                    scoreTot += df["Weight"].iloc[i]
-                    if df["Owned"].iloc[i] == True:
-                        score1 += df["Weight"].iloc[i]
-                        
-                # MAG part
-                if "MAG" in df["Type"].iloc[i]:
-                
-                    scoreTotMag += df["Weight"].iloc[i]
-                    if df["Owned"].iloc[i] == True:
-                        score1Mag += df["Weight"].iloc[i]
-        
-        # Update the dictionaries
-        PHYelem_dict[elem] = score1/scoreTot
-        MAGelem_dict[elem] = score1Mag/scoreTotMag
-
-    # Create the DFs
-    df4 = pd.Series(PHYelem_dict)
-    df5 = pd.Series(MAGelem_dict)
-
-    # Elements
     fig = plot.plot_elements(df4.sort_values().index,df4.sort_values().values,df5.sort_values().index,df5.sort_values().values)
     st.plotly_chart(fig, use_container_width=True)
+    
+    st.subheader('Party suggestions:')
+    st.markdown('Healers not included.')
+
+    charDF = analysis.get_char_df(df)
+
+    ChooseRealm = st.checkbox('Realm')
+    ChooseElem = st.checkbox('Element')
+
+    if ChooseRealm:
+        ChosenRealm = st.selectbox('Realm', ['I',"II","III","IV","V","VI","VII","VIII","IX","X","XI","XII","XIII",'XIV',"XV","FFT","T-0","Core","FFBe"], format_func=lambda x: 'Select realm' if x == '' else x)
+        for i in range(5):
+            st.write(i+1,charDF[charDF.Realm == ChosenRealm].sort_values(by=['TotWeight','Score'],ascending=False).index[i])
+
+    if ChooseElem:
+        ChosenElem = st.selectbox('Elements', Elements, format_func=lambda x: 'Select element' if x == '' else x)
+        ChosenType = st.selectbox('Type', ["PHY","MAG"], format_func=lambda x: 'Select type' if x == '' else x)
+
+        outDF = analysis.get_ranked_chars(df,charDF,ChosenElem,ChosenType)
+        for i in range(5):
+            st.write(i+1,outDF.sort_values(by=['Rank','TotWeight'],ascending=[True,False]).index[i])
 
 
     link = '[Alberto Masini](http://www.linkedin.com/in/almasini/)'
