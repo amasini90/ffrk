@@ -5,7 +5,6 @@ Basic app (hosted by Streamit) based on a custom csv file with the list of relic
 * Streamlit (`pip install streamlit`)
 * Numpy (`pip install numpy`)
 * Pandas (`pip install pandas`)
-* Matplotlib (`pip install matplotlib`)
 * Plotly (`pip install plotly`)
 
 # Syntax and Usage
