@@ -2617,6 +2617,7 @@ Mega Burst,T-0,Ace,OSB,Fire,MAG,False
 Jackpot Triad,T-0,Ace,USB,Fire,MAG,False
 Firaga BOM,T-0,Ace,USB,Fire,MAG,False
 Beginning of the End,T-0,Ace,Chain2,ALL,PHY MAG,True
+Bond (Ace),T-0,Ace,Chain4,ALL,PHY MAG,False
 Monolith Beam,T-0,Ace,ASB,Fire,MAG,True
 Cut Cards,T-0,Ace,GL,Fire,NA,False
 Support Hand,T-0,Ace,GL2,Fire,NA,False
@@ -2685,8 +2686,11 @@ Endless Waltz,T-0,King,USB,Lightning,PHY,True
 Plasma King,T-0,King,USB,Lightning,PHY,False
 Point-Blank Shot,T-0,King,ASB,Lightning,PHY,True
 King's Trigger,T-0,King,GL2,Lightning,NA,False
+Munitions Charge,T-0,King,GL2,Lightning,PHY,False
 King Snipe Mode,T-0,King,AW,Lightning,PHY,True
 Endless Snipe,T-0,King,Sync,Lightning,PHY,False
+Apex Point-Blank Shot,T-0,King,AD,Lightning,PHY,False
+Awoken Hawkeye,T-0,King,DuAW,Lightning,PHY,False
 Earthquake (Type-0),T-0,Cinque,SSB,Earth Wind,PHY,False
 Gaia Pulse,T-0,Cinque,BSB,Earth,PHY,True
 Whirling Mace,T-0,Cinque,USB,Earth Wind,PHY,True
@@ -2712,14 +2716,19 @@ Black Hole (Type-0),T-0,Sice,BSB,Dark,PHY,True
 Dark Nebula,T-0,Sice,USB,Dark,PHY,False
 Negative Aura (Type-0),T-0,Sice,ASB,Dark,PHY,False
 Dark Fog,T-0,Sice,GL2,Dark,NA,False
+Black Abyss,T-0,Sice,GL2,NE,NA,False
 Grim Reaper,T-0,Sice,AW,Dark,PHY,True
 Death Maelstrom,T-0,Sice,AW,Dark,PHY,False
 Doomshadow Scythe,T-0,Sice,Sync,Dark,PHY,False
+Apex Negative Aura,T-0,Sice,AD,Dark,PHY,False
+Awoken Grim Reaper,T-0,Sice,DuAW,Dark,PHY,False
 Lightning Flash,T-0,Jack,BSB,Fire,PHY,True
 Deliverance,T-0,Jack,USB,Fire,PHY,False
 Flickering Shadow,T-0,Jack,GL2,Fire,NA,False
 Transience,T-0,Jack,AW,Fire,PHY,False
 Piercing Gleam,T-0,Jack,Sync,Fire,PHY,False
+Apex Pearcing Gleam,T-0,Jack,AD,Fire,PHY,False
+Awoken Transience,T-0,Jack,DUAW,Fire,PHY,False
 Glacial Phantasm,T-0,Eight,BSB,Ice,PHY,False
 Icebound Stance,T-0,Eight,USB,Ice,PHY,False
 Ice Render Combo,T-0,Eight,ASB,Ice,PHY,False
