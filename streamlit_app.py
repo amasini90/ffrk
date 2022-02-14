@@ -30,12 +30,17 @@ def main():
     NotOwned = df.groupby(["Owned"]).count().values[0][0]
     Owned = df.groupby(["Owned"]).count().values[1][0]
     
+    #### Overview of Relics situation
     st.header('My Relics Overview:')
     col1,col2,col3=st.columns(3)
     col1.metric('Owned',Owned)
     col2.metric('Not Owned',NotOwned)
     col3.metric('Fraction',str(round(100.*(Owned/(NotOwned+Owned)),1))+'%')
+    #####
 
+    #### Scores and Recommendations
+    st.header('Scores')
+    st.subheader('Recommended pulls:')
     # Compute the total Scores by REALM grouping by the appropriate keys
     ww = df.groupby(["Realm","Owned"]).sum()
     scores={}
@@ -54,27 +59,32 @@ def main():
     maskedScores = scores[maskRealms]
     # Elemental analysis
     df4,df5 = analysis.get_elem_scores(df,Elements)
+    avg = (df4+df5)/2
 
-    st.header('Scores')
-    st.subheader('Recommended pulls:')
-    col1,col2,col3=st.columns(3)
+    # Display metrics
+    col1,col2=st.columns(2)
     col1.metric('Realm',maskedRealms[maskedScores==np.min(maskedScores)][0])
-    col2.metric('PHY Elem',df4[df4==np.min(df4)].index[0])
-    col3.metric('MAG Elem',df5[df5==np.min(df5)].index[0])
+    col2.metric('Element',avg[avg==np.min(avg)].index[0])
+    #col2.metric('PHY Elem',df4[df4==np.min(df4)].index[0])
+    #col3.metric('MAG Elem',df5[df5==np.min(df5)].index[0])
 
+    # Display figures
     fig = plot.plot_realms(realms,scores)
     st.plotly_chart(fig, use_container_width=True)
 
     fig = plot.plot_elements(df4.sort_values().index,df4.sort_values().values,df5.sort_values().index,df5.sort_values().values)
     st.plotly_chart(fig, use_container_width=True)
-    
+    ####
+
+    #### Party composition
     st.subheader('Party suggestions:')
     st.markdown('Healers not included.')
 
-    charDF = analysis.get_char_df(df)
-
     ChooseRealm = st.checkbox('Realm')
     ChooseElem = st.checkbox('Element')
+
+    # Create the Character DF
+    charDF = analysis.get_char_df(df)
 
     if ChooseRealm:
         ChosenRealm = st.selectbox('Realm', ['I',"II","III","IV","V","VI","VII","VIII","IX","X","XI","XII","XIII",'XIV',"XV","FFT","T-0","Core","FFBe"], format_func=lambda x: 'Select realm' if x == '' else x)
@@ -89,7 +99,9 @@ def main():
         for i in range(5):
             st.write(i+1,outDF.sort_values(by=['Rank','TotWeight'],ascending=[True,False]).index[i])
 
+    ####
 
+    # Footer
     link = '[Alberto Masini](http://www.linkedin.com/in/almasini/)'
     st.write('Autore: '+link+' (2021); Licenza CC BY-NC-ND 3.0')
     st.image('by-nc-nd.eu.png', width=60)
