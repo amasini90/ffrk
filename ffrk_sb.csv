@@ -2615,7 +2615,7 @@ Firaga RF,T-0,Ace,BSB,Fire,MAG,True
 Firaga SHG,T-0,Ace,BSB,Fire,MAG,True
 Mega Burst,T-0,Ace,OSB,Fire,MAG,False
 Jackpot Triad,T-0,Ace,USB,Fire,MAG,False
-Firaga BOM,T-0,Ace,USB,Fire,MAG,False
+Firaga BOM,T-0,Ace,USB,Fire,MAG,True
 Beginning of the End,T-0,Ace,Chain2,ALL,PHY MAG,True
 Bond (Ace),T-0,Ace,Chain4,ALL,PHY MAG,False
 Monolith Beam,T-0,Ace,ASB,Fire,MAG,True
@@ -2665,7 +2665,7 @@ Saintly Dagger Toss,T-0,Rem,ASB,Holy Dark,MAG,False
 Tenacious Stand,T-0,Rem,GL2,NE,NA,False
 Saintly Aura,T-0,Rem,GL,Holy,NA,True
 Seraphim Strike,T-0,Rem,AW,Holy Dark,MAG,False
-Saintly Huntcraft,T-0,Rem,Sync,Holy,MAG,False
+Saintly Huntcraft,T-0,Rem,Sync,Holy,MAG,True
 Saintly Dagger Boomerang,T-0,Rem,OLB,Holy,MAG,False
 Magic Martyr,T-0,Queen,SSB,Lightning Dark,PHY,True
 Mana Sphere,T-0,Queen,BSB,Lightning Dark,PHY,True
@@ -2716,7 +2716,7 @@ Black Hole (Type-0),T-0,Sice,BSB,Dark,PHY,True
 Dark Nebula,T-0,Sice,USB,Dark,PHY,False
 Negative Aura (Type-0),T-0,Sice,ASB,Dark,PHY,False
 Dark Fog,T-0,Sice,GL2,Dark,NA,False
-Black Abyss,T-0,Sice,GL2,NE,NA,False
+Black Abyss,T-0,Sice,GL2,NE,NA,True
 Grim Reaper,T-0,Sice,AW,Dark,PHY,True
 Death Maelstrom,T-0,Sice,AW,Dark,PHY,False
 Doomshadow Scythe,T-0,Sice,Sync,Dark,PHY,False
@@ -2736,7 +2736,7 @@ Ice Phalanx,T-0,Eight,GL,Ice,NA,False
 Icebound Billow,T-0,Eight,AW,Ice,PHY,True
 Lightspeed Jab,T-0,Eight,AW,Ice,PHY,False
 Ice Burst Fist,T-0,Eight,Sync,Ice,PHY,False
-Frost Assault,T-0,Eight,OLB,Ice,PHY,False
+Frost Assault,T-0,Eight,OLB,Ice,PHY,True
 Sacrificial Slug (Type-0),T-0,Eight,AD,Ice,PHY,False
 Triple Charged Shot,T-0,Cater,USB,Fire Ice Lightning,PHY,False
 Tri-Color Mine,T-0,Cater,ASB,Fire Ice Lightning,PHY,True
