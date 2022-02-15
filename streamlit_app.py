@@ -85,19 +85,29 @@ def main():
 
     # Create the Character DF
     charDF = analysis.get_char_df(df)
+    #st.table(charDF)
 
     if ChooseRealm:
         ChosenRealm = st.selectbox('Realm', ['I',"II","III","IV","V","VI","VII","VIII","IX","X","XI","XII","XIII",'XIV',"XV","FFT","T-0","Core","FFBe"], format_func=lambda x: 'Select realm' if x == '' else x)
         for i in range(5):
-            st.write(i+1,charDF[charDF.Realm == ChosenRealm].sort_values(by=['TotWeight','Score'],ascending=False).index[i])
+            orderedDF = charDF[charDF.Realm == ChosenRealm].sort_values(by=['Rchain','TotWeight','Score'],ascending=False)
+            if orderedDF['Rchain'][i] == True:
+                st.write(i+1,orderedDF.index[i],'[CHAIN]')
+            else:
+                st.write(i+1,orderedDF.index[i])
 
     if ChooseElem:
         ChosenElem = st.selectbox('Elements', Elements, format_func=lambda x: 'Select element' if x == '' else x)
         ChosenType = st.selectbox('Type', ["PHY","MAG"], format_func=lambda x: 'Select type' if x == '' else x)
 
         outDF = analysis.get_ranked_chars(df,charDF,ChosenElem,ChosenType)
+        
         for i in range(5):
-            st.write(i+1,outDF.sort_values(by=['Rank','TotWeight'],ascending=[True,False]).index[i])
+            orderedDF = outDF.sort_values(by=['Echain','Rank','TotWeight'],ascending=[False,True,False])
+            if orderedDF['Echain'][i] == True:
+                st.write(i+1,orderedDF.index[i],'[CHAIN]')
+            else:
+                st.write(i+1,orderedDF.index[i])
 
     ####
 

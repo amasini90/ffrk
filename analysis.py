@@ -56,11 +56,12 @@ def get_char_df(df):
         realm = df['Realm'][df.Character==char].values[0]
         typ = util.get_type(df,char)
         elem = util.get_elem(df,char)
+        Rchain = util.has_Rchain(df,char)
         ww = df['Weight'][(df.Character==char) & (df.Owned==True)].sum()/df['Weight'][df.Character==char].sum()
-        WeightChar[char] = [realm,elem,typ,ww,df['Weight'][(df.Character==char) & (df.Owned==True)].sum()]
+        WeightChar[char] = [realm,elem,typ,ww,df['Weight'][(df.Character==char) & (df.Owned==True)].sum(),Rchain]
     
     # Create the DFs
-    df6 = pd.DataFrame.from_dict(WeightChar, orient='index', columns=['Realm','Element','Type','Score','TotWeight'])
+    df6 = pd.DataFrame.from_dict(WeightChar, orient='index', columns=['Realm','Element','Type','Score','TotWeight','Rchain'])
     return df6
 
 def get_ranked_chars(df,charDF,ChosenElem,ChosenType):
@@ -72,11 +73,14 @@ def get_ranked_chars(df,charDF,ChosenElem,ChosenType):
                 # Ideally, weight and score should be computed based on relics of that ELEM only.
                 viewDF = df[(df.Character == char) & (df.Owned == True)]
                 totweight = 0
+                Echain = False
                 for i in range(len(viewDF["Element"])):
                     # If this row contains 'elem' I'm interested in it
                     if ChosenElem in viewDF["Element"].iloc[i]:
                         totweight += viewDF["Weight"].iloc[i]
-                    
-                output[char] = [rank,totweight]
-    outDF = pd.DataFrame.from_dict(output, orient='index', columns=['Rank','TotWeight'])
+                        # See if Character has Chain of this ELEM
+                        Echain = util.has_Echain(viewDF,ChosenElem)
+
+                output[char] = [rank,totweight,Echain]
+    outDF = pd.DataFrame.from_dict(output, orient='index', columns=['Rank','TotWeight','Echain'])
     return outDF

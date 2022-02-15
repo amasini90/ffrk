@@ -29,3 +29,19 @@ def get_elem(df,character):
         return out
     else:
         return [' ']
+
+def has_Rchain(df,character):
+    ''' Returns TRUE if character has at least a REALM LV2 CHAIN'''
+    mask = (df['Character']==character) & ((df['Tier']=='Chain2') | (df['Tier']=='Chain3') | (df['Tier']=='Chain4')) & (df['Element']=='ALL') & (df['Owned']==True)
+    if len(df[mask]) > 0:
+        return True
+    else:
+        return False
+
+def has_Echain(df,elem):
+    ''' Returns TRUE if character has at least an ELEM LV2 CHAIN'''
+    mask = ((df['Tier']=='Chain2') | (df['Tier']=='Chain3') | (df['Tier']=='Chain4')) & (df['Element']==elem)
+    if len(df[mask]) > 0:
+        return True
+    else:
+        return False
