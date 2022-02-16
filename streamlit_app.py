@@ -80,6 +80,7 @@ def main():
     st.subheader('Party suggestions:')
     st.markdown('Healers not included.')
 
+    st.markdown('Which kind of party do you want to build?')
     ChooseRealm = st.checkbox('Realm')
     ChooseElem = st.checkbox('Element')
 
@@ -97,11 +98,12 @@ def main():
                 st.write(i+1,orderedDF.index[i])
 
     if ChooseElem:
-        ChosenElem = st.selectbox('Elements', Elements, format_func=lambda x: 'Select element' if x == '' else x)
+        st.markdown('Of which type (PHY/MAG) and element will it be?')
+        ChosenElem = st.selectbox('Element', Elements, format_func=lambda x: 'Select element' if x == '' else x)
         ChosenType = st.selectbox('Type', ["PHY","MAG"], format_func=lambda x: 'Select type' if x == '' else x)
 
         outDF = analysis.get_ranked_chars(df,charDF,ChosenElem,ChosenType)
-        
+
         for i in range(5):
             orderedDF = outDF.sort_values(by=['Echain','Rank','TotWeight'],ascending=[False,True,False])
             if orderedDF['Echain'][i] == True:
@@ -113,7 +115,7 @@ def main():
 
     # Footer
     link = '[Alberto Masini](http://www.linkedin.com/in/almasini/)'
-    st.write('Autore: '+link+' (2021); Licenza CC BY-NC-ND 3.0')
+    st.write('Author: '+link+' (2021); License CC BY-NC-ND 3.0')
     st.image('by-nc-nd.eu.png', width=60)
 
 if __name__ == '__main__':
