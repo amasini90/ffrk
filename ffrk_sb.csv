@@ -2445,7 +2445,7 @@ Sagefire,XV,Ignis,USB,Fire,PHY,False
 Regroup,XV,Ignis,Chain2,ALL,PHY MAG,False
 Tactical Sense,XV,Ignis,GL,Fire,NA,False
 Flameboost Bite,XV,Ignis,AW,Fire,PHY,True
-Tactical Mind,XV,Ignis,AW,Fire,PHY,False
+Tactical Mind,XV,Ignis,AW,Fire,PHY,True
 Sage's Hellfire,XV,Ignis,Sync,Fire,PHY,False
 Overclock,XV,Ignis,AD,Fire,PHY,False
 Starshell,XV,Prompto,SSB,Lightning,PHY,True
@@ -2489,8 +2489,8 @@ Oracle's Benevolence,XV,Lunafreya,AW,Water Holy,MAG,True
 For the King,XV,Lunafreya,Sync,Water Holy,MAG,False
 Oracle's Decree,XV,Lunafreya,Sync,Water Holy,MAG,False
 Aura of Darkness (XV),XV,Ardyn,USB,Dark Fire,PHY,False
-Implacable Ruler,XV,Ardyn,GL2,Dark Fire,NA,False
-Shadow King's Might,XV,Ardyn,AW,Dark Fire,PHY,False
+Implacable Ruler,XV,Ardyn,GL2,Dark Fire,NA,True
+Shadow King's Might,XV,Ardyn,AW,Dark Fire,PHY,True
 Mega Death,XV,Ardyn,Sync,Dark Fire,PHY,False
 Evil Armiger,XV,Ardyn,OLB,Dark Fire,PHY,False
 Awakening Darkness,XV,Ardyn,AD,Dark Fire,PHY,False
@@ -2499,7 +2499,7 @@ Imperial Warrior,XV,Ravus,GL2,Lightning Dark,PHY,False
 Resentful Strike,XV,Ravus,AW,Lightning Dark,PHY,False
 Hateful Onslaught,XV,Ravus,Sync,Lightning Dark,PHY,False
 Technique - Last Rites,XV,Ravus,AD,Lightning Dark,PHY,False
-Awoken Violet Arc,XV,Ravus,DuAW,Lightning Dark,PHY,False
+Awoken Violet Arc,XV,Ravus,DuAW,Lightning Dark,PHY,True
 Tailwind,FFT,Ramza,Unique,NE,NA,False
 Hail of Stones,FFT,Ramza,Unique,NE,PHY,True
 Shout,FFT,Ramza,SSB,NE,NA,True
