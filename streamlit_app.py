@@ -3,6 +3,7 @@ from streamlit import legacy_caching
 import numpy as np
 import pandas as pd
 import plot,analysis
+from PIL import Image
 local_data_path = 'data/ffrk.csv'
 
 def main():
@@ -62,9 +63,12 @@ def main():
     avg = (df4+df5)/2
 
     # Display metrics
+    ElemToPull = avg[avg==np.min(avg)].index[0]
+
     col1,col2=st.columns(2)
     col1.metric('Realm',maskedRealms[maskedScores==np.min(maskedScores)][0])
-    col2.metric('Element',avg[avg==np.min(avg)].index[0])
+    col2.metric('Element',ElemToPull)
+
     #col2.metric('PHY Elem',df4[df4==np.min(df4)].index[0])
     #col3.metric('MAG Elem',df5[df5==np.min(df5)].index[0])
 
