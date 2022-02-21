@@ -104,15 +104,15 @@ Megido Flood,I,Meia,AW,Water,MAG,False
 Farfall Nera,I,Meia,AW,Water,MAG,False
 Primal Undine,I,Meia,Sync,Water,MAG,False
 Fanatical Dance,I,Meia,AD,Water,MAG,False
-Scourge Edge,I,Thief,SSB,Wind Poison,PHY,False
-Invisibreak,I,Thief,BSB,Wind Poison,PHY,True
-Hollow Blast,I,Thief,USB,Wind Poison,PHY,True
-Dust Devil,I,Thief,ASB,Wind Poison,PHY,True
-Wind Trick,I,Thief,GL,Wind Poison,PHY,True
-Wind Drive,I,Thief,GL2,Wind,PHY,False
-Lively Thieves,I,Thief,AW,Wind Poison,PHY,False
-Notorious Thieves,I,Thief,AW,Wind Poison,PHY,True
-Crescent Gale,I,Thief,Sync,Wind Poison,PHY,False
+Scourge Edge,I,Thief (I),SSB,Wind Poison,PHY,False
+Invisibreak,I,Thief (I),BSB,Wind Poison,PHY,True
+Hollow Blast,I,Thief (I),USB,Wind Poison,PHY,True
+Dust Devil,I,Thief (I),ASB,Wind Poison,PHY,True
+Wind Trick,I,Thief (I),GL,Wind Poison,PHY,True
+Wind Drive,I,Thief (I),GL2,Wind,PHY,False
+Lively Thieves,I,Thief (I),AW,Wind Poison,PHY,False
+Notorious Thieves,I,Thief (I),AW,Wind Poison,PHY,True
+Crescent Gale,I,Thief (I),Sync,Wind Poison,PHY,False
 Wild Rose Vow,II,Firion,Unique,NE,PHY,True
 Lord of Arms,II,Firion,SSB,NE,PHY,True
 Shining Blade,II,Firion,SSB,Holy,PHY,True

@@ -62,12 +62,15 @@ def main():
     df4,df5 = analysis.get_elem_scores(df,Elements)
     avg = (df4+df5)/2
 
-    # Display metrics
-    ElemToPull = avg[avg==np.min(avg)].index[0]
+    # Display suggested pulls
+    WeakestElem = avg[avg==np.min(avg)].index[0]
+    WeakestRealm = maskedRealms[maskedScores==np.min(maskedScores)][0]
 
     col1,col2=st.columns(2)
-    col1.metric('Realm',maskedRealms[maskedScores==np.min(maskedScores)][0])
-    col2.metric('Element',ElemToPull)
+    col1.metric('Realm',WeakestRealm)
+    col2.metric('Element',WeakestElem)
+    empty,colb=st.columns(2)
+    colb.image('./Images/Elements/FFRK_'+WeakestElem+'_Element.png', width=30)
 
     #col2.metric('PHY Elem',df4[df4==np.min(df4)].index[0])
     #col3.metric('MAG Elem',df5[df5==np.min(df5)].index[0])
@@ -96,10 +99,14 @@ def main():
         ChosenRealm = st.selectbox('Realm', ['I',"II","III","IV","V","VI","VII","VIII","IX","X","XI","XII","XIII",'XIV',"XV","FFT","T-0","Core","FFBe"], format_func=lambda x: 'Select realm' if x == '' else x)
         for i in range(5):
             orderedDF = charDF[charDF.Realm == ChosenRealm].sort_values(by=['Rchain','TotWeight','Score'],ascending=False)
+            col1,col2 = st.columns([1,20])
+            char = orderedDF.index[i].replace(" ", "")
+            col1.image('./Images/Characters/'+char+'.png',width=50)
             if orderedDF['Rchain'][i] == True:
-                st.write(i+1,orderedDF.index[i],'[CHAIN]')
+                col2.write(orderedDF.index[i]+' [CHAIN]')
             else:
-                st.write(i+1,orderedDF.index[i])
+                col2.write(orderedDF.index[i])
+            
 
     if ChooseElem:
         st.markdown('Of which type (PHY/MAG) and element will it be?')
@@ -110,10 +117,13 @@ def main():
 
         for i in range(5):
             orderedDF = outDF.sort_values(by=['Echain','Rank','TotWeight'],ascending=[False,True,False])
+            col3,col4 = st.columns([1,20])
+            char = orderedDF.index[i].replace(" ", "")
+            col3.image('./Images/Characters/'+char+'.png',width=50)
             if orderedDF['Echain'][i] == True:
-                st.write(i+1,orderedDF.index[i],'[CHAIN]')
+                col4.write(orderedDF.index[i]+' [CHAIN]')
             else:
-                st.write(i+1,orderedDF.index[i])
+                col4.write(orderedDF.index[i])
 
     ####
 
