@@ -3,7 +3,6 @@ from streamlit import legacy_caching
 import numpy as np
 import pandas as pd
 import plot,analysis
-from PIL import Image
 local_data_path = 'data/ffrk.csv'
 
 def main():
