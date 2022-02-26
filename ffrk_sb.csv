@@ -1983,6 +1983,7 @@ License Acquired,XII,Vaan,USB,Wind,PHY,False
 Cruelest Azure,XII,Vaan,USB,NE,PHY,True
 Calamitous Orb,XII,Vaan,USB,Wind,PHY,True
 Wind of Liberation,XII,Vaan,Chain3,Wind,PHY,False
+Bond (Vaan),XII,Vaan,Chain4,ALL,PHY MAG,False
 Whitest Whorl,XII,Vaan,ASB,Wind,PHY,False
 Rabanastre Rumble,XII,Vaan,GL,Wind,PHY,True
 Spiral Wind II,XII,Vaan,GL2,Wind,NA,False
@@ -2058,11 +2059,14 @@ Inspiring Flash,XII,Ashe,USB,Lightning,MAG,True
 Lodestar's Gleam,XII,Ashe,ASB,Lightning,MAG,True
 Dusk Mote,XII,Ashe,GL,Lightning,NA,True
 Dynast-King's Scion,XII,Ashe,GL2,Lightning,NA,False
+Liberator’s Truth,XII,Ashe,GL2,NE,NA,False
 Northswain's Bolt,XII,Ashe,AW,Lightning,MAG,False
 Saintly Pride,XII,Ashe,Sync,Lightning,MAG,True
 Channeling Bolt,XII,Ashe,Sync,Lightning,MAG,False
+Northswain Bolt,XII,Ashe,OLB,Lightning,MAG,False
 Thunder Flash (Ashe),XII,Ashe,GLB,Lightning,MAG,False
 Apex Heaven's Wrath,XII,Ashe,AD,Lightning,MAG,False
+Awoken Northswain’s Glow,XII,Ashe,DuAW,Lightning,MAG,False
 War Dance,XII,Penelo,Unique,NE,NA,False
 Mincing Minuet,XII,Penelo,Unique,Holy,MAG,False
 Intercession,XII,Penelo,SSB,Holy,MAG,False
@@ -2073,6 +2077,7 @@ Tear Drops,XII,Penelo,USB,NE,NA,True
 Childhood Bond,XII,Penelo,GL2,NE,NA,False
 Dancing Heart,XII,Penelo,AW,NE,NA,False
 Shining Vindication,XII,Penelo,Sync,NE,NA,False
+Scales of Fate,XII,Penelo,Sync,Wind,MAG,False
 Enrage,XII,Gabranth,Unique,Dark,PHY,False
 Fulminating Oblivion,XII,Gabranth,SSB,Dark,PHY,True
 Avenger,XII,Gabranth,SSB,Dark,PHY,True
@@ -2121,6 +2126,8 @@ Courageous Mind,XII,Reks,GL2,Lightning,NA,True
 Dalmascan Oath,XII,Reks,AW,Lightning,PHY,False
 Dalmascan Spiral,XII,Reks,AW,Lightning,PHY,True
 Dalmascan Hazard,XII,Reks,Sync,Lightning,PHY,True
+Patriot’s Sword,XII,Reks,AD,Lightning,PHY,False
+Awoken Voltaic Slash,XII,Reks,DuAW,Lightning,PHY,False
 Blaze Rush,XIII,Lightning,Unique,NE,PHY,True
 Smite,XIII,Lightning,Unique,NE,PHY,False
 Stormborn,XIII,Lightning,Unique,Lightning,NA,False
