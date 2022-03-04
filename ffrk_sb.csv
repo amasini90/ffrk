@@ -655,10 +655,12 @@ Essence of Water,V,Lenna,USB,NE,NA,True
 Moogle Boost,V,Lenna,USB,NE,NA,False
 Princesses' Prayer,V,Lenna,USB,NE,NA,False
 Tycoon's Protection,V,Lenna,GL2,NE,NA,True
+Heartfelt Desire,V,Lenna,GL2,NE,NA,False
 Greatest Love,V,Lenna,GL,NE,NA,True
 Champion of Life,V,Lenna,AW,NE,NA,True
 Spreading One's Wings,V,Lenna,AW,NE,NA,True
 White Magic Mastery,V,Lenna,Sync,NE,NA,True
+Benevolent Princess,V,Lenna,Sync,Fire,MAG,False
 Fist of the Dawn,V,Galuf,Unique,NE,PHY,True
 Unyielding Fist,V,Galuf,Unique,NE,NA,False
 Unshaken Resolve,V,Galuf,SSB,NE,PHY,True
@@ -726,6 +728,8 @@ Quest of the Four,V,Bartz,GL2,Wind,NA,False
 Gaia's Favor,V,Bartz,GL2,Earth,NA,True
 Fluid Power,V,Bartz,GL2,Water,NA,False
 Blazing Power,V,Bartz,GL2,Fire,NA,True
+Quadlight Crystal,V,Bartz,GL2,Wind Water Fire Earth,NA,False
+Bond (Bartz),V,Bartz,Chain4,ALL,PHY MAG,False
 Tetra Spellblade,V,Bartz,AW,Wind Water Fire Earth,PHY,True
 Flame Awakening,V,Bartz,AW,Fire,PHY,True
 Rousing Winds,V,Bartz,AW,Wind,PHY,False
@@ -760,6 +764,8 @@ Pirate's Bravery,V,Faris,AW,Wind Fire,PHY,True
 Flamestorm,V,Faris,AW,Wind Fire,PHY,False
 Precious Friend,V,Faris,Sync,Wind Fire,PHY,False
 Serpent's Roar,V,Faris,OLB,Wind Fire,PHY,False
+Sea Sovereign,V,Faris,AD,Wind Fire,PHY,False
+Awoken Essence of Flame,V,Faris,DuAW,Wind Fire,PHY,False
 Winds of Home,V,Dorgann,SSB,Wind,PHY,True
 Uncharted Lands,V,Dorgann,BSB,Wind Earth,PHY,True
 Brotherhood of the Dawn,V,Dorgann,USB,Wind Earth,PHY,True
@@ -806,9 +812,12 @@ Boundless Love,V,Krile,GL,Fire,NA,False
 Ancestral Devotion,V,Krile,GL2,Fire Earth,MAG,False
 Bestial Exodus,V,Krile,AW,Fire Earth,MAG,False
 Baldesion Attack,V,Krile,Sync,Fire Earth,MAG,False
+Inspiring Heart,V,Krile,Sync,Fire Earth,MAG,False
 Starfall Devastation,V,Krile,OLB,Fire Earth,MAG,False
 Earth Raiment (Krile),V,Krile,GLB,Earth,NA,False
 Wind Drake's Back,V,Krile,AD,Fire,MAG,False
+Endearing Strength,V,Krile,AD,Earth,MAG,False
+Awoken Cleansing,V,Krile,DuAW,Fire Earth,MAG,False
 Spellsword Iceshock,V,Xezat,SSB,Ice Lightning,PHY,False
 Spellstorm Frostclash,V,Xezat,BSB,Ice Lightning,PHY,True
 Spellstrike Rimebolt,V,Xezat,USB,Ice Lightning,PHY,False
