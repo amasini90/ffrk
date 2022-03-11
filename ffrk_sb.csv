@@ -1730,6 +1730,7 @@ Energy Rain,X,Tidus,OSB,Water,PHY,False
 Day to Remember,X,Tidus,USB,Water,PHY,True
 Quick Rush,X,Tidus,USB,Water,PHY,False
 A Fleeting Dream,X,Tidus,Chain,Water,PHY MAG,True
+Bond (Tidus),X,Tidus,Chain4,ALL,PHY MAG,False
 Slash & Splash,X,Tidus,ASB,Water,PHY,False
 Ace Form,X,Tidus,GL,Water,NA,True
 Sphere Form,X,Tidus,GL2,Water,NA,True
@@ -1763,6 +1764,7 @@ Cradling Words,X,Yuna,AW,NE,NA,False
 For the Calm,X,Yuna,AW,Holy Wind,MAG,True
 Farplane Wish,X,Yuna,Sync,Holy Wind,MAG,False
 Guardian Valefor,X,Yuna,Guardian,Holy Wind,MAG,False
+Awoken Grand Summon Overdrive,X,Yuna,DuAW,Holy Wind,MAG,False
 Status Reels,X,Wakka,Unique,NE,PHY,True
 Attack Reels,X,Wakka,Unique,NE,PHY,False
 Aurochs Reels,X,Wakka,SSB,NE,PHY,False
@@ -1777,6 +1779,8 @@ Ace Lesson,X,Wakka,AW,Water,PHY,True
 Last Blitz,X,Wakka,AW,Water,PHY,False
 Aurochs Spirit+,X,Wakka,Sync,Water,PHY,False
 Water Flash (Wakka),X,Wakka,GLB,Water,PHY,False
+Spiraling Flash,X,Wakka,GLB,Water,NA,False
+Blitz Off,X,Wakka,OLB,Water,PHY,False
 Apex Aurochs Reels,X,Wakka,AD,Water,PHY,False
 Firaga Fury,X,Lulu,Unique,Fire,MAG,True
 Focus (X),X,Lulu,Unique,NE,NA,True
@@ -1789,11 +1793,14 @@ Triple Trick,X,Lulu,USB,Ice Water Lightning,MAG,False
 Twin Temptations,X,Lulu,ASB,Ice Water,MAG,True
 Icy Beauty,X,Lulu,GL,Ice,NA,False
 Overlapping Futures,X,Lulu,GL2,Ice Water Lightning,NA,False
+Witch’s Resolve,X,Lulu,GL2,NE,NA,False
 Aqueous Beauty,X,Lulu,GL,Water,NA,False
 The Future Waits,X,Lulu,AW,Ice Water,MAG,True
 Voltech Fury,X,Lulu,AW,Ice Water Lightning,MAG,False
+Tri-Energy,X,Lulu,OLB,Ice Water Lightning,MAG,False
 Plushie Magic,X,Lulu,Sync,Ice Water Lightning,MAG,False
 Ultima Fury,X,Lulu,AD,Ice Water Lightning,MAG,False
+Awoken Triple Trick,X,Lulu,DuAW,Ice Water Lightning,MAG,False
 Mighty Guard (X),X,Kimahri,Unique,NE,NA,False
 Ronso Jump,X,Kimahri,Unique,NE,PHY,False
 Fang of Gagazet,X,Kimahri,SSB,NE,PHY,False
@@ -1875,6 +1882,8 @@ A Dream of Journey's End,X,Braska,GL,Fire,NA,False
 Summon Fire II,X,Braska,AW,Fire,MAG,False
 Summon Flamebeast,X,Braska,AW,Fire,MAG,False
 High Summoner's Flame,X,Braska,Sync,Fire,MAG,False
+Apex Ifrit,X,Braska,AD,Fire,MAG,False
+Awoken Sorrowbane Flame,X,Braska,DuAW,Fire,MAG,False
 Sword Dance,X,Paine,SSB,Earth Wind,PHY,True
 Liquid Steel,X,Paine,SSB,Water,PHY,True
 Whelmen,X,Paine,BSB,Water,PHY,True
