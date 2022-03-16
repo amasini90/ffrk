@@ -16,7 +16,7 @@ def main():
         legacy_caching.clear_cache()
     
     # Read in the data
-    df = pd.read_csv('ffrk_sb.csv', header=0, index_col=0)
+    df = pd.read_csv('./data/ffrk_sb.csv', header=0, index_col=0)
     # Weights and Elements for Tiers
     weights = {"Unique":0.536, "SSB":1.072, "BSB":0.625, "OSB":0.625, "GL":1.25, "GL2":1.5, "ASB":1.75,
             "AD":2.5, "Chain":1.25, "Chain2":1.75, "Chain3":1.8, "Chain4":2.5, "USB":1, "AW":2.25, "Sync":2.5,

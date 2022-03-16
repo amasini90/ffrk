@@ -1,0 +1,12 @@
+Name,Tier,Character,Realm,Chance,Trigger,Effect,Element,Owned
+Absolute Justice,5,Warrior of Light,I,1.0,Start,Infusion,Holy,True
+Cycle Breaker,5,Warrior of Light,I,1.0,Start,ReduceDelay,NA,True
+Light Within,5,Warrior of Light,I,1.0,TakeDamage,IncreaseATK,NA,False
+Steadfast Warrior,5,Warrior of Light,I,0.20,TakeDamage,Counter Healing,Holy,False
+Re-action (Warrior of Light),6,Warrior of Light,I,1.0,Every3 Holy,AdditionalTrigger,Holy,True
+Frenzied Warrior,5,Garland,I,1.0,LowHP,ReduceDelay Healing,NA,True
+Timeless Hatred,5,Garland,I,0.20,Every1 Dark,AdditionalTrigger,Dark,True
+Battlelust,5,Garland,I,1.0,Start,Infusion,Dark,False
+Onslaught (Garland),6,Garland,I,0.30,Every1 Dark,Followup PHY,Dark,False
+Warrior's Ballad,5,Sarah,I,0.20,Every1 Bard,SmallGroup Healing,NA,False
+Windsong,5,Sarah,I,0.30,Every1 Bard,ReduceDelay,NA,False
