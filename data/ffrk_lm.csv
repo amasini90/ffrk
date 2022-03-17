@@ -1,12 +1,130 @@
-Name,Tier,Character,Realm,Chance,Trigger,Effect,Element,Owned
-Absolute Justice,5,Warrior of Light,I,1.0,Start,Infusion,Holy,True
-Cycle Breaker,5,Warrior of Light,I,1.0,Start,ReduceDelay,NA,True
-Light Within,5,Warrior of Light,I,1.0,TakeDamage,IncreaseATK,NA,False
-Steadfast Warrior,5,Warrior of Light,I,0.20,TakeDamage,Counter Healing,Holy,False
-Re-action (Warrior of Light),6,Warrior of Light,I,1.0,Every3 Holy,AdditionalTrigger,Holy,True
-Frenzied Warrior,5,Garland,I,1.0,LowHP,ReduceDelay Healing,NA,True
-Timeless Hatred,5,Garland,I,0.20,Every1 Dark,AdditionalTrigger,Dark,True
-Battlelust,5,Garland,I,1.0,Start,Infusion,Dark,False
-Onslaught (Garland),6,Garland,I,0.30,Every1 Dark,Followup PHY,Dark,False
-Warrior's Ballad,5,Sarah,I,0.20,Every1 Bard,SmallGroup Healing,NA,False
-Windsong,5,Sarah,I,0.30,Every1 Bard,ReduceDelay,NA,False
+Name,Tier,Character,Realm,Chance,Trigger,Element/Class,Effect,Owned
+Absolute Justice,5,Warrior of Light,I,1.0,Start,Holy,Infusion,True
+Cycle Breaker,5,Warrior of Light,I,1.0,Start,NA,ReduceDelay,True
+Light Within,5,Warrior of Light,I,1.0,TakeDamage,NA,IncreaseATK,False
+Steadfast Warrior,5,Warrior of Light,I,0.2,TakeDamage,Holy,Counter Healing,False
+Re-action (Warrior of Light),6,Warrior of Light,I,1.0,Every3,Holy,AdditionalTrigger,True
+Frenzied Warrior,5,Garland,I,1.0,LowHP,NA,ReduceDelay Healing,True
+Timeless Hatred,5,Garland,I,0.2,Every1,Dark,AdditionalTrigger,True
+Battlelust,5,Garland,I,1.0,Start,Dark,Infusion,False
+Onslaught (Garland),6,Garland,I,0.3,Every1,Dark,Followup PHY,False
+Warrior's Ballad,5,Sarah,I,0.2,Every1,Bard,SmallGroup Healing,False
+Windsong,5,Sarah,I,0.3,Every1,Bard,ReduceDelay,False
+Breaker of Laws,5,Wol,I,1.0,LowHP,NA,Dmg 1.3xALL,False
+Aspirant of Light,5,Wol,I,0.2,Every1,Earth,Imperil,False
+Fickle Fortune,5,Echo,I,0.2,Every1,Dancer,SmallGroup Healing,True
+Faerie Helper,5,Echo,I,0.2,Every1,Dancer,AdditionalTrigger,True
+Fabled Spirit,5,Echo,I,1.0,Start,NA,Haste NoDelay1,False
+Glimmer of Insight,5,Master,I,0.2,Every1,Monk,1.3xATK,False
+Martial Mentor,5,Master,I,1.0,EquipWeapon,Fist,Dmg 1.5xPHY,True
+Mystic Master,5,Matoya,I,1.0,EquipWeapon,Staff,Dmg 1.5xWitch,False
+Apt Apothecary,5,Matoya,I,0.3,Every1,Witch,ReduceDelay,False
+Free from Hatred,5,Meia,I,0.2,Every1,Water,AdditionalTrigger,True
+Azure Witchcraft,5,Meia,I,1.0,Start,Water,Infusion,False
+Thief's Fortune,5,Thief (I),I,0.8,EquipWeapon,Dagger,Drop 1.3xGil,True
+Thieving Flair,5,Thief (I),I,0.3,Every1,Wind Poison,ReduceDelay,False
+Future's Edge,5,Firion,II,0.2,Every1,Samurai,AdditionalTrigger,True
+Impassioned Leader,5,Firion,II,0.2,Every1,Knight,AdditionalTrigger,True
+Untarnished Honor,5,Firion,II,0.2,Every1,Combat,AdditionalTrigger,False
+Defying Oppression,5,Firion,II,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,False
+Depths of Sorrow,5,Maria,II,1.0,Start,Earth,Infusion,True
+Searching Sister,5,Maria,II,0.2,Every1,Earth,AdditionalTrigger,True
+Refinement (Maria),6,Maria,II,1.0,Auto,NA,Dmg 1.3xMAG,False
+Hale and Hearty,5,Guy,II,1.0,EquipWeapon,Axe,Dmg 1.5xPHY,False
+Knight Superior,5,Leon,II,1.0,Start,Dark,Infusion,False
+Dark Bloom,5,Leon,II,0.2,Every1,Dark,AdditionalTrigger,False
+Seer of Fate,5,Minwu,II,0.2,Every1,White,AdditionalTrigger,True
+Heroic Mage,5,Minwu,II,1.0,Start,Holy,Infusion,True
+Rebel Mastermind,5,Minwu,II,0.2,Every1,White,Grant MirrorImage,False
+Kashuan Heir,5,Gordon,II,1.0,Auto,NA,Debuff 1.2xDuration,True
+Ancestral Ardor,5,Gordon,II,0.2,Every1,Support,Followup PHY MAG Dispel,False
+Ascendant Prince,5,Gordon,II,1.0,Start,NA,Haste NoDelay1,False
+Swiftness (Gordon),6,Gordon,II,1.0,Start,NA,Haste NoDelay3,False
+Pirate of Paloom,5,Leila,II,0.2,Every1,Water,Imperil,False
+Maiden of the Sea,5,Leila,II,0.2,Every1,Poison Water,ReduceDelay,False
+Storm Strider,5,Ricard,II,1.0,Start,Lightning,Infusion,True
+Windslice Wyvern,5,Ricard,II,1.0,Start,Wind,Infusion,False
+A Father's Love,5,Josef,II,0.2,Every1,Monk,AdditionalTrigger,True
+Man of Virtue,5,Josef,II,1.0,Start,Ice,Infusion,False
+Bloody Past,5,Emperor,II,0.2,Every1,Black Darkness,AdditionalTrigger,True
+Drastic Despot,5,Emperor,II,1.0,Start,Dark,Infusion,True
+Risen Tyrant,5,Emperor,II,1.0,EquipWeapon,Rod,Dmg 1.5xMAG,False
+Despotic Stratagem,5,Emperor,II,1.0,Start,Earth,Infusion,False
+Soul of Rebirth,5,Emperor,II,1.0,LowHP,NA,ReduceDelay Healing,False
+Noble Blood,5,Hilda,II,0.2,Every1,White,AdditionalTrigger,False
+Unspoken Love,5,Scott,II,1.0,Start,Fire,Infusion,True
+Refinement (Scott),6,Scott,II,1.0,Auto,NA,Dmg 1.3xFire,False
+Orphan of Ur,5,Luneth,III,1.0,Start,Wind,Infusion,True
+Fast and Furious,5,Luneth,III,0.3,Every1,Wind,ReduceDelay,True
+Rascal of Ur,5,Luneth,III,0.2,Every1,Wind,AdditionalTrigger,False
+Bookworm,5,Arc,III,1.0,Every1,White,IncreaseMND,True
+Studious Orphan,5,Arc,III,1.0,Start,Water,Infusion,False
+Plucky Orphan,5,Arc,III,0.2,Every1,Summon,AdditionalTrigger,False
+Onslaught (Arc),6,Arc,III,0.3,Every1,Water Holy,Followup MAG RestoreAbility,False
+Deadly Charm,5,Refia,III,0.2,Every1,Fire,AdditionalTrigger,True
+The Road Ahead,5,Refia,III,1.0,Start,Fire,Infusion,True
+Onslaught (Refia),6,Refia,III,0.3,Every1,Monk,Followup PHY,False
+Resolute Warrior,5,Ingus,III,1.0,Start,Earth,Infusion,True
+Loyal Heart,5,Ingus,III,0.2,EquipArmor,Shield,ReduceDmg,False
+Hidden Feelings,5,Ingus,III,0.2,Every1,Knight,AdditionalTrigger,False
+Stoic Knight,5,Ingus,III,0.2,Every1,Knight,Followup PHY Healing,False
+Aimless Wanderer,5,Desch,III,1.0,Start,NA,Haste NoDelay1,True
+Lovestruck Wanderer,5,Desch,III,1.0,Start,Lightning,Infusion,False
+Total Devotion,5,Desch,III,1.0,Every1,Black,IncreaseMAG,False
+Bounding Growth,5,Onion Kinght,III,1.0,Start,Water,Infusion,True
+Nom de Guerre,5,Onion Knight,III,1.0,Start,NA,NoDelay2,True
+Power Overflowing,5,Onion Knight,III,EquipWeapon,Rod,Dmg 1.5xMAG,False
+Herald of Darkness,5,Cloud of Darkness,III,1.0,Start,NA,Haste NoDelay1,True
+Spawn of Darkness,5,Cloud of Darkness,III,1.0,Start,Dark,Infusion,True
+Oblivion Seeker,5,Cloud of Darkness,III,0.2,Every1,Dark,AdditionalTrigger,False
+Hastening (Cloud of Darkness),6,Cloid of Darkness,III,1.0,Every3,Dark,ReduceDelay,False
+Duty First,5,Aria,III,0.2,Every1,White,AdditionalTrigger,True
+Maiden of the Wreck,5,Aria,III,0.2,Every1,White,SmallGroup Healing,False
+Crystal Prayer,5,Aria,III,0.2,Every1,White,1.5xHealing,False
+Thirsting Blade,5,Decil,IV,1.0,LowHP,NA,LastStand 1.3xATK -1.2xDEF,False
+Dark Power,5,Decil,IV,1.0,Start,Dark,Infusion,False
+Dark Elite,5,Decil,IV,0.2,Every1,Dark,AdditionalTrigger,False
+Hastening (Cecil (Dark Knight)),6,Decil,IV,1.0,Every3,Dark,ReduceDelay,False
+Indomitable,5,Pecil,IV,1.0,TakeDamage,NA,IncreaseDEF,True
+Holy Promise,5,Pecil,IV,0.2,Every1,White,AdditionalTrigger,True
+Holy Dawn,5,Pecil,IV,1.0,Every1,White,IncreaseMND,False
+Led by the Moon,5,Pecil,IV,0.2,Every1,Knight,AdditionalTrigger,False
+Ardor's Light,5,Pecil,IV,1.0,Start,Holy,Infusion,False
+Dragoon Resolute,5,Kain,IV,0.2,Every1,Dragoon,AdditionalTrigger,True
+Weak No More,5,Kain,IV,1.0,Start,Lightning,Infusion,True
+Dragoon's Essence,5,Kain,IV,1.0,EquipWeapon,Spear,Dmg 1.5xDragoon,False
+Reluctant Fighter,5,Rydia,IV,1.0,EquipWeapon,Whip,Dmg 1.5xSummon,True
+Gifted Summoner,5,Rydia,IV,0.3,Every1,Summon,ReduceDelay,True
+Opposite Fate,5,Rydia,IV,1.0,Start,Earth,Infusion,False
+Pristine Spirit,5,Rydia,IV,1.0,Start,Water,Infusion,False
+Fruits of Kindness,5,Rosa,IV,0.2,Every1,White,SmallGroup Healing,True
+Partician Beauty,5,Rosa,IV,0.2,Every1,White,AdditionalTrigger,True
+Quiet Devotion,5,Rosa,IV,1.0,Every1,White,IncreaseMND,False
+Gifted Bard,5,Edward,IV,1.0,Auto,NA,Buff 1.2xDuration,True
+Man of Courage,5,Edward,IV,1.0,Start,ReduceDelay,True
+Mind and Body,5,Yang,IV,1.0,EquipWeapon,Fist,Dmg 1.5xMonk,True
+Eager Prodigy,5,Palom,IV,1.0,EquipWeapon,Rod,Dmg 1.5xMAG,False
+Mischief Lover,5,Palom,IV,1.0,Start,Lightning,Infusion,False
+Sisterly Guidance,5,Porom,IV,0.2,Every1,White,SmallGroup Healing,True
+Busybody,5,Porom,IV,0.3,Every1,White,ReduceDelay,True
+Learned Sage,5,Tellah,IV,1.0,Start,Earth,Infusion,True
+Famed Sage,5,Tellah,IV,0.2,Every1,Earth,AdditionalTrigger,False
+Sage's Acumen,5,Tellah,IV,1.0,Auto,NA,Buff 1.2xDuration,False
+Unequaled Master,5,Edge,IV,0.2,Every1,Ninja,Followup PHY MAG,True
+Eblan's Legacy,5,Edge,IV,0.2,Every1,Ninja,Grant MirrorImage,True
+Hastening (Edge),6,Edge,IV,1.0,Every3,Ninja,ReduceDelay,False
+Watcher of Worlds,5,Fusoya,IV,1.0,Start,Holy,Infusion,False
+Blessing (Fusoya),6,Fusoya,IV,1.0,LowHP,2kGroup Healing Regenga,False
+Darkest Mage,5,Golbez,IV,0.2,Every1,Dark,AdditionalTrigger,True
+Air of Intimidation,5,Golbez,IV,1.0,Start,Dark,Infusion,True
+Seasoned Fortitude,5,Cid (IV),1.0,LowHP,LastStand 1.3xATK -1.2xRES,False
+Unselfish Disposition,5,Cid (IV),1.0,Start,Lightning,Infusion,False
+Re-action (Cid IV),6,Cid (IV),1.0,Every3,Lightning,AdditionalTrigger,False
+Divine Bloodline,5,Ceodore,IV,0.2,Every1,Holy,AdditionalTrigger,True
+Purest Prince,5,Ceodore,IV,1.0,Start,Holy,Infusion,True
+His Father's Justice,5,Ceodore,IV,0.3,TakeDamage Ally,Cover,False
+Red-cloaked Terror,5,Rubicante,IV,1.0,Start,Fire,Infusion,True
+Fiercest Fiend,5,Rubicante,IV,0.2,Every1,Black,Imperil,False
+Filial Devotion,5,Ursula,IV,1.0,Start,Earth,Infusion,True
+Back Unbent,5,Ursula,IV,0.2,Every1,Monk,AdditionalTrigger,True
+Ruler of the Wind,5,Barbariccia,IV,1.0,Start,Wind,Infusion,False
