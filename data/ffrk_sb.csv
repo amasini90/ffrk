@@ -524,6 +524,9 @@ True Thunderstorm,IV,Palom,AW,Fire Ice Lightning,MAG,False
 Coordinated Twin Meteor,IV,Palom,Sync,Fire Ice Lightning,MAG,False
 Triple Crush,IV,Palom,OLB,Fire Ice Lightning,MAG,False
 Lightning Raiment (Palom),IV,Palom,GLB,Lightning,NA,False
+Lightning Bond (Palom),IV,Palom,Chain4,Lightning,MAG,False
+Infinity,IV,Palom,AD,Lightning Fire Ice,MAG,False
+Awoken Tri-Disaster,IV,Palom,DuAW,Lightning Fire Ice,MAG,False
 Sync,IV,Porom,SSB,NE,NA,False
 Twin Star,IV,Porom,SSB,NE,NA,False
 Healing Wind (IV),IV,Porom,BSB,NE,NA,False
@@ -1494,10 +1497,13 @@ Lightning Raid,VIII,Raijin,USB,Lightning,PHY,False
 Dragon Ascent,VIII,Raijin,ASB,Lightning,PHY,False
 Thundering Hammer,VIII,Raijin,GL,Lightning,NA,False
 Indomitable Will,VIII,Raijin,GL2,NE,NA,False
+Valiant Assault,VIII,Raijin,GL2,NE,NA,False
 Indomitable Thunderclap,VIII,Raijin,GL2,NE,NA,False
 Stormcall,VIII,Raijin,AW,Lightning,PHY,False
 Thunderstorm Assault,VIII,Raijin,Sync,Lightning,PHY,False
 Raijin Destruction Special,VIII,Raijin,OLB,Lightning,PHY,False
+Apex Raijin Special,VIII,Raijin,AD,Lightning,PHY,False
+Awoken Lightning Raid,VIII,Raijin,DuAW,Lightning,PHY,False
 Jin,VIII,Fujin,Unique,NE,NA,True
 Zan,VIII,Fujin,SSB,Wind,MAG,True
 Metsu,VIII,Fujin,BSB,Wind,MAG,True
@@ -2710,10 +2716,12 @@ Sudden Shift,T-0,Queen,Chain3,Lightning,PHY,False
 Energy Rush,T-0,Queen,ASB,Lightning,PHY,False
 Fiendish Impulse,T-0,Queen,GL2,Lightning,NA,False
 Fiendish Judgment,T-0,Queen,AW,Lightning Dark,PHY,True
+Austere Jugde,T-0,Queen,AW,Lightning Dark,PHY,False
 Devastate,T-0,Queen,Sync,Lightning,PHY,False
 Destructive Energy,T-0,Queen,OLB,Lightning,PHY,False
 Thunder Flash (Queen),T-0,Queen,GLB,Lightning,PHY,False
 Apex Savage Heart Mode,T-0,Queen,AD,Lightning,PHY,True
+Awoken Fiendish Judgment,T-0,Queen,DuAW,Lightning,PHY,False
 Trigger Finger,T-0,King,SSB,Lightning,PHY,True
 Magazine Blast,T-0,King,BSB,Lightning Fire,PHY,True
 Endless Waltz,T-0,King,USB,Lightning,PHY,True
