@@ -11,7 +11,7 @@ Onslaught (Garland),6,Garland,I,0.3,Every1,Dark,Followup PHY,False
 Warrior's Ballad,5,Sarah,I,0.2,Every1,Bard,SmallGroup Healing,False
 Windsong,5,Sarah,I,0.3,Every1,Bard,ReduceDelay,False
 Breaker of Laws,5,Wol,I,1.0,LowHP,NA,Dmg 1.3xALL,False
-Aspirant of Light,5,Wol,I,0.2,Every1,Earth,Imperil,False
+Aspirant of Light,5,Wol,I,0.2,Every1,Earth,Earth Imperil,False
 Fickle Fortune,5,Echo,I,0.2,Every1,Dancer,SmallGroup Healing,True
 Faerie Helper,5,Echo,I,0.2,Every1,Dancer,AdditionalTrigger,True
 Fabled Spirit,5,Echo,I,1.0,Start,NA,Haste NoDelay1,False
@@ -40,7 +40,7 @@ Kashuan Heir,5,Gordon,II,1.0,Auto,NA,Debuff 1.2xDuration,True
 Ancestral Ardor,5,Gordon,II,0.2,Every1,Support,Followup PHY MAG Dispel,False
 Ascendant Prince,5,Gordon,II,1.0,Start,NA,Haste NoDelay1,False
 Swiftness (Gordon),6,Gordon,II,1.0,Start,NA,Haste NoDelay3,False
-Pirate of Paloom,5,Leila,II,0.2,Every1,Water,Imperil,False
+Pirate of Paloom,5,Leila,II,0.2,Every1,Water,Water Imperil,False
 Maiden of the Sea,5,Leila,II,0.2,Every1,Poison Water,ReduceDelay,False
 Storm Strider,5,Ricard,II,1.0,Start,Lightning,Infusion,True
 Windslice Wyvern,5,Ricard,II,1.0,Start,Wind,Infusion,False
@@ -124,7 +124,148 @@ Divine Bloodline,5,Ceodore,IV,0.2,Every1,Holy,AdditionalTrigger,True
 Purest Prince,5,Ceodore,IV,1.0,Start,Holy,Infusion,True
 His Father's Justice,5,Ceodore,IV,0.3,TakeDamage Ally,Cover,False
 Red-cloaked Terror,5,Rubicante,IV,1.0,Start,Fire,Infusion,True
-Fiercest Fiend,5,Rubicante,IV,0.2,Every1,Black,Imperil,False
+Fiercest Fiend,5,Rubicante,IV,0.2,Every1,Black,Fire Imperil,False
 Filial Devotion,5,Ursula,IV,1.0,Start,Earth,Infusion,True
 Back Unbent,5,Ursula,IV,0.2,Every1,Monk,AdditionalTrigger,True
 Ruler of the Wind,5,Barbariccia,IV,1.0,Start,Wind,Infusion,False
+Impartial Kindness,5,Lenna,V,0.2,Every1,White,SmallGroup Healing,True
+Regal Nature,5,Galuf,V,1.0,Start,Earth,Infusion,False
+Old and Bold,5,Galuf,V,1.0,Start,NA,ReduceDelay,False
+Priceless Experience,5,Galuf,V,0.2,Every1,Monk,AdditionalTrigger,False
+Waterlogged Misfit,5,Gogo (V),V,1.0,EquipWeapon,Rod,Dmg 1.5xWater,False
+Subversion (Gogo (V)),6,Gogo (V),V,1.0,Every3,Water,Water Imperil,False
+Melodramatic Swordsman,5,Gilgamesh,V,1.0,Start,Fire,Infusion,True
+Hero's Kindness,5,Gilgamesh,V,0.2,Every1,Samurai,AdditionalTrigger,False
+Hereditary Skill,5,Bartz,V,1.0,EquipWeapon,Sword,Dmg 1.5xSpellblade,True
+Fragments of Grace,5,Bartz,V,0.1,Every1,Spellblade,3xTrigger,True
+First Princess,5,Faris,V,1.0,EquipWeapon,Bow,Dmg 1.5xATK,True
+Disguised Princess,5,Faris,V,1.0,Start,Wind,Infusion,True
+Warrior Princess,5,Faris,V,1.0,ForEachDebuff,NA,IncreaseDmg,True
+Rabble Wrangler,5,Faris,V,0.2,Every1,Thief,AdditionalTrigger,False
+Warrior of Regole,5,Dorgann,V,0.2,Every1,Earth,Earth Imperil,False
+Wandering Adventurer,5,Dorgann,V,1.0,Start,Earth,Infusion,False
+Born of Evil,5,Exdeath,V,1.0,Start,Dark,Infusion,True
+Tree Most Foul,5,Exdeath,V,EquipWeapon,Staff Sword,Dmg 1.5xMAG,False
+Unbridled Enthusiasm,5,Krile,V,1.0,Start,Fire,Infusion,False
+A Granddaughter's Drive,5,Krile,V,0.2,Every1,Fire,AdditionalTrigger,False
+Innate Cheer,5,Krile,V,1.0,Start,Earth,Infusion,False
+Natural Connection,5,Krile,V,1.0,Start,NA,Haste NoDelay1,False
+Refinement (Krile),6,Krile,V,1.0,Auto,NA,Dmg 1.3xMAG,False
+Master of Surgate,5,Xezat,V,1.0,EquipWeapon,Sword,Dmg 1.5xSpellblade,True
+Head of the Heet,5,Xezat,V,0.2,Every1,Spellblade,AdditionalTrigger,False
+Undimmed Justice,5,Kelger,V,1.0,Start,Earth,Infusion,True
+Dying Breath,5,Kelger,V,0.2,Every1,Ninja,AdditionalTrigger,False
+Nimble Werewolf,5,Kelger,V,0.2,Every1,Ninja,Grant MirrorImage,False
+Meaning of Love,5,Terra,VI,1.0,Start,Fire,Infusion,True
+Innate Power,5,Terra,VI,0.2,Every1,Fire,AdditionalTrigger,True
+Savior's Gift,5,Terra,VI,1.0,Start,Wind,Infusion,False
+Burning Desire,5,Locke,VI,1.0,Start,Fire,Infusion,True
+On the Rebound,5,Locke,VI,0.2,Every1,Fire,AdditionalTrigger,True
+Rebel Knight,5,Celes,VI,1.0,Start,Ice,Infusion,True
+Rune Knight Spellmaster,5,Celes,VI,0.2,Every1,Spellblade,AdditionalTrigger,True
+Moogle Survivor,5,Mog,VI,0.2,Every1,Dancer,Debuff 1.3xATK 1.3xMAG 1.3xMND,True
+Dancing Death,5,Mog,VI,1.0,Start,NA,ReduceDelay,False
+Boos Moogle,5,Mog,VI,1.0,Auto,NA,Buff 1.2xDuration,False
+Hastening (Mog),6,Mog,VI,1.0,Every3,Dancer Dragoon,ReduceDelay,False
+Awkward Inventor,5,Edgar,VI,0.2,Every1,Machinist,Fire Imperil,False
+Master of Machines,5,Edgar,VI,0.1,Every1,Machinist,3xTrigger,False
+Boisterous Brawler,5,Sabin,VI,1.0,Start,Fire,Infusion,False
+Master's Teachings,5,Sabin,VI,1.0,Every1,Monk,IncreaseATK,False
+Man of Action,5,Shadow,VI,0.2,Every1,Ninja,Grant MirrorImage,False
+Cloak of Darkness,5,Shadow,VI,1.0,Start,Dark,Infusion,False
+Self Reliance,5,Cyan,VI,1.0,Start,Fire,Infusion,False
+Untamed Energy,5,Gau,VI,1.0,LowHP,NA,Healing ReduceDelay,False
+Realized Dreams,5,Setzer,VI,0.2,Every1,Dark,AdditionalTrigger,False
+Sky Dreams,5,Setzer,VI,1.0,Start,FullATB NoDelay1,False
+Second Chance,5,Setzer,VI,1.0,Auto,NA,Debuff 1.2xDuration,False
+Depths of Power,5,Strago,VI,1.0,Start,Water,Infusion,True
+Defying Flame,5,Strago,VI,0.2,Every1,Water,AdditionalTrigger,True
+Ancient Blood,5,Relm,VI,1.0,Every1,White,IncreaseMND,True
+Passionate Painter,5,Relm,VI,0.2,Every1,White,SmallGroup Healing,False
+Stroke of Genius,5,Relm,VI,0.2,Every1,White,AdditionalTrigger,False
+Wondrous Hues,5,Relm,VI,0.2,Every1,White,Grant MagicBarrier,False
+Heroic Mimicry,5,Gogo (VI),VI,0.3,Every1,Mimic,ReduceDelay,False
+Masterful Mimic,5,Gogo (VI),VI,1.0,Auto,NA,Dmg 1.3xMimic,False
+Hastening (Gogo (VI)),6,Gogo (VI),VI,1.0,Every3,Black Combat,ReduceDelay,False
+Ughaaa!,5,Umaro,VI,1.0,Start,Ice,Infusion,True
+Onslaught (Umaro),6,Umaro,VI,0.3,Every1,Monk Sharpshooter,Followup PHY,False
+Conniving Clown,5,Kefka,VI,0.2,Every1,Dark,AdditionalTrigger,True
+Destruction's Delight,5,Kefka,VI,1.0,Start,Dark,Infusion,False
+Born General,5,Leo,VI,1.0,Start,Earth,Infusion,True
+In Search of Peace,5,Leo,VI,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,False
+Self Forgiveness,5,Cloud,VII,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,True
+Truth Surmounted,5,Cloud,VII,0.2,Every1,Wind,AdditionalTrigger,True
+Borrowed Blade,5,Cloud,VII,1.0,Start,Dark,Infusion,False
+Broken Illusions,5,Cloud,VII,1.0,Start,Wind,Infusion,False
+Light Seeker,5,Cloud,VII,0.3,Every1,Dark,ReduceDelay,False
+Sprinting Wolf,5,Cloud,VII,0.3,Every1,Wind,ReduceDelay,False
+Opposition Leader,5,Barret,VII,0.2,Every1,Machinist,AdditionalTrigger,True
+Armed and Dangerous,5,Barret,VII,1.0,EquipWeapon,Gun-arm,Dmg 1.5xPHY,False
+First-Class Fighter,5,Tifa,VII,0.2,Every1,Monk,AdditionalTrigger,True
+Friendly Fighter,5,Tifa,VII,1.0,Start,Earth,Infusion,True
+Brawling Barkeep,5,Tifa,VII,1.0,DealPHYDamage,NA,IncreaseATK,True
+Flower of the Slums,5,Aerith,VII,0.2,Every1,White,AdditionalTrigger,True
+Warrior's Talisman,5,Red XIII,VII,1.0,LowHP,ReduceDelay -1.2xRES 1.3xMAG,True
+Hero's Son,5,Red XIII,VII,1.0,Auto,NA,Debuff 1.2xDuration,True
+Elder Race,5,Red XIII,VII,0.1,Every1,Black,AdditionalTrigger,False
+Finders Keepers,5,Yuffie,VII,0.2,Every1,Ninja,Grant MirrorImage,True
+Divided Loyalties,5,Cait Sith,VII,1.0,Start,NA,ReduceDelay,False
+Hastening (Cait Sith),6,Cait Sith,VII,Every3,Dancer Bard,ReduceDelay,False
+Beastly Aspect,5,Vincent,VII,1.0,Start,NA,ReduceDelay,True
+Seeing Red,5,Vincent,VII,0.2,Every1,Fire,AdditionalTrigger,False
+SOLDIER Dreams,5,Zack,VII,0.2,Every1,Wind,AdditionalTrigger,False
+SOLDIER Follow-Up,5,Zack,VII,0.8,Every1,Celerity,Followup PHY,False
+Fateful Secret,5,Sephiroth,VII,1.0,Start,Dark,Infusion,True
+Cruelest Cut,5,Sephiroth,VII,0.2,Every1,Samurai,AdditionalTrigger,False
+Apocalypse Hero,5,Sephiroth,VII,0.2,Every1,Dark,AdditionalTrigger,False
+Spacefarer,5,Cid (VII),VII,1.0,Start,NA,Haste NoDelay1,False
+Champion of the Skies,5,Cid (VII),VII,1.0,EquipWeapon,Spear,Dmg 1.5xJump,False
+Swaggering Investigator,5,Reno,VII,1.0,Start,Lightning,Infusion,False
+Beating Wings,5,Angeal,VII,0.2,Every1,Holy Wind,AdditionalTrigger,False
+Presidential Prerogative,5,Rufus,VII,0.2,Every1,Dark,AdditionalTrigger,True
+Titan of Industry,5,Rufus,VII,0.3,Every1,Dark,ReduceDelay,False
+Edge of Eternity,5,Shelke,VII,1.0,Auto,NA,Debuff 1.2xDuration,True
+Shaper of Fate,5,Shelke,VII,0.2,Every1,Celerity,AdditionalTrigger,False
+Subversion (Shelke),6,Shelke,VII,1.0,Every3,Celerity Support,Lightning Imperil,False
+Paying Respect,5,Rude,VII,1.0,Start,Earth,Infusion,False
+Faint Respect,5,Elena,VII,0.2,Every1,Sharpshooter,AdditionalTrigger,False
+Fierce Opposition,5,Genesis,VII,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,False
+Lion of Battle,5,Squall,VIII,1.0,Start,NA,ReduceDelay,True
+Hidden Charms,5,Squall,VIII,1.0,Start,Fire,Infusion,False
+Slavering Fangs,5,Squall,VIII,1.0,Start,Ice,Infusion,False
+Reluctant Successor,5,Rinoa,VIII,0.2,Every1,Witch,AdditionalTrigger,True
+Lovestruck Sorceress,5,Rinoa,VIII,1.0,Start,Earth,Infusion,True
+Witching Wings,5,Rinoa,VIII,0.1,Every1,Black,AdditionalTrigger,False
+Daughter of the Resistance,5,Rinoa,VIII,1.0,Start,Ice,Infusion,False
+Defier of Fate,5,Rinoa,VIII,1.0,Every1,Black,IncreaseMAG,False
+SeeD Star,5,Quistis,VIII,0.1,Every1,Black,AdditionalTrigger,True
+Prize Fighter,5,Zell,VIII,0.2,Every1,Monk,AdditionalTrigger,True
+Untamed Spirit,5,Zell,VIII,1.0,Start,NA,CritHitChance 0.5,True
+Renowned Recklessness,5,Zell,VIII,1.0,Start,Fire,Infusion,False
+SeeD Spirit,5,Selphie,VIII,0.2,Every1,White,Grant LastStand,True
+Spirit of Trabia,5,Selphie,VIII,1.0,Every1,Dancer,IncreaseMND,False
+Dream Fulfilled,5,Selphie,VIII,0.2,Every1,Dancer,SmallGroup Healing,False
+Key to the Past,5,Irvine,VIII,0.2,Every1,Sharpshooter Machinist,Fire Imperil,True
+Re-action (Irvine),6,Irvine,VIII,1.0,Every3,Fire,AdditionalTrigger,False
+Egoistical Dreamer,5,Seifer,VIII,0.2,Every1,Dark,AdditionalTrigger,False
+Moral Tyrant,5,Seifer,VIII,1.0,Start,Dark,Infusion,False
+Relentless Assassin,5,Seifer,VIII,1.0,TakeDamage,NA,IncreaseATK,False
+Splash of Fun,5,Laguna,VIII,0.2,Every1,Machinist,Ice Imperil,True
+Disarming Smile,5,Laguna,VIII,1.0,Start,Ice,Infusion,False
+Overwhelming Power,5,Edea,VIII,0.3,Every1,Ice,ReduceDelay,True
+Mother Figure,5,Edea,VIII,0.2,Every1,Ice,AdditionalTrigger,False
+Succession Broken,5,Edea,VIII,1.0,Start,Ice,Infusion,False
+Semper Seifer,5,Raijin,VIII,0.2,Every1,Monk,AdditionalTrigger,False
+Bad Crowd,5,Raijin,VIII,1.0,Start,Lightning,Infusion,False
+Thunderous Crescendo,5,Raijin,VIII,Every1,Monk,ReduceDelay,False
+Raging Winds,5,Fujin,VIII,1.0,Start,Wind,Infusion,False
+AFFIRMATIVE!,5,Fujin,VIII,0.2,Every1,Wind,AdditionalTrigger,False
+Onslaught (Fujin),6,Fujin,VIII,0.3,Every1,Wind,Followup MAG,False
+Exotic Presence,5,Kiros,VIII,0.2,Every1,Ninja Sharpshooter,Dark Imperil,True
+Subversion (Kiros),6,Kiros,VIII,1.0,Every3,Ice,Ice Imperil,True
+Scarred Soldier,5,Ward,VIII,1.0,EquipArmor,Hat,Dmg 1.5xPHY,True
+Re-action (Ward),6,Ward,VIII,1.0,Every3,Water Ice Earth,AdditionalTrigger,False
+Power of Succession,5,Ultimecia,VIII,0.2,Every1,Dark,AdditionalTrigger,True
+Arrogant Ambition,5,Ultimecia,VIII,1.0,Start,Wind,Infusion,True
+Existence Denied,5,Ultimecia,VIII,1.0,Start,Dark,Infusion,False
+Refinement (Ultimecia),6,Ultimecia,VIII,1.0,Auto,NA,Dmg 1.3xMAG,False
