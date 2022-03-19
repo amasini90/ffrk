@@ -833,7 +833,7 @@ Martial Legacy,V,Xezat,AD,Ice Earth Lightning,PHY,False
 Lupine Howl,V,Kelger,SSB,NE,NA,False
 Sonic Swiftness,V,Kelger,BSB,Earth Wind,PHY,False
 Lupine Attack,V,Kelger,USB,Earth Wind,PHY,False
-Lupine Boost,V,Kelger,ASB,Earth,PHY,False
+Lupine Boost,V,Kelger,ASB,Earth,PHY,True
 Fury of the Wolf,V,Kelger,GL2,Earth,NA,False
 Wolf Howl,V,Kelger,GL,Earth,PHY,False
 True Lupine Attack,V,Kelger,AW,Earth,PHY,True
@@ -1785,7 +1785,7 @@ Ace Lesson,X,Wakka,AW,Water,PHY,True
 Last Blitz,X,Wakka,AW,Water,PHY,False
 Aurochs Spirit+,X,Wakka,Sync,Water,PHY,False
 Water Flash (Wakka),X,Wakka,GLB,Water,PHY,False
-Spiraling Flash,X,Wakka,GLB,Water,NA,False
+Spiraling Flash (Wakka),X,Wakka,GLB,Water,NA,True
 Blitz Off,X,Wakka,OLB,Water,PHY,False
 Apex Aurochs Reels,X,Wakka,AD,Water,PHY,False
 Firaga Fury,X,Lulu,Unique,Fire,MAG,True

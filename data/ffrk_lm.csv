@@ -269,3 +269,62 @@ Power of Succession,5,Ultimecia,VIII,0.2,Every1,Dark,AdditionalTrigger,True
 Arrogant Ambition,5,Ultimecia,VIII,1.0,Start,Wind,Infusion,True
 Existence Denied,5,Ultimecia,VIII,1.0,Start,Dark,Infusion,False
 Refinement (Ultimecia),6,Ultimecia,VIII,1.0,Auto,NA,Dmg 1.3xMAG,False
+Thief's Ploy,5,Zidane,IX,0.2,Every1,Wind,AdditionalTrigger,True
+Snap Judgment,5,Zidane,IX,0.3,Every1,Thief,ReduceDelay,False
+Noble Resolve,5,Garnet,IX,1.0,Auto,NA,Buff 1.2xDuration,False
+Lover of the Arts,5,Garnet,IX,0.2,Every1,Bard,SmallGroup Healing,False
+Proven Princess,5,Garnet,IX,1.0,Start,Lightning,Infusion,False
+Your Canary,5,Garnet,IX,1.0,Start,NA,ReduceDelay,False
+Re-action (Garnet),6,Garnet,IX,1.0,Every3,Summon,AdditionalTrigger,False
+Part of the Sky,5,Vivi,IX,1.0,Start,Fire,Infusion,True
+Untapped Power,5,Vivi,IX,1.0,EquipWeapon,Rod,Dmg 1.5xMAG,False
+Magic Suffusion,5,Vivi,IX,1.0,Auto,NA,Dmg 1.5xMAG 1.5xCastTime,False
+Honed Judgment,5,Steiner,IX,1.0,EquipWeapon,Sword,Dmg 1.5xSpellblade,True
+Loyal Guard,5,Steiner,IX,0.2,Every1,Spellblade,AdditionalTrigger,False
+Opportunity Strikes,5,Steiner,IX,0.2,Every1,Spellblade,Fire Imperil,False
+Devoted Dragoon,5,Freya,IX,0.2,Every1,Dragoon,RestoreAbility Followup PHY,True
+Astounding Leap,5,Freya,IX,1.0,Every1,Dancer,InstantJump1,False
+Woman of Courage,5,Freya,IX,1.0,Start,Wind,Infusion,False
+Culinary Enlightenment,5,Quina,IX,1.0,Start,NA,ReduceDelay,True
+Qu Vigilance,5,Quina,IX,1.0,Start,NA,LastStand MajorRegen,True
+Smitten Sweetheart,5,Eiko,IX,0.2,Every1,Summon,SmallGroup Healing,True
+Homesick Summoner,5,Eiko,IX,0.2,Every1,White,AdditionalTrigger,True
+Descendent of Legends,5,Eiko,IX,0.2,Every1,Summon,AdditionalTrigger,False
+Stolid Bodyguard,5,Amarant,IX,0.2,Every1,Monk,AdditionalTrigger,True
+Smoldering Flame,5,Amarant,IX,1.0,Start,Fire,Infusion,False
+Below-the-Board,5,Amarant,IX,0.3,Every1,Monk,ReduceDelay,False
+Proud General,5,Beatrix,IX,1.0,Start,Holy,Infusion,True
+Paladin Paragon,5,Beatrix,IX,0.2,Every1,Knight,Holy Imperil,False
+Undying Loyalty,5,Beatrix,IX,0.3,TakeDamage Ally,Cover,False
+Ashen Narcissist,5,Kuja,IX,1.0,Start,Dark,Infusion,True
+Perseverance (Kuja),6,Kuja,IX,1.0,LowHP,NA,Healing -1.5xRES 1.5xMAG ReduceDelay,False
+Grim Grin,5,Markus,IX,0.2,Every1,Thief,Wind Imperil,False
+Moonflow's Grace,5,Tidus,X,1.0,Start,Water,Infusion,True
+Blitz Basics,5,Tidus,X,0.3,Every1,Water,ReduceDelay,False
+Family Tradition,5,Yuna,X,0.2,Every1,Summon,AdditionalTrigger,True
+Unfaltering Devotion,5,Yuna,X,1.0,Start,Holy,Infusion,False
+Just Whistle,5,Yuna,X,0.2,Every1,White,AdditionalTrigger,False
+Victory Awaits,5,Wakka,X,0.2,Every1,Sharpshooter,AdditionalTrigger,False
+Technical Control,5,Wakka,X,1.0,Auto,NA,Debuff 1.2xDuration,False
+Third Pilgrimage,5,Lulu,X,1.0,Every1,Black,IncreaseMAG,True
+Harshest Judge,5,Lulu,X,1.0,Start,Water,Infusion,False
+Depths of Knowledge,5,Lulu,X,1.0,Start,Ice,Infusion,False
+Devoted Guardian,5,Kimahri,X,1.0,Start,Water,Infusion,False
+Spear of Wrath,5,Kimahri,X,1.0,EquipWeapon,Spear,Dmg 1.5xPHY,False
+Re-action (Kimahri),6,Kimahri,X,1.0,Every3,Water,AdditionalTrigger,True
+Assiduous Al Bhed,5,Rikku,X,0.2,Every1,Water,AdditionalTrigger,True
+Merry Maker,5,Rikku,X,1.0,Start,NA,ReduceDelay,True
+Fixer Upper,5,Rikku,X,0.3,Every1,Machinist,ReduceDelay,True
+Snarling Dragon,5,Auron,X,1.0,TakeDamage,NA,IncreaseATK,False
+Bound by a Promise,5,Auron,X,1.0,Start,Fire,Infusion,False
+Catalyst (Auron),6,Auron,X,1.0,Every3,Samurai,1.3xATK 1.2xRES ReduceDelay,False
+Regal Demeanor,5,Jecht,X,1.0,Start,Fire,Infusion,True
+God of Blitz,5,Jecht,X,1.0,Start,Dark,Infusion,True
+Old Man's Fist,5,Jecht,X,0.2,Every1,Monk,AdditionalTrigger,False
+Quiet Fury,5,Braska,X,1.0,Start,Fire,Infusion,True
+Catalyst (Braska),6,Braska,X,1.0,Every3,Fire,1.3xMAG 1.2xRES Followup MAG,True
+Gullwing Enforcer,5,Paine,X,1.0,Every1,Spellblade,IncreaseATK,True
+Long-sought Truths,5,Paine,X,1.0,Start,Water,Infusion,False
+Apocalyptic Savior,5,Seymour,X,0.2,Every1,Dark,AdditionalTrigger,True
+A Son's Hatred,5,Seymour,X,1.0,Start,Dark,Infusion,False
+Hastening (Seymour),6,Seymour,X,1.0,Every3,Dark,ReduceDelay,False
