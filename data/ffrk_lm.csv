@@ -328,3 +328,153 @@ Long-sought Truths,5,Paine,X,1.0,Start,Water,Infusion,False
 Apocalyptic Savior,5,Seymour,X,0.2,Every1,Dark,AdditionalTrigger,True
 A Son's Hatred,5,Seymour,X,1.0,Start,Dark,Infusion,False
 Hastening (Seymour),6,Seymour,X,1.0,Every3,Dark,ReduceDelay,False
+Menacing Black Mage,5,Shantotto,XI,1.0,Every1,Black,IncreaseMAG,True
+Master Caster,5,Shantotto,XI,0.1,Every1,Witch,3xTrigger,True
+Superiority Complex,5,Shantotto,XI,1.0,Start,Lightning,Infusion,False
+No Hesitation,5,Ayame,XI,0.3,Every1,Samurai,ReduceDelay,False
+Young Gun,5,Ayame,XI,1.0,Start,Ice,Infusion,False
+Onslaught (Ayame),6,Ayame,XI,0.8,Every1,Samurai,Followup PHY,False
+Heartfelt Devotion,5,Curilla,XI,1.0,Start,NA,ReduceDelay,True
+Templar's Charge,5,Curilla,XI,0.3,TakeDamage Ally,Cover,True
+Re-action (Curilla),6,Curilla,XI,1.0,Every3,Knight,AdditionalTrigger,False
+Perfect Beauty,5,Prishe,XI,1.0,Start,NA,ReduceDelay,True
+Magicite Might,5,Prishe,XI,1.0,Start,NA,CritHitChance 0.5,False
+Agent's Expertise,5,Lion,XI,1.0,Auto,NA,Buff 1.2xDuration,False
+Subversion (Lion),6,Lion,XI,1.0,Every3,Water,Water Imperil,False
+Court Secrets,5,Aphmau,XI,0.2,Every1,White,2kTarget Healing,True
+Automaton Affinity,5,Aphmau,XI,0.2,Every1,White Monk,1kGroup Healing,False
+Re-action (Aphmau),6,Aphmau,XI,1.0,Every3,White Monk,AdditionalTrigger,False
+Blade of Darkness,5,Zeid,XI,1.0,Start,Dark,Infusion,True
+Wandering Dark Knight,5,Zeid,XI,0.2,Every1,Dark,AdditionalTrigger,False
+Brash Dancer,5,Lilisette,XI,0.2,Every1,Celerity,AdditionalTrigger,True
+Hastening (Lilisette),6,Lilisette,XI,1.0,Every3,Dancer Support,ReduceDelay,True
+Dream of Glory,5,Naja,XI,1.0,Start,Earth,Infusion,False
+Tactless Thief,5,Vaan,XII,0.2,Every1,Thief,AdditionalTrigger,True
+Skyward Dreams,5,Vaan,XII,0.2,Every1,Thief,RestoreAbility,True
+Brother's Trust,5,Vaan,XII,0.3,Every1,Thief,ReduceDelay,False
+Undaunted Courage,5,Vaan,XII,1.0,Auto,NA,Debuff 1.2xDuration,False
+A Pirate's Life,5,Balthier,XII,1.0,Start,Fire,Infusion,False
+Leading Man,5,Balthier,XII,0.2,Every1,Machinist,AdditionalTrigger,False
+Viera Mysteries,5,Fran,XII,1.0,Start,NA,ReduceDelay,True
+Brawn and Brains,5,Fran,XII,0.3,EquipWeapon Every1,Bow Support,Interrupt,True
+Dead Shot,5,Fran,XII,0.2,Every1,Sharpshooter Machinist,AdditionalTrigger,False
+Steady Copilot,5,Fran,XII,1.0,Start,Ice,Infusion,False
+Subversion (Fran),6,Fran,XII,1.0,Every3,Ice,Ice Imperil,False
+For Dalmasca,5,Basch,XII,1.0,Start,Holy,Infusion,False
+Captain's Might,5,Basch,XII,0.2,Every1,Knight Samurai,AdditionalTrigger,False
+Onslaught (Basch),6,Basch,XII,0.3,Every1,Holy Fire,1.5kTarget Healing Followup PHY,False
+Chosen Future,5,Ashe,XII,0.2,Every1,Lightning,1.5kTarget Healing Followup MAG,True
+Fallen Pride,5,Ashe,XII,1.0,Start,Lightning,Infusion,False
+Compassion's Hand,5,Penelo,XII,0.2,Every1,White,AdditionalTrigger,False
+Bound by Vengeance,5,Gabranth,XII,0.2,Every1,Dark,AdditionalTrigger,True
+Magister of the 9th,5,Gabranth,XII,0.3,Every1,Dark,Grant HeavyCharge1,False
+Clad in Darkness,5,Gabranth,XII,1.0,Start,Dark,Infusion,False
+Precocious Wisdom,5,Larsa,XII,0.2,Every1,White,SmallGroup Healing,True
+Arc of Justice,5,Larsa,XII,0.2,Every1,White,Grant Target DebuffBarrier,True
+Young Successor,5,Larsa,XII,0.2,Every1,White,Grant Self DebuffBarrier,False
+Bathed in Blood,5,Vayne,XII,1.0,Start,Dark,Infusion,False
+Refinement (Vayne),6,Vayne,XII,1.0,Auto,NA,Dmg 1.3xDark,False
+Youngest Knight,5,Reks,XII,0.2,Every1,Spellblade,Target Healing,True
+Refinement (Reks),6,Reks,XII,1.0,Auto,NA,Dmg 1.3xLightning,False
+Chosen of Etro,5,Lightning,XIII,1.0,Start,Holy,Infusion,True
+Gleaming Blade,5,Lightning,XIII,0.2,Every1,Lightning,AdditionalTrigger,True
+Heir of the Goddess,5,Lightning,XIII,0.2,Every1,Holy,AdditionalTrigger,False
+Stoic Warrior,5,Lightning,XIII,1.0,Start,Lightning,Infusion,False
+Living Free,5,Snow,XIII,1.0,Start,NA,Haste NoDelay1,True
+Fiery Fighter,5,Snow,XIII,0.2,Every1,Monk,AdditionalTrigger,False
+NORA Architect,5,Snow,XIII,1.0,Start,Ice,Infusion,False
+Enduring Resolve,5,Snow,XIII,1.0,Auto,TakeDamage,IncreaseATK,False
+Refinement (Snow),6,Snow,XIII,1.0,Auto,NA,Dmg 1.3xIce,False
+Constant Companion,5,Vanille,XIII,0.2,Every1,White,1.5xHealing,True
+Gentle Atonement,5,Vanille,XIII,0.2,Every1,White,Followup MAG -1.2xDEF -1.2xRES,True
+Hour of Awakening,5,Vanille,XIII,0.3,Every1,Support,ReduceDelay,False
+Hastening (Vanille),6,Vanille,XIII,1.0,Every3,White Support,ReduceDelay,False
+Struggling Father,5,Sazh,XIII,1.0,Start,NA,Haste NoDelay1,True
+First-Class Pilot,5,Sazh,XIII,0.2,Every1,Machinist,AdditionalTrigger,False
+Hastening (Sazh),6,Sazh,XIII,1.0,Every3,Machinist Support,ReduceDelay,False
+Eye on the Prize,5,Hope,XIII,1.0,Start,Holy,Infusion,True
+Academy Prodigy,5,Hope,XIII,1.0,Start,ReduceDelay,False
+Refinement (Hope),6,Hope,XIII,1.0,Auto,NA,Dmg 1.3xHoly,False
+Oath of Protection,5,Fang,XIII,1.0,Start,Haste NoDelay1,True
+Brutal Affection,5,Fang,XIII,0.2,Every1,Dragoon,AdditionalTrigger,False
+Cocky Comrade,5,Fang,XIII,1.0,Start,Wind,Infusion,False
+Perrless Fighter,5,Fang,XIII,1.0,EquipWeapon,Spear,Dmg 1.5xDragoon,False
+Sister's Strenght,5,Serah,XIII,1.0,Start,Ice,Infusion,True
+Second Sight,5,Serah,XIII,0.2,Every1,Ice,AdditionalTrigger,False
+Meanie Miss,5,Serah,XIII,1.0,Start,Water,Infusion,False
+Re-action (Serah),6,Serah,XIII,1.0,Every3,Water,AdditionalTrigger,False
+Mouth of the Dead,5,Cid Raines,XIII,1.0,Auto,Buff 1.2xDuration,True
+Tragic End,5,Cid Raines,XIII,1.0,Start,Dark,Infusion,False
+Hastening (Cid Raines),6,Cid Raines,XIII,1.0,Every3,Dark Holy,ReduceDelay,False
+A Hunter's Heart,5,Noel,XIII,0.2,Every1,Ice,AdditionalTrigger,True
+Nomad Child,5,Noel,XIII,1.0,Start,Water,Infusion,False
+Vitality Overflowing,5,Noel,XIII,1.0,Start,Ice,Infusion,False
+Trailblazing Swordsman,5,Noel,XIII,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,False
+Manifest Evil,5,Nabaat,XIII,0.2,Every1,Dark,AdditionalTrigger,True
+Top of the Class,5,Nabaat,XIII,0.3,Every1,Dark,ReduceDelay,False
+Master Matoya,5,Y'shtola,XIV,0.2,Every1,Black Witch,AdditionalTrigger,True
+Master of Mending,5,Y'shtola,XIV,0.3,Every1,White,Grant Esuna,True
+Price of Power,5,Y'shtola,XIV,0.2,Every1,White,SmallGroup Healing,False
+Natural Grace,5,Thancred,XIV,0.2,Every1,Ninja,AdditionalTrigger,True
+Moonfire Liberator,5,Yda,XIV,1.0,Start,Fire,Infusion,False
+Famed Fighter,5,Yda,XIV,0.2,Every1,Monk,Grant NegateDmg 0.3,False
+Practiced Prestidigitator,5,Papalymo,XIV,1.0,Start,Fire,Infusion,True
+Sharp-Tongued Lalafell,5,Papalymo,XIV,0.2,Every1,Fire,AdditionalTrigger,True
+Refinement (Papalymo),6,Papalymo,XIV,1.0,Auto,NA,Dmg 1.3xMAG,True
+Journey of Discovery,5,Alphinaud,XIV,1.0,Start,Wind,Infusion,True
+Herald (Alphinaud),6,Alphinaud,XIV,1.0,Start,Wind,Infusion ReduceDelay,False
+Linkshell Master,5,Minfilia,XIV,1.0,Start,NA,ReduceDelay,True
+WHo Walks Before,5,Minfilia,XIV,1.0,Auto,NA,Buff 1.2xDuration,False
+Toiling for Freedom,5,Cid (XIV),XIV,1.0,EquipWeapon,Gun,Dmg 1.3xMachinist,True
+Lady Iceheart,5,Ysayle,XIV,0.2,Every1,Ice,AdditionalTrigger,False
+The Greater Good,5,Ysayle,XIV,0.2,Every1,Ice,Ice Imperil,False
+Smile of a Hero,5,Haurchefant,XIV,0.2,Every1,Knight,AdditionalTrigger,True
+Vows Unbroken,5,Haurchefant,XIV,0.2,EquipArmor,Shield,Dmg -1.3xTaken,True
+Hastening (Haurchefant),6,Haurchefant,XIV,1.0,Every3,Knight,ReduceDelay,False
+Piercing Purpose,5,Estinien,XIV,1.0,Start,Wind,Infusion,True
+Re-action (Estinien),6,Estinien,XIV,1.0,Every3,Wind Dark,AdditionalTrigger,False
+Onslaught (Alisaie),6,Alisaie,XIV,0.8,Every1,Black White,Followup MAG,False
+Bringer of Dawn,5,Noctis,XV,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,True
+Divine Revelation,5,Noctis,XV,0.2,Every1,Combat,AdditionalTrigger,True
+Unwavering Friendship,5,Noctis,XV,1.0,Start,Fire,Infusion,False
+Trusted Shield,5,Gladiolus,XV,1.0,Start,Earth,Infusion,True
+Prince's Pillar,5,Gladiolus,XV,0.2,Every1,Knight,AdditionalTrigger,True
+Shield of the King,5,Gladiolus,XV,0.3,TakeDamage Ally,Cover,False
+Overcoming Adversity,5,Ignis,XV,1.0,Start,Fire,Infusion,True
+Earnest Chef,5,Ignis,XV,1.0,Start,NA,ReduceDelay,True
+Uncommon Friendship,5,Prompto,XV,1.0,Start,Haste NoDelay1,False
+Common Valor,5,Prompto,XV,0.2,Every1,Machinist,AdditionalTrigger,False
+Amicitia Line,5,Iris,XV,0.2,Every1,White,AdditionalTrigger,True
+Hidden Admiration,5,Iris,XV,0.3,Every1,White Monk,ReduceDelay,False
+Soaring Valkyrie,5,Aranea,XV,1.0,Start,Lightning,Infusion,False
+Magitek Dragoon,5,Aranea,XV,0.2,Every1,Dragoon,AdditionalTrigger,False
+Onslaught (Aranea),6,Aranea,XV,0.8,Every1,Dragoon,Followup PHY,False
+Stern Veteran,5,Cor,XV,1.0,Start,Fire,Infusion,False
+Guide of Kingsn,5,Lunafreya,XV,1.0,Start,Water,Infusion,True
+Onslaught (Ardyn),6,Ardyn,XV,0.3,Every1,Dark Fire,Self Healing Followup PHY,True
+True Hero,5,Ramza,FFT,1.0,Start,FullATB NoDelay1,True
+Martial Pedigree,5,Ramza,FFT,1.0,Start,Holy,Infusion,False
+Ambitious Knight,5,Ramza,FFT,0.2,Every1,Holy,AdditionalTrigger,False
+Princess's Shield,5,Agrias,FFT,1.0,Start,Holy,Infusion,False
+Unshakeable Faith,5,Agrias,FFT,0.2,Every1,Knight,AdditionalTrigger,False
+Ask Knight's Finesse,5,Delita,FFT,1.0,Every1,Spellblade,IncreaseATK,True
+Lowborn Justice,5,Delita,FFT,1.0,EquipWeapon,Sword,Dmg 1.5xSpellblade,False
+Onslaught (Delita),6,Delita,FFT,0.3,Every1,Spellblade Knight,Followup PHY,True
+Throes of Fate,5,Ovelia,FFT,1.0,Every1,White,IncreaseMND,True
+Divine Insight,5,Ovelia,FFT,0.2,Every1,White,AdditionalTrigger,False
+Machinist Marksman,5,Mustadio,FFT,0.3,Every1,Machinist,ReduceDelay,False
+Southern Sky General,5,Orlandeau,FFT,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,False
+Supreme Swordsman,5,Orlandeau,FFT,0.2,Every1,Knight Dark,AdditionalTrigger,False
+Fell Aspirations,5,Gaffgarion,FFT,1.0,Start,Dark,Infusion,True
+Dark Knight's Revelry,5,Gaffgarion,FFT,1.0,LowHP,Self Healing ReduceDelay,True
+Keeper of Faith,5,Rapha,FFT,0.3,Every1,Lightning,ReduceDelay,False
+Blood of Galthena,5,Marach,FFT,0.2,Every1,Lightning,Lightning Imperil,False
+Sower of Doubt,5,Marach,FFT,1.0,Start,Lightning,Infusion,False
+Unyielding Essence,5,Meliadoul,FFT,1.0,EquipWeapon,Sword,Dmg 1.5xKnight,True
+Deepest Wish,5,Marche,FFT,1.0,EquipWeapon,Sword,Dmg 1.5xKnight,True
+Kindhearted Moogle,5,Montblanc,FFT,0.2,Every1,Dancer,-1.2xATK -1.2xMAG -1.2xMND,True
+Magic Crutch,5,Montblanc,FFT,0.3,Every1,Black,ReduceDelay,True
+Perseverance (Montblanc),6,Montblanc,FFT,1.0,LowHP,Self Healing NoATBCharge1 1.3xMAG 1.3xMND ReduceDelay,False
+Devout Cleric,5,Alma,FFT,0.2,Every1,White,SmallGroup Healing,False
+Brother's Keeper,5,Alma,FFT,0.2,Every1,White,Grant MagicBarrier,False
+Southern Sky Tactics,5,Orran,FFT,0.2,Every1,White,SmallGroup Healing,True

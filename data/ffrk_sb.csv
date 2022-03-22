@@ -131,6 +131,7 @@ Blizzard Lord,II,Firion,Sync,Ice,PHY,False
 Weapon Master,II,Firion,Sync,Holy Fire,PHY,False
 Full Mastery,II,Firion,Sync,Holy Fire Ice,PHY,True
 Wild Rose Fist,II,Firion,OLB,Holy Fire Ice,PHY,True
+Bond (Firion),II,Firion,Chain4,ALL,PHY MAG,False
 Blast,II,Maria,Unique,NE,MAG,False
 Thunder XVI,II,Maria,SSB,Lightning,MAG,False
 Meteor XVI,II,Maria,BSB,Earth,MAG,False
@@ -150,9 +151,11 @@ True Strength,II,Guy,USB,Earth,PHY,True
 Lupine Maul,II,Guy,USB,Earth,PHY,True
 Gaia Impact,II,Guy,ASB,Earth,PHY,False
 Gaia Support,II,Guy,GL2,Earth,NA,False
+Lupine Stance,II,Guy,GL2,Earth,NA,False
 Heroic Might,II,Guy,AW,Earth,PHY,False
 Moon Howl,II,Guy,Sync,Earth,PHY,False
 Silent Support,II,Guy,AD,Earth,PHY,False
+Awoken Gigantbreak,II,Guy,DuAW,Earth,PHY,False
 Hand of the Emperor,II,Leon,Unique,NE,PHY,True
 Darkborn Blade,II,Leon,SSB,Dark,PHY,False
 Dark Knight's Charge,II,Leon,BSB,Dark,PHY,True
@@ -246,9 +249,13 @@ Nihilistic Glamour,II,Emperor,ASB,Dark Earth Wind,MAG,False
 Clever Ruse,II,Emperor,GL,Lightning,NA,False
 Tyrannical Directive,II,Emperor,GL,Dark Earth Wind,MAG,True
 Hellish Gale,II,Emperor,GL2,Dark Earth Wind,MAG,True
+Imperious Tyrant,II,Emperor,GL2,NE,NA,False
 Elemental Domination,II,Emperor,AW,Dark Earth Wind,MAG,True
 Illegal Flare,II,Emperor,AW,Dark,MAG,False
 World Dominator,II,Emperor,Sync,Dark Earth Wind,MAG,False
+Imperial Elements,II,Emperor,OLB,Dark Earth Wind,MAG,False
+Accursed Storm,II,Emperor,AD,Dark Earth Wind,MAG,False
+Awoken Prison of Sorrow,II,Emperor,DuAW,Dark Earth Wind,MAG,False
 Prayer for Peace,II,Hilda,BSB,NE,NA,False
 Sentimental Moon,II,Hilda,USB,NE,NA,False
 Winning Waltz,II,Hilda,USB,NE,NA,True
@@ -263,6 +270,7 @@ Dawnfire,II,Scott,ASB,Fire,PHY,True
 Ardent Valor,II,Scott,GL,Fire,NA,False
 Hungry for Battle,II,Scott,GL2,Fire,NA,False
 Kashuan Kingsblade,II,Scott,AW,Fire,PHY,False
+Shimmering Sword,II,Scott,AW,Fire,PHY,False
 Scarlet Pyroblade,II,Scott,Sync,Fire,PHY,False
 Advance,III,Luneth,Unique,NE,NA,False
 Blade Torrent,III,Luneth,Unique,NE,PHY,False
