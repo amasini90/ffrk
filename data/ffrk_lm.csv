@@ -117,9 +117,9 @@ Watcher of Worlds,5,Fusoya,IV,1.0,Start,Holy,Infusion,False
 Blessing (Fusoya),6,Fusoya,IV,1.0,LowHP,2kGroup Healing Regenga,False
 Darkest Mage,5,Golbez,IV,0.2,Every1,Dark,AdditionalTrigger,True
 Air of Intimidation,5,Golbez,IV,1.0,Start,Dark,Infusion,True
-Seasoned Fortitude,5,Cid (IV),1.0,LowHP,LastStand 1.3xATK -1.2xRES,False
-Unselfish Disposition,5,Cid (IV),1.0,Start,Lightning,Infusion,False
-Re-action (Cid IV),6,Cid (IV),1.0,Every3,Lightning,AdditionalTrigger,False
+Seasoned Fortitude,5,Cid (IV),IV,1.0,LowHP,LastStand 1.3xATK -1.2xRES,False
+Unselfish Disposition,5,Cid (IV),IV,1.0,Start,Lightning,Infusion,False
+Re-action (Cid IV),6,Cid (IV),IV,1.0,Every3,Lightning,AdditionalTrigger,False
 Divine Bloodline,5,Ceodore,IV,0.2,Every1,Holy,AdditionalTrigger,True
 Purest Prince,5,Ceodore,IV,1.0,Start,Holy,Infusion,True
 His Father's Justice,5,Ceodore,IV,0.3,TakeDamage Ally,Cover,False
@@ -458,7 +458,7 @@ Ambitious Knight,5,Ramza,FFT,0.2,Every1,Holy,AdditionalTrigger,False
 Princess's Shield,5,Agrias,FFT,1.0,Start,Holy,Infusion,False
 Unshakeable Faith,5,Agrias,FFT,0.2,Every1,Knight,AdditionalTrigger,False
 Ask Knight's Finesse,5,Delita,FFT,1.0,Every1,Spellblade,IncreaseATK,True
-Lowborn Justice,5,Delita,FFT,1.0,EquipWeapon,Sword,Dmg 1.5xSpellblade,False
+Lowborn Justice,5,Delita,FFT,1.0,EquipWeapon,Sword Dagger,Dmg 1.5xSpellblade,False
 Onslaught (Delita),6,Delita,FFT,0.3,Every1,Spellblade Knight,Followup PHY,True
 Throes of Fate,5,Ovelia,FFT,1.0,Every1,White,IncreaseMND,True
 Divine Insight,5,Ovelia,FFT,0.2,Every1,White,AdditionalTrigger,False
@@ -478,3 +478,56 @@ Perseverance (Montblanc),6,Montblanc,FFT,1.0,LowHP,Self Healing NoATBCharge1 1.3
 Devout Cleric,5,Alma,FFT,0.2,Every1,White,SmallGroup Healing,False
 Brother's Keeper,5,Alma,FFT,0.2,Every1,White,Grant MagicBarrier,False
 Southern Sky Tactics,5,Orran,FFT,0.2,Every1,White,SmallGroup Healing,True
+Spiral Breaker,5,Ace,T-0,0.2,Every1,Black,Grant MirrorImage,False
+Chocobond,5,Ace,T-0,1.0,Start,Fire,Infusion,False
+Sleight of Hand,5,Ace,T-0,0.2,Every1,Fire,AdditionalTrigger,False
+Wielder of Power,5,Ace,T-0,0.2,Every1,Fire,1.5kTarget Followup MAG,False
+Eye for Detail,5,Deuce,T-0,1.0,Auto,NA,Buff 1.2xDuration,True
+Decorous Demeanor,5,Deuce,T-0,0.2,Every1,White,SmallGroup Healing,False
+Reserved Demeanor,5,Deuce,T-0,0.2,Every1,Bard,1.5xHealing,False
+Dizzying Leap,5,Nine,T-0,0.2,Every1,Jump,Wind Imperil,True
+Fierce Fellowship,5,Nine,T-0,0.2,Every1,Dragoon,AdditionalTrigger,False
+Power Hungry,5,Machina,T-0,1.0,Start,Earth,Infusion,True
+Chichiri's Godfather,5,Machina,T-0,0.2,Every1,Spellblade,AdditionalTrigger,False
+Swiftness (Machina),6,Machina,T-0,1.0,Start Every1,Spellblade,ReduceDelay Followup PHY,False
+Saint's Fire,5,Rem,T-0,0.8,Every1,Holy,Followup MAG,True
+Magic Expert,5,Rem,T-0,1.0,Start,Holy,Infusion,False
+Gentle Spirit,5,Rem,T-0,1.0,Every1,White,IncreaseMND,False
+Mercurial Will,5,Queen,T-0,1.0,Start,Lightning,Infusion,True
+Calculated Craft,5,Queen,T-0,0.2,Every1,Lightning,AdditionalTrigger,True
+Depths Within,5,King,T-0,1.0,Start,Lightning,Infusion,False
+Trusted Leader,5,King,T-0,0.2,Every1,Lightning,AdditionalTrigger,False
+Onslaught (King),6,King,T-0,0.3,Every1,Lightning,Followup PHY,False
+Chestnut Braid,5,Cinque,T-0,1.0,Start,Earth,Infusion,True
+Heavy Hitter,5,Cinque,T-0,1.0,EquipWeapon,Hammer,Dmg 1.5xPHY,False
+Class Act,5,Seven,T-0,0.2,Every1,Ice,Ice Imperil,True
+Indulgent Generosity,5,Seven,T-0,0.2,Every1,Ice,AdditionalTrigger,False
+Survival Mentality,5,Sice,T-0,1.0,Start,Dark,Infusion,True
+Hastening (Sice),6,Sice,T-0,1.0,Every3,Dark,ReduceDelay,False
+Edge of Flame,5,Jack,T-0,1.0,Start,Fire,Infusion,False
+Re-action (Jack),6,Jack,T-0,1.0,Every3,Fire,AdditionalTrigger,False
+Keen Perception,5,Eight,T-0,1.0,Start,Ice,Infusion,False
+Re-action (Eight),6,Eight,T-0,1.0,Every3,Ice,AdditionalTrigger,False
+Battlefield Swagger,5,Cater,T-0,0.3,Every1,Machinist,ReduceDelay,True
+Accomplished Archer,5,Trey,T-0,1.0,EquipWeapon,Bow,Dmg 1.5xPHY,True
+Connected Hearts,5,Sora,KH,0.2,Every1,Spellblade,AdditionalTrigger,False
+Seeker of Darkness,5,Riku,KH,1.0,Start,Dark,Infusion,False
+Mysterious Key,5,Roxas,KH,1.0,Start,Holy,Infusion,False
+Organization's Finest,5,Axel,KH,1.0,Start,Fire,Infusion,False
+Symphony of Ice,5,Reynn,FFBe,0.2,Every1,Ice,AdditionalTrigger,False
+Harmony of Fire,5,Lann,FFBe,1.0,Start,Fire,Infusion,False
+Eddies of Time,5,Morrow,FFBe,1.0,Auto,NA,Debuff 1.2xDuration,False
+Gentle Bloom,5,Aemo,FFBe,0.2,Every1,White,AdditionalTrigger,True
+Worldly Adventurer,5,Wrieg,FFBe,1.0,EquipWeapon,Spear,Dmg 1.5xJump,True
+Lifeline,5,Tama,FFBe,0.2,Every1,White,Grant LastStand,True
+Mystic Presence,5,Enna Kros,FFBe,0.1,Every1,Black,AdditionalTrigger,False
+Re-action (Serafie),6,Serafie,FFBe,1.0,Every3,Wind,AdditionalTrigger,False
+Archival Secrets,5,Tyro,Core,1.0,Start,NA,NoDelay2,True
+Wisdom's Pupil,5,Tyro,Core,1.0,AttackWeakness,Dmg 1.5xPHY 1.5xMAG,False
+Heroic Aspiration,5,Tyro,Core,1.0,EquipWeapon,Book,1.3xATK 1.3xMAG 1.3xMND 1.2xRES 1.2xDEF,False
+Aspiring Artisan,5,Elarra,Core,0.2,Every1,Bard,SmallGroup Healing,False
+Hidden Valor,5,Biggs,Core,1.0,Start,Earth,Infusion,True
+Hidden Kindness,5,Wedge,Core,1.0,Start,Wind,Infusion,True
+Onslaught (Wedge),6,Wedge,Core,0.3,Every1,Wind,Followup PHY MAG,False
+Master of Renewal,5,Dr. Mog,Core,0.2,Every1,White,AdditionalTrigger,True
+Archiver's Promise,5,Dr. Mog,Core,1.0,LowHP,Dmg 1.3xALL,False
