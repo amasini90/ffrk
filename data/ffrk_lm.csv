@@ -73,7 +73,7 @@ Lovestruck Wanderer,5,Desch,III,1.0,Start,Lightning,Infusion,False
 Total Devotion,5,Desch,III,1.0,Every1,Black,IncreaseMAG,False
 Bounding Growth,5,Onion Kinght,III,1.0,Start,Water,Infusion,True
 Nom de Guerre,5,Onion Knight,III,1.0,Start,NA,NoDelay2,True
-Power Overflowing,5,Onion Knight,III,EquipWeapon,Rod,Dmg 1.5xMAG,False
+Power Overflowing,5,Onion Knight,III,1.0,EquipWeapon,Rod,Dmg 1.5xMAG,False
 Herald of Darkness,5,Cloud of Darkness,III,1.0,Start,NA,Haste NoDelay1,True
 Spawn of Darkness,5,Cloud of Darkness,III,1.0,Start,Dark,Infusion,True
 Oblivion Seeker,5,Cloud of Darkness,III,0.2,Every1,Dark,AdditionalTrigger,False
@@ -101,7 +101,7 @@ Fruits of Kindness,5,Rosa,IV,0.2,Every1,White,SmallGroup Healing,True
 Partician Beauty,5,Rosa,IV,0.2,Every1,White,AdditionalTrigger,True
 Quiet Devotion,5,Rosa,IV,1.0,Every1,White,IncreaseMND,False
 Gifted Bard,5,Edward,IV,1.0,Auto,NA,Buff 1.2xDuration,True
-Man of Courage,5,Edward,IV,1.0,Start,ReduceDelay,True
+Man of Courage,5,Edward,IV,1.0,Start,NA,ReduceDelay,True
 Mind and Body,5,Yang,IV,1.0,EquipWeapon,Fist,Dmg 1.5xMonk,True
 Eager Prodigy,5,Palom,IV,1.0,EquipWeapon,Rod,Dmg 1.5xMAG,False
 Mischief Lover,5,Palom,IV,1.0,Start,Lightning,Infusion,False
@@ -114,15 +114,15 @@ Unequaled Master,5,Edge,IV,0.2,Every1,Ninja,Followup PHY MAG,True
 Eblan's Legacy,5,Edge,IV,0.2,Every1,Ninja,Grant MirrorImage,True
 Hastening (Edge),6,Edge,IV,1.0,Every3,Ninja,ReduceDelay,False
 Watcher of Worlds,5,Fusoya,IV,1.0,Start,Holy,Infusion,False
-Blessing (Fusoya),6,Fusoya,IV,1.0,LowHP,2kGroup Healing Regenga,False
+Blessing (Fusoya),6,Fusoya,IV,1.0,LowHP,NA,2kGroup Healing Regenga,False
 Darkest Mage,5,Golbez,IV,0.2,Every1,Dark,AdditionalTrigger,True
 Air of Intimidation,5,Golbez,IV,1.0,Start,Dark,Infusion,True
-Seasoned Fortitude,5,Cid (IV),IV,1.0,LowHP,LastStand 1.3xATK -1.2xRES,False
+Seasoned Fortitude,5,Cid (IV),IV,1.0,LowHP,NA,LastStand 1.3xATK -1.2xRES,False
 Unselfish Disposition,5,Cid (IV),IV,1.0,Start,Lightning,Infusion,False
 Re-action (Cid IV),6,Cid (IV),IV,1.0,Every3,Lightning,AdditionalTrigger,False
 Divine Bloodline,5,Ceodore,IV,0.2,Every1,Holy,AdditionalTrigger,True
 Purest Prince,5,Ceodore,IV,1.0,Start,Holy,Infusion,True
-His Father's Justice,5,Ceodore,IV,0.3,TakeDamage Ally,Cover,False
+His Father's Justice,5,Ceodore,IV,0.3,TakeDamage Ally,NA,Cover,True
 Red-cloaked Terror,5,Rubicante,IV,1.0,Start,Fire,Infusion,True
 Fiercest Fiend,5,Rubicante,IV,0.2,Every1,Black,Fire Imperil,False
 Filial Devotion,5,Ursula,IV,1.0,Start,Earth,Infusion,True
@@ -145,7 +145,7 @@ Rabble Wrangler,5,Faris,V,0.2,Every1,Thief,AdditionalTrigger,False
 Warrior of Regole,5,Dorgann,V,0.2,Every1,Earth,Earth Imperil,False
 Wandering Adventurer,5,Dorgann,V,1.0,Start,Earth,Infusion,False
 Born of Evil,5,Exdeath,V,1.0,Start,Dark,Infusion,True
-Tree Most Foul,5,Exdeath,V,EquipWeapon,Staff Sword,Dmg 1.5xMAG,False
+Tree Most Foul,5,Exdeath,V,1.0,EquipWeapon,Staff Sword,Dmg 1.5xMAG,False
 Unbridled Enthusiasm,5,Krile,V,1.0,Start,Fire,Infusion,False
 A Granddaughter's Drive,5,Krile,V,0.2,Every1,Fire,AdditionalTrigger,False
 Innate Cheer,5,Krile,V,1.0,Start,Earth,Infusion,False
@@ -160,7 +160,7 @@ Meaning of Love,5,Terra,VI,1.0,Start,Fire,Infusion,True
 Innate Power,5,Terra,VI,0.2,Every1,Fire,AdditionalTrigger,True
 Savior's Gift,5,Terra,VI,1.0,Start,Wind,Infusion,False
 Burning Desire,5,Locke,VI,1.0,Start,Fire,Infusion,True
-On the Rebound,5,Locke,VI,0.2,Every1,Fire,AdditionalTrigger,True
+On the Rebound,5,Locke,VI,0.2,Every1,Fire,AdditionalTrigger,False
 Rebel Knight,5,Celes,VI,1.0,Start,Ice,Infusion,True
 Rune Knight Spellmaster,5,Celes,VI,0.2,Every1,Spellblade,AdditionalTrigger,True
 Moogle Survivor,5,Mog,VI,0.2,Every1,Dancer,Debuff 1.3xATK 1.3xMAG 1.3xMND,True
@@ -176,7 +176,7 @@ Cloak of Darkness,5,Shadow,VI,1.0,Start,Dark,Infusion,False
 Self Reliance,5,Cyan,VI,1.0,Start,Fire,Infusion,False
 Untamed Energy,5,Gau,VI,1.0,LowHP,NA,Healing ReduceDelay,False
 Realized Dreams,5,Setzer,VI,0.2,Every1,Dark,AdditionalTrigger,False
-Sky Dreams,5,Setzer,VI,1.0,Start,FullATB NoDelay1,False
+Sky Dreams,5,Setzer,VI,1.0,Start,NA,FullATB NoDelay1,False
 Second Chance,5,Setzer,VI,1.0,Auto,NA,Debuff 1.2xDuration,False
 Depths of Power,5,Strago,VI,1.0,Start,Water,Infusion,True
 Defying Flame,5,Strago,VI,0.2,Every1,Water,AdditionalTrigger,True
@@ -205,12 +205,12 @@ First-Class Fighter,5,Tifa,VII,0.2,Every1,Monk,AdditionalTrigger,True
 Friendly Fighter,5,Tifa,VII,1.0,Start,Earth,Infusion,True
 Brawling Barkeep,5,Tifa,VII,1.0,DealPHYDamage,NA,IncreaseATK,True
 Flower of the Slums,5,Aerith,VII,0.2,Every1,White,AdditionalTrigger,True
-Warrior's Talisman,5,Red XIII,VII,1.0,LowHP,ReduceDelay -1.2xRES 1.3xMAG,True
+Warrior's Talisman,5,Red XIII,VII,1.0,LowHP,NA,ReduceDelay -1.2xRES 1.3xMAG,True
 Hero's Son,5,Red XIII,VII,1.0,Auto,NA,Debuff 1.2xDuration,True
 Elder Race,5,Red XIII,VII,0.1,Every1,Black,AdditionalTrigger,False
 Finders Keepers,5,Yuffie,VII,0.2,Every1,Ninja,Grant MirrorImage,True
 Divided Loyalties,5,Cait Sith,VII,1.0,Start,NA,ReduceDelay,False
-Hastening (Cait Sith),6,Cait Sith,VII,Every3,Dancer Bard,ReduceDelay,False
+Hastening (Cait Sith),6,Cait Sith,VII,1.0,Every3,Dancer Bard,ReduceDelay,False
 Beastly Aspect,5,Vincent,VII,1.0,Start,NA,ReduceDelay,True
 Seeing Red,5,Vincent,VII,0.2,Every1,Fire,AdditionalTrigger,False
 SOLDIER Dreams,5,Zack,VII,0.2,Every1,Wind,AdditionalTrigger,False
@@ -257,7 +257,7 @@ Mother Figure,5,Edea,VIII,0.2,Every1,Ice,AdditionalTrigger,False
 Succession Broken,5,Edea,VIII,1.0,Start,Ice,Infusion,False
 Semper Seifer,5,Raijin,VIII,0.2,Every1,Monk,AdditionalTrigger,False
 Bad Crowd,5,Raijin,VIII,1.0,Start,Lightning,Infusion,False
-Thunderous Crescendo,5,Raijin,VIII,Every1,Monk,ReduceDelay,False
+Thunderous Crescendo,5,Raijin,VIII,0.3,Every1,Monk,ReduceDelay,False
 Raging Winds,5,Fujin,VIII,1.0,Start,Wind,Infusion,False
 AFFIRMATIVE!,5,Fujin,VIII,0.2,Every1,Wind,AdditionalTrigger,False
 Onslaught (Fujin),6,Fujin,VIII,0.3,Every1,Wind,Followup MAG,False
@@ -295,7 +295,7 @@ Smoldering Flame,5,Amarant,IX,1.0,Start,Fire,Infusion,False
 Below-the-Board,5,Amarant,IX,0.3,Every1,Monk,ReduceDelay,False
 Proud General,5,Beatrix,IX,1.0,Start,Holy,Infusion,True
 Paladin Paragon,5,Beatrix,IX,0.2,Every1,Knight,Holy Imperil,False
-Undying Loyalty,5,Beatrix,IX,0.3,TakeDamage Ally,Cover,False
+Undying Loyalty,5,Beatrix,IX,0.3,TakeDamage Ally,NA,Cover,False
 Ashen Narcissist,5,Kuja,IX,1.0,Start,Dark,Infusion,True
 Perseverance (Kuja),6,Kuja,IX,1.0,LowHP,NA,Healing -1.5xRES 1.5xMAG ReduceDelay,False
 Grim Grin,5,Markus,IX,0.2,Every1,Thief,Wind Imperil,False
@@ -335,7 +335,7 @@ No Hesitation,5,Ayame,XI,0.3,Every1,Samurai,ReduceDelay,False
 Young Gun,5,Ayame,XI,1.0,Start,Ice,Infusion,False
 Onslaught (Ayame),6,Ayame,XI,0.8,Every1,Samurai,Followup PHY,False
 Heartfelt Devotion,5,Curilla,XI,1.0,Start,NA,ReduceDelay,True
-Templar's Charge,5,Curilla,XI,0.3,TakeDamage Ally,Cover,True
+Templar's Charge,5,Curilla,XI,0.3,TakeDamage Ally,NA,Cover,True
 Re-action (Curilla),6,Curilla,XI,1.0,Every3,Knight,AdditionalTrigger,False
 Perfect Beauty,5,Prishe,XI,1.0,Start,NA,ReduceDelay,True
 Magicite Might,5,Prishe,XI,1.0,Start,NA,CritHitChance 0.5,False
@@ -393,9 +393,9 @@ Struggling Father,5,Sazh,XIII,1.0,Start,NA,Haste NoDelay1,True
 First-Class Pilot,5,Sazh,XIII,0.2,Every1,Machinist,AdditionalTrigger,False
 Hastening (Sazh),6,Sazh,XIII,1.0,Every3,Machinist Support,ReduceDelay,False
 Eye on the Prize,5,Hope,XIII,1.0,Start,Holy,Infusion,True
-Academy Prodigy,5,Hope,XIII,1.0,Start,ReduceDelay,False
+Academy Prodigy,5,Hope,XIII,1.0,Start,NA,ReduceDelay,False
 Refinement (Hope),6,Hope,XIII,1.0,Auto,NA,Dmg 1.3xHoly,False
-Oath of Protection,5,Fang,XIII,1.0,Start,Haste NoDelay1,True
+Oath of Protection,5,Fang,XIII,1.0,Start,NA,Haste NoDelay1,True
 Brutal Affection,5,Fang,XIII,0.2,Every1,Dragoon,AdditionalTrigger,False
 Cocky Comrade,5,Fang,XIII,1.0,Start,Wind,Infusion,False
 Perrless Fighter,5,Fang,XIII,1.0,EquipWeapon,Spear,Dmg 1.5xDragoon,False
@@ -403,7 +403,7 @@ Sister's Strenght,5,Serah,XIII,1.0,Start,Ice,Infusion,True
 Second Sight,5,Serah,XIII,0.2,Every1,Ice,AdditionalTrigger,False
 Meanie Miss,5,Serah,XIII,1.0,Start,Water,Infusion,False
 Re-action (Serah),6,Serah,XIII,1.0,Every3,Water,AdditionalTrigger,False
-Mouth of the Dead,5,Cid Raines,XIII,1.0,Auto,Buff 1.2xDuration,True
+Mouth of the Dead,5,Cid Raines,XIII,1.0,Auto,NA,Buff 1.2xDuration,True
 Tragic End,5,Cid Raines,XIII,1.0,Start,Dark,Infusion,False
 Hastening (Cid Raines),6,Cid Raines,XIII,1.0,Every3,Dark Holy,ReduceDelay,False
 A Hunter's Heart,5,Noel,XIII,0.2,Every1,Ice,AdditionalTrigger,True
@@ -439,10 +439,10 @@ Divine Revelation,5,Noctis,XV,0.2,Every1,Combat,AdditionalTrigger,True
 Unwavering Friendship,5,Noctis,XV,1.0,Start,Fire,Infusion,False
 Trusted Shield,5,Gladiolus,XV,1.0,Start,Earth,Infusion,True
 Prince's Pillar,5,Gladiolus,XV,0.2,Every1,Knight,AdditionalTrigger,True
-Shield of the King,5,Gladiolus,XV,0.3,TakeDamage Ally,Cover,False
+Shield of the King,5,Gladiolus,XV,0.3,TakeDamage Ally,NA,Cover,False
 Overcoming Adversity,5,Ignis,XV,1.0,Start,Fire,Infusion,True
 Earnest Chef,5,Ignis,XV,1.0,Start,NA,ReduceDelay,True
-Uncommon Friendship,5,Prompto,XV,1.0,Start,Haste NoDelay1,False
+Uncommon Friendship,5,Prompto,XV,1.0,Start,NA,Haste NoDelay1,False
 Common Valor,5,Prompto,XV,0.2,Every1,Machinist,AdditionalTrigger,False
 Amicitia Line,5,Iris,XV,0.2,Every1,White,AdditionalTrigger,True
 Hidden Admiration,5,Iris,XV,0.3,Every1,White Monk,ReduceDelay,False
@@ -452,7 +452,7 @@ Onslaught (Aranea),6,Aranea,XV,0.8,Every1,Dragoon,Followup PHY,False
 Stern Veteran,5,Cor,XV,1.0,Start,Fire,Infusion,False
 Guide of Kingsn,5,Lunafreya,XV,1.0,Start,Water,Infusion,True
 Onslaught (Ardyn),6,Ardyn,XV,0.3,Every1,Dark Fire,Self Healing Followup PHY,True
-True Hero,5,Ramza,FFT,1.0,Start,FullATB NoDelay1,True
+True Hero,5,Ramza,FFT,1.0,Start,NA,FullATB NoDelay1,True
 Martial Pedigree,5,Ramza,FFT,1.0,Start,Holy,Infusion,False
 Ambitious Knight,5,Ramza,FFT,0.2,Every1,Holy,AdditionalTrigger,False
 Princess's Shield,5,Agrias,FFT,1.0,Start,Holy,Infusion,False
@@ -466,7 +466,7 @@ Machinist Marksman,5,Mustadio,FFT,0.3,Every1,Machinist,ReduceDelay,False
 Southern Sky General,5,Orlandeau,FFT,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,False
 Supreme Swordsman,5,Orlandeau,FFT,0.2,Every1,Knight Dark,AdditionalTrigger,False
 Fell Aspirations,5,Gaffgarion,FFT,1.0,Start,Dark,Infusion,True
-Dark Knight's Revelry,5,Gaffgarion,FFT,1.0,LowHP,Self Healing ReduceDelay,True
+Dark Knight's Revelry,5,Gaffgarion,FFT,1.0,LowHP,NA,Self Healing ReduceDelay,True
 Keeper of Faith,5,Rapha,FFT,0.3,Every1,Lightning,ReduceDelay,False
 Blood of Galthena,5,Marach,FFT,0.2,Every1,Lightning,Lightning Imperil,False
 Sower of Doubt,5,Marach,FFT,1.0,Start,Lightning,Infusion,False
@@ -474,7 +474,7 @@ Unyielding Essence,5,Meliadoul,FFT,1.0,EquipWeapon,Sword,Dmg 1.5xKnight,True
 Deepest Wish,5,Marche,FFT,1.0,EquipWeapon,Sword,Dmg 1.5xKnight,True
 Kindhearted Moogle,5,Montblanc,FFT,0.2,Every1,Dancer,-1.2xATK -1.2xMAG -1.2xMND,True
 Magic Crutch,5,Montblanc,FFT,0.3,Every1,Black,ReduceDelay,True
-Perseverance (Montblanc),6,Montblanc,FFT,1.0,LowHP,Self Healing NoATBCharge1 1.3xMAG 1.3xMND ReduceDelay,False
+Perseverance (Montblanc),6,Montblanc,FFT,1.0,LowHP,NA,Self Healing NoATBCharge1 1.3xMAG 1.3xMND ReduceDelay,False
 Devout Cleric,5,Alma,FFT,0.2,Every1,White,SmallGroup Healing,False
 Brother's Keeper,5,Alma,FFT,0.2,Every1,White,Grant MagicBarrier,False
 Southern Sky Tactics,5,Orran,FFT,0.2,Every1,White,SmallGroup Healing,True
@@ -523,11 +523,11 @@ Lifeline,5,Tama,FFBe,0.2,Every1,White,Grant LastStand,True
 Mystic Presence,5,Enna Kros,FFBe,0.1,Every1,Black,AdditionalTrigger,False
 Re-action (Serafie),6,Serafie,FFBe,1.0,Every3,Wind,AdditionalTrigger,False
 Archival Secrets,5,Tyro,Core,1.0,Start,NA,NoDelay2,True
-Wisdom's Pupil,5,Tyro,Core,1.0,AttackWeakness,Dmg 1.5xPHY 1.5xMAG,False
+Wisdom's Pupil,5,Tyro,Core,1.0,AttackWeakness,NA,Dmg 1.5xPHY 1.5xMAG,False
 Heroic Aspiration,5,Tyro,Core,1.0,EquipWeapon,Book,1.3xATK 1.3xMAG 1.3xMND 1.2xRES 1.2xDEF,False
 Aspiring Artisan,5,Elarra,Core,0.2,Every1,Bard,SmallGroup Healing,False
 Hidden Valor,5,Biggs,Core,1.0,Start,Earth,Infusion,True
 Hidden Kindness,5,Wedge,Core,1.0,Start,Wind,Infusion,True
 Onslaught (Wedge),6,Wedge,Core,0.3,Every1,Wind,Followup PHY MAG,False
 Master of Renewal,5,Dr. Mog,Core,0.2,Every1,White,AdditionalTrigger,True
-Archiver's Promise,5,Dr. Mog,Core,1.0,LowHP,Dmg 1.3xALL,False
+Archiver's Promise,5,Dr. Mog,Core,1.0,LowHP,NA,Dmg 1.3xALL,False

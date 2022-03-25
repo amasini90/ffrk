@@ -17,25 +17,38 @@ def main():
     
     # Read in the data
     df = pd.read_csv('./data/ffrk_sb.csv', header=0, index_col=0)
+    df_lm = pd.read_csv('./data/ffrk_lm.csv', header=0, index_col=0)
+
     # Weights and Elements for Tiers
     weights = {"Unique":0.536, "SSB":1.072, "BSB":0.625, "OSB":0.625, "GL":1.25, "GL2":1.5, "ASB":1.75,
             "AD":2.5, "Chain":1.25, "Chain2":1.75, "Chain3":1.8, "Chain4":2.5, "USB":1, "AW":2.25, "Sync":2.5,
             "OLB":1.75, "GLB":1, "Guardian":2, "DuAW":2.75}
+    weights_lm = {5:1.875, 6:2.5}
     Elements = ["Fire","Ice","Lightning","Wind","Earth","Water","Holy","Dark"]
-    
+
     # Apply weights as a new column
     df['Weight'] = df['Tier'].map(weights)
-
+    df_lm["Weight"] = df_lm['Tier'].map(weights_lm)
+    
     # Total number of Owned VS Not-Owned SBs
     NotOwned = df.groupby(["Owned"]).count().values[0][0]
     Owned = df.groupby(["Owned"]).count().values[1][0]
-    
-    #### Overview of Relics situation
+
+    NotOwned_lm = df_lm.groupby(["Owned"]).count().values[0][0]
+    Owned_lm = df_lm.groupby(["Owned"]).count().values[1][0]
+
+    #### Overview of Relics and LM situation
     st.header('My Relics Overview:')
     col1,col2,col3=st.columns(3)
     col1.metric('Owned',Owned)
     col2.metric('Not Owned',NotOwned)
     col3.metric('Fraction',str(round(100.*(Owned/(NotOwned+Owned)),1))+'%')
+
+    st.header('My Legend Materia Overview:')
+    col1,col2,col3=st.columns(3)
+    col1.metric('Owned',Owned_lm)
+    col2.metric('Not Owned',NotOwned_lm)
+    col3.metric('Fraction',str(round(100.*(Owned_lm/(NotOwned_lm+Owned_lm)),1))+'%')
     #####
 
     #### Scores and Recommendations

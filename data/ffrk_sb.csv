@@ -1776,7 +1776,7 @@ Yearning Prayer,X,Yuna,GL2,NE,NA,False
 Final Wall,X,Yuna,GL2,NE,NA,False
 Cradling Words,X,Yuna,AW,NE,NA,False
 For the Calm,X,Yuna,AW,Holy Wind,MAG,True
-Farplane Wish,X,Yuna,Sync,Holy Wind,MAG,False
+Farplane Wish,X,Yuna,Sync,Holy Wind,MAG,True
 Guardian Valefor,X,Yuna,Guardian,Holy Wind,MAG,False
 Awoken Grand Summon Overdrive,X,Yuna,DuAW,Holy Wind,MAG,False
 Status Reels,X,Wakka,Unique,NE,PHY,True
