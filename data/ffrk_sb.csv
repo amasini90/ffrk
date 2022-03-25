@@ -513,7 +513,7 @@ King's Quad,IV,Edward,Sync,NE,NA,False
 Sylph's Providence,IV,Yang,Unique,NE,PHY,True
 Exploding Volcano Kick,IV,Yang,SSB,Earth,PHY,False
 Seven-Star Heavenly Fist,IV,Yang,BSB,Earth,PHY,False
-Shuddering Fist,IV,Yang,USB,Earth,PHY,False
+Shuddering Fist,IV,Yang,USB,Earth,PHY,True
 Fist Dance,IV,Yang,ASB,Earth,PHY,True
 Concentrate (IV),IV,Yang,GL,Earth,NA,False
 Kick Fest,IV,Yang,AW,Earth,PHY,False
@@ -601,7 +601,7 @@ Archfiend Shadow Wave,IV,Golbez,ASB,Dark,MAG,False
 Cloaked in Night,IV,Golbez,GL,Dark,NA,True
 Chaos Barrier,IV,Golbez,GL2,Dark,NA,True
 Dark Dungeon,IV,Golbez,AW,Dark,MAG,True
-Dark Meteor,IV,Golbez,Sync,Dark,MAG,False
+Dark Meteor,IV,Golbez,Sync,Dark,MAG,True
 Dark Glow,IV,Golbez,Sync,Dark,MAG,False
 Apex Shadow Dragon,IV,Golbez,AD,Dark,MAG,False
 True Shadow Dragon,IV,Golbez,OLB,Dark,MAG,False
