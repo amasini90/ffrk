@@ -804,7 +804,7 @@ Almagest,V,Exdeath,Sync,Dark,MAG,False
 Space Disorder,V,Exdeath,Sync,Dark Holy,MAG,True
 100 Gs,V,Exdeath,OLB,Dark Holy,MAG,False
 Might of the Void,V,Exdeath,AD,Dark Holy,MAG,False
-Wind Drake's Roar,V,Krile,Unique,NE,MAG,False
+Wind Drake's Roar,V,Krile,Unique,NE,MAG,True
 Sheepsong,V,Krile,SSB,NE,MAG,True
 Unspoken Bond,V,Krile,SSB,NE,MAG,False
 Tomorrow's Promise,V,Krile,BSB,Fire,MAG,False
@@ -1669,7 +1669,7 @@ Prayer of the Lost,IX,Eiko,BSB,NE,NA,False
 Guardian Mog,IX,Eiko,USB,NE,NA,True
 Trance Regenga,IX,Eiko,USB,NE,NA,True
 Soothing Flute,IX,Eiko,USB,NE,NA,False
-Sonic Homing,IX,Eiko,USB,Holy Wind,MAG,False
+Sonic Homing,IX,Eiko,USB,Holy Wind,MAG,True
 Phoenix Feather,IX,Eiko,USB,NE,NA,False
 Homing Blast,IX,Eiko,ASB,Holy Wind,MAG,False
 Eiko's Secret Weapon,IX,Eiko,GL2,Wind,NA,False
@@ -2304,7 +2304,7 @@ Dark Shift,XIII,Cid Raines,GL,NE,NA,False
 Angel of Doom,XIII,Cid Raines,AW,Dark Holy,MAG,True
 Dystopian Shift,XIII,Cid Raines,AW,Dark Holy,MAG,False
 Last Destiny,XIII,Cid Raines,Sync,Dark Holy,MAG,False
-Deathblow,XIII,Noel,SSB,NE,PHY,False
+Deathblow,XIII,Noel,SSB,NE,PHY,True
 Meteor Javelin,XIII,Noel,BSB,NE,PHY,False
 Hunter's Rimefang,XIII,Noel,BSB,Ice,PHY,False
 Break Frost,XIII,Noel,BSB,Ice,PHY,True
@@ -2683,7 +2683,7 @@ Vivace,T-0,Deuce,USB,NE,NA,False
 Con Brio,T-0,Deuce,GL2,NE,NA,True
 Communal Harmony,T-0,Deuce,AW,NE,NA,False
 Vital Symphony,T-0,Deuce,Sync,NE,NA,False
-White Knight,T-0,Nine,SSB,NE,NA,False
+White Knight,T-0,Nine,SSB,NE,NA,True
 Class Zero Basher-in-Chief,T-0,Nine,BSB,Wind,PHY,False
 Whirling Lance,T-0,Nine,USB,Wind,PHY,False
 Javelin Throw,T-0,Nine,ASB,Wind,PHY,False

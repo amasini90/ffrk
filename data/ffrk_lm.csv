@@ -212,7 +212,7 @@ Finders Keepers,5,Yuffie,VII,0.2,Every1,Ninja,Grant MirrorImage,True
 Divided Loyalties,5,Cait Sith,VII,1.0,Start,NA,ReduceDelay,False
 Hastening (Cait Sith),6,Cait Sith,VII,1.0,Every3,Dancer Bard,ReduceDelay,False
 Beastly Aspect,5,Vincent,VII,1.0,Start,NA,ReduceDelay,True
-Seeing Red,5,Vincent,VII,0.2,Every1,Fire,AdditionalTrigger,False
+Seeing Red,5,Vincent,VII,0.2,Every1,Fire,AdditionalTrigger,True
 SOLDIER Dreams,5,Zack,VII,0.2,Every1,Wind,AdditionalTrigger,False
 SOLDIER Follow-Up,5,Zack,VII,0.8,Every1,Celerity,Followup PHY,False
 Fateful Secret,5,Sephiroth,VII,1.0,Start,Dark,Infusion,True

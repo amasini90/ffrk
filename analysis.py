@@ -2,16 +2,6 @@ import pandas as pd
 import util 
 import numpy as np
 
-def get_realm_scores(df):
-
-    realms,scores=[],[]
-    for item in df.sort_values(by="Weight", axis=0).index:
-        realms.append(item)
-    for item in df.sort_values(by="Weight", axis=0).values:
-        scores.append(item[0])
-
-    return realms,scores
-
 def get_elem_scores(df,Elements):
     
     PHYelem_dict, MAGelem_dict = {},{}
