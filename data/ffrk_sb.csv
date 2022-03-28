@@ -149,7 +149,7 @@ Gaia Drum,II,Guy,SSB,Earth,PHY,True
 Gigantbreak,II,Guy,BSB,Earth,PHY,False
 True Strength,II,Guy,USB,Earth,PHY,True
 Lupine Maul,II,Guy,USB,Earth,PHY,True
-Gaia Impact,II,Guy,ASB,Earth,PHY,False
+Gaia Impact,II,Guy,ASB,Earth,PHY,True
 Gaia Support,II,Guy,GL2,Earth,NA,False
 Lupine Stance,II,Guy,GL2,Earth,NA,False
 Heroic Might,II,Guy,AW,Earth,PHY,False
@@ -415,7 +415,7 @@ Dark Crescent,IV,Decil,AW,Dark,PHY,False
 Shadow Blazer,IV,Decil,Sync,Dark,PHY,False
 Tenebrous Blast,IV,Decil,Sync,Dark,PHY,False
 Abyssal Onslaught,IV,Decil,OLB,Dark,PHY,False
-Job Change,IV,Decil,AD,Dark,PHY,False
+Job Change,IV,Decil,AD,Dark,PHY,True
 Awoken Dark Crescent,IV,Decil,DuAW,Dark,PHY,True
 Radiant Wings,IV,Pecil,Unique,Holy,PHY,True
 Sentinel,IV,Pecil,Unique,NE,NA,False
@@ -506,7 +506,7 @@ Soulsong,IV,Edward,SSB,NE,NA,False
 Whisperweed Ballad,IV,Edward,BSB,Holy,PHY,True
 Hero's Rime,IV,Edward,USB,NE,NA,False
 Mirage Song,IV,Edward,USB,NE,NA,False
-Song of Hope,IV,Edward,Chain2,Holy,MAG,False
+Song of Hope,IV,Edward,Chain2,Holy,MAG,True
 Paean Echoes,IV,Edward,GL,Holy,NA,False
 Take Heart!,IV,Edward,AW,NE,NA,True
 King's Quad,IV,Edward,Sync,NE,NA,False
@@ -1953,7 +1953,7 @@ Shin-Setsugekka,XI,Ayame,AW,Ice,PHY,False
 Winter Moon Blossom,XI,Ayame,Sync,Ice,PHY,False
 Apex Skillchain,XI,Ayame,AD,Ice,PHY,False
 Swift Blade,XI,Curilla,SSB,Holy,PHY,False
-Intervention,XI,Curilla,BSB,Holy,PHY,False
+Intervention,XI,Curilla,BSB,Holy,PHY,True
 Holy Circle,XI,Curilla,USB,NE,NA,True
 Extreme Defense,XI,Curilla,USB,NE,NA,True
 Dawn Prayer,XI,Curilla,Chain3,ALL,PHY MAG,False
