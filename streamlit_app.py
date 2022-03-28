@@ -26,6 +26,9 @@ def main():
     weights_lm = {5:0.625, 6:1.5}
     Elements = ["Fire","Ice","Lightning","Wind","Earth","Water","Holy","Dark"]
 
+    MagiciteNames = ["Mateus","Syldra","Famfrit","Hecatoncheir","Quetzalcoatl","Phoenix","Deathgaze","Lakshmi","Manticore","Typhoon","Geosgaeno","Adamantoise","Behemoth King","Belias","Ark","Madeen"]
+    Magicite = pd.DataFrame({"PHY":MagiciteNames[:8], "MAG":MagiciteNames[8:]}, index=Elements)
+
     # Apply weights as a new column
     df['Weight'] = df['Tier'].map(weights)
     df_lm["Weight"] = df_lm['Tier'].map(weights_lm)
@@ -140,8 +143,13 @@ def main():
 
     if ChooseElem:
         st.markdown('Of which type (PHY/MAG) and element will it be?')
-        ChosenElem = st.selectbox('Element', Elements, format_func=lambda x: 'Select element' if x == '' else x)
-        ChosenType = st.selectbox('Type', ["PHY","MAG"], format_func=lambda x: 'Select type' if x == '' else x)
+        #ChosenElem = st.selectbox('Element', Elements, format_func=lambda x: 'Select element' if x == '' else x)
+        #ChosenType = st.selectbox('Type', ["PHY","MAG"], format_func=lambda x: 'Select type' if x == '' else x)
+
+        ChosenEnemy = st.selectbox('5* Magicite', MagiciteNames, format_func=lambda x: 'Select Enemy' if x == '' else x)
+        if ChosenEnemy:
+            ChosenElem = Magicite[Magicite.values == ChosenEnemy].index.values[0]
+            ChosenType = Magicite.T[Magicite.T.values == ChosenEnemy].index.values[0]
 
         outDF = analysis.get_ranked_chars(df,charDF,ChosenElem,ChosenType)
 

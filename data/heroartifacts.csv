@@ -87,11 +87,11 @@ King,T-0,99,99,1
 Serafie,FFBe,99,99,1
 Wedge,Core,99,80,1
 Lightning,XIII,99,50,1
-Aranea,XV,0,0,0
-Reno,VII,80,99,1
-Edgar,VI,65,50,0
+Aranea,XV,0,0,1
+Reno,VII,99,99,1
+Edgar,VI,80,99,1
 Lilisette,XI,65,99,1
-Prompto,XV,0,0,0
-Ricard,II,0,0,0
+Prompto,XV,50,50,1
+Ricard,II,50,0,0
 Ravus,XV,99,99,1
 Raijin,VIII,99,65,1

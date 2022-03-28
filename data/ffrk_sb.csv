@@ -672,6 +672,7 @@ Champion of Life,V,Lenna,AW,NE,NA,True
 Spreading One's Wings,V,Lenna,AW,NE,NA,True
 White Magic Mastery,V,Lenna,Sync,NE,NA,True
 Benevolent Princess,V,Lenna,Sync,Fire,MAG,False
+Awoken Champion of Life,V,Lenna,DuAW,NE,NA,False
 Fist of the Dawn,V,Galuf,Unique,NE,PHY,True
 Unyielding Fist,V,Galuf,Unique,NE,NA,False
 Unshaken Resolve,V,Galuf,SSB,NE,PHY,True
@@ -867,6 +868,8 @@ Reviving Wind,VI,Terra,GL2,Wind,MAG,False
 Illusory Flame,VI,Terra,GL2,Fire,NA,False
 Violent Sword,VI,Terra,AW,Wind,MAG,False
 Chaotic Inferno,VI,Terra,AW,Fire,MAG,False
+Cross Meltdown,VI,Terra,AW,Fire Wind,MAG,False
+Inferno Storm,VI,Terra,Sync,Fire Wind,MAG,True
 Inferno Cross,VI,Terra,Sync,Fire,MAG,True
 Riot Storm,VI,Terra,Sync,Wind,MAG,False
 Half-Esper Might,VI,Terra,OLB,Fire Wind,MAG,False
@@ -2179,10 +2182,13 @@ Rending Thunder,XIII,Lightning,GL2,Lightning,PHY,False
 War God's Resolve,XIII,Lightning,GL2,Holy,NA,False
 Army of One Evolved,XIII,Lightning,AW,Lightning,PHY,False
 Elegant Drive,XIII,Lightning,AW,Holy,PHY,True
+Blinding Requiem,XIII,Lightning,AW,Lightning Holy,PHY,False
 Gestalt Drive,XIII,Lightning,Sync,Lightning,PHY,False
 Centuria of One,XIII,Lightning,Sync,Holy,PHY,True
 Artemis's Arrows,XIII,Lightning,OLB,Lightning,PHY,False
 Zanzetsuken,XIII,Lightning,AD,Lightning,PHY,True
+Guardian Odin,XIII,Lightning,Guardian,Lightning Holy,PHY,True
+Awoken Flourish of Steel,XIII,Lightning,DuAW,Lightning,PHY,False
 Sovereign Fist,XIII,Snow,Unique,NE,PHY,True
 Challenge,XIII,Snow,Unique,Ice,PHY,False
 Froststrike,XIII,Snow,Unique,Ice,PHY,True
@@ -2424,6 +2430,7 @@ Permafrost,XIV,Ysayle,AW,Ice,MAG,False
 Oblivion (XIV),XIV,Ysayle,Sync,Ice,MAG,False
 Ice Raiment (Ysayle),XIV,Ysayle,GLB,Ice,NA,False
 Icy Silence,XIV,Ysayle,AD,Ice,MAG,False
+Awoken Whiteout,XIV,Ysayle,DuAW,Ice,MAG,True
 Royal Authority,XIV,Haurchefant,SSB,Holy Ice,PHY,True
 Time of Need,XIV,Haurchefant,BSB,Holy Ice,PHY,True
 Live to Serve,XIV,Haurchefant,USB,NE,NA,True
@@ -2894,6 +2901,7 @@ Link of Light,Core,Tyro,ASB,Holy,PHY,True
 Purifying Grimoire,Core,Tyro,GL,NE,NA,True
 True Sentinel's Grimoire,Core,Tyro,GL2,NE,NA,False
 Fantasy Grimoire Vol. I,Core,Tyro,AW,NE,NA,True
+Fantasy Grimoire Vol. III,Core,Tyro,AW,NE.PHY MAG,True
 Fantasy Grimoire Vol. II,Core,Tyro,Sync,ALL,PHY MAG,False
 Our Fantasy Unbound,Core,Tyro,AD,ALL,PHY MAG,True
 Bond (Tyro),Core,Tyro,Chain4,ALL,PHY MAG,False
