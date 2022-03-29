@@ -1,3 +1,4 @@
+from secrets import choice
 import streamlit as st
 from streamlit import legacy_caching
 import numpy as np
@@ -105,9 +106,6 @@ def main():
     empty,colb=st.columns(2)
     colb.image('./Images/Elements/FFRK_'+WeakestElem+'_Element.png', width=30)
 
-    #col2.metric('PHY Elem',df4[df4==np.min(df4)].index[0])
-    #col3.metric('MAG Elem',df5[df5==np.min(df5)].index[0])
-
     # Display figures
     fig = plot.plot_realms(realms,scores)
     st.plotly_chart(fig, use_container_width=True)
@@ -118,18 +116,19 @@ def main():
 
     #### Party composition
     st.subheader('Party suggestions:')
-    st.markdown('Healers not included.')
-
-    st.markdown('Which kind of party do you want to build?')
-    ChooseRealm = st.checkbox('Realm')
-    ChooseElem = st.checkbox('Element')
+    st.markdown('Healers not included. Hero Artifact bonus is included by default.')
+    includeHAbonus = True
+    disableHA = st.checkbox('Disable Hero Artifact Bonus?')
+    if disableHA:
+        includeHAbonus = False
+    
+    Choice = st.selectbox('Which kind of party do you want to build?', ["5 Star Magicite","Realm","Elemental"])
 
     # Create the Character DF
-    charDF = analysis.get_char_df(df)
-    #st.table(charDF)
+    charDF = analysis.get_char_df(df,includeHAbonus)
 
-    if ChooseRealm:
-        ChosenRealm = st.selectbox('Realm', ['I',"II","III","IV","V","VI","VII","VIII","IX","X","XI","XII","XIII",'XIV',"XV","FFT","T-0","Core","FFBe"], format_func=lambda x: 'Select realm' if x == '' else x)
+    if Choice == "Realm":
+        ChosenRealm = st.selectbox('Choose Realm', ['I',"II","III","IV","V","VI","VII","VIII","IX","X","XI","XII","XIII",'XIV',"XV","FFT","T-0","Core","FFBe"], format_func=lambda x: 'Select realm' if x == '' else x)
         for i in range(5):
             orderedDF = charDF[charDF.Realm == ChosenRealm].sort_values(by=['Rchain','TotWeight','Score'],ascending=False)
             col1,col2 = st.columns([1,20])
@@ -139,19 +138,13 @@ def main():
                 col2.write(orderedDF.index[i]+' [CHAIN]')
             else:
                 col2.write(orderedDF.index[i])
-            
+    
+    elif Choice == "Elemental":
 
-    if ChooseElem:
-        st.markdown('Of which type (PHY/MAG) and element will it be?')
-        #ChosenElem = st.selectbox('Element', Elements, format_func=lambda x: 'Select element' if x == '' else x)
-        #ChosenType = st.selectbox('Type', ["PHY","MAG"], format_func=lambda x: 'Select type' if x == '' else x)
+        ChosenElem = st.selectbox('Choose Element', Elements, format_func=lambda x: 'Select element' if x == '' else x)
+        ChosenType = st.selectbox('Choose Type', ["PHY","MAG"], format_func=lambda x: 'Select type' if x == '' else x)
 
-        ChosenEnemy = st.selectbox('5* Magicite', MagiciteNames, format_func=lambda x: 'Select Enemy' if x == '' else x)
-        if ChosenEnemy:
-            ChosenElem = Magicite[Magicite.values == ChosenEnemy].index.values[0]
-            ChosenType = Magicite.T[Magicite.T.values == ChosenEnemy].index.values[0]
-
-        outDF = analysis.get_ranked_chars(df,charDF,ChosenElem,ChosenType)
+        outDF = analysis.get_ranked_chars(df,charDF,ChosenElem,ChosenType,includeHAbonus)
 
         for i in range(5):
             orderedDF = outDF.sort_values(by=['Echain','Rank','TotWeight'],ascending=[False,True,False])
@@ -163,6 +156,25 @@ def main():
             else:
                 col4.write(orderedDF.index[i])
 
+    elif Choice == "5 Star Magicite":
+
+        ChosenEnemy = st.selectbox('Choose Magicite', sorted(MagiciteNames), format_func=lambda x: 'Select Enemy' if x == '' else x)
+        if ChosenEnemy:
+            ChosenElem = Magicite[Magicite.values == ChosenEnemy].index.values[0]
+            ChosenType = Magicite.T[Magicite.T.values == ChosenEnemy].index.values[0]
+        
+        outDF = analysis.get_ranked_chars(df,charDF,ChosenElem,ChosenType,includeHAbonus)
+
+        for i in range(5):
+            orderedDF = outDF.sort_values(by=['Echain','Rank','TotWeight'],ascending=[False,True,False])
+            col3,col4 = st.columns([1,20])
+            char = orderedDF.index[i].replace(" ", "")
+            col3.image('./Images/Characters/'+char+'.png',width=50)
+            if orderedDF['Echain'][i] == True:
+                col4.write(orderedDF.index[i]+' [CHAIN]')
+            else:
+                col4.write(orderedDF.index[i])
+        
     ####
 
     # Footer

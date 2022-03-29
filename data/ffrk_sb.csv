@@ -1149,7 +1149,7 @@ Fury Brand,VII,Aerith,Unique,NE,NA,False
 Dargon Force,VII,Aerith,Unique,NE,NA,False
 Pulse of Life,VII,Aerith,SSB,NE,NA,False
 White Materia,VII,Aerith,BSB,Holy,MAG,True
-Prayer of Salvation,VII,Aerith,BSB,NE,NA,False
+Prayer of Salvation,VII,Aerith,BSB,NE,NA,True
 Hidden Bloom,VII,Aerith,USB,NE,NA,False
 Innocent Cure,VII,Aerith,USB,NE,NA,True
 Star Whisper,VII,Aerith,GL2,NE,NA,False
@@ -2549,7 +2549,7 @@ Awoken Violet Arc,XV,Ravus,DuAW,Lightning Dark,PHY,True
 Tailwind,FFT,Ramza,Unique,NE,NA,False
 Hail of Stones,FFT,Ramza,Unique,NE,PHY,True
 Shout,FFT,Ramza,SSB,NE,NA,True
-Chant,FFT,Ramza,SSB,NE,NA,False
+Chant,FFT,Ramza,SSB,NE,NA,True
 Unsung Hero,FFT,Ramza,BSB,Holy,PHY,True
 Battle Cry,FFT,Ramza,BSB,Holy,PHY,True
 Seeker of Truth,FFT,Ramza,USB,Holy,PHY,True

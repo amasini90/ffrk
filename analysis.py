@@ -3,7 +3,10 @@ import util
 import numpy as np
 
 def get_elem_scores(df,Elements):
-    
+    '''
+    Computes the scores (summing weights) for each Element and Type, 
+    and returns two dataframes, one for PHY and one for MAG.
+    '''
     PHYelem_dict, MAGelem_dict = {},{}
     # Then, I loop on Elements
     for elem in Elements:
@@ -39,7 +42,27 @@ def get_elem_scores(df,Elements):
 
     return df4,df5
 
-def get_char_df(df):
+def BonusHA(char):
+    '''
+    Compute the bonus for a character given by the amount and level
+    of their Hero Artifacts
+    '''
+    df_ha = pd.read_csv("data/heroartifacts.csv", header=0, index_col=0)
+    aux_df = df_ha[df_ha.index == char]
+    if len(aux_df) > 0:
+        output = aux_df.drop("Realm", axis=1).values.sum()/199.0
+        # Should take into account if there is the whole set.
+        ll = len(aux_df[aux_df.drop("Realm", axis=1).values != 0])
+    else:
+        output = 0.
+        ll = 0.
+    return output*ll
+
+def get_char_df(df,includeHAbonus):
+    '''
+    Computes the total weight associated to the relics I have for each character.
+    Also, assess wheter the character has a Realm (>= LV2) Chain.
+    '''
     WeightChar = {}
     for item in df.groupby(df.Character):
         char = item[0]
@@ -48,13 +71,19 @@ def get_char_df(df):
         elem = util.get_elem(df,char)
         Rchain = util.has_Rchain(df,char)
         ww = df['Weight'][(df.Character==char) & (df.Owned==True)].sum()/df['Weight'][df.Character==char].sum()
+        if includeHAbonus == True:
+            ww += BonusHA(char)
         WeightChar[char] = [realm,elem,typ,ww,df['Weight'][(df.Character==char) & (df.Owned==True)].sum(),Rchain]
     
     # Create the DFs
     df6 = pd.DataFrame.from_dict(WeightChar, orient='index', columns=['Realm','Element','Type','Score','TotWeight','Rchain'])
     return df6
 
-def get_ranked_chars(df,charDF,ChosenElem,ChosenType):
+def get_ranked_chars(df,charDF,ChosenElem,ChosenType,includeHAbonus):
+    '''
+    Takes the Relics and Character DFs, and ranks the Characters based
+    on a chosen Elem and type (PHY/MAG). Returns a new DF.
+    '''
     output = {}
     for char in charDF.index:
         if charDF.Score[char] > 0:
@@ -70,7 +99,10 @@ def get_ranked_chars(df,charDF,ChosenElem,ChosenType):
                         totweight += viewDF["Weight"].iloc[i]
                         # See if Character has Chain of this ELEM
                         Echain = util.has_Echain(viewDF,ChosenElem)
-
+                # Add the bonus from Hero Artifact
+                if includeHAbonus == True:
+                    bonus = BonusHA(char)
+                    totweight += bonus
                 output[char] = [rank,totweight,Echain]
     outDF = pd.DataFrame.from_dict(output, orient='index', columns=['Rank','TotWeight','Echain'])
-    return outDF
+    return outDF    

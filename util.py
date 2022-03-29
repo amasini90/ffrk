@@ -40,7 +40,7 @@ def has_Rchain(df,character):
 
 def has_Echain(df,elem):
     ''' Returns TRUE if character has at least an ELEM LV2 CHAIN'''
-    mask = ((df['Tier']=='Chain2') | (df['Tier']=='Chain3') | (df['Tier']=='Chain4')) & (df['Element']==elem)
+    mask = ((df['Tier']=='Chain2') | (df['Tier']=='Chain3') | (df['Tier']=='Chain4')) & (df['Element']==elem) & (df['Owned']==True)
     if len(df[mask]) > 0:
         return True
     else:
