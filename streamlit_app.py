@@ -129,12 +129,14 @@ def main():
 
     # Create the Character DF
     charDF = analysis.get_char_df(df,includeHAbonus)
+    #st.write(charDF)
 
     if Choice == "Realm":
         ChosenRealm = st.selectbox('Choose Realm', ['I',"II","III","IV","V","VI","VII","VIII","IX","X","XI","XII","XIII",'XIV',"XV","FFT","T-0","Core","FFBe"], format_func=lambda x: 'Select realm' if x == '' else x)
+        orderedDF = charDF[charDF.Realm == ChosenRealm].sort_values(by=['Rchain','TotWeight','Score'],ascending=False)
+        
         for i in range(5):
-            orderedDF = charDF[charDF.Realm == ChosenRealm].sort_values(by=['Rchain','TotWeight','Score'],ascending=False)
-            col1,col2 = st.columns([1,20])
+            col1,col2= st.columns([1,20])
             char = orderedDF.index[i].replace(" ", "")
             col1.image('./Images/Characters/'+char+'.png',width=50)
             if orderedDF['Rchain'][i] == True:
@@ -148,9 +150,9 @@ def main():
         ChosenType = st.selectbox('Choose Type', ["PHY","MAG"], format_func=lambda x: 'Select type' if x == '' else x)
 
         outDF = analysis.get_ranked_chars(df,charDF,ChosenElem,ChosenType,includeHAbonus)
-
-        for i in range(5):
-            orderedDF = outDF.sort_values(by=['Echain','Rank','TotWeight'],ascending=[False,True,False])
+        orderedDF = outDF.sort_values(by=['Echain','Rank','TotWeight'],ascending=[False,True,False])
+        
+        for i in range(5):    
             col3,col4 = st.columns([1,20])
             char = orderedDF.index[i].replace(" ", "")
             col3.image('./Images/Characters/'+char+'.png',width=50)
@@ -167,9 +169,9 @@ def main():
             ChosenType = Magicite.T[Magicite.T.values == ChosenEnemy].index.values[0]
         
         outDF = analysis.get_ranked_chars(df,charDF,ChosenElem,ChosenType,includeHAbonus)
-
+        orderedDF = outDF.sort_values(by=['Echain','Rank','TotWeight'],ascending=[False,True,False])
+        
         for i in range(5):
-            orderedDF = outDF.sort_values(by=['Echain','Rank','TotWeight'],ascending=[False,True,False])
             col3,col4 = st.columns([1,20])
             char = orderedDF.index[i].replace(" ", "")
             col3.image('./Images/Characters/'+char+'.png',width=50)
