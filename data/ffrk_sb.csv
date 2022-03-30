@@ -145,6 +145,7 @@ Sagittarius LXIV,II,Maria,AW,Earth,MAG,False
 Armageddon XCIX,II,Maria,Sync,Earth,MAG,True
 Cosmic Arrow XCIX,II,Maria,Sync,Earth,MAG,False
 Galaxia XCIX,II,Maria,AD,Earth,MAG,False
+Awoken Sagittarius LXIV,II,Maria,DuAW,Earth,MAG,False
 Gaia Drum,II,Guy,SSB,Earth,PHY,True
 Gigantbreak,II,Guy,BSB,Earth,PHY,False
 True Strength,II,Guy,USB,Earth,PHY,True
@@ -1913,9 +1914,12 @@ Strike and Strip,X,Paine,ASB,Water,PHY,True
 Maulwings Flurry,X,Paine,GL2,Water,NA,False
 Bring the Pain!,X,Paine,GL2,Water,NA,True
 YRP Combo!,X,Paine,AW,Water,PHY,False
+Throttle Flurry,X,Paine,AW,Water,PHY,True
 Water Throttle,X,Paine,Sync,Water,PHY,False
 Liquid Steel Throttle,X,Paine,Sync,Water,PHY,False
 Full Throttle Cap Break,X,Paine,AD,Water,PHY,False
+Practiced Blade,X,Paine,OLB,Water,PHY,True
+Awoken Liquid Steel,X,Paine,DuAW,Water,PHY,False
 Cross Cleave,X,Seymour,SSB,Dark,MAG,False
 Anima's Pain,X,Seymour,BSB,Dark,MAG,True
 Guado Grudge,X,Seymour,BSB,Dark,MAG,True
@@ -2211,6 +2215,7 @@ A Dream Revealed,XIII,Snow,Sync,Ice,PHY,False
 Ice Chain Promise,XIII,Snow,OLB,Ice,PHY,False
 Ice Raiment (Snow),XIII,Snow,GLB,Ice,NA,False
 Frost Sanction,XIII,Snow,AD,Ice,PHY,False
+Awoken Froststrike,XIII,Snow,DuAW,Ice,PHY,False
 Deprotega,XIII,Vanille,Unique,NE,MAG,False
 Oerba's Boon,XIII,Vanille,Unique,NE,NA,False
 Miracle Prayer,XIII,Vanille,SSB,NE,NA,True
@@ -2718,10 +2723,13 @@ Manalchemy,T-0,Rem,USB,Holy Dark,MAG,True
 Live Another Day,T-0,Rem,USB,NE,NA,True
 Saintly Dagger Toss,T-0,Rem,ASB,Holy Dark,MAG,False
 Tenacious Stand,T-0,Rem,GL2,NE,NA,False
+Saintly Magic,T-0,Rem,GL2,Holy,MAG,False
 Saintly Aura,T-0,Rem,GL,Holy,NA,True
 Seraphim Strike,T-0,Rem,AW,Holy Dark,MAG,False
 Saintly Huntcraft,T-0,Rem,Sync,Holy,MAG,True
 Saintly Dagger Boomerang,T-0,Rem,OLB,Holy,MAG,False
+Manalchemy Saint,T-0,Rem,AW,Holy,MAG,False
+Dagger Toss,T-0,Rem,AD,Holy,MAG,True
 Magic Martyr,T-0,Queen,SSB,Lightning Dark,PHY,True
 Mana Sphere,T-0,Queen,BSB,Lightning Dark,PHY,True
 Gate of Destiny,T-0,Queen,OSB,Lightning Dark,PHY,True
@@ -2901,7 +2909,7 @@ Link of Light,Core,Tyro,ASB,Holy,PHY,True
 Purifying Grimoire,Core,Tyro,GL,NE,NA,True
 True Sentinel's Grimoire,Core,Tyro,GL2,NE,NA,False
 Fantasy Grimoire Vol. I,Core,Tyro,AW,NE,NA,True
-Fantasy Grimoire Vol. III,Core,Tyro,AW,NE.PHY MAG,True
+Fantasy Grimoire Vol. III,Core,Tyro,AW,NE,PHY MAG,True
 Fantasy Grimoire Vol. II,Core,Tyro,Sync,ALL,PHY MAG,False
 Our Fantasy Unbound,Core,Tyro,AD,ALL,PHY MAG,True
 Bond (Tyro),Core,Tyro,Chain4,ALL,PHY MAG,False

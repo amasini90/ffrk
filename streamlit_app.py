@@ -57,6 +57,9 @@ def main():
         df7 = dff.style.format("{:.1%}", na_rep="-").background_gradient()
         st.table(df7)
 
+    #st.table(df[df.Owned==True].groupby(['Tier',"Owned"])['Tier'].count())
+    #st.table(df[(df.Owned==True) & (df.Tier == 'AW')].groupby(['Realm',"Owned"])['Realm'].count())
+
     st.header('My Legend Materia Overview:')
     col1,col2,col3=st.columns(3)
     col1.metric('Owned',Owned_lm)
