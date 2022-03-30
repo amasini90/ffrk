@@ -58,7 +58,7 @@ def BonusHA(char):
         ll = 0.
     return output*ll
 
-def get_char_df(df,includeHAbonus):
+def get_char_df(df,includeHAbonus=True):
     '''
     Computes the total weight associated to the relics I have for each character.
     Also, assess wheter the character has a Realm (>= LV2) Chain.
@@ -79,7 +79,7 @@ def get_char_df(df,includeHAbonus):
     df6 = pd.DataFrame.from_dict(WeightChar, orient='index', columns=['Realm','Element','Type','Score','TotWeight','Rchain'])
     return df6
 
-def get_ranked_chars(df,charDF,ChosenElem,ChosenType,includeHAbonus):
+def get_ranked_chars(df,charDF,ChosenElem,ChosenType,includeHAbonus=True):
     '''
     Takes the Relics and Character DFs, and ranks the Characters based
     on a chosen Elem and type (PHY/MAG). Returns a new DF.
