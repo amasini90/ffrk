@@ -125,13 +125,14 @@ def main():
     if disableHA:
         includeHAbonus = False
     
-    Choice = st.selectbox('Which kind of party do you want to build?', ["5 Star Magicite","Realm","Elemental"])
-
     # Create the Character DF
     charDF = analysis.get_char_df(df,includeHAbonus)
     #st.write(charDF)
 
+    Choice = st.selectbox('Which kind of party do you want to build?', ["5 Star Magicite","Realm","Elemental"])
+
     if Choice == "Realm":
+
         ChosenRealm = st.selectbox('Choose Realm', ['I',"II","III","IV","V","VI","VII","VIII","IX","X","XI","XII","XIII",'XIV',"XV","FFT","T-0","Core","FFBe"], format_func=lambda x: 'Select realm' if x == '' else x)
         orderedDF = charDF[charDF.Realm == ChosenRealm].sort_values(by=['Rchain','TotWeight','Score'],ascending=False)
         
@@ -144,34 +145,23 @@ def main():
             else:
                 col2.write(orderedDF.index[i])
     
-    elif Choice == "Elemental":
+    else:
+        if Choice == "Elemental":
 
-        ChosenElem = st.selectbox('Choose Element', Elements, format_func=lambda x: 'Select element' if x == '' else x)
-        ChosenType = st.selectbox('Choose Type', ["PHY","MAG"], format_func=lambda x: 'Select type' if x == '' else x)
+            ChosenElem = st.selectbox('Choose Element', Elements, format_func=lambda x: 'Select element' if x == '' else x)
+            ChosenType = st.selectbox('Choose Type', ["PHY","MAG"], format_func=lambda x: 'Select type' if x == '' else x)
+
+        elif Choice == "5 Star Magicite":
+        
+            ChosenEnemy = st.selectbox('Choose Magicite', sorted(MagiciteNames), format_func=lambda x: 'Select Enemy' if x == '' else x)
+            if ChosenEnemy:
+                ChosenElem = Magicite[Magicite.values == ChosenEnemy].index.values[0]
+                ChosenType = Magicite.T[Magicite.T.values == ChosenEnemy].index.values[0]
 
         outDF = analysis.get_ranked_chars(df,charDF,ChosenElem,ChosenType,includeHAbonus)
         orderedDF = outDF.sort_values(by=['Echain','Rank','TotWeight'],ascending=[False,True,False])
         
         for i in range(5):    
-            col3,col4 = st.columns([1,20])
-            char = orderedDF.index[i].replace(" ", "")
-            col3.image('./Images/Characters/'+char+'.png',width=50)
-            if orderedDF['Echain'][i] == True:
-                col4.write(orderedDF.index[i]+' [CHAIN]')
-            else:
-                col4.write(orderedDF.index[i])
-
-    elif Choice == "5 Star Magicite":
-
-        ChosenEnemy = st.selectbox('Choose Magicite', sorted(MagiciteNames), format_func=lambda x: 'Select Enemy' if x == '' else x)
-        if ChosenEnemy:
-            ChosenElem = Magicite[Magicite.values == ChosenEnemy].index.values[0]
-            ChosenType = Magicite.T[Magicite.T.values == ChosenEnemy].index.values[0]
-        
-        outDF = analysis.get_ranked_chars(df,charDF,ChosenElem,ChosenType,includeHAbonus)
-        orderedDF = outDF.sort_values(by=['Echain','Rank','TotWeight'],ascending=[False,True,False])
-        
-        for i in range(5):
             col3,col4 = st.columns([1,20])
             char = orderedDF.index[i].replace(" ", "")
             col3.image('./Images/Characters/'+char+'.png',width=50)
