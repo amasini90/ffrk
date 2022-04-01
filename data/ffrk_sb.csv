@@ -999,6 +999,8 @@ Ready to Rampage,VI,Gau,GL2,NE,PHY,True
 On the Rampage,VI,Gau,AW,Lightning Wind,PHY,False
 Plunging Claws,VI,Gau,AW,Lightning Wind,PHY,False
 X-Cutter Rage,VI,Gau,Sync,Lightning Wind,PHY,False
+Apex Rage,VI,Gau,AD,Wind Lightning,PHY,False
+Awoken On the Rampage,VI,Gau,DuAW,Wind Lightning,PHY,False
 Dive Bomb,VI,Setzer,Unique,Fire,PHY,False
 Prismatic Flash,VI,Setzer,Unique,NE,PHY,False
 Fixed Dice,VI,Setzer,SSB,NE,PHY,False
@@ -1022,6 +1024,7 @@ Blue Field,VI,Strago,Chain2,Water,MAG,False
 Aqua Splash,VI,Strago,ASB,Water,MAG,True
 Blue Costume,VI,Strago,GL2,Water,NA,False
 Exploit Weakness,VI,Strago,GL2,NE,MAG,False
+Green Costume,VI,Strago,GL2,Wind,NA,False
 Magic Tempest,VI,Strago,AW,Wind,MAG,False
 Tidal Master,VI,Strago,AW,Water,MAG,False
 Tidal Fall,VI,Strago,AW,Water,MAG,False
@@ -1029,6 +1032,8 @@ Tsunami,VI,Strago,Sync,Water,MAG,False
 Bubble Tornado,VI,Strago,Sync,Water Wind,MAG,False
 Jet Splash,VI,Strago,OLB,Water,MAG,False
 Apex Lore,VI,Strago,AD,Water,MAG,False
+Spiral Tempest,VI,Strago,AD,Wind,MAG,False
+Awoken Twin Mage,VI,Strago,DuAW,Wind,MAG,False
 Ink Blast,VI,Relm,Unique,NE,MAG,True
 Brush Up,VI,Relm,Unique,NE,NA,True
 Portrait of Lakshmi,VI,Relm,SSB,NE,NA,True
@@ -1557,6 +1562,7 @@ Abyssal Attractor,VIII,Ultimecia,Sync,Dark,MAG,False
 Wind Raiment (Ultimecia),VIII,Ultimecia,GLB,Wind,NA,False
 Apex Maelstrom,VIII,Ultimecia,AD,Dark,MAG,False
 Awoken Apocalypse,VIII,Ultimecia,DuAW,Wind Dark,MAG,True
+Wind Bond (Ultimecia),VIII,Ultimecia,Chain4,Wind,MAG,False
 Scoop Art,IX,Zidane,Unique,NE,PHY,False
 Rumble Rush,IX,Zidane,Unique,NE,PHY,True
 Shift Break,IX,Zidane,SSB,NE,PHY,False
@@ -2876,8 +2882,12 @@ Wind Rhapsody,FFBe,Serafie,USB,Wind,MAG,True
 Misdirection,FFBe,Serafie,ASB,Wind,MAG,True
 Rumor Radar,FFBe,Serafie,GL2,Wind,NA,True
 Silent Voice,FFBe,Serafie,AW,Wind,MAG,True
+Whispering Breeze,FFBe,Serafie,AW,Wind,MAG,False
 Mascot Special,FFBe,Serafie,Sync,Wind,MAG,False
 Tickling Wind,FFBe,Serafie,OLB,Wind,MAG,False
+Spiraling Flash (Serafie),FFBe,Serafie,GLB,Wind,NA,False
+Apex Rumor Radar,FFBe,Serafie,AD,Wind,MAG,False
+Awoken Wind Rhapsody,FFBe,Serafie,DuAW,Wind,MAG,False
 Soul Prominence,FFBe,Rain,USB,Fire Earth,PHY,False
 Glowing Ray,FFBe,Rain,ASB,Fire Earth,PHY,False
 Rising Mantle,FFBe,Rain,GL2,Fire Earth,PHY,False

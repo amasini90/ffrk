@@ -10,6 +10,15 @@ def main():
     # Page configuration
     st.set_page_config(page_title="FFRK Helper")
 
+    # Weights and Elements for Tiers
+    weights = {"Unique":0.536, "SSB":1.072, "BSB":0.625, "OSB":0.625, "GL":1.25, "GL2":1.5, "ASB":1.75,
+            "AD":2.5, "Chain":1.25, "Chain2":1.75, "Chain3":1.8, "Chain4":2.5, "USB":1, "AW":2.25, "Sync":2.5,
+            "OLB":1.75, "GLB":1, "Guardian":2, "DuAW":2.75}
+    weights_lm = {5:0.625, 6:1.5}
+    Elements = ["Fire","Ice","Lightning","Wind","Earth","Water","Holy","Dark"]
+    MagiciteNames = ["Mateus","Syldra","Famfrit","Hecatoncheir","Quetzalcoatl","Phoenix","Deathgaze","Lakshmi","Manticore","Typhoon","Geosgaeno","Adamantoise","Behemoth King","Belias","Ark","Madeen"]
+    Magicite = pd.DataFrame({"PHY":MagiciteNames[:8], "MAG":MagiciteNames[8:]}, index=Elements)
+
     # Title of the App
     st.title('FFRK Helper')
 
@@ -20,16 +29,6 @@ def main():
     df = pd.read_csv('./data/ffrk_sb.csv', header=0, index_col=0)
     df_lm = pd.read_csv('./data/ffrk_lm.csv', header=0, index_col=0)
 
-    # Weights and Elements for Tiers
-    weights = {"Unique":0.536, "SSB":1.072, "BSB":0.625, "OSB":0.625, "GL":1.25, "GL2":1.5, "ASB":1.75,
-            "AD":2.5, "Chain":1.25, "Chain2":1.75, "Chain3":1.8, "Chain4":2.5, "USB":1, "AW":2.25, "Sync":2.5,
-            "OLB":1.75, "GLB":1, "Guardian":2, "DuAW":2.75}
-    weights_lm = {5:0.625, 6:1.5}
-    Elements = ["Fire","Ice","Lightning","Wind","Earth","Water","Holy","Dark"]
-
-    MagiciteNames = ["Mateus","Syldra","Famfrit","Hecatoncheir","Quetzalcoatl","Phoenix","Deathgaze","Lakshmi","Manticore","Typhoon","Geosgaeno","Adamantoise","Behemoth King","Belias","Ark","Madeen"]
-    Magicite = pd.DataFrame({"PHY":MagiciteNames[:8], "MAG":MagiciteNames[8:]}, index=Elements)
-
     # Apply weights as a new column
     df['Weight'] = df['Tier'].map(weights)
     df_lm["Weight"] = df_lm['Tier'].map(weights_lm)
@@ -38,6 +37,7 @@ def main():
     NotOwned = df.groupby(["Owned"]).count().values[0][0]
     Owned = df.groupby(["Owned"]).count().values[1][0]
 
+    # Total number of Owned VS Not-Owned LMs
     NotOwned_lm = df_lm.groupby(["Owned"]).count().values[0][0]
     Owned_lm = df_lm.groupby(["Owned"]).count().values[1][0]
 
@@ -57,6 +57,7 @@ def main():
         df7 = dff.style.format("{:.1%}", na_rep="-").background_gradient()
         st.table(df7)
 
+    # Useful commands in case numbers do not round
     #st.table(df[df.Owned==True].groupby(['Tier',"Owned"])['Tier'].count())
     #st.table(df[(df.Owned==True) & (df.Tier == 'AW')].groupby(['Realm',"Owned"])['Realm'].count())
 

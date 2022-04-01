@@ -175,6 +175,7 @@ Man of Action,5,Shadow,VI,0.2,Every1,Ninja,Grant MirrorImage,False
 Cloak of Darkness,5,Shadow,VI,1.0,Start,Dark,Infusion,False
 Self Reliance,5,Cyan,VI,1.0,Start,Fire,Infusion,False
 Untamed Energy,5,Gau,VI,1.0,LowHP,NA,Healing ReduceDelay,False
+Refinement (Gau),6,Gau,VI,1.0,Auto,NA,Dmg 1.5xPHY,False
 Realized Dreams,5,Setzer,VI,0.2,Every1,Dark,AdditionalTrigger,False
 Sky Dreams,5,Setzer,VI,1.0,Start,NA,FullATB NoDelay1,False
 Second Chance,5,Setzer,VI,1.0,Auto,NA,Debuff 1.2xDuration,False
