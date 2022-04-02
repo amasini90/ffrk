@@ -69,8 +69,7 @@ def main():
     #####
 
     #### Scores and Recommendations
-    st.header('Scores')
-    st.subheader('Recommended pulls:')
+    st.header('Recommended pulls:')
     # Compute the total Scores by REALM grouping by the appropriate keys
     ww = df.groupby(["Realm","Owned"]).sum()
     ww_lm = df_lm.groupby(["Realm","Owned"]).sum()
@@ -110,12 +109,39 @@ def main():
     empty,colb=st.columns(2)
     colb.image('./Images/Elements/FFRK_'+WeakestElem+'_Element.png', width=30)
 
-    # Display figures
-    fig = plot.plot_realms(realms,scores)
-    st.plotly_chart(fig, use_container_width=True)
+    # Display LV2 Chains situation
+    st.subheader('Chains')
+    # Realm LV2 Chains
+    with st.expander("Missing Realm Chains by lower Score"):
+        RealmsWithChain = df[(df.Owned==True) & ((df.Tier=='Chain2') | (df.Tier=='Chain3') | (df.Tier=='Chain4')) & (df.Element=='ALL')].Realm.values
+        RealmsMissingChain = set(df[(~df.Realm.isin(RealmsWithChain)) & (df.Realm!='KH') & (df.Realm!='FFBe')].Realm.values)
+        maskedRealmDF = pd.Series(maskedScores, index=maskedRealms)
+        if len(maskedRealmDF[maskedRealmDF.index.isin(RealmsMissingChain)].index) != 0:
+            st.table(maskedRealmDF[maskedRealmDF.index.isin(RealmsMissingChain)].index)
+        else:
+            st.write('All the Realms are covered. Good!')
+            
+    # Elemental LV2 Chains
+    with st.expander("Missing Elemental Chains by lower Score"):
+        mis = 0
+        for typ in ["PHY", "MAG"]:
+            for el in Elements: 
+                view = df[(df.Owned==True) & ((df.Tier=='Chain2') | (df.Tier=='Chain3') | (df.Tier=='Chain4')) & (df.Element==el) & (df.Type==typ)]
+                if len(view) == 0:
+                    mis += 1
+                    st.write(el,typ)
+        if mis == 0:
+            st.write('All the Elements are Types are covered. Good!')
+     
+      
+    # Optionally display figures
+    st.subheader('Scores')
+    with st.expander("Distributions of scores across Realms and Elements"):
+        fig = plot.plot_realms(realms,scores)
+        st.plotly_chart(fig, use_container_width=True)
 
-    fig = plot.plot_elements(df4.sort_values().index,df4.sort_values().values,df5.sort_values().index,df5.sort_values().values)
-    st.plotly_chart(fig, use_container_width=True)
+        fig = plot.plot_elements(df4.sort_values().index,df4.sort_values().values,df5.sort_values().index,df5.sort_values().values)
+        st.plotly_chart(fig, use_container_width=True)
     ####
 
     #### Party composition
