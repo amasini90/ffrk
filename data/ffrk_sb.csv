@@ -365,11 +365,13 @@ Onion Earth,III,Onion Knight,GL2,Earth,NA,False
 Stalwart Potential,III,Onion Knight,AW,Fire Water Wind Earth,PHY,True
 Arcane Potential,III,Onion Knight,AW,Fire Water Wind Earth,MAG,True
 Turbo-Hit +,III,Onion Knight,AW,Wind Water Fire Earth,PHY,False
+Dark Vision,III,Onion Knight,AW,Wind Water Fire Earth,MAG,False
 Channel Water,III,Onion Knight,Sync,Water,MAG,False
 Channel Earth,III,Onion Knight,Sync,Earth,MAG,False
 Channel Wind,III,Onion Knight,Sync,Wind,MAG,False
 Onion Dual Wield,III,Onion Knight,Sync,Wind Water Fire Earth,PHY,False
 Water Flash (Onion Knight),III,Onion Knight,GLB,Water,MAG,False
+Spectral Onion,III,Onion Knight,OLB,Wind Water Fire Earth,MAG,False
 Apex Blowback,III,Onion Knight,AD,Water,MAG,False
 Tornado,III,Onion Knight,AD,Wind,MAG,False
 Anti-air Particle Beam,III,Cloud of Darkness,SSB,Dark Holy,MAG,False
@@ -1116,6 +1118,9 @@ Meteor Rain,VII,Cloud,Sync,Dark,PHY,True
 Apex Slash,VII,Cloud,Sync,Wind,PHY,False
 Mako Strike,VII,Cloud,Sync,Wind Dark,PHY,False
 Omnislash,VII,Cloud,AD,Wind,PHY,False
+Sonic Blade,VII,Cloud,OLB,Wind Dark,PHY,False
+Guardian Choco-Mog,VII,Cloud,Guardian,Wind,PHY,False
+Awoken Finishing Touch,VII,Cloud,DuAW,Wind,PHY,False
 Grenade Bomb,VII,Barret,Unique,NE,PHY,False
 Satellite Beam,VII,Barret,Unique,Lightning,PHY,False
 Hammerblow,VII,Barret,Unique,NE,PHY,True
@@ -1237,9 +1242,12 @@ Sonic Braver Xeno,VII,Zack,ASB,Wind,PHY,False
 Storm Squat,VII,Zack,GL,Wind,NA,True
 Air Blast,VII,Zack,GL2,Wind,PHY,False
 Sonic Squat,VII,Zack,GL2,Wind,NA,True
+Heroic Dream,VII,Zack,GL2,NE,NA,True
 Proud Heritage,VII,Zack,AW,Wind,PHY,True
 Road to Heroism,VII,Zack,AW,Wind Dark,PHY,False
 Come Get It!,VII,Zack,Sync,Wind,PHY,False
+Costly Punch,VII,Zack,AD,Wind,PHY,False
+Awoken Proud Heritage,VII,Zack,DuAW,Wind,PHY,False
 Shadow Flare,VII,Sephiroth,Unique,NE,PHY,True
 Hell's Gate,VII,Sephiroth,Unique,NE,PHY,True
 Nibelheim Nightmare,VII,Sephiroth,Unique,Fire,PHY,False
@@ -1619,6 +1627,7 @@ Stoke Flames,IX,Vivi,GL2,Fire,NA,True
 True Black Mage,IX,Vivi,GL,Fire,NA,True
 Spontaneity,IX,Vivi,GL,Ice Lightning,NA,False
 Magic Airs,IX,Vivi,GL2,Fire Ice Lightning,NA,False
+Black Mage Evolution,IX,Vivi,GL2,NE,NA,True
 Balefire Pyre,IX,Vivi,AW,Fire,MAG,True
 Tipping Point,IX,Vivi,AW,Ice Lightning,MAG,True
 Athlete Queen,IX,Vivi,AW,Fire Ice Lightning,MAG,True
@@ -1626,6 +1635,8 @@ Glittering Flame,IX,Vivi,Sync,Fire,MAG,False
 Icebolt Advent,IX,Vivi,Sync,Ice Lightning,MAG,True
 Elemental Ball,IX,Vivi,OLB,Fire Ice Lightning,MAG,True
 Doomsday Icebolt,IX,Vivi,AD,Ice Lightning,MAG,False
+Doomsday,IX,Vivi,AD,Fire,MAG,True
+Awoken Balefire Pyre,IX,Vivi,DuAW,Fire,MAG,True
 Thunder Slash,IX,Steiner,Unique,Lightning,PHY,False
 Sword Art Stock Break,IX,Steiner,Unique,NE,PHY,False
 Sword Art Climhazzard,IX,Steiner,SSB,NE,PHY,False
@@ -1765,6 +1776,7 @@ Blitz Yell,X,Tidus,Sync,Water,PHY,False
 Heavy Rain,X,Tidus,OLB,Water,PHY,False
 Water Raiment (Tidus),X,Tidus,GLB,Water,NA,False
 Apex Blitz Ace,X,Tidus,AD,Water,PHY,False
+Awoken Rising Dream,X,Tidus,DuAW,Water,PHY,False
 The Sending,X,Yuna,Unique,Holy,MAG,False
 Hymn of the Fayth,X,Yuna,Unique,NE,NA,True
 Farplane Wind,X,Yuna,Unique,Holy,MAG,True
