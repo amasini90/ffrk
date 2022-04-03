@@ -1083,7 +1083,7 @@ Shock,VI,Leo,SSB,Holy,PHY,True
 Warrior's Warrior,VI,Leo,BSB,Holy Earth,PHY,True
 Shock Imperial,VI,Leo,USB,Holy Earth,PHY,True
 Second Rebellion,VI,Leo,USB,Earth Holy,PHY,False
-Shocking Glory,VI,Leo,ASB,Earth Holy,PHY,False
+Shocking Glory,VI,Leo,ASB,Earth Holy,PHY,True
 General's Protection,VI,Leo,GL,Earth,NA,True
 Height of Chivalry,VI,Leo,GL2,Earth,PHY,True
 Indomitable Purpose,VI,Leo,GL2,NE,NA,True
@@ -2605,7 +2605,7 @@ The Valiant,FFT,Delita,ASB,Holy Fire Lightning Ice,PHY,True
 Requiem for the Meager,FFT,Delita,GL,NE,NA,True
 Meager Ambition,FFT,Delita,GL2,Holy Fire Lightning Ice,NA,False
 Hero-King's Strike,FFT,Delita,AW,Holy Fire Lightning Ice,PHY,False
-Hero-King's Ruination,FFT,Delita,Sync,Holy Fire Lightning Ice,PHY,False
+Hero-King's Ruination,FFT,Delita,Sync,Holy Fire Lightning Ice,PHY,True
 Aegis,FFT,Ovelia,Unique,NE,NA,True
 Princess's Prayer,FFT,Ovelia,SSB,NE,NA,True
 Divine Ward,FFT,Ovelia,SSB,NE,NA,False
@@ -2712,7 +2712,7 @@ Concerto ff,T-0,Deuce,USB,NE,NA,True
 Vivace,T-0,Deuce,USB,NE,NA,False
 Con Brio,T-0,Deuce,GL2,NE,NA,True
 Communal Harmony,T-0,Deuce,AW,NE,NA,False
-Vital Symphony,T-0,Deuce,Sync,NE,NA,False
+Vital Symphony,T-0,Deuce,Sync,NE,NA,True
 White Knight,T-0,Nine,SSB,NE,NA,True
 Class Zero Basher-in-Chief,T-0,Nine,BSB,Wind,PHY,False
 Whirling Lance,T-0,Nine,USB,Wind,PHY,False

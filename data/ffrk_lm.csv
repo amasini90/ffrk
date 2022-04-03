@@ -334,7 +334,7 @@ Master Caster,5,Shantotto,XI,0.1,Every1,Witch,3xTrigger,True
 Superiority Complex,5,Shantotto,XI,1.0,Start,Lightning,Infusion,False
 No Hesitation,5,Ayame,XI,0.3,Every1,Samurai,ReduceDelay,False
 Young Gun,5,Ayame,XI,1.0,Start,Ice,Infusion,False
-Onslaught (Ayame),6,Ayame,XI,0.8,Every1,Samurai,Followup PHY,False
+Onslaught (Ayame),6,Ayame,XI,0.8,Every1,Samurai,Followup PHY,True
 Heartfelt Devotion,5,Curilla,XI,1.0,Start,NA,ReduceDelay,True
 Templar's Charge,5,Curilla,XI,0.3,TakeDamage Ally,NA,Cover,True
 Re-action (Curilla),6,Curilla,XI,1.0,Every3,Knight,AdditionalTrigger,False
