@@ -268,7 +268,7 @@ Scarred Soldier,5,Ward,VIII,1.0,EquipArmor,Hat,Dmg 1.5xPHY,True
 Re-action (Ward),6,Ward,VIII,1.0,Every3,Water Ice Earth,AdditionalTrigger,False
 Power of Succession,5,Ultimecia,VIII,0.2,Every1,Dark,AdditionalTrigger,True
 Arrogant Ambition,5,Ultimecia,VIII,1.0,Start,Wind,Infusion,True
-Existence Denied,5,Ultimecia,VIII,1.0,Start,Dark,Infusion,False
+Existence Denied,5,Ultimecia,VIII,1.0,Start,Dark,Infusion,True
 Refinement (Ultimecia),6,Ultimecia,VIII,1.0,Auto,NA,Dmg 1.3xMAG,False
 Thief's Ploy,5,Zidane,IX,0.2,Every1,Wind,AdditionalTrigger,True
 Snap Judgment,5,Zidane,IX,0.3,Every1,Thief,ReduceDelay,False

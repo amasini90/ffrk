@@ -655,9 +655,13 @@ Whirlwind,IV,Barbariccia,USB,Wind,MAG,True
 Secret Breeze,IV,Barbariccia,Chain3,Wind,MAG,False
 Raging Squall,IV,Barbariccia,ASB,Wind,MAG,True
 Eye of the Tornado,IV,Barbariccia,GL2,Wind,NA,False
+Blustery Ruler,IV,Barbariccia,GL2,Wind,MAG,False
 Storm of Darkness,IV,Barbariccia,AW,Wind Dark,MAG,True
+Gale Warning,IV,Barbariccia,AW,Wind,MAG,False
 Raging Wind,IV,Barbariccia,Sync,Wind,MAG,True
 Harsh Wind,IV,Barbariccia,OLB,Wind,MAG,True
+Apex Maelstrom (IV),IV,Barbariccia,AD,Wind,MAG,False
+Awoken Raging Squall,IV,Barbariccia,DuAW,Wind,MAG,False
 Royal Devotion,V,Lenna,Unique,NE,NA,False
 Princess's Favor,V,Lenna,Unique,NE,NA,False
 Flames of War,V,Lenna,Unique,NE,NA,True
@@ -760,6 +764,7 @@ Master of Wind,V,Bartz,AD,Wind,PHY,False
 Master of Fire,V,Bartz,AD,Fire,PHY,False
 Master of Water,V,Bartz,AD,Water,PHY,False
 Awoken Rousing Winds,V,Bartz,DuAW,Wind,PHY,False
+Awoken Rousing Earth,V,Bartz,DuAW,Earth,PHY,False
 Kindred Spirit,V,Faris,Unique,NE,PHY,True
 Sea Lord's Broadside,V,Faris,Unique,NE,PHY,False
 Serpent's Gale,V,Faris,SSB,Wind Lightning,PHY,True
@@ -896,6 +901,7 @@ Heat of Passion,VI,Locke,GL,Fire,NA,False
 Heat Slicer,VI,Locke,GL2,Fire,PHY,False
 Heat Spirit,VI,Locke,GL2,Fire,NA,False
 Adventure Awaits,VI,Locke,AW,Fire,PHY,True
+Slash & Soar,VI,Locke,AW,Fire,PHY,False
 Phoenix Heat,VI,Locke,Sync,Fire,PHY,True
 Shredding Spin,VI,Locke,Sync,Fire,PHY,True
 Fire Raiment (Locke),VI,Locke,GLB,Fire,NA,False
@@ -1379,11 +1385,13 @@ Cross Your Heart,VIII,Squall,Sync,Ice,PHY,False
 Burst Blade,VIII,Squall,Sync,Ice Fire,PHY,False
 Fated Flame,VIII,Squall,Sync,Fire,PHY,False
 Lion Heart,VIII,Squall,AD,Ice,PHY,False
+Apex Draw & Junction,VIII,Squall,AD,Fire,PHY,False
 Renzokuken Iceflame,VIII,Squall,OLB,Ice Fire,PHY,False
+Bond (Squall),VIII,Squall,Chain4,ALL,PHY MAG,False
 Angel Wing Bolt,VIII,Rinoa,Unique,Lightning,MAG,False
 Angel Wing Quake,VIII,Rinoa,Unique,Earth,MAG,False
 The Brothers,VIII,Rinoa,Unique,Earth,MAG,False
-Wishing Star,VIII,Rinoa,SSB,NE,MAG,False
+Wishing Star,VIII,Rinoa,SSB,NE,MAG,True
 Angelo Strike,VIII,Rinoa,SSB,Earth,MAG,True
 Sorceress's Awakening,VIII,Rinoa,BSB,Earth Ice,MAG,True
 Angel Wing Ice Shards,VIII,Rinoa,BSB,Ice,MAG,True
@@ -1449,8 +1457,10 @@ Trabia Slots,VIII,Selphie,USB,NE,NA,True
 Slot Cure,VIII,Selphie,USB,NE,NA,True
 Bon Vivant,VIII,Selphie,GL,NE,NA,True
 Wall Slots,VIII,Selphie,GL2,NE,NA,True
+Thoughts of Trabia,VIII,Selphie,GL2,NE,NA,False
 Selphie's Band,VIII,Selphie,AW,NE,NA,False
 Comrades' Return,VIII,Selphie,Sync,NE,NA,False
+Vivifying Dance,VIII,Selphie,Sync,NE,MAG,False
 Fast Ammo,VIII,Irvine,Unique,NE,PHY,False
 Canister Shot,VIII,Irvine,Unique,NE,PHY,False
 Dark Shot,VIII,Irvine,SSB,NE,PHY,True
@@ -1510,10 +1520,15 @@ Grief Judgment,VIII,Edea,ASB,Ice Dark,MAG,False
 Power Succession,VIII,Edea,GL,Ice,NA,True
 Cold-Hearted Guise,VIII,Edea,GL2,Ice,NA,True
 Sweet Frozen Dream,VIII,Edea,GL2,Ice,MAG,False
+Dread Sorceress,VIII,Edea,GL2,Ice Dark,NA,False
 Astral Soul,VIII,Edea,AW,Ice Dark,MAG,False
+Beyond Return,VIII,Edea,AW,Ice Dark,MAG,False
 Sourcerous Binding,VIII,Edea,Sync,Ice Dark,MAG,False
+Willful Hatred,VIII,Edea,Sync,Dark,MAG,False
 Frost Flash (Edea),VIII,Edea,GLB,Ice,MAG,False
 Apex Ice Strike,VIII,Edea,AD,Ice,MAG,True
+Sweetest Blow,VIII,Edea,AD,Dark,MAG,False
+Awoken Time Crush,VIII,Edea,DuAW,Ice Dark,MAG,False
 Aura (VIII),VIII,Raijin,SSB,NE,NA,True
 Raijin Special,VIII,Raijin,BSB,Lightning,PHY,False
 Dragon Rising,VIII,Raijin,OSB,Lightning,PHY,True
@@ -1542,6 +1557,9 @@ Periphery,VIII,Fujin,GL2,Wind,NA,False
 Ran,VIII,Fujin,AW,Wind,MAG,True
 Ka,VIII,Fujin,AW,Wind,MAG,True
 Fusai,VIII,Fujin,Sync,Wind,MAG,False
+Kakeru,VIII,Fujin,OLB,Wind,MAG,False
+Fuzan,VIII,Fujin,AD,Wind,MAG,False
+Awoken Metsu,VIII,Fujin,DuAW,Wind,MAG,False
 Interesting Times,VIII,Kiros,SSB,NE,PHY,True
 Exsanguination,VIII,Kiros,BSB,Dark Ice,PHY,False
 Katar Dance,VIII,Kiros,USB,Dark Ice,PHY,False
@@ -1681,7 +1699,9 @@ So Happy,IX,Quina,Chain3,ALL,PHY MAG,False
 Delta Def-Less,IX,Quina,GL,Water Earth Poison,NA,True
 Self Matra Magic,IX,Quina,GL2,NE,NA,True
 Angelic White Wind,IX,Quina,GL2,NE,NA,False
+Quina's Sampling,IX,GL2,NE,NA,False
 Delicious Discovery!,IX,Quina,AW,Water Earth Poison,PHY,False
+Taste Test!,IX,Quina,AW,NE,NA,False
 Culinary Climb,IX,Quina,Sync,Water Earth Poison,PHY,True
 Emerald Light,IX,Eiko,Unique,NE,NA,False
 Withering Winds,IX,Eiko,Unique,Wind,MAG,False
@@ -2477,6 +2497,7 @@ Embolden Combo,XIV,Alisaie,AW,Wind Lightning,MAG,False
 Heart and Steel,XIV,Alisaie,Sync,Wind Lightning,MAG,False
 Vermillion Scourge,XIV,Alisaie,OLB,Wind Lightning,MAG,True
 Aetheric Sever,XIV,Alisaie,AD,Wind Lightning,MAG,True
+Awoken Vermage,XIV,Alisaie,DuAW,Wind Lightning,MAG,False
 Gladiolus Link,XV,Noctis,SSB,NE,PHY,True
 Kings of Old,XV,Noctis,BSB,NE,PHY,False
 Armiger,XV,Noctis,OSB,NE,PHY,True
