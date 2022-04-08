@@ -290,6 +290,8 @@ Silver Wind,III,Luneth,Sync,Wind,PHY,False
 Dragon's Tornado,III,Luneth,Sync,Wind,PHY,False
 Tempest Dash,III,Luneth,OLB,Wind,PHY,False
 Wind Flash (Luneth),III,Luneth,GLB,Wind,PHY,False
+Apex Eternal Wind,III,Luneth,AD,Wind,PHY,False
+Bond (Luneth),III,Luneth,Chain4,ALL,PHY MAG,False
 Soothing Light,III,Arc,Unique,NE,NA,True
 Renewing Rains,III,Arc,SSB,NE,NA,True
 Word of Kindness,III,Arc,SSB,NE,NA,True
@@ -315,7 +317,10 @@ Trine Flamefist,III,Refia,ASB,Fire,PHY,False
 Bridled Love,III,Refia,GL,Fire,PHY,False
 Beacon of Love,III,Refia,GL2,Fire,NA,True
 Battering Heat,III,Refia,AW,Fire,PHY,False
+Blacksmith Discipline,III,Refia,AW,Fire,PHY,False
 Searing Circle,III,Refia,Sync,Fire,PHY,False
+Maiden's Hammerblow,III,Refia,OLB,Fire,PHY,False
+Awoken Battering Heat,III,Refia,DuAW,Fire,PHY,False
 Earth Ward,III,Ingus,Unique,NE,NA,False
 Gaia's Vengeance,III,Ingus,SSB,NE,PHY,True
 Titan's Blade,III,Ingus,SSB,Earth,PHY,False
@@ -342,11 +347,13 @@ Violet Flash,III,Desch,GL,Lightning,NA,False
 Shattering Thunder,III,Desch,GL,Lightning,MAG,False
 Violet Strike,III,Desch,GL2,Lightning,NA,False
 Growling Thunder,III,Desch,GL2,Lightning,NA,False
+Amethyst Lightning,III,Desch,GL2,Lightning,NA,False
 Owen's Rage,III,Desch,AW,Lightning,MAG,False
 Distant Lightning,III,Desch,AW,Lightning,MAG,False
 Life Spark,III,Desch,Sync,Lightning,MAG,False
 Owen's Will,III,Desch,OLB,Lightning,MAG,False
 Apex Violet Flash,III,Desch,AD,Lightning,MAG,False
+Awoken Owen's Rage,III,Desch,DuAW,Lightning,MAG,False
 Onion Slice,III,Onion Knight,SSB,NE,PHY,True
 Blowback,III,Onion Knight,SSB,NE,MAG,True
 Vessel of Fate,III,Onion Knight,BSB,NE,PHY MAG,True

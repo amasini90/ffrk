@@ -64,6 +64,7 @@ Onslaught (Arc),6,Arc,III,0.3,Every1,Water Holy,Followup MAG RestoreAbility,Fals
 Deadly Charm,5,Refia,III,0.2,Every1,Fire,AdditionalTrigger,True
 The Road Ahead,5,Refia,III,1.0,Start,Fire,Infusion,True
 Onslaught (Refia),6,Refia,III,0.3,Every1,Monk,Followup PHY,False
+Quickstrike (Refia),6,Refia,III,1.0,Start,Fire,ReduceDelay Followup PHY,False
 Resolute Warrior,5,Ingus,III,1.0,Start,Earth,Infusion,True
 Loyal Heart,5,Ingus,III,0.2,EquipArmor,Shield,ReduceDmg,False
 Hidden Feelings,5,Ingus,III,0.2,Every1,Knight,AdditionalTrigger,False
