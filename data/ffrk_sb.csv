@@ -1054,7 +1054,7 @@ Brush Up,VI,Relm,Unique,NE,NA,True
 Portrait of Lakshmi,VI,Relm,SSB,NE,NA,True
 Star Prism,VI,Relm,BSB,Holy,MAG,True
 Divine Portrait,VI,Relm,USB,NE,NA,True
-Friendly Sketch,VI,Relm,USB,NE,NA,False
+Friendly Sketch,VI,Relm,USB,NE,NA,True
 Dreamy Potion,VI,Relm,USB,NE,NA,False
 Perfect Likeness,VI,Relm,GL,NE,NA,True
 Cure Sketch,VI,Relm,GL,NE,NA,False
@@ -1389,7 +1389,7 @@ Fatal Frost,VIII,Squall,AW,Ice,PHY,True
 End of Flame,VIII,Squall,AW,Fire,PHY,False
 Blasting Draw,VIII,Squall,AW,Ice Fire,PHY,False
 Cross Your Heart,VIII,Squall,Sync,Ice,PHY,False
-Burst Blade,VIII,Squall,Sync,Ice Fire,PHY,False
+Burst Blade,VIII,Squall,Sync,Ice Fire,PHY,True
 Fated Flame,VIII,Squall,Sync,Fire,PHY,False
 Lion Heart,VIII,Squall,AD,Ice,PHY,False
 Apex Draw & Junction,VIII,Squall,AD,Fire,PHY,False
@@ -2546,7 +2546,7 @@ Tactical Mind,XV,Ignis,AW,Fire,PHY,True
 Sage's Hellfire,XV,Ignis,Sync,Fire,PHY,False
 Overclock,XV,Ignis,AD,Fire,PHY,False
 Starshell,XV,Prompto,SSB,Lightning,PHY,True
-Recoil (XV),XV,Prompto,BSB,Lightning Fire,PHY,False
+Recoil (XV),XV,Prompto,BSB,Lightning Fire,PHY,True
 Shots Fired,XV,Prompto,BSB,Lightning,PHY,True
 Trigger Happy (XV),XV,Prompto,USB,Lightning,PHY,True
 Custom Starshell,XV,Prompto,Chain2,Lightning,PHY,True

@@ -239,7 +239,7 @@ Reluctant Successor,5,Rinoa,VIII,0.2,Every1,Witch,AdditionalTrigger,True
 Lovestruck Sorceress,5,Rinoa,VIII,1.0,Start,Earth,Infusion,True
 Witching Wings,5,Rinoa,VIII,0.1,Every1,Black,AdditionalTrigger,False
 Daughter of the Resistance,5,Rinoa,VIII,1.0,Start,Ice,Infusion,False
-Defier of Fate,5,Rinoa,VIII,1.0,Every1,Black,IncreaseMAG,False
+Defier of Fate,5,Rinoa,VIII,1.0,Every1,Black,IncreaseMAG,True
 SeeD Star,5,Quistis,VIII,0.1,Every1,Black,AdditionalTrigger,True
 Prize Fighter,5,Zell,VIII,0.2,Every1,Monk,AdditionalTrigger,True
 Untamed Spirit,5,Zell,VIII,1.0,Start,NA,CritHitChance 0.5,True
@@ -328,7 +328,7 @@ Catalyst (Braska),6,Braska,X,1.0,Every3,Fire,1.3xMAG 1.2xRES Followup MAG,True
 Gullwing Enforcer,5,Paine,X,1.0,Every1,Spellblade,IncreaseATK,True
 Long-sought Truths,5,Paine,X,1.0,Start,Water,Infusion,False
 Apocalyptic Savior,5,Seymour,X,0.2,Every1,Dark,AdditionalTrigger,True
-A Son's Hatred,5,Seymour,X,1.0,Start,Dark,Infusion,False
+A Son's Hatred,5,Seymour,X,1.0,Start,Dark,Infusion,True
 Hastening (Seymour),6,Seymour,X,1.0,Every3,Dark,ReduceDelay,False
 Menacing Black Mage,5,Shantotto,XI,1.0,Every1,Black,IncreaseMAG,True
 Master Caster,5,Shantotto,XI,0.1,Every1,Witch,3xTrigger,True
