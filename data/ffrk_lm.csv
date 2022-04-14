@@ -466,7 +466,7 @@ Throes of Fate,5,Ovelia,FFT,1.0,Every1,White,IncreaseMND,True
 Divine Insight,5,Ovelia,FFT,0.2,Every1,White,AdditionalTrigger,False
 Machinist Marksman,5,Mustadio,FFT,0.3,Every1,Machinist,ReduceDelay,False
 Southern Sky General,5,Orlandeau,FFT,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,False
-Supreme Swordsman,5,Orlandeau,FFT,0.2,Every1,Knight Dark,AdditionalTrigger,False
+Supreme Swordsman,5,Orlandeau,FFT,0.2,Every1,Knight Dark,AdditionalTrigger,True
 Fell Aspirations,5,Gaffgarion,FFT,1.0,Start,Dark,Infusion,True
 Dark Knight's Revelry,5,Gaffgarion,FFT,1.0,LowHP,NA,Self Healing ReduceDelay,True
 Keeper of Faith,5,Rapha,FFT,0.3,Every1,Lightning,ReduceDelay,False
@@ -505,7 +505,7 @@ Heavy Hitter,5,Cinque,T-0,1.0,EquipWeapon,Hammer,Dmg 1.5xPHY,False
 Class Act,5,Seven,T-0,0.2,Every1,Ice,Ice Imperil,True
 Indulgent Generosity,5,Seven,T-0,0.2,Every1,Ice,AdditionalTrigger,False
 Survival Mentality,5,Sice,T-0,1.0,Start,Dark,Infusion,True
-Hastening (Sice),6,Sice,T-0,1.0,Every3,Dark,ReduceDelay,False
+Hastening (Sice),6,Sice,T-0,1.0,Every3,Dark,ReduceDelay,True
 Edge of Flame,5,Jack,T-0,1.0,Start,Fire,Infusion,False
 Re-action (Jack),6,Jack,T-0,1.0,Every3,Fire,AdditionalTrigger,False
 Keen Perception,5,Eight,T-0,1.0,Start,Ice,Infusion,False

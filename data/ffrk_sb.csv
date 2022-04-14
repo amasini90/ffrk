@@ -192,7 +192,7 @@ Egil's Blaze,II,Gordon,BSB,Fire,PHY,True
 A Leader Wakes,II,Gordon,USB,Fire,PHY,True
 Rebellion's Link,II,Gordon,Chain2,ALL,PHY MAG,True
 Brotherly Redemption,II,Gordon,GL,Fire,PHY,True
-Royal Honor,II,Gordon,GL,Fire,NA,False
+Royal Honor,II,Gordon,GL,Fire,NA,True
 Kashuan Royal Shield,II,Gordon,AW,Fire,PHY MAG,False
 Inspiring Moment,II,Gordon,AW,NE,NA,False
 Honored Memory,II,Gordon,Sync,NE,NA,False
@@ -257,7 +257,7 @@ World Dominator,II,Emperor,Sync,Dark Earth Wind,MAG,False
 Imperial Elements,II,Emperor,OLB,Dark Earth Wind,MAG,False
 Accursed Storm,II,Emperor,AD,Dark Earth Wind,MAG,False
 Awoken Prison of Sorrow,II,Emperor,DuAW,Dark Earth Wind,MAG,False
-Prayer for Peace,II,Hilda,BSB,NE,NA,False
+Prayer for Peace,II,Hilda,BSB,NE,NA,True
 Sentimental Moon,II,Hilda,USB,NE,NA,False
 Winning Waltz,II,Hilda,USB,NE,NA,True
 Dignity Preserved,II,Hilda,GL2,NE,NA,False
@@ -285,7 +285,7 @@ Storm of Blades,III,Luneth,ASB,Wind,PHY,False
 Howling Winds,III,Luneth,GL,Wind,PHY,False
 Master Dragoon,III,Luneth,GL2,NE,NA,True
 Wind Chosen,III,Luneth,AW,Wind,PHY,True
-Cloud Runner,III,Luneth,AW,Wind,PHY,False
+Cloud Runner,III,Luneth,AW,Wind,PHY,True
 Silver Wind,III,Luneth,Sync,Wind,PHY,False
 Dragon's Tornado,III,Luneth,Sync,Wind,PHY,False
 Tempest Dash,III,Luneth,OLB,Wind,PHY,False
@@ -2017,7 +2017,7 @@ Auroral Uppercut,XI,Prishe,USB,NE,PHY,False
 Asuran Fists,XI,Prishe,USB,Lightning Ice,PHY,False
 Heroine's Combat,XI,Prishe,Chain2,ALL,PHY MAG,True
 One Inch Punch,XI,Prishe,ASB,Lightning Ice,PHY,False
-Impetus,XI,Prishe,GL2,Lightning Ice,NA,False
+Impetus,XI,Prishe,GL2,Lightning Ice,NA,True
 Raging Flurry,XI,Prishe,AW,Lightning Ice,PHY,True
 Hundred Fists,XI,Prishe,Sync,Lightning Ice,PHY,False
 Chi Blast,XI,Prishe,OLB,Lightning Ice,PHY,False
@@ -2497,7 +2497,7 @@ Life of the Dragon,XIV,Estinien,GL2,Wind Dark,NA,False
 Azure Successor,XIV,Estinien,AW,Wind Dark,PHY,True
 Black Dragon Dive,XIV,Estinien,Sync,Wind Dark,PHY,True
 Vermage,XIV,Alisaie,USB,Wind Lightning,MAG,False
-Pathforger,XIV,Alisaie,Chain2,ALL,PHY MAG,False
+Pathforger,XIV,Alisaie,Chain2,ALL,PHY MAG,True
 Vercure,XIV,Alisaie,GL2,NE,NA,False
 Manafication,XIV,Alisaie,GL2,Wind Lightning,NA,False
 Embolden Combo,XIV,Alisaie,AW,Wind Lightning,MAG,False
@@ -2680,7 +2680,7 @@ Miracle of Scorpio,FFT,Rapha,USB,Lightning,NA,False
 Mystic Mantra,FFT,Rapha,GL,NE,NA,False
 Concordant Mantra,FFT,Rapha,AW,Lightning,MAG,False
 Nether Ashura,FFT,Marach,SSB,Fire Dark,MAG,False
-Hell's Wrath,FFT,Marach,BSB,Lightning Dark,MAG,False
+Hell's Wrath,FFT,Marach,BSB,Lightning Dark,MAG,True
 Khamja Collusion,FFT,Marach,USB,Lightning,MAG,False
 Way of the Khamja,FFT,Marach,GL2,Lightning,MAG,False
 Beastly Wrath,FFT,Marach,AW,Lightning Dark,MAG,False
@@ -2755,7 +2755,7 @@ Awakening,T-0,Machina,USB,Earth Dark,PHY,False
 Might of the l'Cie,T-0,Machina,Chain2,Earth,PHY,True
 Vermillion Field,T-0,Machina,Chain3,ALL,PHY MAG,False
 Grand Cascade,T-0,Machina,ASB,Earth Dark,PHY,True
-Dual-Wield Flair,T-0,Machina,GL2,NE,NA,False
+Dual-Wield Flair,T-0,Machina,GL2,NE,NA,True
 Quake Rush,T-0,Machina,GL2,Earth,PHY,True
 Guardian Blades,T-0,Machina,AW,Earth Dark,PHY,False
 Power of Fear,T-0,Machina,Sync,Earth Dark,PHY,True
@@ -2910,7 +2910,7 @@ World Parade,FFBe,Tama,USB,NE,NA,True
 Sky Dream,FFBe,Tama,USB,NE,NA,False
 Surging Challenge,FFBe,Tama,AW,Holy,MAG,False
 Miracle Challenge,FFBe,Tama,AW,NE,MAG,False
-Creator's Judgment,FFBe,Enna Kros,BSB,Earth Holy,MAG,False
+Creator's Judgment,FFBe,Enna Kros,BSB,Earth Holy,MAG,True
 Break Time,FFBe,Enna Kros,USB,Earth Holy,MAG,True
 Worldbreaker,FFBe,Enna Kros,ASB,Earth Holy,MAG,False
 The World's Rules,FFBe,Enna Kros,GL,Earth,NA,False
