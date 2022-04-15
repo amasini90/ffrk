@@ -1149,6 +1149,7 @@ Uncontrolled Beam,VII,Barret,AW,Fire Wind,PHY,False
 Rocket Hammerblow,VII,Barret,Sync,Fire,PHY,False
 Volcanic Cannon,VII,Barret,OLB,Fire,PHY,False
 Catastrophe,VII,Barret,AD,Fire,PHY,False
+Awoken Ungarmax,VII,Barret,DuAW,Fire,PHY,False
 Somersault,VII,Tifa,Unique,NE,PHY,False
 Burning Arrow,VII,Tifa,Unique,NE,PHY,False
 Waterkick,VII,Tifa,Unique,NE,PHY,True
@@ -1162,11 +1163,14 @@ Platinum Strike,VII,Tifa,ASB,Earth,PHY,True
 Zangan Awakening,VII,Tifa,GL,NE,PHY,True
 Rock Render,VII,Tifa,GL,Earth,PHY,False
 Eruption Garb,VII,Tifa,GL2,Earth,NA,True
+Rockcrusher Grasp,VII,Tifa,GL2,Earth,NA,False
 Meteor Arts,VII,Tifa,AW,Earth,PHY,False
+Chain Somersault,VII,Tifa,AW,Earth,PHY,False
 Zangan's Infinitude,VII,Tifa,Sync,Earth,PHY,True
 Limit Combo,VII,Tifa,Sync,Earth,PHY,True
 Crushing Palm,VII,Tifa,OLB,Earth,PHY,False
 Final Heaven,VII,Tifa,AD,Earth,PHY,False
+Awoken Meteor Arts,VII,Tifa,DuAW,Earth,PHY,False
 Healing Wind,VII,Aerith,Unique,NE,NA,False
 Planet Protector,VII,Aerith,Unique,NE,NA,False
 Fury Brand,VII,Aerith,Unique,NE,NA,False
@@ -1179,6 +1183,7 @@ Innocent Cure,VII,Aerith,USB,NE,NA,True
 Star Whisper,VII,Aerith,GL2,NE,NA,False
 Refreshing Breeze,VII,Aerith,GL2,NE,NA,True
 Star Pulse,VII,Aerith,AW,NE,NA,True
+Planetary Pulse,VII,Aerith,AW,NE,NA,False
 Blue-Eyed Sentinel,VII,Aerith,Sync,NE,NA,False
 Lunatic High,VII,Red XIII,Unique,NE,NA,False
 Trine,VII,Red XIII,Unique,Lightning,MAG,False
@@ -1321,6 +1326,8 @@ Pride and Ambition,VII,Angeal,AW,Holy Wind,PHY,True
 Burden of Pride,VII,Angeal,AW,Holy Wind,PHY,False
 White-Winged SOLDIER,VII,Angeal,Sync,Holy Wind,PHY,False
 True Unleashed Wrath,VII,Angeal,OLB,Holy Wind,PHY,True
+Succession,VII,Angeal,AD,Wind Holy,PHY,False
+Awoken Pride and Ambition,VII,Angeal,DuAW,Wind Holy,PHY,False
 Mako Barrage,VII,Rufus,SSB,Dark,PHY,True
 President's Scorn,VII,Rufus,BSB,Dark,PHY,False
 Mako Cannon,VII,Rufus,USB,Dark,PHY,False

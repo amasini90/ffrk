@@ -203,6 +203,7 @@ Light Seeker,5,Cloud,VII,0.3,Every1,Dark,ReduceDelay,False
 Sprinting Wolf,5,Cloud,VII,0.3,Every1,Wind,ReduceDelay,False
 Opposition Leader,5,Barret,VII,0.2,Every1,Machinist,AdditionalTrigger,True
 Armed and Dangerous,5,Barret,VII,1.0,EquipWeapon,Gun-arm,Dmg 1.5xPHY,False
+Swiftness (Barret),6,Barret,VII,1.0,Start,NA,Haste NoDelay3,False
 First-Class Fighter,5,Tifa,VII,0.2,Every1,Monk,AdditionalTrigger,True
 Friendly Fighter,5,Tifa,VII,1.0,Start,Earth,Infusion,True
 Brawling Barkeep,5,Tifa,VII,1.0,DealPHYDamage,NA,IncreaseATK,True
