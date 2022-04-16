@@ -1015,7 +1015,7 @@ On the Rampage,VI,Gau,AW,Lightning Wind,PHY,False
 Plunging Claws,VI,Gau,AW,Lightning Wind,PHY,False
 X-Cutter Rage,VI,Gau,Sync,Lightning Wind,PHY,False
 Apex Rage,VI,Gau,AD,Wind Lightning,PHY,False
-Awoken On the Rampage,VI,Gau,DuAW,Wind Lightning,PHY,False
+Awoken On the Rampage,VI,Gau,DuAW,Wind Lightning,PHY,True
 Dive Bomb,VI,Setzer,Unique,Fire,PHY,False
 Prismatic Flash,VI,Setzer,Unique,NE,PHY,False
 Fixed Dice,VI,Setzer,SSB,NE,PHY,False
