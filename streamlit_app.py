@@ -11,10 +11,16 @@ def main():
     st.set_page_config(page_title="FFRK Helper")
 
     # Weights and Elements for Tiers
-    weights = {"Unique":0.536, "SSB":1.072, "BSB":0.625, "OSB":0.625, "GL":1.25, "GL2":1.5, "ASB":1.75,
-            "AD":2.5, "Chain":1.25, "Chain2":1.75, "Chain3":1.8, "Chain4":2.5, "USB":1, "AW":2.25, "Sync":2.5,
-            "OLB":1.75, "GLB":1, "Guardian":2, "DuAW":2.75}
-    weights_lm = {5:0.625, 6:1.5}
+    #weights = {"Unique":0.536, "SSB":1.072, "BSB":0.625, "OSB":0.625, "GL":1.25, "GL2":1.5, "ASB":1.75,
+    #        "AD":2.5, "Chain":1.25, "Chain2":1.75, "Chain3":1.8, "Chain4":2.5, "USB":1, "AW":2.25, "Sync":2.5,
+    #        "OLB":1.75, "GLB":1, "Guardian":2, "DuAW":2.75}
+    #weights_lm = {5:0.625, 6:1.5}
+
+    weights = {"Unique":0.1, "SSB":0.5, "BSB":0.75, "OSB":1.0, "GL":1.25, "GL2":1.5, "ASB":2.0,
+            "AD":2.75, "Chain":1.5, "Chain2":3.0, "Chain3":3.5, "Chain4":4.5, "USB":1.75, "AW":2.5, "Sync":3.0,
+            "OLB":1.75, "GLB":1.0, "Guardian":2.0, "DuAW":4.0}
+    weights_lm = {5:0.5, 6:1.5}
+
     Elements = ["Fire","Ice","Lightning","Wind","Earth","Water","Holy","Dark"]
     MagiciteNames = ["Mateus","Syldra","Famfrit","Hecatoncheir","Quetzalcoatl","Phoenix","Deathgaze","Lakshmi","Manticore","Typhoon","Geosgaeno","Adamantoise","Behemoth King","Belias","Ark","Madeen"]
     Magicite = pd.DataFrame({"PHY":MagiciteNames[:8], "MAG":MagiciteNames[8:]}, index=Elements)

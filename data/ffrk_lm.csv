@@ -510,7 +510,7 @@ Hastening (Sice),6,Sice,T-0,1.0,Every3,Dark,ReduceDelay,True
 Edge of Flame,5,Jack,T-0,1.0,Start,Fire,Infusion,False
 Re-action (Jack),6,Jack,T-0,1.0,Every3,Fire,AdditionalTrigger,False
 Keen Perception,5,Eight,T-0,1.0,Start,Ice,Infusion,False
-Re-action (Eight),6,Eight,T-0,1.0,Every3,Ice,AdditionalTrigger,False
+Re-action (Eight),6,Eight,T-0,1.0,Every3,Ice,AdditionalTrigger,True
 Battlefield Swagger,5,Cater,T-0,0.3,Every1,Machinist,ReduceDelay,True
 Accomplished Archer,5,Trey,T-0,1.0,EquipWeapon,Bow,Dmg 1.5xPHY,True
 Connected Hearts,5,Sora,KH,0.2,Every1,Spellblade,AdditionalTrigger,False
