@@ -153,6 +153,15 @@ def main():
     #### Party composition
     st.subheader('Party suggestions:')
     st.markdown('Healers not included. Hero Artifact bonus is included by default.')
+
+    with st.expander("Top 10 characters"):
+
+        topRel = df[df.Owned==True].groupby("Character")['Weight'].sum()
+        topLM = df_lm[df_lm.Owned==True].groupby("Character")['Weight'].sum()
+        top10 = topRel.add(topLM, fill_value=0)
+
+        st.table(top10.sort_values(axis=0,ascending=False).head(10))
+    
     includeHAbonus = True
     disableHA = st.checkbox('Disable Hero Artifact Bonus?')
     if disableHA:

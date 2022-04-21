@@ -904,7 +904,7 @@ Burning Steel,VI,Locke,USB,Fire,PHY,False
 Atomic Dive,VI,Locke,Chain,Fire,PHY MAG,True
 Bond (Locke),VI,Locke,Chain4,ALL,PHY MAG,False
 Blade of the Phoenix,VI,Locke,ASB,Fire,PHY,False
-Heat of Passion,VI,Locke,GL,Fire,NA,False
+Heat of Passion,VI,Locke,GL,Fire,NA,True
 Heat Slicer,VI,Locke,GL2,Fire,PHY,False
 Heat Spirit,VI,Locke,GL2,Fire,NA,False
 Adventure Awaits,VI,Locke,AW,Fire,PHY,True
@@ -1594,7 +1594,7 @@ Hell's Judgment,VIII,Ultimecia,USB,Wind Dark,MAG,True
 Blades of Time,VIII,Ultimecia,ASB,Wind Dark,MAG,False
 Veil of Shadows,VIII,Ultimecia,GL2,Wind,NA,False
 Temporal Dominance,VIII,Ultimecia,GL2,Dark,MAG,False
-Time Tamperer,VIII,Ultimecia,GL,NE,NA,False
+Time Tamperer,VIII,Ultimecia,GL,NE,NA,True
 Apocalypse (VIII),VIII,Ultimecia,AW,Wind Dark,MAG,True
 Dancing Axe,VIII,Ultimecia,AW,Wind Dark,MAG,False
 Shockwave Pulsar,VIII,Ultimecia,Sync,Wind,MAG,False

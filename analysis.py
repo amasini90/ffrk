@@ -80,6 +80,7 @@ def get_char_df(df,includeHAbonus):
     df6 = pd.DataFrame.from_dict(WeightChar, orient='index', columns=['Realm','Element','Type','Score','TotWeight','Rchain'])
     return df6
 
+# TODO change the rank stuff - expand the DF list of elements in columns (example Ultimecia for Wind/Dark)
 def get_ranked_chars(df,charDF,ChosenElem,ChosenType,includeHAbonus):
     '''
     Takes the Relics and Character DFs, and ranks the Characters based
