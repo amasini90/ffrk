@@ -2,7 +2,7 @@ Name,Tier,Character,Realm,Chance,Trigger,Element/Class,Effect,Owned
 Absolute Justice,5,Warrior of Light,I,1.0,Start,Holy,Infusion,True
 Cycle Breaker,5,Warrior of Light,I,1.0,Start,NA,ReduceDelay,True
 Light Within,5,Warrior of Light,I,1.0,TakeDamage,NA,IncreaseATK,False
-Steadfast Warrior,5,Warrior of Light,I,0.2,TakeDamage,Holy,Counter Healing,False
+Steadfast Warrior,5,Warrior of Light,I,0.2,TakeDamage,Holy,Counter Healing,True
 Re-action (Warrior of Light),6,Warrior of Light,I,1.0,Every3,Holy,AdditionalTrigger,True
 Frenzied Warrior,5,Garland,I,1.0,LowHP,NA,ReduceDelay Healing,True
 Timeless Hatred,5,Garland,I,0.2,Every1,Dark,AdditionalTrigger,True
@@ -223,6 +223,7 @@ Cruelest Cut,5,Sephiroth,VII,0.2,Every1,Samurai,AdditionalTrigger,False
 Apocalypse Hero,5,Sephiroth,VII,0.2,Every1,Dark,AdditionalTrigger,False
 Spacefarer,5,Cid (VII),VII,1.0,Start,NA,Haste NoDelay1,False
 Champion of the Skies,5,Cid (VII),VII,1.0,EquipWeapon,Spear,Dmg 1.5xJump,False
+Re-action (Cid (VII)),6,Cid (VII),VII,1.0,Every3,Dragoon,AdditionalTrigger,False
 Swaggering Investigator,5,Reno,VII,1.0,Start,Lightning,Infusion,False
 Beating Wings,5,Angeal,VII,0.2,Every1,Holy Wind,AdditionalTrigger,False
 Presidential Prerogative,5,Rufus,VII,0.2,Every1,Dark,AdditionalTrigger,True
@@ -273,7 +274,7 @@ Arrogant Ambition,5,Ultimecia,VIII,1.0,Start,Wind,Infusion,True
 Existence Denied,5,Ultimecia,VIII,1.0,Start,Dark,Infusion,True
 Refinement (Ultimecia),6,Ultimecia,VIII,1.0,Auto,NA,Dmg 1.3xMAG,False
 Thief's Ploy,5,Zidane,IX,0.2,Every1,Wind,AdditionalTrigger,True
-Snap Judgment,5,Zidane,IX,0.3,Every1,Thief,ReduceDelay,False
+Snap Judgment,5,Zidane,IX,0.3,Every1,Thief,ReduceDelay,True
 Noble Resolve,5,Garnet,IX,1.0,Auto,NA,Buff 1.2xDuration,False
 Lover of the Arts,5,Garnet,IX,0.2,Every1,Bard,SmallGroup Healing,False
 Proven Princess,5,Garnet,IX,1.0,Start,Lightning,Infusion,False

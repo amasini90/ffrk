@@ -1302,6 +1302,9 @@ Smokig Dive,VII,Cid (VII),ASB,Wind,PHY,False
 Cleared for Takeoff!,VII,Cid (VII),GL,Wind,NA,False
 Rocket Jump,VII,Cid (VII),GL2,Wind,PHY,False
 Dreams of Space,VII,Cid (VII),AW,Wind,PHY,False
+Dynamite Gale,VII,Cid (VII),AW,Wind,PHY,False
+True Hyper Jump,VII,Cid (VII),Sync,Wind,PHY,False
+Awoken Dragon Dive,VII,Cid (VII),DuAW,Wind,PHY,False
 Turk Light,VII,Reno,Unique,Lightning,MAG,True
 Pyramid,VII,Reno,Unique,NE,MAG,False
 Turk Bombshell,VII,Reno,SSB,NE,MAG,False
@@ -1337,7 +1340,7 @@ Recreant Son,VII,Rufus,AW,Dark,PHY,False
 Presidential Power,VII,Rufus,Sync,Dark,PHY,False
 Countertek,VII,Shelke,SSB,NE,NA,True
 Synaptic Net Dive,VII,Shelke,BSB,Lightning,PHY,True
-Transparent Spark,VII,Shelke,USB,Lightning,PHY,False
+Transparent Spark,VII,Shelke,USB,Lightning,PHY,True
 Transparent Glimmer,VII,Shelke,USB,Lightning,PHY,False
 Synaptic Current,VII,Shelke,Chain2,Lightning,PHY,False
 Technical Defense,VII,Shelke,GL,NE,NA,False
@@ -2182,8 +2185,11 @@ Fathomless Grievance,XII,Gabranth,GL2,Dark,NA,False
 Hour of Vengeance,XII,Gabranth,GL2,NE,NA,True
 Darksteel Wrath,XII,Gabranth,GL,Dark,NA,True
 Endless Wail,XII,Gabranth,AW,Dark,PHY,False
+Guilt,XII,Gabranth,AW,Dark,PHY,False
 Vengeful Judgment,XII,Gabranth,Sync,Dark,PHY,False
 Dual Rend,XII,Gabranth,OLB,Dark,PHY,False
+Enmity Prison,XII,Gabranth,AD,Dark,PHY,False
+Awoken Avenger,XII,Gabranth,DuAW,Dark,PHY,False
 Archadian Draught,XII,Larsa,SSB,NE,NA,False
 Manufacted Marvel,XII,Larsa,SSB,NE,NA,True
 Life Crystal,XII,Larsa,BSB,NE,NA,True
@@ -2209,6 +2215,8 @@ Military Manifesto,XII,Vayne,AW,Dark,PHY MAG,False
 Stygian Wave,XII,Vayne,AW,Dark,PHY MAG,False
 Steel Fusillade,XII,Vayne,Sync,Dark,PHY MAG,True
 Contempt,XII,Vayne,OLB,Dark,PHY MAG,False
+Inviolable Will,XII,Vayne,AD,Dark,PHY MAG,False
+Awoken Relentless Drive,XII,Vayne,DuAW,Dark,PHY MAG,False
 Dual Swords,XII,Reks,SSB,NE,PHY,True
 Whitefall,XII,Reks,BSB,Lightning Ice,PHY,False
 Son of Dalmasca,XII,Reks,USB,Lightning,NA,True
@@ -2279,7 +2287,7 @@ Overdo Awakening,XIII,Vanille,USB,NE,NA,True
 Restitution,XIII,Vanille,USB,NE,NA,False
 Need for Speed,XIII,Vanille,GL,NE,NA,True
 Quick Guard,XIII,Vanille,GL2,NE,NA,False
-Swift Recovery,XIII,Vanille,GL2,NE,NA,False
+Swift Recovery,XIII,Vanille,GL2,NE,NA,True
 Quick Curasa,XIII,Vanille,GL,NE,NA,False
 Rose Promenade,XIII,Vanille,AW,NE,NA,True
 Come On Hecaton!,XIII,Vanille,Sync,NE,NA,False
@@ -2497,7 +2505,7 @@ Fortemps Authority,XIV,Haurchefant,AW,Holy Ice,PHY,False
 Passage of Arms,XIV,Haurchefant,Sync,Holy Ice,PHY,False
 Last Bastion,XIV,Haurchefant,OLB,Holy Ice,PHY,False
 Draconian Light,XIV,Estinien,SSB,NE,NA,False
-The Azure Dragoon,XIV,Estinien,BSB,Wind Dark,PHY,False
+The Azure Dragoon,XIV,Estinien,BSB,Wind Dark,PHY,True
 Skydragon Dive,XIV,Estinien,USB,Wind Dark,PHY,False
 Crimson Dragoon,XIV,Estinien,USB,Wind Dark,PHY,True
 Life of the Dragon,XIV,Estinien,GL2,Wind Dark,NA,False
