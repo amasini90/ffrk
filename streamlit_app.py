@@ -201,16 +201,35 @@ def main():
                 ChosenType = Magicite.T[Magicite.T.values == ChosenEnemy].index.values[0]
 
         outDF = analysis.get_ranked_chars(df,charDF,ChosenElem,ChosenType,includeHAbonus)
-        orderedDF = outDF.sort_values(by=['Echain','Rank','TotWeight'],ascending=[False,True,False])
+        orderedDF = outDF.sort_values(by=['Echain','TotWeight','Rank'],ascending=[False,False,True])
         
-        for i in range(5):    
-            col3,col4 = st.columns([1,20])
-            char = orderedDF.index[i].replace(" ", "")
-            col3.image('./Images/Characters/'+char+'.png',width=50)
-            if orderedDF['Echain'][i] == True:
-                col4.write(orderedDF.index[i]+' [CHAIN]')
-            else:
-                col4.write(orderedDF.index[i])
+        if len(orderedDF[orderedDF.Echain==True]) > 1:
+            # If more than one Chain is available, choose best
+            neworder = []
+            ChainCarrier = analysis.best_chain(df,orderedDF)
+            neworder.append(ChainCarrier)
+            for ix in outDF.sort_values(by=['TotWeight','Rank'],ascending=[False,True]).index:
+                if ix != ChainCarrier:
+                    neworder.append(ix)
+
+            for i in range(5):    
+                col3,col4 = st.columns([1,20])
+                char = neworder[i].replace(" ", "")
+                col3.image('./Images/Characters/'+char+'.png',width=50)
+                if i==0:
+                    col4.write(neworder[i]+' [CHAIN]')
+                else:
+                    col4.write(neworder[i])        
+        else:
+
+            for i in range(5):    
+                col3,col4 = st.columns([1,20])
+                char = orderedDF.index[i].replace(" ", "")
+                col3.image('./Images/Characters/'+char+'.png',width=50)
+                if (orderedDF['Echain'][i] == True) and (i==0):
+                    col4.write(orderedDF.index[i]+' [CHAIN]')
+                else:
+                    col4.write(orderedDF.index[i])
         
     ####
 

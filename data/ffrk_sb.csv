@@ -1170,7 +1170,7 @@ Zangan's Infinitude,VII,Tifa,Sync,Earth,PHY,True
 Limit Combo,VII,Tifa,Sync,Earth,PHY,True
 Crushing Palm,VII,Tifa,OLB,Earth,PHY,False
 Final Heaven,VII,Tifa,AD,Earth,PHY,False
-Awoken Meteor Arts,VII,Tifa,DuAW,Earth,PHY,False
+Awoken Meteor Arts,VII,Tifa,DuAW,Earth,PHY,True
 Healing Wind,VII,Aerith,Unique,NE,NA,False
 Planet Protector,VII,Aerith,Unique,NE,NA,False
 Fury Brand,VII,Aerith,Unique,NE,NA,False
@@ -1329,7 +1329,7 @@ Pride and Ambition,VII,Angeal,AW,Holy Wind,PHY,True
 Burden of Pride,VII,Angeal,AW,Holy Wind,PHY,False
 White-Winged SOLDIER,VII,Angeal,Sync,Holy Wind,PHY,False
 True Unleashed Wrath,VII,Angeal,OLB,Holy Wind,PHY,True
-Succession,VII,Angeal,AD,Wind Holy,PHY,False
+Succession,VII,Angeal,AD,Wind Holy,PHY,True
 Awoken Pride and Ambition,VII,Angeal,DuAW,Wind Holy,PHY,False
 Mako Barrage,VII,Rufus,SSB,Dark,PHY,True
 President's Scorn,VII,Rufus,BSB,Dark,PHY,False

@@ -106,3 +106,13 @@ def get_ranked_chars(df,charDF,ChosenElem,ChosenType,includeHAbonus):
             output[char] = [rank,totweight,Echain]
     outDF = pd.DataFrame.from_dict(output, orient='index', columns=['Rank','TotWeight','Echain'])
     return outDF
+
+def best_chain(df,orderedDF):
+    charsWithChains = orderedDF[orderedDF.Echain==True]
+    out = df[(df.Character.isin(list(charsWithChains.index.values))) & (df.Tier.str.contains('Chain'))].sort_values(by='Weight', ascending=False)
+    if len(out[out.Weight == max(out.Weight)]) > 1:
+        # TODO if 2 characters have same tier of chain, choose the best one
+        ChainCarrier = out.Character[0]
+    else:
+        ChainCarrier = out.Character[0]
+    return ChainCarrier
