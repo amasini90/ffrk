@@ -108,6 +108,11 @@ def get_ranked_chars(df,charDF,ChosenElem,ChosenType,includeHAbonus):
     return outDF
 
 def best_chain(df,orderedDF):
+    '''
+    When more than one Character have an Elem chain, choose the best one based on
+    Chain rank and on Character Total Weight. Returns the name of the Character with 
+    the best chain.
+    '''
     charsWithChains = orderedDF[orderedDF.Echain==True]
     out = df[(df.Character.isin(list(charsWithChains.index.values))) & (df.Tier.str.contains('Chain'))].sort_values(by='Weight', ascending=False)
     if len(out[out.Weight == max(out.Weight)]) > 1:

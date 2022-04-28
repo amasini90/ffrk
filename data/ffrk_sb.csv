@@ -84,7 +84,7 @@ Undivided Focus,I,Master,GL,NE,PHY,False
 Blazing Speed,I,Master,GL2,NE,PHY,True
 Driving Fist,I,Master,AW,Earth Fire Lightning,PHY,False
 Raging Spirit,I,Master,Sync,Earth Fire Lightning,PHY,False
-Witch's Brew,I,Matoya,SSB,NE,MAG,False
+Witch's Brew,I,Matoya,SSB,NE,NA,True
 Inner Eye,I,Matoya,BSB,Fire Ice Lightning,MAG,True
 Crystal Power,I,Matoya,USB,Fire Ice Lightning,MAG,True
 Crystal Burst,I,Matoya,ASB,Fire Ice Lightning,MAG,False
@@ -2161,7 +2161,7 @@ Northswain Bolt,XII,Ashe,OLB,Lightning,MAG,False
 Thunder Flash (Ashe),XII,Ashe,GLB,Lightning,MAG,False
 Apex Heaven's Wrath,XII,Ashe,AD,Lightning,MAG,False
 Awoken Northswain’s Glow,XII,Ashe,DuAW,Lightning,MAG,False
-War Dance,XII,Penelo,Unique,NE,NA,False
+War Dance,XII,Penelo,Unique,NE,NA,True
 Mincing Minuet,XII,Penelo,Unique,Holy,MAG,False
 Intercession,XII,Penelo,SSB,Holy,MAG,False
 Resurrection,XII,Penelo,BSB,NE,NA,True
@@ -2443,7 +2443,7 @@ Fists of Fire,XIV,Yda,GL,Fire,NA,False
 Fire Tackle,XIV,Yda,AW,Fire,PHY,False
 Dearest Companion,XIV,Yda,Sync,Fire,PHY,False
 Swiftcast Fira,XIV,Papalymo,Unique,Fire,MAG,False
-Enochian Blizzaja,XIV,Papalymo,SSB,Ice,MAG,False
+Enochian Blizzaja,XIV,Papalymo,SSB,Ice,MAG,True
 Ley Lines,XIV,Papalymo,SSB,NE,NA,False
 Enochian Firaja,XIV,Papalymo,BSB,Fire,MAG,True
 Flareja,XIV,Papalymo,OSB,Fire,MAG,False
