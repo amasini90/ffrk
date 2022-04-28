@@ -4,6 +4,7 @@ from streamlit import legacy_caching
 import numpy as np
 import pandas as pd
 import plot,analysis
+from st_aggrid import GridOptionsBuilder, AgGrid, GridUpdateMode, DataReturnMode
 local_data_path = 'data/ffrk.csv'
 
 def main():
@@ -240,14 +241,31 @@ def main():
             
         ####
     elif page == 'Accessories':
-        st.markdown('## Page under construction.')
+        st.markdown('## Accessories Explorer')
         # Read in the data
         df = pd.read_csv('./data/ffrk_accessories.csv', header=0, index_col=0)
         df.fillna(0, inplace=True)
         cols=[i for i in df.columns if i not in ["Realm"]]
         for col in cols:
             df[col]=df[col].astype(int)
-        st.table(df)
+        df = df.reset_index()
+
+        gb = GridOptionsBuilder.from_dataframe(df)
+        gb.configure_pagination(paginationAutoPageSize=True) #Add pagination
+        gb.configure_side_bar() #Add a sidebar
+        gb.configure_selection('multiple', use_checkbox=True, groupSelectsChildren="Group checkbox select children") #Enable multi-row selection
+        gridOptions = gb.build()
+
+        AgGrid(df,
+        gridOptions=gridOptions,
+        data_return_mode='AS_INPUT', 
+        update_mode='MODEL_CHANGED', 
+        fit_columns_on_grid_load=False,
+        theme='blue', #Add theme color to the table
+        enable_enterprise_modules=True,
+        height=350, 
+        width='100%',
+        reload_data=True)
 
     # Footer
     link = '[Alberto Masini](http://www.linkedin.com/in/almasini/)'
