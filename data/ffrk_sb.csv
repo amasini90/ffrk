@@ -936,6 +936,8 @@ Mystical Snow,VI,Celes,Sync,Ice,PHY,False
 Virtuous Blade,VI,Celes,Sync,Holy Ice,PHY,False
 Awoken Blade,VI,Celes,OLB,Holy Ice,PHY,False
 Apex Spinning Edge,VI,Celes,AD,Ice,PHY,False
+Holy Runic Blade,VI,Celes,AD,Holy,PHY,False
+Awoken Indomitable Blade,VI,Celes,DuAW,Holy,PHY,False
 Sunbath,VI,Mog,Unique,NE,NA,False
 Heroic Harmony,VI,Mog,Unique,NE,NA,True
 Earth Blues,VI,Mog,SSB,Earth,MAG,False
@@ -976,7 +978,10 @@ Tiger Break,VI,Sabin,ASB,Fire,PHY,False
 Invigorating Fist,VI,Sabin,GL,NE,PHY,True
 Smoldering Fist,VI,Sabin,GL2,Fire,NA,True
 Firewyrm Barrage,VI,Sabin,AW,Fire,PHY,False
+Ironfire Dance,VI,Sabin,AW,Fire,PHY,False
 Fiery Bond,VI,Sabin,Sync,Fire,PHY,False
+Apex Tiger Break,VI,Sabin,AD,Fire,PHY,False
+Awoken Raging Fist,VI,Sabin,DuAW,Fire,PHY,False
 Wild Fang,VI,Shadow,Unique,NE,PHY,True
 Shadow Fang,VI,Shadow,SSB,NE,PHY,True
 Shuriken Storm,VI,Shadow,BSB,Dark,PHY,True
@@ -1002,7 +1007,10 @@ Doma's Valor,VI,Cyan,GL2,NE,PHY,True
 Searing Stance,VI,Cyan,GL,Fire,NA,False
 Doma Devout,VI,Cyan,GL2,Fire,PHY,False
 Bushido Flash,VI,Cyan,AW,Fire,PHY,False
+Bushido Domination,VI,Cyan,AW,Fire,PHY,False
 Bushido Tiger,VI,Cyan,Sync,Fire,PHY,False
+Apex Tsubame Gaeshi,VI,Cyan,AD,Fire,PHY,False
+Awoken Bushido Sky,VI,Cyan,DuAW,Fire,PHY,False
 Gigavolt Rage,VI,Gau,Unique,Lightning,PHY,False
 Meteor Rage,VI,Gau,SSB,NE,PHY,False
 Maul of the Wild,VI,Gau,BSB,Fire,PHY,False
@@ -3029,3 +3037,4 @@ Rainbow Magic,Core,Dr. Mog,Sync,ALL,MAG,False
 Soaring Fireworks,Core,Dr. Mog,OLB,ALL,MAG,False
 Soaring Moogle,Core,Dr. Mog,GLB,NE,NA,True
 Nameless Historia,Core,Dr. Mog,AD,ALL,MAG,False
+
