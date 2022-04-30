@@ -57,10 +57,10 @@ def main():
 
         #### Overview of Relics and LM situation
         st.header('My Relics Overview:')
-        col1,col2,col3=st.columns(3)
-        col1.metric('Owned',Owned)
-        col2.metric('Not Owned',NotOwned)
-        col3.metric('Fraction',str(round(100.*(Owned/(NotOwned+Owned)),1))+'%')
+        col1,col2=st.columns(2)
+        OwnedFrac = round(100.*(Owned/(NotOwned+Owned)),1)
+        col1.metric('Owned',str(Owned)+' ('+str(OwnedFrac)+'%)')
+        col2.metric('Not Owned',str(NotOwned)+' ('+str(100-OwnedFrac)+'%)')
 
         with st.expander("Detailed breakdown of relics by Tier and Type"):
             RelicsbyTierandType = df.groupby(['Tier','Type'])['Tier'].count()
@@ -76,10 +76,10 @@ def main():
         #st.table(df[(df.Owned==True) & (df.Tier == 'AW')].groupby(['Realm',"Owned"])['Realm'].count())
 
         st.header('My Legend Materia Overview:')
-        col1,col2,col3=st.columns(3)
-        col1.metric('Owned',Owned_lm)
-        col2.metric('Not Owned',NotOwned_lm)
-        col3.metric('Fraction',str(round(100.*(Owned_lm/(NotOwned_lm+Owned_lm)),1))+'%')
+        col1,col2=st.columns(2)
+        OwnedFrac_lm = round(100.*(Owned_lm/(NotOwned_lm+Owned_lm)),1)
+        col1.metric('Owned',str(Owned_lm)+' ('+str(OwnedFrac_lm)+'%)')
+        col2.metric('Not Owned',str(NotOwned_lm)+' ('+str(100-OwnedFrac_lm)+'%)')
         #####
 
         #### Scores and Recommendations

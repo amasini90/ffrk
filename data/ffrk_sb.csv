@@ -8,7 +8,7 @@ Bitter End,I,Warrior of Light,USB,Holy,PHY,True
 Radiant Buckler,I,Warrior of Light,USB,Holy,PHY,True
 Hail of Light,I,Warrior of Light,USB,Holy,PHY,True
 Shield of Light,I,Warrior of Light,Chain,Holy,PHY,True
-Crystal Wave,I,Warrior of Light,Chain2,ALL,PHY MAG,False
+Crystal Wave,I,Warrior of Light,Chain2,ALL,PHY MAG,True
 Bright Overload,I,Warrior of Light,ASB,Holy,PHY,False
 Radiant Soul,I,Warrior of Light,GL,Holy,PHY,False
 Soul Keeper,I,Warrior of Light,GL2,Holy,PHY,True
@@ -936,7 +936,7 @@ Mystical Snow,VI,Celes,Sync,Ice,PHY,False
 Virtuous Blade,VI,Celes,Sync,Holy Ice,PHY,False
 Awoken Blade,VI,Celes,OLB,Holy Ice,PHY,False
 Apex Spinning Edge,VI,Celes,AD,Ice,PHY,False
-Holy Runic Blade,VI,Celes,AD,Holy,PHY,False
+Holy Runic Blade,VI,Celes,AD,Holy,PHY,True
 Awoken Indomitable Blade,VI,Celes,DuAW,Holy,PHY,False
 Sunbath,VI,Mog,Unique,NE,NA,False
 Heroic Harmony,VI,Mog,Unique,NE,NA,True
@@ -1378,7 +1378,7 @@ Sudden Bombardment,VII,Elena,GL,Fire,PHY,False
 Exemplary Turks,VII,Elena,AW,Fire Lightning,PHY,False
 Apocalypse Genesis,VII,Genesis,USB,Fire,PHY,True
 SOLDIER's Epic,VII,Genesis,ASB,Fire,PHY,False
-Epic of Creation,VII,Genesis,GL2,Fire,PHY,False
+Epic of Creation,VII,Genesis,GL2,Fire,PHY,True
 Epic of Destruction,VII,Genesis,GL,Fire,NA,True
 Epic of Heroism,VII,Genesis,GL2,NE,NA,False
 Genesis Rhapsody,VII,Genesis,AW,Fire,PHY,False
@@ -1494,7 +1494,7 @@ Flame Shot,VIII,Irvine,BSB,Fire,PHY,False
 Hyper Canister,VIII,Irvine,BSB,Fire,PHY,True
 Break Shot,VIII,Irvine,USB,Fire,PHY,True
 Hyper Ignition,VIII,Irvine,USB,Fire,PHY,True
-Bygone Days,VIII,Irvine,Chain2,ALL,PHY MAG,False
+Bygone Days,VIII,Irvine,Chain2,ALL,PHY MAG,True
 Quick Shot F,VIII,Irvine,ASB,Fire,PHY,False
 Assault Standby,VIII,Irvine,GL2,Fire,NA,True
 Armor Shot,VIII,Irvine,AW,Fire,PHY,True
@@ -2105,12 +2105,12 @@ Sprak of Change,XII,Balthier,BSB,Fire,PHY,True
 S-85 Cyclotrone,XII,Balthier,OSB,Fire,PHY,False
 Makara,XII,Balthier,USB,Fire,PHY,False
 Edge of Treachery,XII,Balthier,USB,Fire,PHY,True
-Prodigal Son,XII,Balthier,Chain2,ALL,PHY MAG,False
+Prodigal Son,XII,Balthier,Chain2,ALL,PHY MAG,True
 Incendiary Trap,XII,Balthier,Chain3,Fire,PHY,False
-Tales of the Past,XII,Balthier,ASB,Fire,PHY,False
+Tales of the Past,XII,Balthier,ASB,Fire,PHY,True
 Rise and Fall,XII,Balthier,GL2,Fire,NA,False
 Snatch Heart,XII,Balthier,GL2,Fire,PHY,False
-Scarlet Sky Fluke,XII,Balthier,GL2,Fire,NA,False
+Scarlet Sky Fluke,XII,Balthier,GL2,Fire,NA,True
 The Fleetfooted,XII,Balthier,GL,Fire,NA,True
 Untouchable Hellfire,XII,Balthier,AW,Fire,PHY,True
 Catastrophic Grand Cross,XII,Balthier,AW,Fire,PHY,False
@@ -2562,7 +2562,7 @@ Awoken Tempest,XV,Gladiolus,DuAW,Earth,PHY,False
 Analysis Sting,XV,Ignis,SSB,Fire Lightning Ice,PHY,False
 Stalwart Cook,XV,Ignis,BSB,Fire Lightning Ice,PHY,True
 Sagefire,XV,Ignis,USB,Fire,PHY,False
-Regroup,XV,Ignis,Chain2,ALL,PHY MAG,False
+Regroup,XV,Ignis,Chain2,ALL,PHY MAG,True
 Tactical Sense,XV,Ignis,GL,Fire,NA,False
 Flameboost Bite,XV,Ignis,AW,Fire,PHY,True
 Tactical Mind,XV,Ignis,AW,Fire,PHY,True
