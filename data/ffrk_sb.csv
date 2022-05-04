@@ -381,7 +381,7 @@ Water Flash (Onion Knight),III,Onion Knight,GLB,Water,MAG,False
 Spectral Onion,III,Onion Knight,OLB,Wind Water Fire Earth,MAG,False
 Apex Blowback,III,Onion Knight,AD,Water,MAG,False
 Tornado,III,Onion Knight,AD,Wind,MAG,False
-Anti-air Particle Beam,III,Cloud of Darkness,SSB,Dark Holy,MAG,False
+Anti-air Particle Beam,III,Cloud of Darkness,SSB,Dark Holy,MAG,True
 Fusillade Particle Beam,III,Cloud of Darkness,BSB,Dark Holy,MAG,True
 0-Form Particle Beam,III,Cloud of Darkness,BSB,Dark,MAG,True
 Convergent Particle Beam,III,Cloud of Darkness,OSB,Dark,MAG,False
@@ -1504,7 +1504,7 @@ Demon Slice,VIII,Seifer,Unique,NE,PHY,False
 Bloodfest,VIII,Seifer,Unique,NE,PHY,False
 Zanzetsuken Reverse,VIII,Seifer,SSB,NE,PHY,True
 Death by Committee,VIII,Seifer,SSB,Dark Lightning Wind,PHY,True
-Sorceress's Knight,VIII,Seifer,BSB,Dark,PHY,False
+Sorceress's Knight,VIII,Seifer,BSB,Dark,PHY,True
 Brutal Takedown,VIII,Seifer,BSB,Dark Fire,PHY,True
 Forbidden Fellslash,VIII,Seifer,USB,Dark Fire,PHY,False
 Knight of Destiny,VIII,Seifer,USB,Dark Fire,PHY,False
@@ -2080,7 +2080,7 @@ Windburst,XII,Vaan,Unique,NE,PHY,True
 Piercing Blow,XII,Vaan,SSB,NE,PHY,False
 Pyroclasm,XII,Vaan,SSB,NE,PHY,False
 Ark Blast,XII,Vaan,BSB,NE,PHY,True
-Blood-Red Spiral,XII,Vaan,OSB,NE,PHY,False
+Blood-Red Spiral,XII,Vaan,OSB,NE,PHY,True
 License Acquired,XII,Vaan,USB,Wind,PHY,False
 Cruelest Azure,XII,Vaan,USB,NE,PHY,True
 Calamitous Orb,XII,Vaan,USB,Wind,PHY,True
@@ -2230,7 +2230,7 @@ Whitefall,XII,Reks,BSB,Lightning Ice,PHY,False
 Son of Dalmasca,XII,Reks,USB,Lightning,NA,True
 Thunderblade Rush,XII,Reks,USB,Lightning,PHY,False
 Courageous Mind,XII,Reks,GL2,Lightning,NA,True
-Dalmascan Oath,XII,Reks,AW,Lightning,PHY,False
+Dalmascan Oath,XII,Reks,AW,Lightning,PHY,True
 Dalmascan Spiral,XII,Reks,AW,Lightning,PHY,True
 Dalmascan Hazard,XII,Reks,Sync,Lightning,PHY,True
 Patriot’s Sword,XII,Reks,AD,Lightning,PHY,False

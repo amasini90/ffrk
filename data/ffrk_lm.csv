@@ -282,7 +282,7 @@ Proven Princess,5,Garnet,IX,1.0,Start,Lightning,Infusion,False
 Your Canary,5,Garnet,IX,1.0,Start,NA,ReduceDelay,False
 Re-action (Garnet),6,Garnet,IX,1.0,Every3,Summon,AdditionalTrigger,False
 Part of the Sky,5,Vivi,IX,1.0,Start,Fire,Infusion,True
-Untapped Power,5,Vivi,IX,1.0,EquipWeapon,Rod,Dmg 1.5xMAG,False
+Untapped Power,5,Vivi,IX,1.0,EquipWeapon,Rod,Dmg 1.5xMAG,True
 Magic Suffusion,5,Vivi,IX,1.0,Auto,NA,Dmg 1.5xMAG 1.5xCastTime,False
 Honed Judgment,5,Steiner,IX,1.0,EquipWeapon,Sword,Dmg 1.5xSpellblade,True
 Loyal Guard,5,Steiner,IX,0.2,Every1,Spellblade,AdditionalTrigger,False
@@ -299,7 +299,7 @@ Stolid Bodyguard,5,Amarant,IX,0.2,Every1,Monk,AdditionalTrigger,True
 Smoldering Flame,5,Amarant,IX,1.0,Start,Fire,Infusion,False
 Below-the-Board,5,Amarant,IX,0.3,Every1,Monk,ReduceDelay,False
 Proud General,5,Beatrix,IX,1.0,Start,Holy,Infusion,True
-Paladin Paragon,5,Beatrix,IX,0.2,Every1,Knight,Holy Imperil,False
+Paladin Paragon,5,Beatrix,IX,0.2,Every1,Knight,Holy Imperil,True
 Undying Loyalty,5,Beatrix,IX,0.3,TakeDamage Ally,NA,Cover,False
 Ashen Narcissist,5,Kuja,IX,1.0,Start,Dark,Infusion,True
 Perseverance (Kuja),6,Kuja,IX,1.0,LowHP,NA,Healing -1.5xRES 1.5xMAG ReduceDelay,False
