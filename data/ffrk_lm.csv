@@ -372,7 +372,7 @@ Chosen Future,5,Ashe,XII,0.2,Every1,Lightning,1.5kTarget Healing Followup MAG,Tr
 Fallen Pride,5,Ashe,XII,1.0,Start,Lightning,Infusion,False
 Compassion's Hand,5,Penelo,XII,0.2,Every1,White,AdditionalTrigger,False
 Bound by Vengeance,5,Gabranth,XII,0.2,Every1,Dark,AdditionalTrigger,True
-Magister of the 9th,5,Gabranth,XII,0.3,Every1,Dark,Grant HeavyCharge1,False
+Magister of the 9th,5,Gabranth,XII,0.3,Every1,Dark,Grant HeavyCharge1,True
 Clad in Darkness,5,Gabranth,XII,1.0,Start,Dark,Infusion,False
 Precocious Wisdom,5,Larsa,XII,0.2,Every1,White,SmallGroup Healing,True
 Arc of Justice,5,Larsa,XII,0.2,Every1,White,Grant Target DebuffBarrier,True
@@ -412,7 +412,7 @@ Mouth of the Dead,5,Cid Raines,XIII,1.0,Auto,NA,Buff 1.2xDuration,True
 Tragic End,5,Cid Raines,XIII,1.0,Start,Dark,Infusion,False
 Hastening (Cid Raines),6,Cid Raines,XIII,1.0,Every3,Dark Holy,ReduceDelay,False
 A Hunter's Heart,5,Noel,XIII,0.2,Every1,Ice,AdditionalTrigger,True
-Nomad Child,5,Noel,XIII,1.0,Start,Water,Infusion,False
+Nomad Child,5,Noel,XIII,1.0,Start,Water,Infusion,True
 Vitality Overflowing,5,Noel,XIII,1.0,Start,Ice,Infusion,False
 Trailblazing Swordsman,5,Noel,XIII,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,False
 Manifest Evil,5,Nabaat,XIII,0.2,Every1,Dark,AdditionalTrigger,True

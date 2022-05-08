@@ -35,7 +35,7 @@ Gau,VI,99,50,1
 Cyan,VI,99,99,1
 Leo,VI,99,99,1
 Umaro,VI,65,65,1
-Barret,VII,0,50,1
+Barret,VII,0,65,1
 Angeal,VII,99,99,1
 Cid (VII),VII,99,99,1
 Tifa,VII,99,99,1
@@ -110,3 +110,12 @@ Fujin,VIII,99,99,1
 Thief (I),I,99,99,1
 Luneth,III,99,99,1
 Barbariccia,IV,99,99,1
+Terra,VI,0,50,1
+Refia,III,80,65,1
+Balthier,XII,65,50,0
+Delita,FFT,50,0,0
+Zell,VIII,65,65,1
+Jack,T-0,0,0,0
+Papalymo,XIV,0,0,0
+Gilgamesh,V,50,65,1
+Auron,X,0,50,1

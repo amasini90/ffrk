@@ -729,11 +729,14 @@ Historic Splendor,V,Gilgamesh,Chain2,Fire,PHY,False
 Weapons of War,V,Gilgamesh,ASB,Fire,PHY,True
 Safe Bastion,V,Gilgamesh,GL,NE,NA,False
 Time to Tussle!,V,Gilgamesh,GL2,NE,NA,False
+Tested Mettle,V,Gilgamesh,GL2,Fire,PHY,False
 I'm on Fire!,V,Gilgamesh,GL,Fire,NA,True
 Swordmaster's Bravado,V,Gilgamesh,AW,Fire,PHY,False
 Faithful Friends,V,Gilgamesh,AW,Fire,PHY,True
 Future Ally,V,Gilgamesh,Sync,Fire,PHY,False
 Captain's Duel,V,Gilgamesh,OLB,Fire,PHY,False
+Big Bridge Battle,V,Gilgamesh,AD,Fire,PHY,False
+Awoken Gilgamesh Scorching Time,V,Gilgamesh,DuAW,Fire,PHY,False
 Blade Wing,V,Bartz,Unique,Wind,PHY,True
 Choco Romp,V,Bartz,Unique,Wind,PHY,True
 Lupine Barrage,V,Bartz,Unique,NE,PHY,True
@@ -891,6 +894,8 @@ Half-Esper Might,VI,Terra,OLB,Fire Wind,MAG,False
 Fire Raiment (Terra),VI,Terra,GLB,Fire,NA,True
 Trance (Terra),VI,Terra,AD,Wind,MAG,False
 Riot Blade,VI,Terra,AD,Fire,MAG,False
+Guardian Maduin,VI,Terra,Guardian,Fire,MAG,False
+Awoken Trance Fira,VI,Terra,DuAW,Fire,MAG,False
 Mirage Dive,VI,Locke,Unique,NE,PHY,False
 Phoenix Plunder,VI,Locke,Unique,Fire,PHY,False
 Valiant Strike,VI,Locke,SSB,NE,PHY,False
@@ -1467,10 +1472,14 @@ Fiery Meteor Barret,VIII,Zell,BSB,NE,PHY,False
 Burning Duel,VIII,Zell,USB,Fire,PHY,True
 King of the Ring,VIII,Zell,ASB,Fire,PHY,False
 Assiduous Heat,VIII,Zell,GL2,Fire,NA,False
+Cram Session,VIII,Zell,GL2,NE,NA,False
 Academic Arts,VIII,Zell,GL,Fire,PHY,False
 My Final Punch,VIII,Zell,AW,Fire,PHY,True
 Flare Duel,VIII,Zell,Sync,Fire,PHY,False
 My Final Heaven,VIII,Zell,AD,Fire,PHY,False
+Fire Bond (Zell),VIII,Zell,Chain4,Fire,PHY,False
+Dolphin Kick,VIII,Zell,OLB,Fire,PHY,False
+Awoken Burning Rave,VIII,Zell,DuAW,Fire,PHY,False
 Trabia's Light,VIII,Selphie,Unique,NE,NA,True
 Rapture,VIII,Selphie,Unique,NE,MAG,True
 Dreamstage,VIII,Selphie,SSB,NE,NA,True
@@ -3037,4 +3046,3 @@ Rainbow Magic,Core,Dr. Mog,Sync,ALL,MAG,False
 Soaring Fireworks,Core,Dr. Mog,OLB,ALL,MAG,False
 Soaring Moogle,Core,Dr. Mog,GLB,NE,NA,True
 Nameless Historia,Core,Dr. Mog,AD,ALL,MAG,False
-
