@@ -1369,7 +1369,7 @@ Ultimate Grand Spark,VII,Rude,BSB,Earth,PHY MAG,False
 Chain Grand Spark,VII,Rude,USB,Earth,PHY MAG,False
 Chain of Stone,VII,Rude,Chain,Earth,PHY MAG,True
 Rising Headbutt,VII,Rude,ASB,Earth Lightning,PHY MAG,False
-Masterful Control,VII,Rude,GL,NE,NA,False
+Masterful Control,VII,Rude,GL,NE,NA,True
 Spare Sunglasses,VII,Rude,GL2,Earth Lightning,NA,False
 Earthwalker Conduction,VII,Rude,AW,Earth Lightning,PHY MAG,False
 Rookie Turk,VII,Elena,SSB,Fire,PHY,True
@@ -2595,7 +2595,7 @@ Trinity Support,XV,Iris,GL2,NE,NA,True
 Choco Tailwind,XV,Iris,AW,NE,NA,False
 Pocket Mega-Potion,XV,Iris,Sync,NE,NA,False
 Aerial Spearouette,XV,Aranea,SSB,Lightning Dark,PHY,False
-Air Superiority,XV,Aranea,BSB,Lightning Dark,PHY,False
+Air Superiority,XV,Aranea,BSB,Lightning Dark,PHY,True
 Highwind (XV),XV,Aranea,OSB,Lightning Dark,PHY,True
 Twice the Jump,XV,Aranea,USB,Lightning Dark,PHY,False
 Dragon Leap,XV,Aranea,USB,Lightning Dark,PHY,False

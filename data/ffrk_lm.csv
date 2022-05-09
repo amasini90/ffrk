@@ -199,7 +199,7 @@ In Search of Peace,5,Leo,VI,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,False
 Self Forgiveness,5,Cloud,VII,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,True
 Truth Surmounted,5,Cloud,VII,0.2,Every1,Wind,AdditionalTrigger,True
 Borrowed Blade,5,Cloud,VII,1.0,Start,Dark,Infusion,False
-Broken Illusions,5,Cloud,VII,1.0,Start,Wind,Infusion,False
+Broken Illusions,5,Cloud,VII,1.0,Start,Wind,Infusion,True
 Light Seeker,5,Cloud,VII,0.3,Every1,Dark,ReduceDelay,False
 Sprinting Wolf,5,Cloud,VII,0.3,Every1,Wind,ReduceDelay,False
 Opposition Leader,5,Barret,VII,0.2,Every1,Machinist,AdditionalTrigger,True
