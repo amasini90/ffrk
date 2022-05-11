@@ -110,12 +110,12 @@ Fujin,VIII,99,99,1
 Thief (I),I,99,99,1
 Luneth,III,99,99,1
 Barbariccia,IV,99,99,1
-Terra,VI,50,50,1
+Terra,VI,99,50,1
 Refia,III,99,65,1
 Balthier,XII,65,99,0
-Delita,FFT,50,0,0
+Delita,FFT,65,0,0
 Zell,VIII,65,65,1
 Jack,T-0,50,50,1
 Papalymo,XIV,0,65,1
-Gilgamesh,V,50,65,1
-Auron,X,0,50,1
+Gilgamesh,V,50,99,1
+Auron,X,65,99,1
