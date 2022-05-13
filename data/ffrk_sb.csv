@@ -449,7 +449,7 @@ Trinity Crusade,IV,Pecil,AW,Holy,PHY MAG,False
 Shine Braver,IV,Pecil,Sync,Holy,PHY MAG,False
 Sacred Charge,IV,Pecil,OLB,Holy,PHY MAG,False
 Soul Shift,IV,Pecil,AD,Holy,PHY MAG,False
-Awoken Radial Blast,IV,Pecil,DuAW,Holy,PHY MAG,False
+Awoken Radiant Blast,IV,Pecil,DuAW,Holy,PHY MAG,False
 Lancet,IV,Kain,Unique,NE,PHY,True
 Gungnir,IV,Kain,Unique,NE,PHY,False
 Rising Drive,IV,Kain,SSB,NE,PHY,False
@@ -554,7 +554,9 @@ Pray (IV),IV,Porom,USB,NE,NA,False
 White Magic Touch,IV,Porom,GL,NE,NA,True
 Mysidian Guard,IV,Porom,GL2,NE,NA,False
 White Magic Waypoint,IV,Porom,AW,NE,NA,False
+Bond Flash (Porom),IV,Porom,GLB,NE,NA,False
 Sync Renew,IV,Porom,Sync,NE,NA,False
+Twincast Curaga,IV,Porom,Sync,Lightning,MAG,False
 Font of Wisdom,IV,Tellah,Unique,NE,NA,False
 Dire Meteor,IV,Tellah,Unique,NE,MAG,True
 Last Gasp,IV,Tellah,SSB,NE,NA,True
@@ -624,7 +626,10 @@ Lightning Stamp,IV,Cid (IV),USB,Lightning,PHY,True
 Thor's Mighty Hammer,IV,Cid (IV),ASB,Lightning,PHY,True
 So Young!,IV,Cid (IV),GL2,Lightning,NA,False
 Engineer's Trial,IV,Cid (IV),AW,Lightning,PHY,False
+Machine Break,IV,Cid (IV),AW,Lightning,PHY,False
 Rocket Launcher,IV,Cid (IV),Sync,Lightning,PHY,False
+Weapon in Progress,IV,Cid (IV),AD,Lightning,PHY,False
+Awoken X Chaser,IV,Cid (IV),DuAW,Lightning,PHY,False
 Cross Slash (IV),IV,Ceodore,SSB,Holy,PHY,False
 Holy Cross,IV,Ceodore,BSB,Holy,PHY,True
 Trinity Slash,IV,Ceodore,USB,Holy Lightning,PHY,False
@@ -644,10 +649,13 @@ Point-Blank Inferno,IV,Rubicante,USB,Fire Dark,MAG,False
 Searing Flame,IV,Rubicante,Chain2,Fire,MAG,True
 Apocalypse Inferno,IV,Rubicante,ASB,Fire,MAG,False
 Whirling Blaze,IV,Rubicante,GL2,Fire,NA,False
+Chivalrous Foe,IV,Rubicante,GL2,NE,NA,False
 Cremation,IV,Rubicante,AW,Fire,MAG,True
 Crimson Magefire,IV,Rubicante,AW,Fire,MAG,False
 Flamespire Warrior,IV,Rubicante,Sync,Fire,MAG,False
 Apex Inferno,IV,Rubicante,AD,Fire,MAG,False
+Flamelord's Flail,IV,Rubicante,OLB,Fire,MAG,False
+Awoken Fire Exemplar,IV,Rubicante,DuAW,Fire,MAG,False
 Chakra (IV),IV,Ursula,SSB,NE,NA,True
 Five Star Crimson Palm,IV,Ursula,BSB,Earth Fire,PHY,False
 Crushing Fist,IV,Ursula,USB,Earth Fire,PHY,False
