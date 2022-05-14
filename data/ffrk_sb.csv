@@ -628,7 +628,7 @@ So Young!,IV,Cid (IV),GL2,Lightning,NA,False
 Engineer's Trial,IV,Cid (IV),AW,Lightning,PHY,False
 Machine Break,IV,Cid (IV),AW,Lightning,PHY,False
 Rocket Launcher,IV,Cid (IV),Sync,Lightning,PHY,False
-Weapon in Progress,IV,Cid (IV),AD,Lightning,PHY,False
+Weapon in Progress,IV,Cid (IV),AD,Lightning,PHY,True
 Awoken X Chaser,IV,Cid (IV),DuAW,Lightning,PHY,False
 Cross Slash (IV),IV,Ceodore,SSB,Holy,PHY,False
 Holy Cross,IV,Ceodore,BSB,Holy,PHY,True
