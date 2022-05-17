@@ -893,7 +893,7 @@ Storm Harbinger,VI,Terra,GL,Wind,NA,False
 Reviving Wind,VI,Terra,GL2,Wind,MAG,False
 Illusory Flame,VI,Terra,GL2,Fire,NA,False
 Violent Sword,VI,Terra,AW,Wind,MAG,False
-Chaotic Inferno,VI,Terra,AW,Fire,MAG,False
+Chaotic Inferno,VI,Terra,AW,Fire,MAG,True
 Cross Meltdown,VI,Terra,AW,Fire Wind,MAG,False
 Inferno Storm,VI,Terra,Sync,Fire Wind,MAG,True
 Inferno Cross,VI,Terra,Sync,Fire,MAG,True
@@ -1357,7 +1357,7 @@ President's Scorn,VII,Rufus,BSB,Dark,PHY,False
 Mako Cannon,VII,Rufus,USB,Dark,PHY,False
 Reign of Terror,VII,Rufus,GL,Dark,PHY,False
 Ambitious Vice,VII,Rufus,GL2,Dark,NA,False
-Recreant Son,VII,Rufus,AW,Dark,PHY,False
+Recreant Son,VII,Rufus,AW,Dark,PHY,True
 Presidential Power,VII,Rufus,Sync,Dark,PHY,False
 Countertek,VII,Shelke,SSB,NE,NA,True
 Synaptic Net Dive,VII,Shelke,BSB,Lightning,PHY,True

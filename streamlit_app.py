@@ -72,8 +72,8 @@ def main():
             st.table(df7)
 
         # Useful commands in case numbers do not round
-        #st.table(df[df.Owned==True].groupby(['Tier',"Owned"])['Tier'].count())
-        #st.table(df[(df.Owned==True) & (df.Tier == 'AW')].groupby(['Realm',"Owned"])['Realm'].count())
+        #st.table(df_lm[df_lm.Owned==True].groupby(['Realm',"Owned"])['Realm'].count())
+        #st.table(df[(df.Owned==True) & (df.Tier == 'GL')].groupby(['Realm',"Owned"])['Realm'].count())
 
         st.header('My Legend Materia Overview:')
         col1,col2=st.columns(2)
