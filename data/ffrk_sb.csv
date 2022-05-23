@@ -2349,7 +2349,7 @@ Righteous Wrath,XIII,Hope,AW,Holy,MAG,False
 Dreadnought Rampage,XIII,Hope,Sync,Holy,MAG,False
 Divine Flash (Hope),XIII,Hope,GLB,Holy,MAG,False
 Apex Last Resort,XIII,Hope,AD,Holy,MAG,False
-Awoken Retributive Blast,XIII,Hope,DuAW,Holy,MAG,False
+Awoken Retributive Blast,XIII,Hope,DuAW,Holy,MAG,True
 Pulsar Burst,XIII,Fang,Unique,NE,PHY,False
 High Dive,XIII,Fang,Unique,NE,PHY,False
 Highwind (XIII),XIII,Fang,SSB,Fire Wind,PHY,True
@@ -2399,13 +2399,13 @@ Wings of Despair,XIII,Cid Raines,USB,Dark Holy,MAG,False
 True Miracle,XIII,Cid Raines,USB,Dark Holy,MAG,True
 Seraphic End,XIII,Cid Raines,ASB,Dark Holy,MAG,True
 Seraphic Shift,XIII,Cid Raines,GL2,Dark Holy,NA,False
-Commander Shift,XIII,Cid Raines,GL2,NE,NA,False
+Commander Shift,XIII,Cid Raines,GL2,NE,NA,True
 Dark Shift,XIII,Cid Raines,GL,NE,NA,False
 Angel of Doom,XIII,Cid Raines,AW,Dark Holy,MAG,True
 Dystopian Shift,XIII,Cid Raines,AW,Dark Holy,MAG,False
 Last Destiny,XIII,Cid Raines,Sync,Dark Holy,MAG,False
-Dark Bond (Cid Raines),XIII,Cid Raines,Chain4,Dark,MAG,False
-Apex Seraphic Ray,XIII,Cid Raines,AD,Dark Holy,MAG,False
+Dark Bond (Cid Raines),XIII,Cid Raines,Chain4,Dark,MAG,True
+Apex Seraphic Ray,XIII,Cid Raines,AD,Dark Holy,MAG,True
 Awoken Seraph's Wing,XIII,Cid Raines,DuAW,Dark Holy,MAG,False
 Deathblow,XIII,Noel,SSB,NE,PHY,True
 Meteor Javelin,XIII,Noel,BSB,NE,PHY,False
