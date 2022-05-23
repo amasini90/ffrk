@@ -2330,6 +2330,8 @@ Solitary Struggle,XIII,Sazh,AW,Fire Ice Lightning,PHY,False
 Dual Assault,XIII,Sazh,Sync,Fire Ice Lightning,PHY,False
 Father's Gift,XIII,Sazh,OLB,Fire Ice Lightning,PHY,False
 Apex Cold Blood,XIII,Sazh,AD,Fire Ice Lightning,PHY,False
+Jinx,XIII,Sazh,GL2,NE,NA,False
+Awoken This is Gonna Sting!,XIII,Sazh,DuAW,Fire Ice Lightning,PHY,False
 Brutal Sanction,XIII,Hope,Unique,NE,MAG,True
 Earthquake,XIII,Hope,Unique,Earth,MAG,True
 Last Resort,XIII,Hope,SSB,Holy,MAG,True
@@ -2362,6 +2364,7 @@ Wind Bond (Fang),XIII,Fang,Chain4,Wind,PHY,False
 Gran Pulse Stormspear,XIII,Fang,ASB,Wind,PHY,False
 Smash Blast,XIII,Fang,GL,Wind,PHY,False
 Dragon Blast,XIII,Fang,GL2,Wind,PHY,False
+Charge Blast,XIII,Fang,GL2,NE,NA,False
 Destruction Dive,XIII,Fang,AW,Wind,PHY,False
 Bahamut Assault,XIII,Fang,Sync,Wind,PHY,True
 Apex Highwind (XIII),XIII,Fang,AD,Wind,PHY,False
@@ -2396,10 +2399,14 @@ Wings of Despair,XIII,Cid Raines,USB,Dark Holy,MAG,False
 True Miracle,XIII,Cid Raines,USB,Dark Holy,MAG,True
 Seraphic End,XIII,Cid Raines,ASB,Dark Holy,MAG,True
 Seraphic Shift,XIII,Cid Raines,GL2,Dark Holy,NA,False
+Commander Shift,XIII,Cid Raines,GL2,NE,NA,False
 Dark Shift,XIII,Cid Raines,GL,NE,NA,False
 Angel of Doom,XIII,Cid Raines,AW,Dark Holy,MAG,True
 Dystopian Shift,XIII,Cid Raines,AW,Dark Holy,MAG,False
 Last Destiny,XIII,Cid Raines,Sync,Dark Holy,MAG,False
+Dark Bond (Cid Raines),XIII,Cid Raines,Chain4,Dark,MAG,False
+Apex Seraphic Ray,XIII,Cid Raines,AD,Dark Holy,MAG,False
+Awoken Seraph's Wing,XIII,Cid Raines,DuAW,Dark Holy,MAG,False
 Deathblow,XIII,Noel,SSB,NE,PHY,True
 Meteor Javelin,XIII,Noel,BSB,NE,PHY,False
 Hunter's Rimefang,XIII,Noel,BSB,Ice,PHY,False
