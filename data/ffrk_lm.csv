@@ -149,7 +149,7 @@ Born of Evil,5,Exdeath,V,1.0,Start,Dark,Infusion,True
 Tree Most Foul,5,Exdeath,V,1.0,EquipWeapon,Staff Sword,Dmg 1.5xMAG,False
 Unbridled Enthusiasm,5,Krile,V,1.0,Start,Fire,Infusion,False
 A Granddaughter's Drive,5,Krile,V,0.2,Every1,Fire,AdditionalTrigger,False
-Innate Cheer,5,Krile,V,1.0,Start,Earth,Infusion,False
+Innate Cheer,5,Krile,V,1.0,Start,Earth,Infusion,True
 Natural Connection,5,Krile,V,1.0,Start,NA,Haste NoDelay1,False
 Refinement (Krile),6,Krile,V,1.0,Auto,NA,Dmg 1.3xMAG,False
 Master of Surgate,5,Xezat,V,1.0,EquipWeapon,Sword,Dmg 1.5xSpellblade,True

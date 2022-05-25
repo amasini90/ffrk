@@ -858,7 +858,7 @@ Endearing Strength,V,Krile,AD,Earth,MAG,False
 Awoken Cleansing,V,Krile,DuAW,Fire Earth,MAG,False
 Spellsword Iceshock,V,Xezat,SSB,Ice Lightning,PHY,False
 Spellstorm Frostclash,V,Xezat,BSB,Ice Lightning,PHY,True
-Spellstrike Rimebolt,V,Xezat,USB,Ice Lightning,PHY,False
+Spellstrike Rimebolt,V,Xezat,USB,Ice Lightning,PHY,True
 Spellstrike Icecrusher,V,Xezat,USB,Ice Lightning Earth,PHY,False
 Glacial Spark,V,Xezat,ASB,Ice Lightning Earth,PHY,False
 Surgate Tactics,V,Xezat,GL2,NE,NA,False
