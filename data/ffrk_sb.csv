@@ -208,9 +208,12 @@ Splash LXIV,II,Leila,ASB,Water,PHY,False
 Aqua Venom,II,Leila,GL2,Water Poison,PHY,False
 Pirate's Pluck,II,Leila,GL2,Water,NA,False
 Pirate's Cutlass,II,Leila,AW,Water,PHY,True
+Bio Splash,II,Leila,AW,Water Poison,PHY,False
 Split Edge,II,Leila,Sync,Water,PHY,False
 Hollow Beauty,II,Leila,Sync,Poison,PHY,False
 Pirate's Splash,II,Leila,AD,Water,PHY,False
+Pirate's Knife,II,Leila,OLB,Water Poison,PHY,False
+Awoken Poison Cloud XVI,II,Leila,DuAW,Poison,PHY,False
 Wyvern,II,Ricard,Unique,Fire,PHY,False
 Highwind Secrets,II,Ricard,SSB,Wind,PHY,True
 Pride of Deist,II,Ricard,BSB,Wind,PHY,False
@@ -977,9 +980,13 @@ Critical Call,VI,Edgar,GL,NE,PHY,False
 King of Figaro,VI,Edgar,GL2,Poison Fire Lightning,NA,True
 Trinity Down,VI,Edgar,GL2,Poison Fire Lightning,NA,False
 Bravo Drill,VI,Edgar,AW,Poison Fire Lightning,PHY,True
+Bravo Chainsaw,VI,Edgar,AW,Poison Fire Lightning,PHY,False
 Trinity Boost,VI,Edgar,Sync,Poison Fire Lightning,PHY,False
 Bio Boost,VI,Edgar,Sync,Poison,PHY,False
 Royal Blast,VI,Edgar,OLB,Poison Fire Lightning,PHY,False
+Poison Bond (Edgar),VI,Edgar,Chain4,Poison,PHY MAG,False
+Royal Shock,VI,Edgar,AD,Poison Fire Lightning,PHY,False
+Awoken Auto Crossbow,VI,Edgar,DuAW,Poison,PHY,False
 Razor Gale,VI,Sabin,Unique,NE,PHY,False
 Rising Phoenix,VI,Sabin,Unique,Fire,PHY,True
 Soul Spiral,VI,Sabin,SSB,NE,NA,True
@@ -1471,6 +1478,7 @@ Homing Laser,VIII,Quistis,Sync,Water Poison,MAG,False
 Ray of Poison,VIII,Quistis,Sync,Poison,MAG,False
 Apex Shockwave Pulsar,VIII,Quistis,AD,Water Poison,MAG,False
 Guardian Doomtrain,VIII,Quistis,Guardian,Poison,MAG,False
+Awoken Hail to the Queen,VIII,Quistis,DuAW,Poison,MAG,False
 Burning Rave,VIII,Zell,Unique,NE,PHY,False
 Meteor Barrage,VIII,Zell,Unique,NE,PHY,True
 Different Beat,VIII,Zell,SSB,NE,PHY,False
