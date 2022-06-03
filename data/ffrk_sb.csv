@@ -1868,9 +1868,12 @@ Yearning Prayer,X,Yuna,GL2,NE,NA,False
 Final Wall,X,Yuna,GL2,NE,NA,False
 Cradling Words,X,Yuna,AW,NE,NA,False
 For the Calm,X,Yuna,AW,Holy Wind,MAG,True
+Gunner Dressphere,X,Yuna,AW,Holy Wind,MAG,False
 Farplane Wish,X,Yuna,Sync,Holy Wind,MAG,True
+Summoner Dressphere,X,Yuna,Sync,Holy Wind,MAG,False
 Guardian Valefor,X,Yuna,Guardian,Holy Wind,MAG,False
 Awoken Grand Summon Overdrive,X,Yuna,DuAW,Holy Wind,MAG,False
+Blast Ray,X,Yuna,OLB,Holy Wind,MAG,False
 Status Reels,X,Wakka,Unique,NE,PHY,True
 Attack Reels,X,Wakka,Unique,NE,PHY,False
 Aurochs Reels,X,Wakka,SSB,NE,PHY,False
@@ -1915,8 +1918,12 @@ Ronso Breath,X,Kimahri,USB,Water,PHY,False
 Undimmed Spirit,X,Kimahri,USB,Water,NA,False
 Azure Lance,X,Kimahri,ASB,Water Fire,PHY,True
 Aqua Landing,X,Kimahri,GL2,Water,NA,False
+Ronso Spirit,X,Kimahri,GL2,NE,NA,False
 Dragonfang Current,X,Kimahri,AW,Water,PHY,False
+Ocean Breath,X,Kimahri,AW,Water,PHY,False
 Inherited Resolve,X,Kimahri,Sync,Water,PHY,False
+Nova,X,Kimahri,AD,Water,PHY,False
+Awoken Fang of Gagazet,X,Kimahri,DuAW,Water,PHY,False
 Hazardous Shell,X,Rikku,Unique,NE,PHY,False
 Machina Sabotage,X,Rikku,Unique,NE,PHY,True
 Hyper NulAll,X,Rikku,Unique,NE,NA,False
@@ -1937,6 +1944,7 @@ Tidal Wave,X,Rikku,Sync,Water,PHY,True
 True Aqua Toxin,X,Rikku,Sync,Water,PHY,False
 Mix Bubble Bomb,X,Rikku,OLB,Water,PHY,False
 Mix,X,Rikku,AD,Water,PHY,False
+Awoken Machina Sabotage,X,Rikku,DuAW,Water,PHY,False
 Dragon Fang,X,Auron,Unique,NE,PHY,True
 Shooting Star,X,Auron,Unique,NE,PHY,False
 Undefeated,X,Auron,Unique,NE,PHY,True
