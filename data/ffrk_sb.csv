@@ -82,8 +82,12 @@ Pinnacle Pugilist,I,Master,ASB,Earth Fire Lightning,PHY,True
 Psyche Up,I,Master,GL,Earth Fire Lightning,PHY,False
 Undivided Focus,I,Master,GL,NE,PHY,False
 Blazing Speed,I,Master,GL2,NE,PHY,True
+Zealous Spirit,I,Master,GL2,NE,NA,False
 Driving Fist,I,Master,AW,Earth Fire Lightning,PHY,False
+Skilled Skirmisher,I,Master,AW,Earth Fire Lightning,PHY,False
 Raging Spirit,I,Master,Sync,Earth Fire Lightning,PHY,False
+Crowning Strike,I,Master,AD,Earth Fire Lightning,PHY,False
+Awoken moment of Clarity,I,Master,DuAW,Earth Fire Lightning,PHY,False
 Witch's Brew,I,Matoya,SSB,NE,NA,True
 Inner Eye,I,Matoya,BSB,Fire Ice Lightning,MAG,True
 Crystal Power,I,Matoya,USB,Fire Ice Lightning,MAG,True
@@ -502,6 +506,7 @@ Deluge (IV),IV,Rydia,AD,Water Holy,MAG,True
 Call Me Queen,IV,Rydia,AD,Water,MAG,False
 Guardian Titan,IV,Rydia,Guardian,Earth,MAG,False
 Awoken Lord of the Seas,IV,Rydia,DuAW,Water,MAG,False
+Awoken Mournful Cry,IV,Rydia,DuAW,Earth,MAG,False
 Divine Favor,IV,Rosa,Unique,NE,NA,False
 Miracle,IV,Rosa,Unique,NE,NA,False
 Divine Heal,IV,Rosa,SSB,NE,NA,True
@@ -1735,9 +1740,12 @@ Sandstorm Lance,IX,Freya,USB,Wind,PHY,False
 Chain of Air,IX,Freya,Chain,Wind,PHY MAG,True
 Lunar Ray,IX,Freya,ASB,Wind,PHY,False
 Eternal Harvest,IX,Freya,GL2,Wind,NA,False
+Dragon Mastery,IX,Freya,GL2,NE,NA,False
 Dragon Cross,IX,Freya,AW,Wind,PHY,False
 Homeland's Honor,IX,Freya,AW,Wind,PHY,False
 Cliffdance Winds,IX,Freya,Sync,Wind,PHY,False
+Apex Dragon's Crest,IX,Freya,AD,Wind,PHY,False
+Awoken Dragon Breath,IX,Freya,DuAW,Wind,PHY,False
 Mighty Guard (IX),IX,Quina,Unique,NE,NA,False
 Angel's Snack,IX,Quina,Unique,NE,NA,False
 Frog Drop,IX,Quina,SSB,NE,PHY,False
