@@ -42,6 +42,7 @@ def main():
         # Read in the data
         df = pd.read_csv('./data/ffrk_sb.csv', header=0, index_col=0)
         df_lm = pd.read_csv('./data/ffrk_lm.csv', header=0, index_col=0)
+        df_jobs = pd.read_csv('./data/ffrk_jobs.csv', header=0, index_col=0)
 
         # Apply weights as a new column
         df['Weight'] = df['Tier'].map(weights)
@@ -179,7 +180,7 @@ def main():
         charDF = analysis.get_char_df(df,includeHAbonus)
         #st.write(charDF)
 
-        Choice = st.selectbox('Which kind of party do you want to build?', ["5 Star Magicite","Realm","Elemental"])
+        Choice = st.selectbox('Which kind of party do you want to build?', ["5 Star Magicite","Realm","Elemental","Job"])
 
         if Choice == "Realm":
 
@@ -194,6 +195,19 @@ def main():
                     col2.write(orderedDF.index[i]+' [CHAIN]')
                 else:
                     col2.write(orderedDF.index[i])
+
+        elif Choice == "Job":
+            ChosenJob = st.selectbox('Choose Job', ["Black Magic","White Magic","Summoning","Spellblade","Combat","Support","Celerity","Dragoon","Monk","Thief","Knight","Samurai","Ninja","Bard","Dancer","Machinist","Darkness","Sharpshooter","Witch","Heavy Physical"], format_func=lambda x: 'Select job' if x == '' else x)
+            workers = df_jobs[df_jobs[ChosenJob]==6]
+            
+            inn = pd.merge(charDF, workers, left_index=True, right_index=True)
+            orderedDF = inn.sort_values(by=['TotWeight','Score'],ascending=False)
+            
+            for i in range(5):
+                col1,col2= st.columns([1,20])
+                char = orderedDF.index[i].replace(" ", "")
+                col1.image('./Images/Characters/'+char+'.png',width=50)
+                col2.write(orderedDF.index[i])          
         
         else:
             if Choice == "Elemental":
