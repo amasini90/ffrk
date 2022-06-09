@@ -58,7 +58,7 @@ def BonusHA(char):
         ll = 0.
     return output*ll
 
-def get_char_df(df,includeHAbonus):
+def get_char_df(df,df_lm,includeHAbonus):
     '''
     Computes the total weight associated to the relics I have for each character.
     Also, assess wheter the character has a Realm (>= LV2) Chain.
@@ -71,7 +71,8 @@ def get_char_df(df,includeHAbonus):
         elem = util.get_elem(df,char)
         Rchain = util.has_Rchain(df,char)
         TotWeight = df['Weight'][(df.Character==char) & (df.Owned==True)].sum()
-        Score = TotWeight/df['Weight'][df.Character==char].sum()
+        TotWeight += df_lm['Weight'][(df_lm.Character==char) & (df_lm.Owned==True)].sum()
+        Score = TotWeight/(df['Weight'][df.Character==char].sum()+df_lm['Weight'][df_lm.Character==char].sum())
         if includeHAbonus == True:
             TotWeight += BonusHA(char)
         WeightChar[char] = [realm,elem,typ,Score,TotWeight,Rchain]

@@ -176,9 +176,10 @@ def main():
         if disableHA:
             includeHAbonus = False
         
+        ##########################
         # Create the Character DF
-        charDF = analysis.get_char_df(df,includeHAbonus)
-        #st.write(charDF)
+        charDF = analysis.get_char_df(df,df_lm,includeHAbonus)
+        ##########################
 
         Choice = st.selectbox('Which kind of party do you want to build?', ["5 Star Magicite","Realm","Elemental","Job"])
 
