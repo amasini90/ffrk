@@ -1658,10 +1658,12 @@ Rumble Twister,IX,Zidane,ASB,Wind,PHY,True
 Aerial Ace,IX,Zidane,GL,Wind,PHY,True
 Tail Draft,IX,Zidane,GL2,Wind,NA,False
 Reverse Gaia,IX,Zidane,AW,Wind,PHY,True
+True Stellar Circle 5,IX,Zidane,AW,Wind,PHY,False
 Not Alone,IX,Zidane,Sync,Wind,PHY,False
 Blast Flag,IX,Zidane,OLB,Wind,PHY,False
 Wind Raiment (Zidane),IX,Zidane,GLB,Wind,NA,False
 Grand Lethal Extreme,IX,Zidane,AD,Wind,PHY,True
+Awoken Storm Impulse,IX,Zidane,DuAW,Wind,PHY,False
 Leviathan,IX,Garnet,Unique,Water,MAG,False
 Ramuh,IX,Garnet,Unique,Lightning,MAG,False
 Divine Guardian,IX,Garnet,SSB,NE,NA,True
@@ -1792,6 +1794,8 @@ Outlaw Soul,IX,Amarant,GL2,Fire,NA,False
 Hidden Vocation,IX,Amarant,AW,Fire,PHY,True
 Blazing Godfist,IX,Amarant,AW,Fire,PHY,False
 Ironfire Countdown,IX,Amarant,Sync,Fire,PHY,False
+Bond Flash (Amarant),IX,Amarant,GLB,NE,NA,False
+Awoken Scarlet Elan,IX,Amarant,DuAW,Fire,PHY,False
 Seiken Stock Break,IX,Beatrix,Unique,Holy,PHY,True
 Rose of May,IX,Beatrix,Unique,NE,PHY,True
 Seiken Shock,IX,Beatrix,SSB,NE,PHY,True
@@ -1832,6 +1836,10 @@ Triple Twister,IX,Marcus,ASB,Wind Poison,PHY,False
 Leave it to Me,IX,Marcus,GL,Wind Poison,NA,False
 Blade Gambit,IX,Marcus,AW,Wind Poison,PHY,True
 There You Go!,IX,Marcus,Sync,Wind Poison,PHY,False
+Spiraling Flash (Marcus),IX,Marcus,GLB,Wind Poison,NA,False
+Turbulent Venom,IX,Marcus,OLB,Wind Poison,PHY,False
+Tantalus Blade,IX,Marcus,AD,Wind Poison,PHY,False
+Awoken Tantalus Break,IX,Marcus,DuAW,Wind Poison,PHY,False
 Spiral Cut,X,Tidus,Unique,NE,PHY,False
 Slice & Dice,X,Tidus,Unique,NE,PHY,True
 Swiftform,X,Tidus,Unique,NE,NA,True

@@ -277,6 +277,7 @@ Existence Denied,5,Ultimecia,VIII,1.0,Start,Dark,Infusion,True
 Refinement (Ultimecia),6,Ultimecia,VIII,1.0,Auto,NA,Dmg 1.3xMAG,False
 Thief's Ploy,5,Zidane,IX,0.2,Every1,Wind,AdditionalTrigger,True
 Snap Judgment,5,Zidane,IX,0.3,Every1,Thief,ReduceDelay,True
+Swiftness (Zidane),6,Zidane,IX,1.0,Start,NA,Haste NoDelay3,False
 Noble Resolve,5,Garnet,IX,1.0,Auto,NA,Buff 1.2xDuration,False
 Lover of the Arts,5,Garnet,IX,0.2,Every1,Bard,SmallGroup Healing,False
 Proven Princess,5,Garnet,IX,1.0,Start,Lightning,Infusion,False
