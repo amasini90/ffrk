@@ -990,7 +990,7 @@ Trinity Boost,VI,Edgar,Sync,Poison Fire Lightning,PHY,False
 Bio Boost,VI,Edgar,Sync,Poison,PHY,False
 Royal Blast,VI,Edgar,OLB,Poison Fire Lightning,PHY,False
 Poison Bond (Edgar),VI,Edgar,Chain4,Poison,PHY MAG,False
-Royal Shock,VI,Edgar,AD,Poison Fire Lightning,PHY,False
+Royal Shock,VI,Edgar,AD,Poison Fire Lightning,PHY,True
 Awoken Auto Crossbow,VI,Edgar,DuAW,Poison,PHY,False
 Razor Gale,VI,Sabin,Unique,NE,PHY,False
 Rising Phoenix,VI,Sabin,Unique,Fire,PHY,True
