@@ -29,7 +29,7 @@ def main():
     weights_lm = {5:0.5, 6:1.5}
 
     Elements = ["Fire","Ice","Lightning","Wind","Earth","Water","Holy","Dark"]
-    MagiciteNames = ["Mateus","Syldra","Famfrit","Hecatoncheir","Quetzalcoatl","Phoenix","Deathgaze","Lakshmi","Manticore","Typhoon","Geosgaeno","Adamantoise","Behemoth King","Belias","Ark","Madeen"]
+    MagiciteNames = ["Mateus","Syldra","Famfrit","Hecatoncheir","Quetzalcoatl","Phoenix","Deathgaze","Lakshmi","Manticore","Typhon","Geosgaeno","Adamantoise","Behemoth King","Belias","Ark","Madeen"]
     Magicite = pd.DataFrame({"PHY":MagiciteNames[:8], "MAG":MagiciteNames[8:]}, index=Elements)
 
     # Title of the App
