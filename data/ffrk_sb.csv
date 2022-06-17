@@ -1347,9 +1347,12 @@ Pyramid Pinnacle,VII,Reno,USB,Lightning,PHY MAG,False
 Chain of Thunder,VII,Reno,Chain,Lightning,PHY MAG,True
 Overpowered Rod,VII,Reno,ASB,Lightning,PHY MAG,True
 Electro Rod Charge,VII,Reno,GL2,Lightning,NA,False
+Stun Pyramid,VII,Reno,GL2,NE,NA,False
 Electro Rod Mark II,VII,Reno,AW,Lightning,PHY MAG,True
+Plasma Light,VII,Reno,AW,Lightning,PHY MAG,False
 Our Day Off,VII,Reno,Sync,Lightning,PHY MAG,False
 Pyramid Tetra,VII,Reno,OLB,Lightning,PHY MAG,False
+Awoken Turk Light,VII,Reno,DuAW,Lightning,PHY MAG,False
 Winds of Pride,VII,Angeal,SSB,Holy,PHY,False
 Unleashed Wrath,VII,Angeal,BSB,Holy Wind,PHY,False
 Idle Rage,VII,Angeal,USB,Holy Wind,PHY,False
@@ -1392,6 +1395,9 @@ Rising Headbutt,VII,Rude,ASB,Earth Lightning,PHY MAG,False
 Masterful Control,VII,Rude,GL,NE,NA,True
 Spare Sunglasses,VII,Rude,GL2,Earth Lightning,NA,False
 Earthwalker Conduction,VII,Rude,AW,Earth Lightning,PHY MAG,False
+Thunderstone,VII,Rude,Sync,Earth Lightning,PHY MAG,False
+Apex Grand Spark,VII,Rude,AD,Earth Lightning,PHY MAG,False
+Awoken Ultimate Grand Spark,VII,Rude,DuAW,Earth Lightning,PHY MAG,False
 Rookie Turk,VII,Elena,SSB,Fire,PHY,True
 Elite Operator,VII,Elena,BSB,Fire,PHY,False
 Special Bomb,VII,Elena,USB,Fire,PHY,True
@@ -1401,6 +1407,9 @@ Rookie Rampage,VII,Elena,ASB,Fire Lightning,PHY,False
 Super Sneak Attack,VII,Elena,GL2,Fire Lightning,NA,False
 Sudden Bombardment,VII,Elena,GL,Fire,PHY,False
 Exemplary Turks,VII,Elena,AW,Fire Lightning,PHY,False
+Rookie Sneak Attack,VII,Elena,AW,Fire Lightning,PHY,False
+Conductive Blast,VII,Elena,Sync,Fire Lightning,PHY,False
+Awoken Rookie Turk,VII,Elena,DuAW,Fire Lightning,PHY,False
 Apocalypse Genesis,VII,Genesis,USB,Fire,PHY,True
 SOLDIER's Epic,VII,Genesis,ASB,Fire,PHY,False
 Epic of Creation,VII,Genesis,GL2,Fire,PHY,True
