@@ -85,8 +85,8 @@ Blazing Speed,I,Master,GL2,NE,PHY,True
 Zealous Spirit,I,Master,GL2,NE,NA,False
 Driving Fist,I,Master,AW,Earth Fire Lightning,PHY,False
 Skilled Skirmisher,I,Master,AW,Earth Fire Lightning,PHY,False
-Raging Spirit,I,Master,Sync,Earth Fire Lightning,PHY,False
-Crowning Strike,I,Master,AD,Earth Fire Lightning,PHY,False
+Raging Spirit,I,Master,Sync,Earth Fire Lightning,PHY,True
+Crowning Strike,I,Master,AD,Earth Fire Lightning,PHY,True
 Awoken moment of Clarity,I,Master,DuAW,Earth Fire Lightning,PHY,False
 Witch's Brew,I,Matoya,SSB,NE,NA,True
 Inner Eye,I,Matoya,BSB,Fire Ice Lightning,MAG,True
@@ -1948,7 +1948,7 @@ Dragonfang Current,X,Kimahri,AW,Water,PHY,False
 Ocean Breath,X,Kimahri,AW,Water,PHY,False
 Inherited Resolve,X,Kimahri,Sync,Water,PHY,False
 Nova,X,Kimahri,AD,Water,PHY,False
-Awoken Fang of Gagazet,X,Kimahri,DuAW,Water,PHY,False
+Awoken Fang of Gagazet,X,Kimahri,DuAW,Water,PHY,True
 Hazardous Shell,X,Rikku,Unique,NE,PHY,False
 Machina Sabotage,X,Rikku,Unique,NE,PHY,True
 Hyper NulAll,X,Rikku,Unique,NE,NA,False
