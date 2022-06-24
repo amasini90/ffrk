@@ -2908,9 +2908,14 @@ Ice Bond (Seven),T-0,Seven,Chain4,Ice,MAG,False
 Drainlash,T-0,Seven,ASB,Ice,MAG,True
 Ice Cube,T-0,Seven,GL,Ice,NA,False
 Icy Moment,T-0,Seven,GL2,Ice,NA,False
+Icy Grip,T-0,Seven,GL2,Ice,NA,False
 Sadistic Spikes,T-0,Seven,AW,Ice,MAG,True
 Icicle Strike,T-0,Seven,Sync,Ice,MAG,False
 Osmoselash,T-0,Seven,AD,Ice,MAG,False
+Spiraling Flash (Seven),T-0,Seven,GLB,Ice,MAG,False
+Whipblade Whirl,T-0,Seven,AW,Ice,MAG,False
+Icefall Lash,T-0,Seven,OLB,Ice,MAG,False
+Awoken Sadistic Spikes,T-0,Seven,DuAW,Ice,MAG,False
 Black Hole (Type-0),T-0,Sice,BSB,Dark,PHY,True
 Dark Nebula,T-0,Sice,USB,Dark,PHY,False
 Negative Aura (Type-0),T-0,Sice,ASB,Dark,PHY,False
@@ -2941,10 +2946,14 @@ Triple Charged Shot,T-0,Cater,USB,Fire Ice Lightning,PHY,False
 Tri-Color Mine,T-0,Cater,ASB,Fire Ice Lightning,PHY,True
 Elemental Charge,T-0,Cater,GL2,Fire Ice Lightning,NA,False
 Tricky Reload,T-0,Cater,GL2,Fire Ice Lightning,NA,False
+Rapid Charge,T-0,Cater,GL2,NE,NA,False
 Trine Shot,T-0,Cater,GL,Fire Ice Lightning,PHY,True
 Tri-Color Shot,T-0,Cater,AW,Fire Ice Lightning,PHY,True
 Quad-Color Shot,T-0,Cater,AW,Fire Ice Lightning,PHY,False
 Tri-Color Snipe Mode,T-0,Cater,Sync,Fire Ice Lightning,PHY,True
+Trine Blast Shot,T-0,Cater,Sync,Fire Ice Lightning,PHY,False
+Apex Elementillery,T-0,Cater,AD,Fire Ice Lightning,PHY,False
+Awoken Triple Charged Shot,T-0,Cater,DuAW,Fire Ice Lightning,PHY,False
 Firewall,T-0,Trey,USB,Fire Ice Water,PHY,True
 Charged Arrow Shot,T-0,Trey,USB,Fire Ice Water,PHY,False
 Burst Delta,T-0,Trey,ASB,Fire Ice Water,PHY,False
