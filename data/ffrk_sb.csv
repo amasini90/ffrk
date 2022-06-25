@@ -673,7 +673,7 @@ Assert Dominance,IV,Ursula,GL,NE,NA,False
 Monastic Secret,IV,Ursula,GL2,NE,NA,False
 Fist Flourish,IV,Ursula,AW,Earth Fire,PHY,False
 Twin Wing Frenzy,IV,Ursula,Sync,Earth Fire,PHY,False
-Maelstrom (IV),IV,Barbariccia,BSB,Wind,MAG,False
+Maelstrom (IV),IV,Barbariccia,BSB,Wind,MAG,True
 Whirlwind,IV,Barbariccia,USB,Wind,MAG,True
 Secret Breeze,IV,Barbariccia,Chain3,Wind,MAG,False
 Raging Squall,IV,Barbariccia,ASB,Wind,MAG,True
@@ -783,7 +783,7 @@ Rousing Water,V,Bartz,AW,Water,PHY,False
 Ethereal Bond,V,Bartz,Sync,Wind,PHY,False
 Earthen Bond,V,Bartz,Sync,Earth,PHY,False
 Aqueous Bond,V,Bartz,Sync,Water,PHY,False
-Flaming Bond,V,Bartz,Sync,Fire,PHY,False
+Flaming Bond,V,Bartz,Sync,Fire,PHY,True
 Element Bringer,V,Bartz,OLB,Wind Water Fire Earth,PHY,False
 Master of Earth,V,Bartz,AD,Earth,PHY,False
 Master of Wind,V,Bartz,AD,Wind,PHY,False
@@ -1328,7 +1328,7 @@ Hyper Jump,VII,Cid (VII),Unique,NE,PHY,True
 Dragon,VII,Cid (VII),Unique,Wind,PHY,False
 Pilot's Steel,VII,Cid (VII),SSB,NE,NA,True
 Big Brawl,VII,Cid (VII),SSB,Wind,PHY,True
-Dragon Dive,VII,Cid (VII),BSB,Wind,PHY,False
+Dragon Dive,VII,Cid (VII),BSB,Wind,PHY,True
 Dynamite Boost,VII,Cid (VII),USB,Wind,PHY,False
 Cid in Charge,VII,Cid (VII),Chain2,ALL,PHY MAG,True
 Smokig Dive,VII,Cid (VII),ASB,Wind,PHY,False
@@ -1736,7 +1736,7 @@ Enduring Loyalty,IX,Steiner,GL2,NE,NA,False
 Ironclad Vow,IX,Steiner,GL,NE,NA,False
 Just a Flesh Wound,IX,Steiner,GL2,Fire Lightning Ice,NA,False
 Double Climhazzard,IX,Steiner,AW,Fire Lightning Ice,PHY,True
-Triple Minus Strike,IX,Steiner,AW,Fire Lightning Ice,PHY,False
+Triple Minus Strike,IX,Steiner,AW,Fire Lightning Ice,PHY,True
 Double Shock,IX,Steiner,Sync,Fire Lightning Ice,PHY,False
 Reckless Blade,IX,Steiner,Sync,Fire Lightning Ice,PHY,False
 Frostfire Thunder Carnage,IX,Steiner,OLB,Fire Lightning Ice,PHY,True
@@ -2262,7 +2262,7 @@ Life Crystal,XII,Larsa,BSB,NE,NA,True
 Scintillating Potion,XII,Larsa,USB,NE,NA,True
 Potion Shower,XII,Larsa,USB,NE,NA,False
 Potions Aplenty,XII,Larsa,USB,NE,NA,False
-Hi-Potion (XII),XII,Larsa,GL2,NE,NA,False
+Hi-Potion (XII),XII,Larsa,GL2,NE,NA,True
 Alabaster Path,XII,Larsa,GL2,NE,NA,True
 Unsullied Prince,XII,Larsa,GL,NE,NA,True
 Soothing Wave,XII,Larsa,AW,NE,NA,True

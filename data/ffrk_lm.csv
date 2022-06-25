@@ -49,7 +49,7 @@ A Father's Love,5,Josef,II,0.2,Every1,Monk,AdditionalTrigger,True
 Man of Virtue,5,Josef,II,1.0,Start,Ice,Infusion,False
 Bloody Past,5,Emperor,II,0.2,Every1,Black Darkness,AdditionalTrigger,True
 Drastic Despot,5,Emperor,II,1.0,Start,Dark,Infusion,True
-Risen Tyrant,5,Emperor,II,1.0,EquipWeapon,Rod,Dmg 1.5xMAG,False
+Risen Tyrant,5,Emperor,II,1.0,EquipWeapon,Rod,Dmg 1.5xMAG,True
 Despotic Stratagem,5,Emperor,II,1.0,Start,Earth,Infusion,False
 Soul of Rebirth,5,Emperor,II,1.0,LowHP,NA,ReduceDelay Healing,False
 Noble Blood,5,Hilda,II,0.2,Every1,White,AdditionalTrigger,False
