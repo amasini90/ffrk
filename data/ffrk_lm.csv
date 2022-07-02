@@ -67,7 +67,7 @@ The Road Ahead,5,Refia,III,1.0,Start,Fire,Infusion,True
 Onslaught (Refia),6,Refia,III,0.3,Every1,Monk,Followup PHY,False
 Quickstrike (Refia),6,Refia,III,1.0,Start,Fire,ReduceDelay Followup PHY,False
 Resolute Warrior,5,Ingus,III,1.0,Start,Earth,Infusion,True
-Loyal Heart,5,Ingus,III,0.2,EquipArmor,Shield,ReduceDmg,False
+Loyal Heart,5,Ingus,III,0.2,EquipArmor,Shield HeavyArmor,ReduceDmg,False
 Hidden Feelings,5,Ingus,III,0.2,Every1,Knight,AdditionalTrigger,False
 Stoic Knight,5,Ingus,III,0.2,Every1,Knight,Followup PHY Healing,False
 Aimless Wanderer,5,Desch,III,1.0,Start,NA,Haste NoDelay1,True
@@ -75,7 +75,7 @@ Lovestruck Wanderer,5,Desch,III,1.0,Start,Lightning,Infusion,False
 Total Devotion,5,Desch,III,1.0,Every1,Black,IncreaseMAG,False
 Bounding Growth,5,Onion Kinght,III,1.0,Start,Water,Infusion,True
 Nom de Guerre,5,Onion Knight,III,1.0,Start,NA,NoDelay2,True
-Power Overflowing,5,Onion Knight,III,1.0,EquipWeapon,Rod,Dmg 1.5xMAG,False
+Power Overflowing,5,Onion Knight,III,1.0,EquipWeapon,Rod Sword,Dmg 1.5xMAG,False
 Herald of Darkness,5,Cloud of Darkness,III,1.0,Start,NA,Haste NoDelay1,True
 Spawn of Darkness,5,Cloud of Darkness,III,1.0,Start,Dark,Infusion,True
 Oblivion Seeker,5,Cloud of Darkness,III,0.2,Every1,Dark,AdditionalTrigger,False
@@ -166,7 +166,7 @@ On the Rebound,5,Locke,VI,0.2,Every1,Fire,AdditionalTrigger,False
 Rebel Knight,5,Celes,VI,1.0,Start,Ice,Infusion,True
 Rune Knight Spellmaster,5,Celes,VI,0.2,Every1,Spellblade,AdditionalTrigger,True
 Moogle Survivor,5,Mog,VI,0.2,Every1,Dancer,Debuff 1.3xATK 1.3xMAG 1.3xMND,True
-Dancing Death,5,Mog,VI,1.0,Start,NA,ReduceDelay,False
+Dancing Death,5,Mog,VI,1.0,Start,NA,ReduceDelay,True
 Boos Moogle,5,Mog,VI,1.0,Auto,NA,Buff 1.2xDuration,False
 Hastening (Mog),6,Mog,VI,1.0,Every3,Dancer Dragoon,ReduceDelay,False
 Awkward Inventor,5,Edgar,VI,0.2,Every1,Machinist,Fire Imperil,False

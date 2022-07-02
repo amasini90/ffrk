@@ -77,9 +77,9 @@ Steiner,IX,99,99,1
 Garnet,IX,99,99,1
 Freya,IX,65,99,1
 Beatrix,IX,99,99,1
-Zidane,IX,99,50,1
+Zidane,IX,99,99,1
 Amarant,IX,99,99,1
-Vivi,IX,50,80,1
+Vivi,IX,99,99,1
 Quina,IX,99,99,0
 Kuja,IX,0,99,1
 Braska,X,80,65,1
@@ -129,3 +129,12 @@ Ovelia,FFT,65,80,1
 Serafie,FFBe,99,99,1
 Wedge,Core,99,80,1
 Dr. Mog,Core,99,99,1
+Squall,VIII,0,0,0
+Selphie,VIII,0,0,0
+Ayame,XI,0,0,0
+Josef,II,0,0,0
+Laguna,VIII,0,0,0
+Ysayle,XIV,0,0,0
+Serah,XIII,0,0,0
+Celes,VI,0,0,0
+Snow,XIII,0,0,0

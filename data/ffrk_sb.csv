@@ -475,7 +475,7 @@ Primed Jump,IV,Kain,GL2,NE,NA,False
 Lance of the Dragon,IV,Kain,AW,Lightning,PHY,True
 Raging Dragoon,IV,Kain,AW,Lightning Dark,PHY,False
 Blood Dragoon,IV,Kain,Sync,Lightning,PHY,False
-Cross Javelin,IV,Kain,Sync,Lightning Dark,PHY,False
+Cross Javelin,IV,Kain,Sync,Lightning Dark,PHY,True
 Lightning Raiment (Kain),IV,Kain,GLB,Lightning,NA,False
 Dual Dragon Dive,IV,Kain,OLB,Lightning Dark,PHY,False
 Apex Jump,IV,Kain,AD,Lightning,PHY,False
@@ -533,7 +533,7 @@ Exploding Volcano Kick,IV,Yang,SSB,Earth,PHY,False
 Seven-Star Heavenly Fist,IV,Yang,BSB,Earth,PHY,False
 Shuddering Fist,IV,Yang,USB,Earth,PHY,True
 Fist Dance,IV,Yang,ASB,Earth,PHY,True
-Concentrate (IV),IV,Yang,GL,Earth,NA,False
+Concentrate (IV),IV,Yang,GL,Earth,NA,True
 Kick Fest,IV,Yang,AW,Earth,PHY,False
 Oboro Strike,IV,Yang,Sync,Earth,PHY,False
 Chaincast Boltstorm,IV,Palom,SSB,Lightning,MAG,False
@@ -720,7 +720,7 @@ King of Bal,V,Galuf,GL2,Earth,NA,False
 Laws of Nature,V,Galuf,AW,Earth,PHY,False
 Dawn Combo,V,Galuf,AW,Earth,PHY,False
 Dawn Unity,V,Galuf,Sync,Earth,PHY,False
-Soul Successor,V,Galuf,Sync,Earth,PHY,False
+Soul Successor,V,Galuf,Sync,Earth,PHY,True
 Gaia Gazer,V,Galuf,OLB,Earth,PHY,True
 Fantastic Symmetry,V,Gogo (V),SSB,NE,NA,True
 Deep Aqua Breath,V,Gogo (V),BSB,Water,MAG,True
@@ -1362,7 +1362,7 @@ Envious Thunder,VII,Angeal,GL,NE,NA,False
 You Owe Me One,VII,Angeal,GL2,Holy Wind,PHY,False
 Warrior's Dignity,VII,Angeal,GL2,Holy Wind,NA,False
 Pride and Ambition,VII,Angeal,AW,Holy Wind,PHY,True
-Burden of Pride,VII,Angeal,AW,Holy Wind,PHY,False
+Burden of Pride,VII,Angeal,AW,Holy Wind,PHY,True
 White-Winged SOLDIER,VII,Angeal,Sync,Holy Wind,PHY,False
 True Unleashed Wrath,VII,Angeal,OLB,Holy Wind,PHY,True
 Succession,VII,Angeal,AD,Wind Holy,PHY,True
@@ -1604,7 +1604,7 @@ Indomitable Will,VIII,Raijin,GL2,NE,NA,False
 Valiant Assault,VIII,Raijin,GL2,NE,NA,False
 Indomitable Thunderclap,VIII,Raijin,GL2,NE,NA,False
 Stormcall,VIII,Raijin,AW,Lightning,PHY,False
-Thunderstorm Assault,VIII,Raijin,Sync,Lightning,PHY,False
+Thunderstorm Assault,VIII,Raijin,Sync,Lightning,PHY,True
 Raijin Destruction Special,VIII,Raijin,OLB,Lightning,PHY,False
 Apex Raijin Special,VIII,Raijin,AD,Lightning,PHY,False
 Awoken Lightning Raid,VIII,Raijin,DuAW,Lightning,PHY,False
@@ -1691,7 +1691,7 @@ Thunder Serenade,IX,Garnet,AW,Lightning,MAG,False
 Summoner's Legacy,IX,Garnet,AW,Lightning Holy,MAG,True
 Peridot Thunder,IX,Garnet,Sync,Lightning,MAG,False
 Rendezvous Hour,IX,Garnet,Sync,Holy Lightning,MAG,False
-Truespark Anthem,IX,Garnet,OLB,Lightning,MAG,False
+Truespark Anthem,IX,Garnet,OLB,Lightning,MAG,True
 Thundering Dark,IX,Garnet,AD,Lightning,MAG,False
 Awoken Ramuh,IX,Garnet,DuAW,Lightning,MAG,False
 Doublecast Venom,IX,Vivi,Unique,Poison,MAG,False
@@ -1815,7 +1815,7 @@ Seiken Climhazzard,IX,Beatrix,OSB,Holy,PHY,False
 Rose Finale,IX,Beatrix,USB,Holy,PHY,True
 Seiken Holy Hazzard,IX,Beatrix,ASB,Holy,PHY,False
 Rose Catharsis,IX,Beatrix,GL2,Holy,NA,True
-Noblest Kinght,IX,Beatrix,GL,Holy,NA,False
+Noblest Kinght,IX,Beatrix,GL,Holy,NA,True
 Seiken Climcross,IX,Beatrix,AW,Holy,PHY,False
 Seiken Shock End,IX,Beatrix,Sync,Holy,PHY,False
 Spectral Break,IX,Beatrix,Sync,Holy,PHY,False
