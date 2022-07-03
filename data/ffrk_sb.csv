@@ -1436,6 +1436,7 @@ Revolver Overdrive,VIII,Squall,ASB,Fire,PHY,False
 Fated Aura,VIII,Squall,GL,Fire,NA,True
 Blasting Force,VIII,Squall,GL2,Ice,NA,False
 Fated Force,VIII,Squall,GL2,Fire,NA,True
+Lion Force,VIII,Squall,GL2,NE,NA,False
 Blasting Aura,VIII,Squall,GL,Ice,NA,True
 Fatal Frost,VIII,Squall,AW,Ice,PHY,True
 End of Flame,VIII,Squall,AW,Fire,PHY,False
@@ -1447,6 +1448,8 @@ Lion Heart,VIII,Squall,AD,Ice,PHY,False
 Apex Draw & Junction,VIII,Squall,AD,Fire,PHY,False
 Renzokuken Iceflame,VIII,Squall,OLB,Ice Fire,PHY,False
 Bond (Squall),VIII,Squall,Chain4,ALL,PHY MAG,False
+Woven Bond: Squall,VIII,Squall,LBC,ALL,PHY MAG,False
+Awoken Steely Blade,VIII,Squall,DuAW,Ice,PHY,True
 Angel Wing Bolt,VIII,Rinoa,Unique,Lightning,MAG,False
 Angel Wing Quake,VIII,Rinoa,Unique,Earth,MAG,False
 The Brothers,VIII,Rinoa,Unique,Earth,MAG,False
@@ -1465,6 +1468,7 @@ Angel Wing Magic Mien,VIII,Rinoa,GL,NE,NA,True
 Sublime Sorcery,VIII,Rinoa,GL2,NE,NA,False
 Angel Wing Ice Dust,VIII,Rinoa,GL2,Ice,MAG,False
 Grand Refrain,VIII,Rinoa,GL2,Earth,NA,False
+Angel Wing Dash,VIII,Rinoa,GL2,NE,NA,False
 Cherubim Shot,VIII,Rinoa,AW,Ice,MAG,False
 Star Cradle,VIII,Rinoa,AW,Earth,MAG,True
 Star of Hope,VIII,Rinoa,AW,Ice Earth,MAG,False
@@ -1473,6 +1477,8 @@ Angel Wing Cross,VIII,Rinoa,Sync,Ice,MAG,False
 Apocalypse R,VIII,Rinoa,Sync,Ice,MAG,False
 Angel Wing Permafrost,VIII,Rinoa,OLB,Ice Earth,MAG,False
 Angel Wind Extreme,VIII,Rinoa,AD,Ice,MAG,False
+Woven Bond: Rinoa,VIII,Rinoa,LBC,ALL,PHY MAG,False
+Awoken Cherubim Shot,VIII,Rinoa,DuAW,Ice,MAG,False
 Maser Eye,VIII,Quistis,Unique,NE,MAG,True
 Mighty Guard (VIII),VIII,Quistis,SSB,NE,NA,False
 Cerberus,VIII,Quistis,SSB,NE,NA,True
@@ -1837,6 +1843,9 @@ Ultima Symphony,IX,Kuja,AW,Dark,MAG,False
 Chaos Divider,IX,Kuja,Sync,Dark,MAG,False
 Force Requiem,IX,Kuja,OLB,Dark,MAG,True
 Soul Resonance,IX,Kuja,AD,Dark,MAG,False
+Planet Reaper,IX,Kuja,AW,Dark,MAG,True
+Woven Bond: Kuja - Dark,IX,Kuja,LBC,Dark,MAG,False
+Awoken Darkflare Star,IX,Kuja,DuAW,Dark,MAG,False
 Tantalus Break,IX,Marcus,SSB,Wind Poison,PHY,False
 Poison Impulse,IX,Marcus,BSB,Wind Poison,PHY,False
 Phantom Hazard,IX,Marcus,USB,Wind Poison,PHY,False
@@ -3080,6 +3089,7 @@ Magika Amuletum,Core,Elarra,GL2,NE,NA,False
 Magika Phoenix,Core,Elarra,AW,NE,NA,False
 Magika Animus,Core,Elarra,Sync,NE,NA,True
 Magika Stella,Core,Elarra,Sync,NE,NA,False
+Awoken Magika Album,Core,Elarra,DuAW,NE,NA,False
 Boulder Blow,Core,Biggs,USB,Earth Holy,PHY,True
 Flashy Blow,Core,Biggs,GL,Earth,PHY,False
 Agent's Strike,Core,Biggs,GL2,Earth,PHY,False

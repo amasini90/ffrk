@@ -129,7 +129,7 @@ Ovelia,FFT,65,80,1
 Serafie,FFBe,99,99,1
 Wedge,Core,99,80,1
 Dr. Mog,Core,99,99,1
-Squall,VIII,0,0,0
+Squall,VIII,50,50,0
 Selphie,VIII,0,0,0
 Ayame,XI,0,0,0
 Josef,II,0,0,0
@@ -137,4 +137,4 @@ Laguna,VIII,0,0,0
 Ysayle,XIV,0,0,0
 Serah,XIII,0,0,0
 Celes,VI,0,0,0
-Snow,XIII,0,0,0
+Snow,XIII,50,0,1

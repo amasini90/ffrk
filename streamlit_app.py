@@ -25,7 +25,7 @@ def main():
 
     weights = {"Unique":0.1, "SSB":0.5, "BSB":0.75, "OSB":1.0, "GL":1.25, "GL2":1.5, "ASB":2.0,
             "AD":2.75, "Chain":1.5, "Chain2":3.0, "Chain3":3.5, "Chain4":4.5, "USB":1.75, "AW":2.5, "Sync":3.0,
-            "OLB":1.75, "GLB":1.0, "Guardian":2.0, "DuAW":4.0}
+            "OLB":1.75, "GLB":1.0, "Guardian":2.0, "DuAW":4.0, "LBC":4.25}
     weights_lm = {5:0.5, 6:1.5}
 
     Elements = ["Fire","Ice","Lightning","Wind","Earth","Water","Holy","Dark"]
