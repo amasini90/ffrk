@@ -481,7 +481,7 @@ Dual Dragon Dive,IV,Kain,OLB,Lightning Dark,PHY,False
 Apex Jump,IV,Kain,AD,Lightning,PHY,False
 Awoken Gungnir,IV,Kain,DuAW,Lightning,PHY,False
 Radiant Breath,IV,Rydia,Unique,Holy,MAG,True
-Summon Eidolon II,IV,Rydia,Unique,Ice,MAG,False
+Summon Eidolon II,IV,Rydia,Unique,Ice,MAG,True
 Odin,IV,Rydia,SSB,NE,MAG,False
 Mournful Cry,IV,Rydia,BSB,Earth,MAG,False
 Law of the Eidolons,IV,Rydia,BSB,Holy Water,MAG,True
@@ -719,7 +719,7 @@ Iron Valor,V,Galuf,GL2,Earth,NA,False
 King of Bal,V,Galuf,GL2,Earth,NA,False
 Laws of Nature,V,Galuf,AW,Earth,PHY,False
 Dawn Combo,V,Galuf,AW,Earth,PHY,False
-Dawn Unity,V,Galuf,Sync,Earth,PHY,False
+Dawn Unity,V,Galuf,Sync,Earth,PHY,True
 Soul Successor,V,Galuf,Sync,Earth,PHY,True
 Gaia Gazer,V,Galuf,OLB,Earth,PHY,True
 Fantastic Symmetry,V,Gogo (V),SSB,NE,NA,True
@@ -1202,7 +1202,7 @@ Chain Somersault,VII,Tifa,AW,Earth,PHY,False
 Zangan's Infinitude,VII,Tifa,Sync,Earth,PHY,True
 Limit Combo,VII,Tifa,Sync,Earth,PHY,True
 Crushing Palm,VII,Tifa,OLB,Earth,PHY,False
-Final Heaven,VII,Tifa,AD,Earth,PHY,False
+Final Heaven,VII,Tifa,AD,Earth,PHY,True
 Awoken Meteor Arts,VII,Tifa,DuAW,Earth,PHY,True
 Healing Wind,VII,Aerith,Unique,NE,NA,False
 Planet Protector,VII,Aerith,Unique,NE,NA,False
@@ -1850,7 +1850,7 @@ Tantalus Break,IX,Marcus,SSB,Wind Poison,PHY,False
 Poison Impulse,IX,Marcus,BSB,Wind Poison,PHY,False
 Phantom Hazard,IX,Marcus,USB,Wind Poison,PHY,False
 Moment of Vengeance,IX,Marcus,USB,Wind Poison,PHY,False
-Triple Twister,IX,Marcus,ASB,Wind Poison,PHY,False
+Triple Twister,IX,Marcus,ASB,Wind Poison,PHY,True
 Leave it to Me,IX,Marcus,GL,Wind Poison,NA,False
 Blade Gambit,IX,Marcus,AW,Wind Poison,PHY,True
 There You Go!,IX,Marcus,Sync,Wind Poison,PHY,False
@@ -1896,7 +1896,7 @@ Calm Prayer,X,Yuna,USB,NE,NA,False
 Fanciful Ballad,X,Yuna,Chain3,Holy,MAG,False
 Grand Summon Dragonlord,X,Yuna,ASB,Holy Wind,MAG,False
 Boundless Heart,X,Yuna,GL2,Holy,NA,False
-Fayth's Refuge,X,Yuna,GL,Holy,NA,False
+Fayth's Refuge,X,Yuna,GL,Holy,NA,True
 Bright Prospects,X,Yuna,GL,Holy,NA,False
 Yearning Prayer,X,Yuna,GL2,NE,NA,False
 Final Wall,X,Yuna,GL2,NE,NA,False
@@ -1958,7 +1958,7 @@ Ocean Breath,X,Kimahri,AW,Water,PHY,False
 Inherited Resolve,X,Kimahri,Sync,Water,PHY,False
 Nova,X,Kimahri,AD,Water,PHY,False
 Awoken Fang of Gagazet,X,Kimahri,DuAW,Water,PHY,True
-Hazardous Shell,X,Rikku,Unique,NE,PHY,False
+Hazardous Shell,X,Rikku,Unique,NE,PHY,True
 Machina Sabotage,X,Rikku,Unique,NE,PHY,True
 Hyper NulAll,X,Rikku,Unique,NE,NA,False
 Master Thief,X,Rikku,SSB,NE,PHY,False
@@ -2303,7 +2303,7 @@ Dalmascan Hazard,XII,Reks,Sync,Lightning,PHY,True
 Patriot’s Sword,XII,Reks,AD,Lightning,PHY,False
 Awoken Voltaic Slash,XII,Reks,DuAW,Lightning,PHY,False
 Blaze Rush,XIII,Lightning,Unique,NE,PHY,True
-Smite,XIII,Lightning,Unique,NE,PHY,False
+Smite,XIII,Lightning,Unique,NE,PHY,True
 Stormborn,XIII,Lightning,Unique,Lightning,NA,False
 Crushing Blow,XIII,Lightning,SSB,Lightning,PHY,False
 Lightning Strike,XIII,Lightning,SSB,Lightning,PHY,False
@@ -2368,7 +2368,7 @@ Rose Promenade,XIII,Vanille,AW,NE,NA,True
 Come On Hecaton!,XIII,Vanille,Sync,NE,NA,False
 Steel of Oath,XIII,Vanille,Sync,Earth,MAG,False
 Boon,XIII,Sazh,Unique,NE,NA,True
-Caltrop Bomb,XIII,Sazh,Unique,Fire,PHY,False
+Caltrop Bomb,XIII,Sazh,Unique,Fire,PHY,True
 Godsend,XIII,Sazh,SSB,NE,NA,True
 The Choco-Chick,XIII,Sazh,SSB,NE,NA,True
 Choco-Chick Blues,XIII,Sazh,BSB,NE,PHY,True
@@ -2671,7 +2671,7 @@ True Highwind,XV,Aranea,AW,Lightning Dark,PHY,False
 Spearouette,XV,Aranea,Sync,Lightning Dark,PHY,False
 Apex Highwind,XV,Aranea,AD,Lightning Dark,PHY,False
 Predecessor's Might,XV,Cor,USB,Fire,PHY,True
-In Service of Kings,XV,Cor,ASB,Fire,PHY,False
+In Service of Kings,XV,Cor,ASB,Fire,PHY,True
 Lucian Might,XV,Cor,GL2,NE,NA,False
 Immortal Blade,XV,Cor,GL,Fire,PHY,True
 Harangue,XV,Cor,AW,Fire,PHY,True
