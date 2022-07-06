@@ -1448,7 +1448,7 @@ Lion Heart,VIII,Squall,AD,Ice,PHY,False
 Apex Draw & Junction,VIII,Squall,AD,Fire,PHY,False
 Renzokuken Iceflame,VIII,Squall,OLB,Ice Fire,PHY,False
 Bond (Squall),VIII,Squall,Chain4,ALL,PHY MAG,False
-Woven Bond: Squall,VIII,Squall,LBC,ALL,PHY MAG,False
+Woven Bond: Squall,VIII,Squall,CLB,ALL,PHY MAG,False
 Awoken Steely Blade,VIII,Squall,DuAW,Ice,PHY,True
 Angel Wing Bolt,VIII,Rinoa,Unique,Lightning,MAG,False
 Angel Wing Quake,VIII,Rinoa,Unique,Earth,MAG,False
@@ -1477,7 +1477,7 @@ Angel Wing Cross,VIII,Rinoa,Sync,Ice,MAG,False
 Apocalypse R,VIII,Rinoa,Sync,Ice,MAG,False
 Angel Wing Permafrost,VIII,Rinoa,OLB,Ice Earth,MAG,False
 Angel Wind Extreme,VIII,Rinoa,AD,Ice,MAG,False
-Woven Bond: Rinoa,VIII,Rinoa,LBC,ALL,PHY MAG,False
+Woven Bond: Rinoa,VIII,Rinoa,CLB,ALL,PHY MAG,False
 Awoken Cherubim Shot,VIII,Rinoa,DuAW,Ice,MAG,False
 Maser Eye,VIII,Quistis,Unique,NE,MAG,True
 Mighty Guard (VIII),VIII,Quistis,SSB,NE,NA,False
@@ -1574,11 +1574,14 @@ Junction Link,VIII,Laguna,Chain2,Ice,PHY,False
 Freezing Crush,VIII,Laguna,ASB,Ice,PHY,True
 Freeze Missiles,VIII,Laguna,GL,Ice,PHY,True
 Junction Freeze,VIII,Laguna,GL2,Ice,NA,False
+Junction Charge,VIII,Laguna,GL2,NE,NA,False
 Tactical Attack,VIII,Laguna,AW,Ice,PHY,True
 Parallel Desperado,VIII,Laguna,AW,Ice,PHY,False
 Freezing Downpour,VIII,Laguna,Sync,Ice,PHY,False
 Tactical Freeze,VIII,Laguna,OLB,Ice,PHY,False
 Ultimate Ragnarok Cannon,VIII,Laguna,AD,Ice,PHY,False
+Woven Bond: Laguna - Ice,VIII,Laguna,CLB,Ice,PHY,False
+Awoken Desperado,VIII,Laguna,DuAW,Ice,PHY,False
 Inaugural Parade,VIII,Edea,Unique,NE,NA,False
 Ice Strike,VIII,Edea,SSB,Ice,MAG,True
 Time Crush,VIII,Edea,SSB,Dark,MAG,False
@@ -1844,7 +1847,7 @@ Chaos Divider,IX,Kuja,Sync,Dark,MAG,False
 Force Requiem,IX,Kuja,OLB,Dark,MAG,True
 Soul Resonance,IX,Kuja,AD,Dark,MAG,False
 Planet Reaper,IX,Kuja,AW,Dark,MAG,True
-Woven Bond: Kuja - Dark,IX,Kuja,LBC,Dark,MAG,False
+Woven Bond: Kuja - Dark,IX,Kuja,CLB,Dark,MAG,False
 Awoken Darkflare Star,IX,Kuja,DuAW,Dark,MAG,False
 Tantalus Break,IX,Marcus,SSB,Wind Poison,PHY,False
 Poison Impulse,IX,Marcus,BSB,Wind Poison,PHY,False
@@ -2437,9 +2440,11 @@ Artemis Field,XIII,Serah,GL,Water,NA,True
 Artemis Charge,XIII,Serah,GL2,NE,NA,False
 Ultracold,XIII,Serah,AW,Ice Water,MAG,False
 Arrow of Tears,XIII,Serah,AW,Water,MAG,False
+Artemis Archer,XIII,Serah,AW,Ice Water,MAG,False
 Transcendent Arrow,XIII,Serah,Sync,Ice,MAG,False
 Tidal Arrow,XIII,Serah,Sync,Water,MAG,True
 Apex Ultima Arrow,XIII,Serah,AD,Ice,MAG,False
+Awoken Eternity Unpromised,XIII,Serah,DuAW,Ice,MAG,False
 Offensive Shift,XIII,Cid Raines,Unique,NE,MAG,False
 Seraphic Ray,XIII,Cid Raines,SSB,Holy,MAG,True
 Seraph's Wing,XIII,Cid Raines,SSB,NE,MAG,True
@@ -2650,8 +2655,12 @@ Custom Starshell,XV,Prompto,Chain2,Lightning,PHY,True
 Party Shot,XV,Prompto,Chain3,ALL,PHY MAG,False
 Ballistic,XV,Prompto,GL2,Lightning,PHY,False
 Spark Rave,XV,Prompto,GL2,Lightning,NA,True
+Chronicler of Fates,XV,Prompto,GL2,NE,NA,False
 Prized Quarry,XV,Prompto,AW,Lightning,PHY,False
 Miracle Trigger,XV,Prompto,Sync,Lightning,PHY,False
+Trigger Hunt,XV,Prompto,OLB,Lightning,PHY,False
+Crackshot,XV,Prompto,AD,Lightning,PHY,False
+Awoken Starshell,XV,Prompto,DuAW,Lightning,PHY,False
 Eclipse,XV,Iris,SSB,NE,MAG,False
 Kupo Cure,XV,Iris,BSB,NE,NA,True
 Amicitia's Cheer,XV,Iris,USB,NE,NA,True

@@ -411,6 +411,7 @@ Sister's Strenght,5,Serah,XIII,1.0,Start,Ice,Infusion,True
 Second Sight,5,Serah,XIII,0.2,Every1,Ice,AdditionalTrigger,False
 Meanie Miss,5,Serah,XIII,1.0,Start,Water,Infusion,False
 Re-action (Serah),6,Serah,XIII,1.0,Every3,Water,AdditionalTrigger,False
+Velocity (Serah),6,Serah,XIII,1.0,Start,NA,FullATB ReduceDelay,False
 Mouth of the Dead,5,Cid Raines,XIII,1.0,Auto,NA,Buff 1.2xDuration,True
 Tragic End,5,Cid Raines,XIII,1.0,Start,Dark,Infusion,False
 Hastening (Cid Raines),6,Cid Raines,XIII,1.0,Every3,Dark Holy,ReduceDelay,False
