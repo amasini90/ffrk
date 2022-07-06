@@ -2440,10 +2440,10 @@ Artemis Field,XIII,Serah,GL,Water,NA,True
 Artemis Charge,XIII,Serah,GL2,NE,NA,False
 Ultracold,XIII,Serah,AW,Ice Water,MAG,False
 Arrow of Tears,XIII,Serah,AW,Water,MAG,False
-Artemis Archer,XIII,Serah,AW,Ice Water,MAG,False
+Artemis Archer,XIII,Serah,AW,Ice Water,MAG,True
 Transcendent Arrow,XIII,Serah,Sync,Ice,MAG,False
 Tidal Arrow,XIII,Serah,Sync,Water,MAG,True
-Apex Ultima Arrow,XIII,Serah,AD,Ice,MAG,False
+Apex Ultima Arrow,XIII,Serah,AD,Ice,MAG,True
 Awoken Eternity Unpromised,XIII,Serah,DuAW,Ice,MAG,False
 Offensive Shift,XIII,Cid Raines,Unique,NE,MAG,False
 Seraphic Ray,XIII,Cid Raines,SSB,Holy,MAG,True
