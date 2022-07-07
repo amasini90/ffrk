@@ -312,7 +312,7 @@ Blitz Basics,5,Tidus,X,0.3,Every1,Water,ReduceDelay,False
 Family Tradition,5,Yuna,X,0.2,Every1,Summon,AdditionalTrigger,True
 Unfaltering Devotion,5,Yuna,X,1.0,Start,Holy,Infusion,False
 Just Whistle,5,Yuna,X,0.2,Every1,White,AdditionalTrigger,False
-Victory Awaits,5,Wakka,X,0.2,Every1,Sharpshooter,AdditionalTrigger,False
+Victory Awaits,5,Wakka,X,0.2,Every1,Sharpshooter,AdditionalTrigger,True
 Technical Control,5,Wakka,X,1.0,Auto,NA,Debuff 1.2xDuration,False
 Third Pilgrimage,5,Lulu,X,1.0,Every1,Black,IncreaseMAG,True
 Harshest Judge,5,Lulu,X,1.0,Start,Water,Infusion,False
@@ -376,7 +376,7 @@ Fallen Pride,5,Ashe,XII,1.0,Start,Lightning,Infusion,False
 Compassion's Hand,5,Penelo,XII,0.2,Every1,White,AdditionalTrigger,False
 Bound by Vengeance,5,Gabranth,XII,0.2,Every1,Dark,AdditionalTrigger,True
 Magister of the 9th,5,Gabranth,XII,0.3,Every1,Dark,Grant HeavyCharge1,True
-Clad in Darkness,5,Gabranth,XII,1.0,Start,Dark,Infusion,False
+Clad in Darkness,5,Gabranth,XII,1.0,Start,Dark,Infusion,True
 Precocious Wisdom,5,Larsa,XII,0.2,Every1,White,SmallGroup Healing,True
 Arc of Justice,5,Larsa,XII,0.2,Every1,White,Grant Target DebuffBarrier,True
 Young Successor,5,Larsa,XII,0.2,Every1,White,Grant Self DebuffBarrier,False

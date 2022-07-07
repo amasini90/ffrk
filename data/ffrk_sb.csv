@@ -1494,7 +1494,7 @@ Aqua Bubbles,VIII,Quistis,GL2,Water,NA,False
 King's Charge,VIII,Quistis,GL2,NE,NA,False
 Lesson Time,VIII,Quistis,AW,Water Poison,MAG,False
 Ultra Waves,VIII,Quistis,AW,Water Poison,MAG,True
-Homing Laser,VIII,Quistis,Sync,Water Poison,MAG,False
+Homing Laser,VIII,Quistis,Sync,Water Poison,MAG,True
 Ray of Poison,VIII,Quistis,Sync,Poison,MAG,False
 Apex Shockwave Pulsar,VIII,Quistis,AD,Water Poison,MAG,False
 Guardian Doomtrain,VIII,Quistis,Guardian,Poison,MAG,False
@@ -2159,7 +2159,7 @@ Bond (Vaan),XII,Vaan,Chain4,ALL,PHY MAG,False
 Whitest Whorl,XII,Vaan,ASB,Wind,PHY,False
 Rabanastre Rumble,XII,Vaan,GL,Wind,PHY,True
 Spiral Wind II,XII,Vaan,GL2,Wind,NA,True
-Spiral Wind,XII,Vaan,GL,Wind,NA,False
+Spiral Wind,XII,Vaan,GL,Wind,NA,True
 Dreadnought,XII,Vaan,AW,Wind,PHY,False
 Luminescence,XII,Vaan,AW,Wind,PHY,False
 Head Strike,XII,Vaan,Sync,Wind,PHY,False
