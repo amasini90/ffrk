@@ -175,6 +175,7 @@ Boisterous Brawler,5,Sabin,VI,1.0,Start,Fire,Infusion,False
 Master's Teachings,5,Sabin,VI,1.0,Every1,Monk,IncreaseATK,False
 Man of Action,5,Shadow,VI,0.2,Every1,Ninja,Grant MirrorImage,False
 Cloak of Darkness,5,Shadow,VI,1.0,Start,Dark,Infusion,False
+Herald (Shadow),6,Shadow,VI,1.0,Start,Dark,Infusion ReduceDelay,False
 Self Reliance,5,Cyan,VI,1.0,Start,Fire,Infusion,False
 Refinement (Cyan),6,Cyan,VI,1.0,Auto,NA,Dmg 1.5xPHY,True
 Untamed Energy,5,Gau,VI,1.0,LowHP,NA,Healing ReduceDelay,False

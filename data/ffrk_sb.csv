@@ -912,6 +912,8 @@ Trance (Terra),VI,Terra,AD,Wind,MAG,False
 Riot Blade,VI,Terra,AD,Fire,MAG,False
 Guardian Maduin,VI,Terra,Guardian,Fire,MAG,False
 Awoken Trance Fira,VI,Terra,DuAW,Fire,MAG,False
+Awoken Tornado Combo,VI,Terra,DuAW,Wind,MAG,False
+Woven Bond: Terra - Wind,VI,Terra,CLB,Wind,MAG,False
 Mirage Dive,VI,Locke,Unique,NE,PHY,False
 Phoenix Plunder,VI,Locke,Unique,Fire,PHY,False
 Valiant Strike,VI,Locke,SSB,NE,PHY,False
@@ -1018,8 +1020,12 @@ Wrapped in Darkness,VI,Shadow,GL,NE,PHY,True
 Abyssal Cloak,VI,Shadow,GL,Dark,NA,True
 Fleeting Shadow,VI,Shadow,GL2,NE,NA,False
 Assassin Lord,VI,Shadow,AW,Dark,PHY,True
+Fade Away,VI,Shadow,AW,Dark,PHY,False
 Davastating Carnage,VI,Shadow,Sync,Dark,PHY,False
 Apex Shadow Fang,VI,Shadow,AD,Dark,PHY,False
+Dark Veil,VI,Shadow,OLB,Dark,PHY,False
+Awoken Assassin Lord,VI,Shadow,DuAW,Dark,PHY,False
+Woven Bond: Shadow - Dark,VI,Shadow,CLB,Dark,PHY,False
 Bushido Dragon,VI,Cyan,Unique,NE,PHY,True
 Bushido Flurry,VI,Cyan,Unique,NE,PHY,False
 Bushido Bloodmoon,VI,Cyan,SSB,NE,PHY,False
@@ -1119,12 +1125,14 @@ Magitek Rampage,VI,Kefka,USB,Dark Poison,MAG,False
 Magitek Triad,VI,Kefka,ASB,Dark Poison,MAG,False
 Path to Madness,VI,Kefka,GL,Dark,NA,False
 Scornful Laugh,VI,Kefka,GL2,Dark Poison,NA,False
+Secret Ambition,VI,Kefka,GL2,NE,NA,False
 Stroke of Destruction,VI,Kefka,AW,Dark Poison,MAG,False
 Symphony of Destruction,VI,Kefka,AW,Poison,MAG,False
 Rising Tone,VI,Kefka,Sync,Dark Poison,MAG,False
 Catastrophe Zero,VI,Kefka,OLB,Dark Poison,MAG,False
 Dark Raiment (Kefka),VI,Kefka,GLB,Dark,NA,False
 Cruelest Angel,VI,Kefka,AD,Dark Poison,MAG,False
+Awoken Stroke of Destruction,VI,Kefka,DuAW,Dark Poison,MAG,False
 Shock,VI,Leo,SSB,Holy,PHY,True
 Warrior's Warrior,VI,Leo,BSB,Holy Earth,PHY,True
 Shock Imperial,VI,Leo,USB,Holy Earth,PHY,True
