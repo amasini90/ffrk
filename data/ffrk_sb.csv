@@ -27,7 +27,7 @@ Discord Incarnate,I,Garland,OSB,Dark,PHY,False
 Source of Hatred,I,Garland,USB,Dark,PHY,True
 Chaos Genocide,I,Garland,USB,Dark,PHY,True
 Bent on Destruction,I,Garland,Chain,Dark,PHY,True
-Chain of Chaos,I,Garland,Chain3,ALL,PHY MAG,False
+Chain of Chaos,I,Garland,Chain3,ALL,PHY MAG,True
 Scion of Malice,I,Garland,ASB,Dark,PHY,False
 Love or Loathe,I,Garland,GL2,Dark,PHY,False
 Glimpse of Chaos,I,Garland,GL,Dark,PHY,True
@@ -174,7 +174,7 @@ Knight in the Dark,II,Leon,AW,Dark,PHY,False
 Shadow Force,II,Leon,Sync,Dark,PHY,False
 Teleport XVI,II,Minwu,Unique,NE,MAG,False
 Will of the White Mage,II,Minwu,SSB,NE,NA,True
-Seal of Heaven,II,Minwu,BSB,Holy,MAG,False
+Seal of Heaven,II,Minwu,BSB,Holy,MAG,True
 Holy XVI,II,Minwu,BSB,Holy,MAG,False
 Enduring Revival,II,Minwu,USB,NE,NA,True
 Bright Sigil,II,Minwu,USB,Holy,MAG,False
@@ -342,7 +342,7 @@ Order of Sasune,III,Ingus,GL2,NE,NA,True
 Solid Titan,III,Ingus,AW,Earth,PHY,False
 Monolith Sword,III,Ingus,AW,Earth,PHY,False
 Knight's Assault,III,Ingus,Sync,Earth,PHY,False
-Paragon of Chivalry,III,Ingus,Sync,Earth,PHY,False
+Paragon of Chivalry,III,Ingus,Sync,Earth,PHY,True
 Apex Devout Soul,III,Ingus,AD,Earth,PHY,False
 Bolt of the Ancients,III,Desch,Unique,Lightning,MAG,False
 Selfless Spirit,III,Desch,Unique,NE,NA,False
@@ -404,7 +404,7 @@ Wrath Particle Beam,III,Cloud of Darkness,AW,Dark Lightning,MAG,True
 High-Speed Particle Beam,III,Cloud of Darkness,AW,Dark Lightning,MAG,True
 Obstruction Particle Beam,III,Cloud of Darkness,AW,Dark Lightning,MAG,False
 Diffusion Particle Beam,III,Cloud of Darkness,Sync,Dark,MAG,False
-Scatter Particle Beam,III,Cloud of Darkness,Sync,Dark Lightning,MAG,False
+Scatter Particle Beam,III,Cloud of Darkness,Sync,Lightning,MAG,True
 Fabled Particle Beam,III,Cloud of Darkness,OLB,Dark,MAG,False
 Spiraling Flash (CoD),III,Cloud of Darkness,GLB,Dark Lightning,MAG,False
 Ultra Particle Beam,III,Cloud of Darkness,AD,Dark Lightning,MAG,False
@@ -437,7 +437,7 @@ Awoken Dark Crescent,IV,Decil,DuAW,Dark,PHY,True
 Radiant Wings,IV,Pecil,Unique,Holy,PHY,True
 Sentinel,IV,Pecil,Unique,NE,NA,False
 Saint's Fall,IV,Pecil,SSB,Holy,PHY,True
-Paladin Force,IV,Pecil,BSB,Holy,PHY,False
+Paladin Force,IV,Pecil,BSB,Holy,PHY,True
 Radiant Blast,IV,Pecil,BSB,Holy,PHY,False
 Arc of Light,IV,Pecil,OSB,Holy,PHY,True
 Sacred Cross,IV,Pecil,USB,Holy,PHY,False
@@ -655,7 +655,7 @@ Fire Exemplar,IV,Rubicante,SSB,Fire,MAG,False
 Trueflame Inferno,IV,Rubicante,BSB,Fire,MAG,True
 Point-Blank Inferno,IV,Rubicante,USB,Fire Dark,MAG,False
 Searing Flame,IV,Rubicante,Chain2,Fire,MAG,True
-Apocalypse Inferno,IV,Rubicante,ASB,Fire,MAG,False
+Apocalypse Inferno,IV,Rubicante,ASB,Fire,MAG,True
 Whirling Blaze,IV,Rubicante,GL2,Fire,NA,False
 Chivalrous Foe,IV,Rubicante,GL2,NE,NA,False
 Cremation,IV,Rubicante,AW,Fire,MAG,True
@@ -791,6 +791,7 @@ Master of Fire,V,Bartz,AD,Fire,PHY,False
 Master of Water,V,Bartz,AD,Water,PHY,False
 Awoken Rousing Winds,V,Bartz,DuAW,Wind,PHY,False
 Awoken Rousing Earth,V,Bartz,DuAW,Earth,PHY,False
+Awoken Flame Awakening,V,Bartz,DuAW,Fire,PHY,False
 Kindred Spirit,V,Faris,Unique,NE,PHY,True
 Sea Lord's Broadside,V,Faris,Unique,NE,PHY,False
 Serpent's Gale,V,Faris,SSB,Wind Lightning,PHY,True
@@ -842,7 +843,7 @@ Might of the Void,V,Exdeath,AD,Dark Holy,MAG,False
 Wind Drake's Roar,V,Krile,Unique,NE,MAG,True
 Sheepsong,V,Krile,SSB,NE,MAG,True
 Unspoken Bond,V,Krile,SSB,NE,MAG,False
-Tomorrow's Promise,V,Krile,BSB,Fire,MAG,False
+Tomorrow's Promise,V,Krile,BSB,Fire,MAG,True
 Brimstone,V,Krile,BSB,Fire,MAG,True
 Meteoric Assault,V,Krile,OSB,Fire,MAG,False
 Gift of Hope,V,Krile,USB,Earth,MAG,False
@@ -881,7 +882,7 @@ Fury of the Wolf,V,Kelger,GL2,Earth,NA,False
 Wolf Howl,V,Kelger,GL,Earth,PHY,False
 True Lupine Attack,V,Kelger,AW,Earth,PHY,True
 Lupine Force,V,Kelger,AW,Earth,PHY,False
-Ferocious Alpha,V,Kelger,Sync,Earth,PHY,False
+Ferocious Alpha,V,Kelger,Sync,Earth,PHY,True
 Dawn Guidance,V,Kelger,OLB,Earth,PHY,False
 Apex Lupine Attack,V,Kelger,AD,Earth,PHY,False
 Trance Fira,VI,Terra,Unique,Fire,MAG,True
@@ -1331,6 +1332,9 @@ Crimson Octaslash,VII,Sephiroth,Sync,Fire,PHY,False
 Dark Illumination,VII,Sephiroth,OLB,Dark,PHY,False
 Jenova,VII,Sephiroth,AD,Fire,PHY,False
 Sunburst,VII,Sephiroth,AD,Dark,PHY,True
+Dark Carmine Blade,VII,Sephiroth,Sync,Dark Fire,PHY,False
+Awoken Octaslash,VII,Sephiroth,DuAW,Dark,PHY,False
+Woven Bond: Sephiroth - Dark,VII,Sephiroth,CLB,Dark,PHY,False
 Dynamite,VII,Cid (VII),Unique,NE,PHY,True
 Hyper Jump,VII,Cid (VII),Unique,NE,PHY,True
 Dragon,VII,Cid (VII),Unique,Wind,PHY,False
@@ -1642,7 +1646,7 @@ Kakeru,VIII,Fujin,OLB,Wind,MAG,False
 Fuzan,VIII,Fujin,AD,Wind,MAG,False
 Awoken Metsu,VIII,Fujin,DuAW,Wind,MAG,False
 Interesting Times,VIII,Kiros,SSB,NE,PHY,True
-Exsanguination,VIII,Kiros,BSB,Dark Ice,PHY,False
+Exsanguination,VIII,Kiros,BSB,Dark Ice,PHY,True
 Katar Dance,VIII,Kiros,USB,Dark Ice,PHY,False
 Switch Reduction,VIII,Kiros,GL2,Dark Ice,NA,False
 Repeated Exsanguination,VIII,Kiros,AW,Dark Ice,PHY,False
@@ -1718,7 +1722,7 @@ Magic Fury,IX,Vivi,BSB,Fire Lightning Ice,MAG,True
 Proof of Existence,IX,Vivi,BSB,Fire,MAG,True
 Life's Torch,IX,Vivi,OSB,Fire,MAG,False
 King of Jump Rope,IX,Vivi,USB,NE,NA,True
-Beyond the Twilight,IX,Vivi,USB,Fire,MAG,False
+Beyond the Twilight,IX,Vivi,USB,Fire,MAG,True
 Clamorous Magic,IX,Vivi,USB,Ice Water Lightning,MAG,False
 Freezing Shock,IX,Vivi,USB,Fire Ice Lightning,MAG,False
 Trance Empower Vivi,IX,Vivi,Chain3,Fire,MAG,False
@@ -2084,9 +2088,12 @@ Colossal Shantotto,XI,Shantotto,ASB,Lightning,MAG,True
 Elemental Celerity,XI,Shantotto,GL,Lightning,NA,True
 Thrills and Spills!,XI,Shantotto,GL2,Lightning,MAG,False
 Federation Demon,XI,Shantotto,AW,Lightning,MAG,True
+Retribution,XI,Shantotto,AW,Lightning,MAG,False
 Chain Thunder Play,XI,Shantotto,Sync,Lightning,MAG,False
 Ancient Magic Burst II,XI,Shantotto,OLB,Lightning,MAG,True
 Salvation Scythe,XI,Shantotto,AD,Lightning,MAG,False
+Awoken Play Rough,XI,Shantotto,DuAW,Lightning,MAG,False
+Guardian Colossal Shantotto,XI,Shantotto,Guardian,Lightning,MAG,False
 Tachi Jinpu,XI,Ayame,SSB,Wind,PHY,True
 Meikyo Shisui,XI,Ayame,BSB,Ice,PHY,True
 Ancestral Blade,XI,Ayame,OSB,Ice,PHY,False
@@ -2094,9 +2101,12 @@ Hagakure Yukikaze,XI,Ayame,USB,Ice,PHY,True
 Tachi: Ageha Cho,XI,Ayame,ASB,Ice,PHY,True
 Overwhelm,XI,Ayame,GL,Ice,NA,False
 Ikishoten,XI,Ayame,GL2,Ice,NA,False
+Enduring Fate,XI,Ayame,GL2,NE,NA,False
 Shin-Setsugekka,XI,Ayame,AW,Ice,PHY,False
 Winter Moon Blossom,XI,Ayame,Sync,Ice,PHY,False
+Tachi: Hyosai,XI,Ayame,Sync,Ice,PHY,False
 Apex Skillchain,XI,Ayame,AD,Ice,PHY,False
+Awoken Tachi Jinpu,XI,Ayame,DuAW,Ice,PHY,False
 Swift Blade,XI,Curilla,SSB,Holy,PHY,False
 Intervention,XI,Curilla,BSB,Holy,PHY,True
 Holy Circle,XI,Curilla,USB,NE,NA,True
@@ -2639,7 +2649,7 @@ Tempest,XV,Gladiolus,BSB,Earth,PHY,True
 Dawnhammer,XV,Gladiolus,OSB,Earth,PHY,True
 Cyclone,XV,Gladiolus,USB,Earth,PHY,False
 Earth Charge,XV,Gladiolus,Chain3,Earth,PHY,False
-Impulse,XV,Gladiolus,ASB,Earth,PHY,False
+Impulse,XV,Gladiolus,ASB,Earth,PHY,True
 Proud Shield,XV,Gladiolus,GL2,Earth,NA,True
 Double Charging...,XV,Gladiolus,GL,NE,PHY,True
 True Shield,XV,Gladiolus,AW,Earth,PHY,False

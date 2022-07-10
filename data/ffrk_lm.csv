@@ -59,7 +59,7 @@ Orphan of Ur,5,Luneth,III,1.0,Start,Wind,Infusion,True
 Fast and Furious,5,Luneth,III,0.3,Every1,Wind,ReduceDelay,True
 Rascal of Ur,5,Luneth,III,0.2,Every1,Wind,AdditionalTrigger,False
 Bookworm,5,Arc,III,1.0,Every1,White,IncreaseMND,True
-Studious Orphan,5,Arc,III,1.0,Start,Water,Infusion,False
+Studious Orphan,5,Arc,III,1.0,Start,Water,Infusion,True
 Plucky Orphan,5,Arc,III,0.2,Every1,Summon,AdditionalTrigger,False
 Onslaught (Arc),6,Arc,III,0.3,Every1,Water Holy,Followup MAG RestoreAbility,False
 Deadly Charm,5,Refia,III,0.2,Every1,Fire,AdditionalTrigger,True
@@ -224,6 +224,7 @@ SOLDIER Follow-Up,5,Zack,VII,0.8,Every1,Celerity,Followup PHY,False
 Fateful Secret,5,Sephiroth,VII,1.0,Start,Dark,Infusion,True
 Cruelest Cut,5,Sephiroth,VII,0.2,Every1,Samurai,AdditionalTrigger,False
 Apocalypse Hero,5,Sephiroth,VII,0.2,Every1,Dark,AdditionalTrigger,False
+Refinement (Sephiroth),6,Sephiroth,VII,1.0,Auto,NA,Dmg 1.5xPHY,False
 Spacefarer,5,Cid (VII),VII,1.0,Start,NA,Haste NoDelay1,False
 Champion of the Skies,5,Cid (VII),VII,1.0,EquipWeapon,Spear,Dmg 1.5xJump,False
 Re-action (Cid (VII)),6,Cid (VII),VII,1.0,Every3,Dragoon,AdditionalTrigger,False
@@ -340,6 +341,7 @@ Hastening (Seymour),6,Seymour,X,1.0,Every3,Dark,ReduceDelay,False
 Menacing Black Mage,5,Shantotto,XI,1.0,Every1,Black,IncreaseMAG,True
 Master Caster,5,Shantotto,XI,0.1,Every1,Witch,3xTrigger,True
 Superiority Complex,5,Shantotto,XI,1.0,Start,Lightning,Infusion,False
+Herald (Shantotto),6,Shantotto,XI,1.0,Start,Lightning,Infusion ReduceDelay,False
 No Hesitation,5,Ayame,XI,0.3,Every1,Samurai,ReduceDelay,False
 Young Gun,5,Ayame,XI,1.0,Start,Ice,Infusion,False
 Onslaught (Ayame),6,Ayame,XI,0.8,Every1,Samurai,Followup PHY,True
@@ -465,7 +467,7 @@ Onslaught (Ardyn),6,Ardyn,XV,0.3,Every1,Dark Fire,Self Healing Followup PHY,True
 True Hero,5,Ramza,FFT,1.0,Start,NA,FullATB NoDelay1,True
 Martial Pedigree,5,Ramza,FFT,1.0,Start,Holy,Infusion,False
 Ambitious Knight,5,Ramza,FFT,0.2,Every1,Holy,AdditionalTrigger,False
-Princess's Shield,5,Agrias,FFT,1.0,Start,Holy,Infusion,False
+Princess's Shield,5,Agrias,FFT,1.0,Start,Holy,Infusion,True
 Unshakeable Faith,5,Agrias,FFT,0.2,Every1,Knight,AdditionalTrigger,False
 Ask Knight's Finesse,5,Delita,FFT,1.0,Every1,Spellblade,IncreaseATK,True
 Lowborn Justice,5,Delita,FFT,1.0,EquipWeapon,Sword Dagger,Dmg 1.5xSpellblade,False
