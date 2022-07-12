@@ -32,10 +32,13 @@ Scion of Malice,I,Garland,ASB,Dark,PHY,False
 Love or Loathe,I,Garland,GL2,Dark,PHY,False
 Glimpse of Chaos,I,Garland,GL,Dark,PHY,True
 Soul of Chaos,I,Garland,AW,Dark,PHY,False
+True Twist Drill,I,Garland,AW,Dark,PHY,False
 Sinister Reincarnation,I,Garland,Sync,Dark,PHY,False
+True Round Edge,I,Garland,Sync,Dark,PHY,False
 Dark Raiment,I,Garland,GLB,Dark,NA,True
 Dark Flash (Garland),I,Garland,GLB,Dark,PHY,False
 Apex Soul of Chaos,I,Garland,AD,Dark,PHY,True
+Awoken Chaos Bringer,I,Garland,DuAW,Dark,PHY,False
 Sacred Prayer,I,Sarah,Unique,NE,NA,False
 Ballad of Cornelia,I,Sarah,Unique,NE,NA,True
 Ancient Lute,I,Sarah,SSB,NE,NA,False
@@ -507,6 +510,7 @@ Call Me Queen,IV,Rydia,AD,Water,MAG,False
 Guardian Titan,IV,Rydia,Guardian,Earth,MAG,False
 Awoken Lord of the Seas,IV,Rydia,DuAW,Water,MAG,False
 Awoken Mournful Cry,IV,Rydia,DuAW,Earth,MAG,False
+Water Bond (Rydia),IV,Rydia,Chain4,Water,MAG,False
 Divine Favor,IV,Rosa,Unique,NE,NA,False
 Miracle,IV,Rosa,Unique,NE,NA,False
 Divine Heal,IV,Rosa,SSB,NE,NA,True
@@ -1742,6 +1746,8 @@ Elemental Ball,IX,Vivi,OLB,Fire Ice Lightning,MAG,True
 Doomsday Icebolt,IX,Vivi,AD,Ice Lightning,MAG,False
 Doomsday,IX,Vivi,AD,Fire,MAG,True
 Awoken Balefire Pyre,IX,Vivi,DuAW,Fire,MAG,True
+Awoken Freezing Shock,IX,Vivi,DuAW,Ice Lightning,MAG,False
+Woven Bond: Vivi - Fire,IX,Vivi,CLB,Fire,MAG,False
 Thunder Slash,IX,Steiner,Unique,Lightning,PHY,False
 Sword Art Stock Break,IX,Steiner,Unique,NE,PHY,False
 Sword Art Climhazzard,IX,Steiner,SSB,NE,PHY,False
@@ -2523,6 +2529,7 @@ Scion's Flare,XIV,Y'shtola,Sync,Fire Ice Lightning Dark,MAG,False
 Scion's Afflatus,XIV,Y'shtola,Sync,NE,NA,False
 Scion's Meteor,XIV,Y'shtola,OLB,Fire Ice Lightning Dark,MAG,True
 Spiritual Ray,XIV,Y'shtola,AD,Fire Ice Lightning Dark,MAG,True
+Bond (Y'shtola),XIV,Y'shtola,Chain4,ALL,PHY MAG,False
 Dancing Edge,XIV,Thancred,Unique,NE,PHY,False
 Death Blossom,XIV,Thancred,Unique,NE,PHY,False
 Jin-Chi-Ten,XIV,Thancred,SSB,Wind,PHY,True
@@ -2544,9 +2551,12 @@ Furious Flurry,XIV,Yda,USB,Earth Fire,PHY,False
 Crimson Enlightenment,XIV,Yda,USB,Fire,PHY,False
 Fire Thrash,XIV,Yda,ASB,Fire,PHY,False
 Riddle of Fire,XIV,Yda,GL2,Fire,NA,False
+Liberator's Strenght,XIV,Yda,GL2,NE,NA,False
 Fists of Fire,XIV,Yda,GL,Fire,NA,False
 Fire Tackle,XIV,Yda,AW,Fire,PHY,False
 Dearest Companion,XIV,Yda,Sync,Fire,PHY,False
+Six-sided Star,XIV,Yda,AD,Fire,PHY,False
+Awoken Furious Flurry,XIV,Yda,DuAW,Fire,PHY,False
 Swiftcast Fira,XIV,Papalymo,Unique,Fire,MAG,False
 Enochian Blizzaja,XIV,Papalymo,SSB,Ice,MAG,True
 Ley Lines,XIV,Papalymo,SSB,NE,NA,False
