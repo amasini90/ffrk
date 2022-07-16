@@ -153,6 +153,7 @@ Armageddon XCIX,II,Maria,Sync,Earth,MAG,True
 Cosmic Arrow XCIX,II,Maria,Sync,Earth,MAG,False
 Galaxia XCIX,II,Maria,AD,Earth,MAG,False
 Awoken Sagittarius LXIV,II,Maria,DuAW,Earth,MAG,False
+Woven Bond: Maria,II,Maria,CLB,ALL,PHY MAG,False
 Gaia Drum,II,Guy,SSB,Earth,PHY,True
 Gigantbreak,II,Guy,BSB,Earth,PHY,False
 True Strength,II,Guy,USB,Earth,PHY,True
@@ -174,7 +175,11 @@ Soul of Darkness,II,Leon,ASB,Dark,PHY,True
 Force of Darkness,II,Leon,GL,Dark,PHY,False
 Rebellious Strike,II,Leon,GL2,Dark,PHY,False
 Knight in the Dark,II,Leon,AW,Dark,PHY,False
+Annihilator Slash,II,Leon,AW,Dark,PHY,False
+Darkening Rose,II,Leon,OLB,Dark,PHY,False
+False-Hearted Knight,II,Leon,AD,Dark,PHY,False
 Shadow Force,II,Leon,Sync,Dark,PHY,False
+Awoken Darkborn Blade,II,Leon,DuAW,Dark,PHY,False
 Teleport XVI,II,Minwu,Unique,NE,MAG,False
 Will of the White Mage,II,Minwu,SSB,NE,NA,True
 Seal of Heaven,II,Minwu,BSB,Holy,MAG,True
@@ -249,6 +254,8 @@ Heroic Blow,II,Josef,Sync,Ice,PHY,False
 Heroic Hardhead,II,Josef,OLB,Ice,PHY,False
 Frost Flash (Josef),II,Josef,GLB,Ice,PHY,False
 Snowfield Survivor,II,Josef,AD,Ice,PHY,False
+Awoken Hero's Smash,II,Josef,DuAW,Ice,PHY,False
+Woven Bond: Josef - Ice,II,Josef,CLB,Ice,PHY,False
 Prison of Sorrow,II,Emperor,SSB,Dark,MAG,True
 Winds of War,II,Emperor,BSB,Dark Wind,MAG,False
 Hell's Maw,II,Emperor,BSB,Dark Earth,MAG,True
@@ -2099,7 +2106,7 @@ Chain Thunder Play,XI,Shantotto,Sync,Lightning,MAG,False
 Ancient Magic Burst II,XI,Shantotto,OLB,Lightning,MAG,True
 Salvation Scythe,XI,Shantotto,AD,Lightning,MAG,False
 Awoken Play Rough,XI,Shantotto,DuAW,Lightning,MAG,False
-Guardian Colossal Shantotto,XI,Shantotto,Guardian,Lightning,MAG,False
+Guardian Colossal Shantotto,XI,Shantotto,Guardian,Lightning,MAG,True
 Tachi Jinpu,XI,Ayame,SSB,Wind,PHY,True
 Meikyo Shisui,XI,Ayame,BSB,Ice,PHY,True
 Ancestral Blade,XI,Ayame,OSB,Ice,PHY,False
@@ -2107,7 +2114,7 @@ Hagakure Yukikaze,XI,Ayame,USB,Ice,PHY,True
 Tachi: Ageha Cho,XI,Ayame,ASB,Ice,PHY,True
 Overwhelm,XI,Ayame,GL,Ice,NA,False
 Ikishoten,XI,Ayame,GL2,Ice,NA,False
-Enduring Fate,XI,Ayame,GL2,NE,NA,False
+Enduring Faith,XI,Ayame,GL2,NE,NA,True
 Shin-Setsugekka,XI,Ayame,AW,Ice,PHY,False
 Winter Moon Blossom,XI,Ayame,Sync,Ice,PHY,False
 Tachi: Hyosai,XI,Ayame,Sync,Ice,PHY,False
@@ -2556,7 +2563,7 @@ Fists of Fire,XIV,Yda,GL,Fire,NA,False
 Fire Tackle,XIV,Yda,AW,Fire,PHY,False
 Dearest Companion,XIV,Yda,Sync,Fire,PHY,False
 Six-sided Star,XIV,Yda,AD,Fire,PHY,False
-Awoken Furious Flurry,XIV,Yda,DuAW,Fire,PHY,False
+Awoken Furious Flurry,XIV,Yda,DuAW,Fire,PHY,True
 Swiftcast Fira,XIV,Papalymo,Unique,Fire,MAG,False
 Enochian Blizzaja,XIV,Papalymo,SSB,Ice,MAG,True
 Ley Lines,XIV,Papalymo,SSB,NE,NA,False
@@ -3104,6 +3111,7 @@ True Sentinel's Grimoire,Core,Tyro,GL2,NE,NA,False
 Fantasy Grimoire Vol. I,Core,Tyro,AW,NE,NA,True
 Fantasy Grimoire Vol. III,Core,Tyro,AW,NE,PHY MAG,True
 Fantasy Grimoire Vol. II,Core,Tyro,Sync,ALL,PHY MAG,False
+Swift Flash (Tyro),Core,Tyro,GLB,NE,NA,False
 Our Fantasy Unbound,Core,Tyro,AD,ALL,PHY MAG,True
 Bond (Tyro),Core,Tyro,Chain4,ALL,PHY MAG,False
 Awoken Arbiter’s Apochrypha,Core,Tyro,DuAW,ALL,PHY MAG,False
