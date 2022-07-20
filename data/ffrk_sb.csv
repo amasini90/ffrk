@@ -2278,7 +2278,7 @@ Evanescence,XII,Penelo,BSB,Holy,MAG,True
 Dance of Rapture,XII,Penelo,USB,NE,NA,False
 Tear Drops,XII,Penelo,USB,NE,NA,True
 Childhood Bond,XII,Penelo,GL2,NE,NA,False
-Dancing Heart,XII,Penelo,AW,NE,NA,False
+Dancing Heart,XII,Penelo,AW,NE,NA,True
 Shining Vindication,XII,Penelo,Sync,NE,NA,False
 Scales of Fate,XII,Penelo,Sync,Wind,MAG,False
 Enrage,XII,Gabranth,Unique,Dark,PHY,False
@@ -3081,7 +3081,7 @@ Awoken Wind Rhapsody,FFBe,Serafie,DuAW,Wind,MAG,False
 Soul Prominence,FFBe,Rain,USB,Fire Earth,PHY,False
 Glowing Ray,FFBe,Rain,ASB,Fire Earth,PHY,False
 Rising Mantle,FFBe,Rain,GL2,Fire Earth,PHY,False
-Lava Floor,FFBe,Rain,AW,Fire Earth,PHY,False
+Lava Floor,FFBe,Rain,AW,Fire Earth,PHY,True
 Crimson Nova,FFBe,Rain,Sync,Fire Earth,PHY,True
 Blossom Heart,FFBe,Fina,USB,NE,NA,False
 Shining Cheer,FFBe,Fina,GL2,NE,NA,False

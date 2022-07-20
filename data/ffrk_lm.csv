@@ -250,7 +250,7 @@ Defier of Fate,5,Rinoa,VIII,1.0,Every1,Black,IncreaseMAG,True
 SeeD Star,5,Quistis,VIII,0.1,Every1,Black,AdditionalTrigger,True
 Prize Fighter,5,Zell,VIII,0.2,Every1,Monk,AdditionalTrigger,True
 Untamed Spirit,5,Zell,VIII,1.0,Start,NA,CritHitChance 0.5,True
-Renowned Recklessness,5,Zell,VIII,1.0,Start,Fire,Infusion,False
+Renowned Recklessness,5,Zell,VIII,1.0,Start,Fire,Infusion,True
 SeeD Spirit,5,Selphie,VIII,0.2,Every1,White,Grant LastStand,True
 Spirit of Trabia,5,Selphie,VIII,1.0,Every1,Dancer,IncreaseMND,False
 Dream Fulfilled,5,Selphie,VIII,0.2,Every1,Dancer,SmallGroup Healing,False
