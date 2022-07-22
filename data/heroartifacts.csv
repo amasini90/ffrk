@@ -6,6 +6,7 @@ Master,I,99,99,1
 Thief (I),I,99,99,1
 Firion,II,80,99,1
 Leila,II,99,99,1
+Josef,II,99,50,1
 Guy,II,80,99,1
 Emperor,II,99,99,1
 Leon,II,99,99,1
@@ -35,6 +36,7 @@ Xezat,V,65,65,1
 Exdeath,V,99,99,1
 Gilgamesh,V,99,99,1
 Locke,VI,99,99,1
+Celes,VI,99,99,1
 Relm,VI,80,99,1
 Setzer,VI,99,80,1
 Gau,VI,99,50,1
@@ -64,6 +66,9 @@ Reno,VII,99,99,1
 Cloud,VII,99,99,1
 Zack,VII,99,99,1
 Rinoa,VIII,99,99,1
+Squall,VIII,99,99,1
+Selphie,VIII,99,99,1
+Laguna,VIII,99,99,1
 Edea,VIII,99,99,1
 Ward,VIII,99,99,1
 Seifer,VIII,80,99,1
@@ -90,6 +95,7 @@ Rikku,X,99,99,1
 Auron,X,65,99,1
 Lion,XI,99,50,1
 Prishe,XI,65,99,1
+Ayame,XI,50,0,0
 Curilla,XI,99,65,1
 Lilisette,XI,65,99,1
 Vaan,XII,99,80,1
@@ -103,12 +109,15 @@ Gabranth,XII,99,99,1
 Reks,XII,99,99,1
 Penelo,XII,99,99,1
 Lightning,XIII,99,99,1
+Serah,XIII,99,99,1
+Snow,XIII,99,99,1
 Sazh,XIII,99,99,1
 Cid Raines,XIII,99,99,1
 Nabaat,XIII,50,99,1
 Hope,XIII,99,99,1
 Cid (XIV),XIV,0,50,1
 Alisaie,XIV,99,99,1
+Ysayle,XIV,50,50,1
 Papalymo,XIV,80,80,1
 Thancred,XIV,80,50,1
 Ardyn,XV,99,99,1
@@ -129,12 +138,12 @@ Ovelia,FFT,65,80,1
 Serafie,FFBe,99,99,1
 Wedge,Core,99,80,1
 Dr. Mog,Core,99,99,1
-Squall,VIII,80,99,1
-Selphie,VIII,99,99,1
-Ayame,XI,0,0,0
-Josef,II,99,50,1
-Laguna,VIII,65,80,1
-Ysayle,XIV,0,50,1
-Serah,XIII,80,50,0
-Celes,VI,99,0,1
-Snow,XIII,80,50,1
+Rydia,IV,0,0,0
+Vanille,XIII,0,0,0
+Gladiolus,XV,0,0,0
+Wol,I,0,0,0
+Maria,II,0,0,0
+Ingus,III,0,0,0
+Enna Kros,FFBe,0,0,0
+Meliadoul,FFT,0,0,0
+Machina,T-0,0,0,0
