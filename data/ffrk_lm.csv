@@ -70,6 +70,7 @@ Resolute Warrior,5,Ingus,III,1.0,Start,Earth,Infusion,True
 Loyal Heart,5,Ingus,III,0.2,EquipArmor,Shield HeavyArmor,ReduceDmg,False
 Hidden Feelings,5,Ingus,III,0.2,Every1,Knight,AdditionalTrigger,False
 Stoic Knight,5,Ingus,III,0.2,Every1,Knight,Followup PHY Healing,False
+Catalyst (Ingus),6,Ingus,III,1.0,Every3,Knight,1.3xATK 1.2xDEF ReduceDelay,False
 Aimless Wanderer,5,Desch,III,1.0,Start,NA,Haste NoDelay1,True
 Lovestruck Wanderer,5,Desch,III,1.0,Start,Lightning,Infusion,False
 Total Devotion,5,Desch,III,1.0,Every1,Black,IncreaseMAG,False

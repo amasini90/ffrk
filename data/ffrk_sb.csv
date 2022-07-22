@@ -354,6 +354,10 @@ Monolith Sword,III,Ingus,AW,Earth,PHY,False
 Knight's Assault,III,Ingus,Sync,Earth,PHY,False
 Paragon of Chivalry,III,Ingus,Sync,Earth,PHY,True
 Apex Devout Soul,III,Ingus,AD,Earth,PHY,False
+Earth Bond (Ingus),III,Ingus,Chain4,Earth,PHY,False
+Titan Impact,III,Ingus,OLB,Earth,PHY,False
+Awoken Solid Titan,III,Ingus,DuAW,Earth,PHY,False
+Woven Bond: Ingus - Earth,III,Ingus,CLB,Earth,PHY,False
 Bolt of the Ancients,III,Desch,Unique,Lightning,MAG,False
 Selfless Spirit,III,Desch,Unique,NE,NA,False
 Roiling Memories,III,Desch,SSB,Lightning,MAG,True
@@ -518,6 +522,7 @@ Guardian Titan,IV,Rydia,Guardian,Earth,MAG,False
 Awoken Lord of the Seas,IV,Rydia,DuAW,Water,MAG,False
 Awoken Mournful Cry,IV,Rydia,DuAW,Earth,MAG,False
 Water Bond (Rydia),IV,Rydia,Chain4,Water,MAG,False
+Woven Bond: Rydia - Earth,IV,Rydia,CLB,Earth,MAG,False
 Divine Favor,IV,Rosa,Unique,NE,NA,False
 Miracle,IV,Rosa,Unique,NE,NA,False
 Divine Heal,IV,Rosa,SSB,NE,NA,True
@@ -728,11 +733,15 @@ Closest Bonds,V,Galuf,ASB,Earth,PHY,False
 Abiding Strike,V,Galuf,GL,Earth,PHY,False
 Iron Valor,V,Galuf,GL2,Earth,NA,False
 King of Bal,V,Galuf,GL2,Earth,NA,False
+Undying Avenger,V,Galuf,GL2,NE,NA,False
 Laws of Nature,V,Galuf,AW,Earth,PHY,False
 Dawn Combo,V,Galuf,AW,Earth,PHY,False
 Dawn Unity,V,Galuf,Sync,Earth,PHY,True
 Soul Successor,V,Galuf,Sync,Earth,PHY,True
 Gaia Gazer,V,Galuf,OLB,Earth,PHY,True
+Apex Sweet Sorrow,V,Galuf,AD,Earth,PHY,False
+Awoken Laws of Nature,V,Galuf,DuAW,Earth,PHY,False
+Woven Bond: Galuf - Earth,V,Galuf,CLB,Earth,PHY,False
 Fantastic Symmetry,V,Gogo (V),SSB,NE,NA,True
 Deep Aqua Breath,V,Gogo (V),BSB,Water,MAG,True
 Sunken Rhapsody,V,Gogo (V),USB,Water,NA,True
