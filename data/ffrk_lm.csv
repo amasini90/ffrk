@@ -82,7 +82,7 @@ Spawn of Darkness,5,Cloud of Darkness,III,1.0,Start,Dark,Infusion,True
 Oblivion Seeker,5,Cloud of Darkness,III,0.2,Every1,Dark,AdditionalTrigger,False
 Hastening (Cloud of Darkness),6,Cloid of Darkness,III,1.0,Every3,Dark,ReduceDelay,False
 Duty First,5,Aria,III,0.2,Every1,White,AdditionalTrigger,True
-Maiden of the Wreck,5,Aria,III,0.2,Every1,White,SmallGroup Healing,False
+Maiden of the Wreck,5,Aria,III,0.2,Every1,White,SmallGroup Healing,True
 Crystal Prayer,5,Aria,III,0.2,Every1,White,1.5xHealing,False
 Thirsting Blade,5,Decil,IV,1.0,LowHP,NA,LastStand 1.3xATK -1.2xDEF,False
 Dark Power,5,Decil,IV,1.0,Start,Dark,Infusion,False

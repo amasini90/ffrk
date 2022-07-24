@@ -247,7 +247,7 @@ Hero's Backbone,II,Josef,ASB,Ice,PHY,False
 Hero's Roar,II,Josef,GL,Ice,PHY,False
 Heroic Class,II,Josef,GL2,Ice,NA,False
 Hero's Heart,II,Josef,GL2,NE,NA,True
-Purposeful Journey,II,Josef,AW,Ice,PHY,False
+Purposeful Journey,II,Josef,AW,Ice,PHY,True
 Snow Savvy,II,Josef,AW,Ice Earth,PHY,False
 Hero's Resolve,II,Josef,Sync,Ice,PHY,False
 Heroic Blow,II,Josef,Sync,Ice,PHY,False
@@ -424,7 +424,7 @@ Spiraling Flash (CoD),III,Cloud of Darkness,GLB,Dark Lightning,MAG,False
 Ultra Particle Beam,III,Cloud of Darkness,AD,Dark Lightning,MAG,False
 Life of Devotion,III,Aria,SSB,NE,NA,True
 Maiden of Water,III,Aria,BSB,NE,NA,True
-Seaborne Encounter,III,Aria,USB,NE,NA,False
+Seaborne Encounter,III,Aria,USB,NE,NA,True
 Prismatic Light,III,Aria,USB,NE,NA,False
 Divine Curtain,III,Aria,GL2,NE,NA,True
 Remnant Light,III,Aria,GL2,NE,NA,False
@@ -785,7 +785,7 @@ Call of the Flame,V,Bartz,BSB,Fire,PHY,True
 Hand of the Crystals,V,Bartz,OSB,Wind Water Fire Earth,PHY,True
 Chosen Traveler,V,Bartz,USB,Wind Water Fire Earth,PHY,True
 Crystals' Chosen,V,Bartz,USB,Wind Water Fire Earth,PHY,True
-Essence of Wind,V,Bartz,USB,Wind,PHY,False
+Essence of Wind,V,Bartz,USB,Wind,PHY,True
 Crystalline Focus,V,Bartz,ASB,Wind Water Fire Earth,PHY,True
 Master Spellblade,V,Bartz,GL,NE,NA,True
 Tetrad Beam,V,Bartz,GL,Wind Water Fire Earth,NA,False
@@ -2930,7 +2930,7 @@ Magic Martyr,T-0,Queen,SSB,Lightning Dark,PHY,True
 Mana Sphere,T-0,Queen,BSB,Lightning Dark,PHY,True
 Gate of Destiny,T-0,Queen,OSB,Lightning Dark,PHY,True
 Divine Judgment Blade,T-0,Queen,USB,Lightning Dark,PHY,True
-Spark Dash,T-0,Queen,USB,Lightning Dark,PHY,False
+Spark Dash,T-0,Queen,USB,Lightning Dark,PHY,True
 Sudden Shift,T-0,Queen,Chain3,Lightning,PHY,False
 Energy Rush,T-0,Queen,ASB,Lightning,PHY,False
 Fiendish Impulse,T-0,Queen,GL2,Lightning,NA,False
