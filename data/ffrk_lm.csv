@@ -161,7 +161,7 @@ Dying Breath,5,Kelger,V,0.2,Every1,Ninja,AdditionalTrigger,False
 Nimble Werewolf,5,Kelger,V,0.2,Every1,Ninja,Grant MirrorImage,False
 Meaning of Love,5,Terra,VI,1.0,Start,Fire,Infusion,True
 Innate Power,5,Terra,VI,0.2,Every1,Fire,AdditionalTrigger,True
-Savior's Gift,5,Terra,VI,1.0,Start,Wind,Infusion,False
+Savior's Gift,5,Terra,VI,1.0,Start,Wind,Infusion,True
 Burning Desire,5,Locke,VI,1.0,Start,Fire,Infusion,True
 On the Rebound,5,Locke,VI,0.2,Every1,Fire,AdditionalTrigger,False
 Rebel Knight,5,Celes,VI,1.0,Start,Ice,Infusion,True

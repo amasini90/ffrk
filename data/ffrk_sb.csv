@@ -973,7 +973,7 @@ Rune Knight's Triumph,VI,Celes,GL,Ice,NA,True
 Invincible Swordplay,VI,Celes,GL2,NE,NA,False
 Rune Knight's Honor,VI,Celes,GL2,Ice,NA,True
 Blade of Holy Binding,VI,Celes,GL2,Holy,NA,True
-Twin Spin,VI,Celes,AW,Holy Ice,PHY,False
+Twin Spin,VI,Celes,AW,Ice Holy,PHY,True
 Unflinching Blade,VI,Celes,AW,Holy Ice,PHY,False
 Proud Blade,VI,Celes,Sync,Holy,PHY,False
 Mystical Snow,VI,Celes,Sync,Ice,PHY,False
@@ -2097,7 +2097,7 @@ Lance of Atrophy,X,Seymour,ASB,Dark,MAG,False
 Dark Imaginings,X,Seymour,GL,Dark,NA,True
 A Son's Yearning,X,Seymour,GL2,Dark,MAG,False
 Requiem of Destruction,X,Seymour,AW,Dark,MAG,False
-Feel My Pain!,X,Seymour,AW,Dark,MAG,False
+Feel My Pain!,X,Seymour,AW,Dark,MAG,True
 Begrudging Soul,X,Seymour,Sync,Dark,MAG,False
 Vidofnir,XI,Shantotto,SSB,NE,MAG,True
 Primordial Elements,XI,Shantotto,SSB,Fire Ice Lightning,MAG,True
@@ -2449,7 +2449,7 @@ Highwind (XIII),XIII,Fang,SSB,Fire Wind,PHY,True
 Aerial Loop,XIII,Fang,SSB,Wind,PHY,False
 Megaflare,XIII,Fang,BSB,Wind,PHY,True
 Raging Whirlwind,XIII,Fang,BSB,Wind,PHY,False
-Soaring Spear,XIII,Fang,OSB,Wind,PHY,False
+Soaring Spear,XIII,Fang,OSB,Wind,PHY,True
 Bahamut Dive,XIII,Fang,USB,Wind,PHY,False
 Whim of Ragnarok,XIII,Fang,USB,Wind,PHY,True
 Devoted Warriors,XIII,Fang,Chain2,ALL,PHY MAG,True
