@@ -295,7 +295,7 @@ Blade Torrent,III,Luneth,Unique,NE,PHY,False
 Swordshower,III,Luneth,SSB,Wind,PHY,True
 Eternal Wind,III,Luneth,BSB,Wind,PHY,False
 Heavenly Gust,III,Luneth,OSB,Wind,PHY,True
-Zephir Memories,III,Luneth,USB,Wind,PHY,False
+Zephir Memories,III,Luneth,USB,Wind,PHY,True
 Howling Vortex,III,Luneth,USB,Wind,PHY,False
 Winds of Possibility,III,Luneth,Chain2,Wind,PHY,False
 Storm of Blades,III,Luneth,ASB,Wind,PHY,False
@@ -3170,7 +3170,7 @@ Royal Sentinel,Core,Dr. Mog,GL,NE,NA,True
 Royal Resourcefulness,Core,Dr. Mog,GL2,ALL,NA,False
 Tetra Catastrophe,Core,Dr. Mog,AW,Holy Fire Ice Lightning,MAG,False
 Marine Expanse,Core,Dr. Mog,AW,Water,MAG,True
-Waverider Moogle V2,Core,Dr. Mog,AW,ALL,MAG,False
+Waverider Moogle V2,Core,Dr. Mog,AW,ALL,MAG,True
 Rainbow Magic,Core,Dr. Mog,Sync,ALL,MAG,False
 Soaring Fireworks,Core,Dr. Mog,OLB,ALL,MAG,False
 Soaring Moogle,Core,Dr. Mog,GLB,NE,NA,True
