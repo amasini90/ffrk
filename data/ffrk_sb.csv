@@ -1865,7 +1865,7 @@ Spectral Break,IX,Beatrix,Sync,Holy,PHY,False
 Seiken,IX,Beatrix,AD,Holy,PHY,False
 Dread of Death,IX,Kuja,Unique,Dark,MAG,False
 Darkflare Star,IX,Kuja,SSB,Dark,MAG,False
-Clutch Strike,IX,Kuja,SSB,Dark,MAG,False
+Clutch Strike,IX,Kuja,SSB,Dark,MAG,True
 Force Symphony,IX,Kuja,BSB,Dark,MAG,True
 Corrupt Refrain,IX,Kuja,BSB,Dark,MAG,False
 Final Requiem,IX,Kuja,OSB,Dark,MAG,False
@@ -2249,13 +2249,13 @@ Ruin Impendent,XII,Basch,SSB,NE,PHY,True
 Shining Ray,XII,Basch,BSB,Holy,PHY,True
 Righteous Steel,XII,Basch,OSB,Holy Dark,PHY,False
 Clash of Light and Flame,XII,Basch,USB,Holy Fire,PHY,True
-Exemplar of Honor,XII,Basch,USB,NE,NA,False
+Exemplar of Honor,XII,Basch,USB,NE,NA,True
 Blazing Duality,XII,Basch,USB,Holy Fire Dark,PHY,False
 Faith Shield,XII,Basch,Chain3,ALL,PHY MAG,False
 Swordflash Oath,XII,Basch,Chain3,Holy,PHY,False
 Starfire Purge,XII,Basch,ASB,Holy Fire Dark,PHY,False
 Captain's Resolve,XII,Basch,GL2,Holy Fire,PHY,True
-Captain's Loyalty,XII,Basch,GL2,NE,NA,False
+Captain's Loyalty,XII,Basch,GL2,NE,NA,True
 Flame Purge,XII,Basch,AW,Holy Fire Dark,PHY,False
 True Ruin Impendent,XII,Basch,Sync,Holy Fire,PHY,False
 Brotherly Rift,XII,Basch,Sync,Holy Fire Dark,PHY,False

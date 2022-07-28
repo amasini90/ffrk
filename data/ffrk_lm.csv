@@ -412,7 +412,7 @@ Brutal Affection,5,Fang,XIII,0.2,Every1,Dragoon,AdditionalTrigger,False
 Cocky Comrade,5,Fang,XIII,1.0,Start,Wind,Infusion,False
 Perrless Fighter,5,Fang,XIII,1.0,EquipWeapon,Spear,Dmg 1.5xDragoon,False
 Sister's Strenght,5,Serah,XIII,1.0,Start,Ice,Infusion,True
-Second Sight,5,Serah,XIII,0.2,Every1,Ice,AdditionalTrigger,False
+Second Sight,5,Serah,XIII,0.2,Every1,Ice,AdditionalTrigger,True
 Meanie Miss,5,Serah,XIII,1.0,Start,Water,Infusion,False
 Re-action (Serah),6,Serah,XIII,1.0,Every3,Water,AdditionalTrigger,False
 Velocity (Serah),6,Serah,XIII,1.0,Start,NA,FullATB ReduceDelay,False
