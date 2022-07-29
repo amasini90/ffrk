@@ -157,7 +157,7 @@ Armageddon XCIX,II,Maria,Sync,Earth,MAG,True
 Cosmic Arrow XCIX,II,Maria,Sync,Earth,MAG,False
 Galaxia XCIX,II,Maria,AD,Earth,MAG,False
 Awoken Sagittarius LXIV,II,Maria,DuAW,Earth,MAG,False
-Woven Bond: Maria,II,Maria,CLB,ALL,PHY MAG,False
+Woven Bond: Maria,II,Maria,CLB,ALL,PHY MAG,True
 Gaia Drum,II,Guy,SSB,Earth,PHY,True
 Gigantbreak,II,Guy,BSB,Earth,PHY,False
 True Strength,II,Guy,USB,Earth,PHY,True
@@ -183,7 +183,7 @@ Annihilator Slash,II,Leon,AW,Dark,PHY,False
 Darkening Rose,II,Leon,OLB,Dark,PHY,False
 False-Hearted Knight,II,Leon,AD,Dark,PHY,False
 Shadow Force,II,Leon,Sync,Dark,PHY,False
-Awoken Darkborn Blade,II,Leon,DuAW,Dark,PHY,False
+Awoken Darkborn Blade,II,Leon,DuAW,Dark,PHY,True
 Teleport XVI,II,Minwu,Unique,NE,MAG,False
 Will of the White Mage,II,Minwu,SSB,NE,NA,True
 Seal of Heaven,II,Minwu,BSB,Holy,MAG,True
