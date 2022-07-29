@@ -1994,12 +1994,12 @@ Mighty Guard (X),X,Kimahri,Unique,NE,NA,False
 Ronso Jump,X,Kimahri,Unique,NE,PHY,False
 Fang of Gagazet,X,Kimahri,SSB,NE,PHY,False
 Aqua Breath (X),X,Kimahri,BSB,Water,PHY,True
-Ronso Breath,X,Kimahri,USB,Water,PHY,False
+Ronso Breath,X,Kimahri,USB,Water,PHY,True
 Undimmed Spirit,X,Kimahri,USB,Water,NA,False
 Azure Lance,X,Kimahri,ASB,Water Fire,PHY,True
-Aqua Landing,X,Kimahri,GL2,Water,NA,False
+Aqua Landing,X,Kimahri,GL2,Water,NA,True
 Ronso Spirit,X,Kimahri,GL2,NE,NA,False
-Dragonfang Current,X,Kimahri,AW,Water,PHY,False
+Dragonfang Current,X,Kimahri,AW,Water,PHY,True
 Ocean Breath,X,Kimahri,AW,Water,PHY,False
 Inherited Resolve,X,Kimahri,Sync,Water,PHY,False
 Nova,X,Kimahri,AD,Water,PHY,False
