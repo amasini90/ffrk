@@ -107,10 +107,14 @@ Blue Water Magic,I,Meia,Chain3,Water,MAG,False
 Fata Fiore,I,Meia,ASB,Water,MAG,False
 Fiat Lux,I,Meia,GL,Water,MAG,False
 True Lux,I,Meia,GL2,Water,MAG,False
+Witch Energy,I,Meia,GL2,NE,NA,False
 Megido Flood,I,Meia,AW,Water,MAG,False
 Farfall Nera,I,Meia,AW,Water,MAG,False
 Primal Undine,I,Meia,Sync,Water,MAG,False
 Fanatical Dance,I,Meia,AD,Water,MAG,False
+Dia de Muertos,I,Meia,OLB,Water,MAG,False
+Awoken Elan Vital,I,Meia,DuAW,Water,MAG,False
+Woven Bond: Meia - Water,I,Meia,CLB,Water,MAG,False
 Scourge Edge,I,Thief (I),SSB,Wind Poison,PHY,False
 Invisibreak,I,Thief (I),BSB,Wind Poison,PHY,True
 Hollow Blast,I,Thief (I),USB,Wind Poison,PHY,True
@@ -1109,6 +1113,7 @@ Jet Splash,VI,Strago,OLB,Water,MAG,False
 Apex Lore,VI,Strago,AD,Water,MAG,False
 Spiral Tempest,VI,Strago,AD,Wind,MAG,False
 Awoken Twin Mage,VI,Strago,DuAW,Wind,MAG,False
+Awoken Lore,VI,Strago,DuAW,Water,MAG,False
 Ink Blast,VI,Relm,Unique,NE,MAG,True
 Brush Up,VI,Relm,Unique,NE,NA,True
 Portrait of Lakshmi,VI,Relm,SSB,NE,NA,True
@@ -1918,6 +1923,7 @@ Heavy Rain,X,Tidus,OLB,Water,PHY,False
 Water Raiment (Tidus),X,Tidus,GLB,Water,NA,False
 Apex Blitz Ace,X,Tidus,AD,Water,PHY,False
 Awoken Rising Dream,X,Tidus,DuAW,Water,PHY,False
+Woven Bond: Tidus - Water,X,Tidus,CLB,Water,PHY,False
 The Sending,X,Yuna,Unique,Holy,MAG,False
 Hymn of the Fayth,X,Yuna,Unique,NE,NA,True
 Farplane Wind,X,Yuna,Unique,Holy,MAG,True
@@ -1955,6 +1961,7 @@ Aurochs' Shot,X,Wakka,USB,Water,PHY,True
 Blitz Discipline,X,Wakka,Chain3,ALL,PHY MAG,False
 Centre Attack,X,Wakka,GL2,Water,PHY,False
 Ocean Reels,X,Wakka,GL2,Water,NA,False
+Aurochs Charge,X,Wakka,GL2,Water,NA,False
 Ace Lesson,X,Wakka,AW,Water,PHY,True
 Last Blitz,X,Wakka,AW,Water,PHY,False
 Aurochs Spirit+,X,Wakka,Sync,Water,PHY,False
@@ -1962,6 +1969,8 @@ Water Flash (Wakka),X,Wakka,GLB,Water,PHY,False
 Spiraling Flash (Wakka),X,Wakka,GLB,Water,NA,True
 Blitz Off,X,Wakka,OLB,Water,PHY,False
 Apex Aurochs Reels,X,Wakka,AD,Water,PHY,False
+Awoken Ace Lesson,X,Wakka,DuAW,Water,PHY,False
+Woven Bond: Wakka - Water,X,Wakka,CLB,Water,PHY,False
 Firaga Fury,X,Lulu,Unique,Fire,MAG,True
 Focus (X),X,Lulu,Unique,NE,NA,True
 March of the Moogles,X,Lulu,SSB,Ice,MAG,False

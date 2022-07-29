@@ -445,7 +445,7 @@ Smile of a Hero,5,Haurchefant,XIV,0.2,Every1,Knight,AdditionalTrigger,True
 Vows Unbroken,5,Haurchefant,XIV,0.2,EquipArmor,Shield,Dmg -1.3xTaken,True
 Hastening (Haurchefant),6,Haurchefant,XIV,1.0,Every3,Knight,ReduceDelay,False
 Piercing Purpose,5,Estinien,XIV,1.0,Start,Wind,Infusion,True
-Re-action (Estinien),6,Estinien,XIV,1.0,Every3,Wind Dark,AdditionalTrigger,False
+Re-action (Estinien),6,Estinien,XIV,1.0,Every3,Wind Dark,AdditionalTrigger,True
 Onslaught (Alisaie),6,Alisaie,XIV,0.8,Every1,Black White,Followup MAG,False
 Bringer of Dawn,5,Noctis,XV,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,True
 Divine Revelation,5,Noctis,XV,0.2,Every1,Combat,AdditionalTrigger,True
