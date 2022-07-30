@@ -168,7 +168,7 @@ Rebel Knight,5,Celes,VI,1.0,Start,Ice,Infusion,True
 Rune Knight Spellmaster,5,Celes,VI,0.2,Every1,Spellblade,AdditionalTrigger,True
 Moogle Survivor,5,Mog,VI,0.2,Every1,Dancer,Debuff 1.3xATK 1.3xMAG 1.3xMND,True
 Dancing Death,5,Mog,VI,1.0,Start,NA,ReduceDelay,True
-Boos Moogle,5,Mog,VI,1.0,Auto,NA,Buff 1.2xDuration,False
+Boss Moogle,5,Mog,VI,1.0,Auto,NA,Buff 1.2xDuration,True
 Hastening (Mog),6,Mog,VI,1.0,Every3,Dancer Dragoon,ReduceDelay,False
 Awkward Inventor,5,Edgar,VI,0.2,Every1,Machinist,Fire Imperil,False
 Master of Machines,5,Edgar,VI,0.1,Every1,Machinist,3xTrigger,False

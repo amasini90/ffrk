@@ -226,7 +226,7 @@ Pirate's Pluck,II,Leila,GL2,Water,NA,False
 Pirate's Cutlass,II,Leila,AW,Water,PHY,True
 Bio Splash,II,Leila,AW,Water Poison,PHY,False
 Split Edge,II,Leila,Sync,Water,PHY,False
-Hollow Beauty,II,Leila,Sync,Poison,PHY,False
+Hollow Beauty,II,Leila,Sync,Poison,PHY,True
 Pirate's Splash,II,Leila,AD,Water,PHY,False
 Pirate's Knife,II,Leila,OLB,Water Poison,PHY,False
 Awoken Poison Cloud XVI,II,Leila,DuAW,Poison,PHY,False
@@ -1060,7 +1060,7 @@ Bushido Oblivion,VI,Cyan,USB,Fire,PHY,False
 Crimson Bushido,VI,Cyan,USB,Fire,PHY,True
 Tsubame Gaeshi,VI,Cyan,ASB,Fire,PHY,False
 Doma's Valor,VI,Cyan,GL2,NE,PHY,True
-Searing Stance,VI,Cyan,GL,Fire,NA,False
+Searing Stance,VI,Cyan,GL,Fire,NA,True
 Doma Devout,VI,Cyan,GL2,Fire,PHY,False
 Bushido Flash,VI,Cyan,AW,Fire,PHY,False
 Bushido Domination,VI,Cyan,AW,Fire,PHY,False
@@ -2400,7 +2400,7 @@ Indomitable Love,XIII,Snow,AW,Ice,PHY,True
 Diamond Fist,XIII,Snow,Sync,Ice,PHY,False
 A Dream Revealed,XIII,Snow,Sync,Ice,PHY,False
 Ice Chain Promise,XIII,Snow,OLB,Ice,PHY,False
-Ice Raiment (Snow),XIII,Snow,GLB,Ice,NA,False
+Ice Raiment (Snow),XIII,Snow,GLB,Ice,NA,True
 Frost Sanction,XIII,Snow,AD,Ice,PHY,False
 Awoken Froststrike,XIII,Snow,DuAW,Ice,PHY,False
 Deprotega,XIII,Vanille,Unique,NE,MAG,False
