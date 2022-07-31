@@ -23,7 +23,7 @@ Chaos Bringer,I,Garland,SSB,Dark,PHY,False
 Bardiche,I,Garland,SSB,Dark,PHY,False
 Twin Swords,I,Garland,BSB,Dark,PHY,True
 Dark Rebirth,I,Garland,BSB,Dark,PHY,False
-Discord Incarnate,I,Garland,OSB,Dark,PHY,False
+Discord Incarnate,I,Garland,OSB,Dark,PHY,True
 Source of Hatred,I,Garland,USB,Dark,PHY,True
 Chaos Genocide,I,Garland,USB,Dark,PHY,True
 Bent on Destruction,I,Garland,Chain,Dark,PHY,True
@@ -2975,7 +2975,7 @@ Earth Raiment (Cinque),T-0,Cinque,GLB,Earth,NA,True
 Diving Strike,T-0,Seven,BSB,Ice,MAG,False
 Elementalash,T-0,Seven,USB,Ice,MAG,False
 Ice Energy Whip,T-0,Seven,USB,Ice,MAG,False
-Ice Bond (Seven),T-0,Seven,Chain4,Ice,MAG,False
+Ice Bond (Seven),T-0,Seven,Chain4,Ice,MAG,True
 Drainlash,T-0,Seven,ASB,Ice,MAG,True
 Ice Cube,T-0,Seven,GL,Ice,NA,False
 Icy Moment,T-0,Seven,GL2,Ice,NA,False
