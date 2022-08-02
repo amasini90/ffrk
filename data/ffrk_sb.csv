@@ -436,7 +436,7 @@ Maiden's Miracle,III,Aria,AW,NE,NA,True
 Ephemeral Maiden,III,Aria,Sync,NE,NA,True
 Rainbow Prayer,III,Aria,Sync,NE,NA,False
 Darkness,IV,Decil,Unique,NE,PHY,False
-Dark Cannon,IV,Decil,Unique,NE,PHY,False
+Dark Cannon,IV,Decil,Unique,NE,PHY,True
 Soul Eater,IV,Decil,Unique,NE,PHY,False
 Shadowbringer,IV,Decil,SSB,NE,PHY,False
 Abyss Gate,IV,Decil,BSB,Dark,PHY,False
@@ -1875,7 +1875,7 @@ Force Symphony,IX,Kuja,BSB,Dark,MAG,True
 Corrupt Refrain,IX,Kuja,BSB,Dark,MAG,False
 Final Requiem,IX,Kuja,OSB,Dark,MAG,False
 Reaper's Call,IX,Kuja,USB,Dark,MAG,False
-Soulsplitter,IX,Kuja,USB,Dark,MAG,False
+Soulsplitter,IX,Kuja,USB,Dark,MAG,True
 Chaotic Rhapsody,IX,Kuja,USB,Dark,MAG,True
 Cloudburst Blessing,IX,Kuja,Chain3,Dark,MAG,False
 Planet Requiem,IX,Kuja,ASB,Dark,MAG,False
@@ -2932,7 +2932,7 @@ Saintly Magic,T-0,Rem,GL2,Holy,MAG,False
 Saintly Aura,T-0,Rem,GL,Holy,NA,True
 Seraphim Strike,T-0,Rem,AW,Holy Dark,MAG,False
 Saintly Huntcraft,T-0,Rem,Sync,Holy,MAG,True
-Saintly Dagger Boomerang,T-0,Rem,OLB,Holy,MAG,False
+Saintly Dagger Boomerang,T-0,Rem,OLB,Holy,MAG,True
 Manalchemy Saint,T-0,Rem,AW,Holy,MAG,False
 Dagger Toss,T-0,Rem,AD,Holy,MAG,True
 Magic Martyr,T-0,Queen,SSB,Lightning Dark,PHY,True
