@@ -57,7 +57,7 @@ Unspoken Love,5,Scott,II,1.0,Start,Fire,Infusion,True
 Refinement (Scott),6,Scott,II,1.0,Auto,NA,Dmg 1.3xFire,False
 Orphan of Ur,5,Luneth,III,1.0,Start,Wind,Infusion,True
 Fast and Furious,5,Luneth,III,0.3,Every1,Wind,ReduceDelay,True
-Rascal of Ur,5,Luneth,III,0.2,Every1,Wind,AdditionalTrigger,False
+Rascal of Ur,5,Luneth,III,0.2,Every1,Wind,AdditionalTrigger,True
 Bookworm,5,Arc,III,1.0,Every1,White,IncreaseMND,True
 Studious Orphan,5,Arc,III,1.0,Start,Water,Infusion,True
 Plucky Orphan,5,Arc,III,0.2,Every1,Summon,AdditionalTrigger,False

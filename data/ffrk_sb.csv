@@ -986,7 +986,7 @@ Awoken Blade,VI,Celes,OLB,Holy Ice,PHY,False
 Apex Spinning Edge,VI,Celes,AD,Ice,PHY,False
 Holy Runic Blade,VI,Celes,AD,Holy,PHY,True
 Awoken Indomitable Blade,VI,Celes,DuAW,Holy,PHY,False
-Sunbath,VI,Mog,Unique,NE,NA,False
+Sunbath,VI,Mog,Unique,NE,NA,True
 Heroic Harmony,VI,Mog,Unique,NE,NA,True
 Earth Blues,VI,Mog,SSB,Earth,MAG,False
 Love Serenade,VI,Mog,BSB,NE,NA,True
@@ -2659,7 +2659,7 @@ Embolden Combo,XIV,Alisaie,AW,Wind Lightning,MAG,False
 Heart and Steel,XIV,Alisaie,Sync,Wind Lightning,MAG,False
 Vermillion Scourge,XIV,Alisaie,OLB,Wind Lightning,MAG,True
 Aetheric Sever,XIV,Alisaie,AD,Wind Lightning,MAG,True
-Awoken Vermage,XIV,Alisaie,DuAW,Wind Lightning,MAG,False
+Awoken Vermage,XIV,Alisaie,DuAW,Wind Lightning,MAG,True
 Gladiolus Link,XV,Noctis,SSB,NE,PHY,True
 Kings of Old,XV,Noctis,BSB,NE,PHY,False
 Armiger,XV,Noctis,OSB,NE,PHY,True
@@ -2955,7 +2955,7 @@ Magazine Blast,T-0,King,BSB,Lightning Fire,PHY,True
 Endless Waltz,T-0,King,USB,Lightning,PHY,True
 Plasma King,T-0,King,USB,Lightning,PHY,False
 Point-Blank Shot,T-0,King,ASB,Lightning,PHY,True
-King's Trigger,T-0,King,GL2,Lightning,NA,False
+King's Trigger,T-0,King,GL2,Lightning,NA,True
 Munitions Charge,T-0,King,GL2,Lightning,PHY,False
 King Snipe Mode,T-0,King,AW,Lightning,PHY,True
 Endless Snipe,T-0,King,Sync,Lightning,PHY,False
