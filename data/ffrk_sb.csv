@@ -1566,7 +1566,7 @@ Bon Vivant,VIII,Selphie,GL,NE,NA,True
 Wall Slots,VIII,Selphie,GL2,NE,NA,True
 Thoughts of Trabia,VIII,Selphie,GL2,NE,NA,False
 Selphie's Band,VIII,Selphie,AW,NE,NA,False
-Comrades' Return,VIII,Selphie,Sync,NE,NA,False
+Comrades' Return,VIII,Selphie,Sync,NE,NA,True
 Vivifying Dance,VIII,Selphie,Sync,NE,MAG,False
 Fast Ammo,VIII,Irvine,Unique,NE,PHY,False
 Canister Shot,VIII,Irvine,Unique,NE,PHY,False
@@ -1983,7 +1983,7 @@ Twin Temptations,X,Lulu,ASB,Ice Water,MAG,True
 Icy Beauty,X,Lulu,GL,Ice,NA,False
 Overlapping Futures,X,Lulu,GL2,Ice Water Lightning,NA,False
 Witch’s Resolve,X,Lulu,GL2,NE,NA,False
-Aqueous Beauty,X,Lulu,GL,Water,NA,False
+Aqueous Beauty,X,Lulu,GL,Water,NA,True
 The Future Waits,X,Lulu,AW,Ice Water,MAG,True
 Voltech Fury,X,Lulu,AW,Ice Water Lightning,MAG,False
 Tri-Energy,X,Lulu,OLB,Ice Water Lightning,MAG,False
@@ -2999,7 +2999,7 @@ Apex Negative Aura,T-0,Sice,AD,Dark,PHY,False
 Awoken Grim Reaper,T-0,Sice,DuAW,Dark,PHY,False
 Lightning Flash,T-0,Jack,BSB,Fire,PHY,True
 Deliverance,T-0,Jack,USB,Fire,PHY,False
-Flickering Shadow,T-0,Jack,GL2,Fire,NA,False
+Flickering Shadow,T-0,Jack,GL2,Fire,NA,True
 Transience,T-0,Jack,AW,Fire,PHY,False
 Piercing Gleam,T-0,Jack,Sync,Fire,PHY,False
 Apex Pearcing Gleam,T-0,Jack,AD,Fire,PHY,False
