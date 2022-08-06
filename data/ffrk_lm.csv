@@ -198,7 +198,7 @@ Onslaught (Umaro),6,Umaro,VI,0.3,Every1,Monk Sharpshooter,Followup PHY,False
 Conniving Clown,5,Kefka,VI,0.2,Every1,Dark,AdditionalTrigger,True
 Destruction's Delight,5,Kefka,VI,1.0,Start,Dark,Infusion,False
 Born General,5,Leo,VI,1.0,Start,Earth,Infusion,True
-In Search of Peace,5,Leo,VI,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,False
+In Search of Peace,5,Leo,VI,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,True
 Self Forgiveness,5,Cloud,VII,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,True
 Truth Surmounted,5,Cloud,VII,0.2,Every1,Wind,AdditionalTrigger,True
 Borrowed Blade,5,Cloud,VII,1.0,Start,Dark,Infusion,False

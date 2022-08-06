@@ -524,7 +524,7 @@ Deluge (IV),IV,Rydia,AD,Water Holy,MAG,True
 Call Me Queen,IV,Rydia,AD,Water,MAG,False
 Guardian Titan,IV,Rydia,Guardian,Earth,MAG,False
 Awoken Lord of the Seas,IV,Rydia,DuAW,Water,MAG,False
-Awoken Mournful Cry,IV,Rydia,DuAW,Earth,MAG,False
+Awoken Mournful Cry,IV,Rydia,DuAW,Earth,MAG,True
 Water Bond (Rydia),IV,Rydia,Chain4,Water,MAG,False
 Woven Bond: Rydia - Earth,IV,Rydia,CLB,Earth,MAG,False
 Divine Favor,IV,Rosa,Unique,NE,NA,False
@@ -2165,17 +2165,22 @@ Pirate Pummel,XI,Lion,USB,NE,PHY,True
 Dancing Edge (XI),XI,Lion,USB,Water,PHY,False
 Scatter Shot,XI,Lion,ASB,Water,PHY,True
 Shark Bite,XI,Lion,GL2,Water,PHY,True
+Espionage Ops,XI,Lion,GL2,Water,NA,False
 Pirate's Tutelage,XI,Lion,GL,Water,NA,False
 Evisceration,XI,Lion,AW,Water,PHY,False
+True Pirate Pummel,XI,Lion,AW,Water,PHY,False
 Mandalic Stab,XI,Lion,Sync,Water,PHY,False
 Apex Walk the Plank,XI,Lion,AD,Water,PHY,False
+Awoken Dancing Edge (XI),XI,Lion,DuAW,Water,PHY,False
 Remove & Resist,XI,Aphmau,SSB,NE,NA,True
 Realignment,XI,Aphmau,BSB,Lightning,MAG,True
 Overdrive (XI),XI,Aphmau,USB,NE,NA,True
 Imperial Heal,XI,Aphmau,USB,Holy,MAG,True
 Instant Manipulation,XI,Aphmau,GL2,NE,NA,True
+Puppetry Tobe,XI,Aphmau,GL2,NE,NA,False
 Benediction (XI),XI,Aphmau,AW,NE,NA,False
 Automation Band,XI,Aphmau,Sync,NE,NA,False
+Awoken Realignment,XI,Aphmau,DuAW,NE,NA,False
 Freezebite,XI,Zeid,SSB,Dark Ice,PHY,False
 Abyssal Strike,XI,Zeid,BSB,Dark,PHY,True
 Darksheen Blade,XI,Zeid,USB,Dark,PHY,False
@@ -2194,6 +2199,12 @@ Guardian Lady Lilith,XI,Lilisette,Guardian,Lightning Wind,PHY,False
 True Strike,XI,Naja,USB,Earth,PHY,False
 Salaheem Slam,XI,Naja,ASB,Earth,PHY,True
 Warrior's Charge,XI,Naja,GL,Earth,NA,True
+Sword of Antiquity,XI,Arciela,GL2,NE,NA,False
+Dynastic Gravitas,XI,Arciela,AW,Ice Lightning Water Wind,MAG,False
+Dignified Awe,XI,Arciela,Sync,Ice Lightning Water Wind,MAG,False
+Naakual's Vengeance,XI,Arciela,AD,Ice Lightning Water Wind,MAG,False
+Guardian Darrcuiln,XI,Arciela,Guardian,Ice Lightning Water Wind,MAG,False
+Awoken Unceasing Dread,XI,Arciela,DuAW,Ice Lightning Water Wind,MAG,False
 White Whorl,XII,Vaan,Unique,NE,PHY,True
 Windburst,XII,Vaan,Unique,NE,PHY,True
 Piercing Blow,XII,Vaan,SSB,NE,PHY,False
