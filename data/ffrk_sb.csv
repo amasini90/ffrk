@@ -291,7 +291,7 @@ Boundless Spirit,II,Scott,USB,NE,NA,True
 Dawnfire,II,Scott,ASB,Fire,PHY,True
 Ardent Valor,II,Scott,GL,Fire,NA,False
 Hungry for Battle,II,Scott,GL2,Fire,NA,False
-Kashuan Kingsblade,II,Scott,AW,Fire,PHY,False
+Kashuan Kingsblade,II,Scott,AW,Fire,PHY,True
 Shimmering Sword,II,Scott,AW,Fire,PHY,False
 Scarlet Pyroblade,II,Scott,Sync,Fire,PHY,False
 Advance,III,Luneth,Unique,NE,NA,False
@@ -605,7 +605,7 @@ Inferno (IV),IV,Edge,SSB,Fire,PHY,False
 Eblan Doppelganger,IV,Edge,SSB,NE,NA,True
 Seething Waters,IV,Edge,BSB,Water,PHY,True
 Chaotic Moon,IV,Edge,USB,Water Lightning,PHY,False
-Noxious Fangs,IV,Edge,USB,Water Poison,PHY,False
+Noxious Fangs,IV,Edge,USB,Water Poison,PHY,True
 Chain of Water,IV,Edge,Chain,Water,PHY,True
 Eblan Universe,IV,Edge,ASB,Water Fire Lightning,PHY MAG,False
 Azure Flash,IV,Edge,GL2,NE,NA,True
