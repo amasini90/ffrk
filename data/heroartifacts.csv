@@ -4,6 +4,7 @@ Garland,I,99,99,1
 Meia,I,99,99,1
 Master,I,99,99,1
 Thief (I),I,99,99,1
+Wol,I,99,99,1
 Firion,II,80,99,1
 Leila,II,99,99,1
 Josef,II,99,50,1
@@ -11,11 +12,13 @@ Guy,II,80,99,1
 Emperor,II,99,99,1
 Leon,II,99,99,1
 Ricard,II,99,99,1
+Maria,II,99,99,1
 Aria,III,99,99,1
 Arc,III,99,99,1
 Cloud of Darkness,III,99,99,1
 Luneth,III,99,99,1
 Refia,III,99,99,1
+Ingus,III,99,99,1
 Tellah,IV,99,99,1
 Palom,IV,65,99,1
 Porom,IV,99,0,1
@@ -31,6 +34,7 @@ Ceodore,IV,0,80,1
 Cid (IV),IV,99,99,1
 Fusoya,IV,99,99,1
 Barbariccia,IV,99,99,1
+Rydia,IV,99,99,1
 Bartz,V,99,99,1
 Xezat,V,65,65,1
 Exdeath,V,99,99,1
@@ -112,6 +116,7 @@ Penelo,XII,99,99,1
 Lightning,XIII,99,99,1
 Serah,XIII,99,99,1
 Snow,XIII,99,99,1
+Vanille,XIII,99,99,1
 Sazh,XIII,99,99,1
 Cid Raines,XIII,99,99,1
 Nabaat,XIII,50,99,1
@@ -125,6 +130,7 @@ Ardyn,XV,99,99,1
 Aranea,XV,80,99,1
 Prompto,XV,65,99,1
 Ravus,XV,99,99,1
+Gladiolus,XV,99,99,1
 Cinque,T-0,99,99,1
 Seven,T-0,99,99,1
 Eight,T-0,99,99,1
@@ -134,17 +140,11 @@ Sice,T-0,99,99,1
 King,T-0,99,99,1
 Nine,T-0,99,99,1
 Jack,T-0,99,99,1
+Machina,T-0,99,99,1
 Delita,FFT,99,65,1
 Ovelia,FFT,65,80,1
+Meliadoul,FFT,99,99,1
 Serafie,FFBe,99,99,1
+Enna Kros,FFBe,99,99,1
 Wedge,Core,99,80,1
 Dr. Mog,Core,99,99,1
-Rydia,IV,65,99,1
-Vanille,XIII,99,50,1
-Gladiolus,XV,65,99,1
-Wol,I,99,80,1
-Maria,II,80,99,1
-Ingus,III,99,80,1
-Enna Kros,FFBe,50,99,1
-Meliadoul,FFT,99,80,1
-Machina,T-0,80,99,1
