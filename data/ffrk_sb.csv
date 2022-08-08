@@ -248,7 +248,7 @@ Hero's Smash,II,Josef,USB,Ice,PHY,True
 Heroic Soul,II,Josef,USB,NE,NA,False
 Dauntless Courage,II,Josef,Chain3,ALL,PHY MAG,False
 Hero's Backbone,II,Josef,ASB,Ice,PHY,False
-Hero's Roar,II,Josef,GL,Ice,PHY,False
+Hero's Roar,II,Josef,GL,Ice,PHY,True
 Heroic Class,II,Josef,GL2,Ice,NA,False
 Hero's Heart,II,Josef,GL2,NE,NA,True
 Purposeful Journey,II,Josef,AW,Ice,PHY,True
@@ -329,6 +329,10 @@ Sacred Breath,III,Arc,GL2,Holy Water,NA,True
 Awaken Leviath,III,Arc,AW,Holy Water,MAG,False
 Grace of Water,III,Arc,AW,Holy Water,MAG,False
 Invoke Leviath,III,Arc,Sync,Holy Water,MAG,True
+Shimmerwave Tome,III,Arc,OLB,Holy Water,MAG,False
+Apex Gentle Heart,III,Arc,AD,Holy Water,MAG,False
+Awoken Break of Valor,III,Arc,DuAW,Holy Water,MAG,False
+Woven Bond: Arc,III,Arc,CLB,ALL,PHY MAG,False
 Spellbreak Volley,III,Refia,Unique,NE,PHY,True
 Blazing Fists,III,Refia,SSB,NE,PHY,True
 Dance of Carnage,III,Refia,BSB,Fire,PHY,True
@@ -406,6 +410,9 @@ Water Flash (Onion Knight),III,Onion Knight,GLB,Water,MAG,False
 Spectral Onion,III,Onion Knight,OLB,Wind Water Fire Earth,MAG,False
 Apex Blowback,III,Onion Knight,AD,Water,MAG,False
 Tornado,III,Onion Knight,AD,Wind,MAG,False
+Apex Flare,III,Onion Knight,AD,Fire,MAG,False
+Channel Fire,III,Onion Knight,Sync,Fire,MAG,False
+Awoken Firaga,III,Onion Knight,DuAW,Fire,MAG,False
 Anti-air Particle Beam,III,Cloud of Darkness,SSB,Dark Holy,MAG,True
 Fusillade Particle Beam,III,Cloud of Darkness,BSB,Dark Holy,MAG,True
 0-Form Particle Beam,III,Cloud of Darkness,BSB,Dark,MAG,True
@@ -426,6 +433,8 @@ Scatter Particle Beam,III,Cloud of Darkness,Sync,Lightning,MAG,True
 Fabled Particle Beam,III,Cloud of Darkness,OLB,Dark,MAG,False
 Spiraling Flash (CoD),III,Cloud of Darkness,GLB,Dark Lightning,MAG,False
 Ultra Particle Beam,III,Cloud of Darkness,AD,Dark Lightning,MAG,False
+Awoken Anti-air Particle Beam,III,Cloud of Darkness,DuAW,Dark,MAG,False
+Woven Bond: CoD - Dark,III,Cloud of Darkness,CLB,Dark,MAG,False
 Life of Devotion,III,Aria,SSB,NE,NA,True
 Maiden of Water,III,Aria,BSB,NE,NA,True
 Seaborne Encounter,III,Aria,USB,NE,NA,True
@@ -1647,7 +1656,7 @@ Lightning Raid,VIII,Raijin,USB,Lightning,PHY,False
 Dragon Ascent,VIII,Raijin,ASB,Lightning,PHY,False
 Thundering Hammer,VIII,Raijin,GL,Lightning,NA,False
 Indomitable Will,VIII,Raijin,GL2,NE,NA,False
-Valiant Assault,VIII,Raijin,GL2,NE,NA,False
+Valiant Assault,VIII,Raijin,GL2,NE,NA,True
 Indomitable Thunderclap,VIII,Raijin,GL2,NE,NA,False
 Stormcall,VIII,Raijin,AW,Lightning,PHY,False
 Thunderstorm Assault,VIII,Raijin,Sync,Lightning,PHY,True
