@@ -44,6 +44,12 @@ def main():
         df_lm = pd.read_csv('./data/ffrk_lm.csv', header=0, index_col=0)
         df_jobs = pd.read_csv('./data/ffrk_jobs.csv', header=0, index_col=0)
 
+        # To see which realms have the most complete HA sets of heroes
+        #df_ha = pd.read_csv('./data/heroartifacts.csv', header=0, index_col=0)
+        #df_ha['Sum'] = df_ha.sum(axis=1)
+        #agg = df_ha[df_ha['Sum']==199].groupby('Realm').count()
+        #st.write(agg.sort_values(by='Sum',ascending=False))
+
         # Apply weights as a new column
         df['Weight'] = df['Tier'].map(weights)
         df_lm["Weight"] = df_lm['Tier'].map(weights_lm)

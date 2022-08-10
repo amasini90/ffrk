@@ -1347,7 +1347,7 @@ Hell's Gate,VII,Sephiroth,Unique,NE,PHY,True
 Nibelheim Nightmare,VII,Sephiroth,Unique,Fire,PHY,False
 Black Materia,VII,Sephiroth,SSB,NE,PHY,False
 Transience,VII,Sephiroth,SSB,Dark,PHY,False
-Reunion,VII,Sephiroth,BSB,Fire,PHY,False
+Reunion,VII,Sephiroth,BSB,Fire,PHY,True
 Octaslash,VII,Sephiroth,BSB,Dark,PHY,True
 Heaven's Light,VII,Sephiroth,OSB,Dark Fire,PHY,False
 Heartless Angel,VII,Sephiroth,USB,Dark,PHY,False
@@ -1460,7 +1460,7 @@ Apocalypse Genesis,VII,Genesis,USB,Fire,PHY,True
 SOLDIER's Epic,VII,Genesis,ASB,Fire,PHY,False
 Epic of Creation,VII,Genesis,GL2,Fire,PHY,True
 Epic of Destruction,VII,Genesis,GL,Fire,NA,True
-Epic of Heroism,VII,Genesis,GL2,NE,NA,False
+Epic of Heroism,VII,Genesis,GL2,NE,NA,True
 Genesis Rhapsody,VII,Genesis,AW,Fire,PHY,False
 Purgatorial Wave,VII,Genesis,Sync,Fire,PHY,False
 Light of Doom,VII,Genesis,OLB,Fire,PHY,False
@@ -2622,7 +2622,7 @@ Excogitation,XIV,Alphinaud,USB,NE,NA,False
 Garuda Exoburst,XIV,Alphinaud,USB,Wind,MAG,True
 Aetherpact,XIV,Alphinaud,Chain2,Wind,MAG,True
 Dreadwyrm Trance,XIV,Alphinaud,ASB,Wind,MAG,True
-Shining Moonstone,XIV,Alphinaud,GL2,Wind,NA,False
+Shining Moonstone,XIV,Alphinaud,GL2,Wind,NA,True
 Shockwave,XIV,Alphinaud,GL,Wind,MAG,True
 Starstorm,XIV,Alphinaud,AW,Wind,MAG,True
 Summon Moonstone,XIV,Alphinaud,Sync,NE,NA,False
