@@ -345,7 +345,7 @@ Battering Heat,III,Refia,AW,Fire,PHY,False
 Blacksmith Discipline,III,Refia,AW,Fire,PHY,False
 Searing Circle,III,Refia,Sync,Fire,PHY,False
 Maiden's Hammerblow,III,Refia,OLB,Fire,PHY,False
-Awoken Battering Heat,III,Refia,DuAW,Fire,PHY,False
+Awoken Battering Heat,III,Refia,DuAW,Fire,PHY,True
 Earth Ward,III,Ingus,Unique,NE,NA,False
 Gaia's Vengeance,III,Ingus,SSB,NE,PHY,True
 Titan's Blade,III,Ingus,SSB,Earth,PHY,False
@@ -2147,7 +2147,7 @@ Winter Moon Blossom,XI,Ayame,Sync,Ice,PHY,False
 Tachi: Hyosai,XI,Ayame,Sync,Ice,PHY,False
 Apex Skillchain,XI,Ayame,AD,Ice,PHY,False
 Awoken Tachi Jinpu,XI,Ayame,DuAW,Ice,PHY,False
-Swift Blade,XI,Curilla,SSB,Holy,PHY,False
+Swift Blade,XI,Curilla,SSB,Holy,PHY,True
 Intervention,XI,Curilla,BSB,Holy,PHY,True
 Holy Circle,XI,Curilla,USB,NE,NA,True
 Extreme Defense,XI,Curilla,USB,NE,NA,True
