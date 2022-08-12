@@ -1012,7 +1012,7 @@ Drill,VI,Edgar,Unique,NE,PHY,False
 Chainsaw,VI,Edgar,SSB,Poison,PHY,False
 Trifecta Drill,VI,Edgar,BSB,Poison Fire Lightning,PHY,True
 Bio Chainsaw,VI,Edgar,BSB,Poison,PHY,False
-Armageddon Blast,VI,Edgar,OSB,Poison,PHY,False
+Armageddon Blast,VI,Edgar,OSB,Poison,PHY,True
 Royal Brotherhood,VI,Edgar,USB,Poison Fire Lightning,PHY,True
 Proven Weaponry,VI,Edgar,USB,Poison Fire Lightning,PHY,False
 Corteous Gesture,VI,Edgar,Chain3,ALL,PHY MAG,False
@@ -2212,7 +2212,7 @@ Vivifying Waltz,XI,Lilisette,BSB,Lightning Wind,PHY,True
 Sensual Dance,XI,Lilisette,USB,Lightning Wind,PHY,True
 Climactic Flourish,XI,Lilisette,GL2,NE,NA,False
 Desperate Flourish,XI,Lilisette,AW,NE,NA,False
-Rousing Samba,XI,Lilisette,Sync,NE,NA,False
+Rousing Samba,XI,Lilisette,Sync,NE,NA,True
 Guardian Lady Lilith,XI,Lilisette,Guardian,Lightning Wind,PHY,False
 True Strike,XI,Naja,USB,Earth,PHY,False
 Salaheem Slam,XI,Naja,ASB,Earth,PHY,True
