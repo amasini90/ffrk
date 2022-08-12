@@ -1207,9 +1207,12 @@ Meteor Rain,VII,Cloud,Sync,Dark,PHY,True
 Apex Slash,VII,Cloud,Sync,Wind,PHY,False
 Mako Strike,VII,Cloud,Sync,Wind Dark,PHY,False
 Omnislash,VII,Cloud,AD,Wind,PHY,False
+Apex Hazardous Darkness,VII,Cloud,AD,Dark,PHY,False
 Sonic Blade,VII,Cloud,OLB,Wind Dark,PHY,False
 Guardian Choco-Mog,VII,Cloud,Guardian,Wind,PHY,False
 Awoken Finishing Touch,VII,Cloud,DuAW,Wind,PHY,False
+Awoken Darkpetal Bloom,VII,Cloud,DuAW,Dark,PHY,False
+Woven Bond: Cloud,VII,Cloud,CLB,ALL,PHY MAG,False
 Grenade Bomb,VII,Barret,Unique,NE,PHY,False
 Satellite Beam,VII,Barret,Unique,Lightning,PHY,False
 Hammerblow,VII,Barret,Unique,NE,PHY,True
@@ -1226,6 +1229,7 @@ Rocket Hammerblow,VII,Barret,Sync,Fire,PHY,False
 Volcanic Cannon,VII,Barret,OLB,Fire,PHY,False
 Catastrophe,VII,Barret,AD,Fire,PHY,False
 Awoken Ungarmax,VII,Barret,DuAW,Fire,PHY,False
+Woven Bond: Barret,VII,Barret,CLB,ALL,PHY MAG,False
 Somersault,VII,Tifa,Unique,NE,PHY,False
 Burning Arrow,VII,Tifa,Unique,NE,PHY,False
 Waterkick,VII,Tifa,Unique,NE,PHY,True
@@ -1261,6 +1265,7 @@ Refreshing Breeze,VII,Aerith,GL2,NE,NA,True
 Star Pulse,VII,Aerith,AW,NE,NA,True
 Planetary Pulse,VII,Aerith,AW,NE,NA,False
 Blue-Eyed Sentinel,VII,Aerith,Sync,NE,NA,False
+Awoken White Materia,VII,Aerith,DuAW,NE,NA,False
 Lunatic High,VII,Red XIII,Unique,NE,NA,False
 Trine,VII,Red XIII,Unique,Lightning,MAG,False
 Howling Moon,VII,Red XIII,Unique,NE,NA,True
@@ -1419,7 +1424,11 @@ Mako Cannon,VII,Rufus,USB,Dark,PHY,False
 Reign of Terror,VII,Rufus,GL,Dark,PHY,False
 Ambitious Vice,VII,Rufus,GL2,Dark,NA,False
 Recreant Son,VII,Rufus,AW,Dark,PHY,True
+Presidential Might,VII,Rufus,AW,Dark,PHY,False
+Apex Mako Cannon,VII,Rufus,AD,Dark,PHY,False
 Presidential Power,VII,Rufus,Sync,Dark,PHY,False
+Awoken President's Scorn,VII,Rufus,DuAW,Dark,PHY,False
+Woven Bond: Rufus,VII,Rufus,CLB,ALL,PHY MAG,False
 Countertek,VII,Shelke,SSB,NE,NA,True
 Synaptic Net Dive,VII,Shelke,BSB,Lightning,PHY,True
 Transparent Spark,VII,Shelke,USB,Lightning,PHY,True

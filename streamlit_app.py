@@ -187,7 +187,7 @@ def main():
         charDF = analysis.get_char_df(df,df_lm,includeHAbonus)
         ##########################
 
-        Choice = st.selectbox('Which kind of party do you want to build?', ["5 Star Magicite","Realm","Elemental","Job"])
+        Choice = st.radio('Which kind of party do you want to build?', ["5 Star Magicite","Realm","Elemental","Job"])
 
         if Choice == "Realm":
 

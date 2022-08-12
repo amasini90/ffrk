@@ -234,6 +234,7 @@ Refinement (Reno),6,Reno,VII,1.0,Auto,NA,Dmg 1.3xLightning,False
 Beating Wings,5,Angeal,VII,0.2,Every1,Holy Wind,AdditionalTrigger,False
 Presidential Prerogative,5,Rufus,VII,0.2,Every1,Dark,AdditionalTrigger,True
 Titan of Industry,5,Rufus,VII,0.3,Every1,Dark,ReduceDelay,False
+Quickstrike (Rufus),6,Rufus,VII,1.0,Start,Dark,ReduceDelay Followup PHY,False
 Edge of Eternity,5,Shelke,VII,1.0,Auto,NA,Debuff 1.2xDuration,True
 Shaper of Fate,5,Shelke,VII,0.2,Every1,Celerity,AdditionalTrigger,False
 Subversion (Shelke),6,Shelke,VII,1.0,Every3,Celerity Support,Lightning Imperil,False
