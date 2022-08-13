@@ -12,7 +12,7 @@ def main():
     st.set_page_config(page_title="FFRK Helper")
 
     # Using object notation
-    page = st.sidebar.selectbox(
+    page = st.sidebar.radio(
         "Page",
     ("Relics","Accessories")
     )
@@ -130,9 +130,9 @@ def main():
         empty,colb=st.columns(2)
         colb.image('./Images/Elements/FFRK_'+WeakestElem+'_Element.png', width=30)
 
-        # Display LV2 Chains situation
+        # Display Chains situation
         st.subheader('Chains')
-        # Realm LV2 Chains
+        # Realm Chains
         with st.expander("Missing Realm Chains by lower Score"):
             RealmsWithChain = df[(df.Owned==True) & ((df.Tier=='Chain2') | (df.Tier=='Chain3') | (df.Tier=='Chain4')) & (df.Element=='ALL')].Realm.values
             RealmsMissingChain = set(df[(~df.Realm.isin(RealmsWithChain)) & (df.Realm!='KH') & (df.Realm!='FFBe')].Realm.values)
@@ -142,7 +142,7 @@ def main():
             else:
                 st.write('All the Realms are covered. Good!')
                 
-        # Elemental LV2 Chains
+        # Elemental Chains
         with st.expander("Missing Elemental Chains by lower Score"):
             mis = 0
             for typ in ["PHY", "MAG"]:
