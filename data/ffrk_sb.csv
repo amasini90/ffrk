@@ -1979,7 +1979,7 @@ Aurochs' Shot,X,Wakka,USB,Water,PHY,True
 Blitz Discipline,X,Wakka,Chain3,ALL,PHY MAG,False
 Centre Attack,X,Wakka,GL2,Water,PHY,False
 Ocean Reels,X,Wakka,GL2,Water,NA,False
-Aurochs Charge,X,Wakka,GL2,Water,NA,False
+Aurochs Charge,X,Wakka,GL2,Water,NA,True
 Ace Lesson,X,Wakka,AW,Water,PHY,True
 Last Blitz,X,Wakka,AW,Water,PHY,False
 Aurochs Spirit+,X,Wakka,Sync,Water,PHY,False
@@ -1988,7 +1988,7 @@ Spiraling Flash (Wakka),X,Wakka,GLB,Water,NA,True
 Blitz Off,X,Wakka,OLB,Water,PHY,False
 Apex Aurochs Reels,X,Wakka,AD,Water,PHY,False
 Awoken Ace Lesson,X,Wakka,DuAW,Water,PHY,False
-Woven Bond: Wakka - Water,X,Wakka,CLB,Water,PHY,False
+Woven Bond: Wakka - Water,X,Wakka,CLB,Water,PHY,True
 Firaga Fury,X,Lulu,Unique,Fire,MAG,True
 Focus (X),X,Lulu,Unique,NE,NA,True
 March of the Moogles,X,Lulu,SSB,Ice,MAG,False
