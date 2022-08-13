@@ -1022,7 +1022,7 @@ King of Figaro,VI,Edgar,GL2,Poison Fire Lightning,NA,True
 Trinity Down,VI,Edgar,GL2,Poison Fire Lightning,NA,False
 Bravo Drill,VI,Edgar,AW,Poison Fire Lightning,PHY,True
 Bravo Chainsaw,VI,Edgar,AW,Poison Fire Lightning,PHY,False
-Trinity Boost,VI,Edgar,Sync,Poison Fire Lightning,PHY,False
+Trinity Boost,VI,Edgar,Sync,Poison Fire Lightning,PHY,True
 Bio Boost,VI,Edgar,Sync,Poison,PHY,False
 Royal Blast,VI,Edgar,OLB,Poison Fire Lightning,PHY,False
 Poison Bond (Edgar),VI,Edgar,Chain4,Poison,PHY MAG,False
@@ -2444,7 +2444,7 @@ Restitution,XIII,Vanille,USB,NE,NA,False
 Need for Speed,XIII,Vanille,GL,NE,NA,True
 Quick Guard,XIII,Vanille,GL2,NE,NA,False
 Swift Recovery,XIII,Vanille,GL2,NE,NA,True
-Quick Curasa,XIII,Vanille,GL,NE,NA,False
+Quick Curasa,XIII,Vanille,GL,NE,NA,True
 Rose Promenade,XIII,Vanille,AW,NE,NA,True
 Come On Hecaton!,XIII,Vanille,Sync,NE,NA,False
 Steel of Oath,XIII,Vanille,Sync,Earth,MAG,False
@@ -2613,7 +2613,7 @@ Six-sided Star,XIV,Yda,AD,Fire,PHY,False
 Awoken Furious Flurry,XIV,Yda,DuAW,Fire,PHY,True
 Swiftcast Fira,XIV,Papalymo,Unique,Fire,MAG,False
 Enochian Blizzaja,XIV,Papalymo,SSB,Ice,MAG,True
-Ley Lines,XIV,Papalymo,SSB,NE,NA,False
+Ley Lines,XIV,Papalymo,SSB,NE,NA,True
 Enochian Firaja,XIV,Papalymo,BSB,Fire,MAG,True
 Flareja,XIV,Papalymo,OSB,Fire,MAG,False
 Ley Line Firaja,XIV,Papalymo,USB,Fire,MAG,False
