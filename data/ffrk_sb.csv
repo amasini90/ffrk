@@ -1190,7 +1190,7 @@ Finishing Touch,VII,Cloud,OSB,Wind,PHY,True
 Cherry Blossom (FFT),VII,Cloud,OSB,Lightning Ice Fire,PHY,True
 Ultra Cross Slash,VII,Cloud,USB,Wind Dark,PHY,True
 Darkpetal Bloom,VII,Cloud,USB,Dark,PHY,True
-Climirage,VII,Cloud,USB,Wind,PHY,False
+Climirage,VII,Cloud,USB,Wind,PHY,True
 Bond (Cloud),VII,Cloud,Chain4,ALL,PHY MAG,False
 Sonic Braver,VII,Cloud,ASB,Wind,PHY,False
 Eye of Darkness,VII,Cloud,ASB,Dark,PHY,True
@@ -1296,7 +1296,7 @@ Freewheeling Earthrite,VII,Yuffie,ASB,Earth,PHY,True
 Freewheeling Reflection,VII,Yuffie,GL,NE,NA,False
 Stillwater Crag,VII,Yuffie,GL,Water Earth,NA,True
 Ebb and Flow,VII,Yuffie,GL2,Water,NA,False
-Earth Veil Slam,VII,Yuffie,GL2,Earth,NA,False
+Earth Veil Slam,VII,Yuffie,GL2,Earth,NA,True
 Sublime Doom,VII,Yuffie,AW,Water Earth,PHY,False
 Sublime Landscaper,VII,Yuffie,AW,Earth,PHY,True
 Moonless Shower,VII,Yuffie,Sync,Water,PHY,False
@@ -1357,7 +1357,7 @@ Octaslash,VII,Sephiroth,BSB,Dark,PHY,True
 Heaven's Light,VII,Sephiroth,OSB,Dark Fire,PHY,False
 Heartless Angel,VII,Sephiroth,USB,Dark,PHY,False
 Zanshin,VII,Sephiroth,USB,Dark,PHY,False
-Crimson Lotus,VII,Sephiroth,USB,Fire,PHY,False
+Crimson Lotus,VII,Sephiroth,USB,Fire,PHY,True
 Purgatorial Flames,VII,Sephiroth,ASB,Fire,PHY,False
 Setting Sun,VII,Sephiroth,ASB,Dark,PHY,True
 Jenova's Might,VII,Sephiroth,GL,Dark,NA,True
@@ -1368,7 +1368,7 @@ Underworld Guardian,VII,Sephiroth,AW,Fire,PHY,False
 Flames of Nibelheim,VII,Sephiroth,AW,Dark Fire,PHY,False
 Demonic Lord,VII,Sephiroth,Sync,Dark,PHY,False
 Crimson Octaslash,VII,Sephiroth,Sync,Fire,PHY,False
-Dark Illumination,VII,Sephiroth,OLB,Dark,PHY,False
+Dark Illumination,VII,Sephiroth,OLB,Dark,PHY,True
 Jenova,VII,Sephiroth,AD,Fire,PHY,False
 Sunburst,VII,Sephiroth,AD,Dark,PHY,True
 Dark Carmine Blade,VII,Sephiroth,Sync,Dark Fire,PHY,False
@@ -1382,7 +1382,7 @@ Big Brawl,VII,Cid (VII),SSB,Wind,PHY,True
 Dragon Dive,VII,Cid (VII),BSB,Wind,PHY,True
 Dynamite Boost,VII,Cid (VII),USB,Wind,PHY,False
 Cid in Charge,VII,Cid (VII),Chain2,ALL,PHY MAG,True
-Smokig Dive,VII,Cid (VII),ASB,Wind,PHY,False
+Smokig Dive,VII,Cid (VII),ASB,Wind,PHY,True
 Cleared for Takeoff!,VII,Cid (VII),GL,Wind,NA,False
 Rocket Jump,VII,Cid (VII),GL2,Wind,PHY,False
 Dreams of Space,VII,Cid (VII),AW,Wind,PHY,False
@@ -1425,7 +1425,7 @@ Reign of Terror,VII,Rufus,GL,Dark,PHY,False
 Ambitious Vice,VII,Rufus,GL2,Dark,NA,False
 Recreant Son,VII,Rufus,AW,Dark,PHY,True
 Presidential Might,VII,Rufus,AW,Dark,PHY,False
-Apex Mako Cannon,VII,Rufus,AD,Dark,PHY,False
+Apex Mako Cannon,VII,Rufus,AD,Dark,PHY,True
 Presidential Power,VII,Rufus,Sync,Dark,PHY,False
 Awoken President's Scorn,VII,Rufus,DuAW,Dark,PHY,False
 Woven Bond: Rufus,VII,Rufus,CLB,ALL,PHY MAG,False
