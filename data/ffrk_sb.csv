@@ -1100,7 +1100,7 @@ Highest Stakes,VI,Setzer,USB,Dark,PHY,True
 Hat-Trick,VI,Setzer,ASB,Dark,PHY,True
 Dream Vault,VI,Setzer,GL2,Dark,NA,False
 Peaceful Requiem,VI,Setzer,AW,Dark,PHY,False
-Dealer Shuffle,VI,Setzer,Sync,Dark,PHY,False
+Dealer Shuffle,VI,Setzer,Sync,Dark,PHY,True
 Sabre Soul,VI,Strago,Unique,NE,MAG,False
 Aqua Breath,VI,Strago,Unique,Water,MAG,False
 Mighty Guard (VI),VI,Strago,SSB,NE,NA,False
@@ -2346,7 +2346,7 @@ Vengeful Judgment,XII,Gabranth,Sync,Dark,PHY,False
 Dual Rend,XII,Gabranth,OLB,Dark,PHY,False
 Enmity Prison,XII,Gabranth,AD,Dark,PHY,False
 Awoken Avenger,XII,Gabranth,DuAW,Dark,PHY,False
-Archadian Draught,XII,Larsa,SSB,NE,NA,False
+Archadian Draught,XII,Larsa,SSB,NE,NA,True
 Manufacted Marvel,XII,Larsa,SSB,NE,NA,True
 Life Crystal,XII,Larsa,BSB,NE,NA,True
 Scintillating Potion,XII,Larsa,USB,NE,NA,True

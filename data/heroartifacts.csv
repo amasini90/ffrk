@@ -151,6 +151,6 @@ Dr. Mog,Core,99,99,1
 Gaffgarion,FFT,65,80,1
 Orlandeau,FFT,50,80,1
 Marach,FFT,50,65,1
-Orran,FFT,50,65,1
-Onion Knight,III,65,65,1
-Desch,III,50,65,0
+Orran,FFT,65,65,1
+Onion Knight,III,65,80,1
+Desch,III,50,99,0
