@@ -598,7 +598,7 @@ Font of Wisdom,IV,Tellah,Unique,NE,NA,False
 Dire Meteor,IV,Tellah,Unique,NE,MAG,True
 Last Gasp,IV,Tellah,SSB,NE,NA,True
 Sage's Sagacity,IV,Tellah,BSB,Earth,MAG,True
-Sage's Resolve,IV,Tellah,USB,Earth,MAG,False
+Sage's Resolve,IV,Tellah,USB,Earth,MAG,True
 Grand Astron,IV,Tellah,USB,Earth,MAG,False
 Sage's Stone Ward,IV,Tellah,Chain3,Earth,MAG,False
 Sage's Scar,IV,Tellah,ASB,Earth,MAG,False
@@ -1731,7 +1731,7 @@ Rumble Twister,IX,Zidane,ASB,Wind,PHY,True
 Aerial Ace,IX,Zidane,GL,Wind,PHY,True
 Tail Draft,IX,Zidane,GL2,Wind,NA,False
 Reverse Gaia,IX,Zidane,AW,Wind,PHY,True
-True Stellar Circle 5,IX,Zidane,AW,Wind,PHY,False
+True Stellar Circle 5,IX,Zidane,AW,Wind,PHY,True
 Not Alone,IX,Zidane,Sync,Wind,PHY,False
 Blast Flag,IX,Zidane,OLB,Wind,PHY,False
 Wind Raiment (Zidane),IX,Zidane,GLB,Wind,NA,False
@@ -3102,7 +3102,7 @@ Reprogram,FFBe,Aemo,BSB,NE,NA,True
 Photon Barrage,FFBe,Aemo,USB,NE,NA,False
 Impact Leap,FFBe,Wrieg,SSB,Earth,PHY,False
 Force Blaster,FFBe,Wrieg,BSB,Earth,PHY,True
-Petal Pummel,FFBe,Tama,BSB,Holy Fire,MAG,False
+Petal Pummel,FFBe,Tama,BSB,Holy Fire,MAG,True
 World Parade,FFBe,Tama,USB,NE,NA,True
 Sky Dream,FFBe,Tama,USB,NE,NA,False
 Surging Challenge,FFBe,Tama,AW,Holy,MAG,False
