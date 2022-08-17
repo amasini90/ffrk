@@ -1644,7 +1644,7 @@ Maelstrom,VIII,Edea,BSB,Ice Dark,MAG,True
 Astral Time,VIII,Edea,USB,Ice Dark,MAG,True
 Astral Realm,VIII,Edea,USB,Ice Dark,MAG,True
 Ice Sorceress,VIII,Edea,Chain2,Ice,MAG,False
-Grief Judgment,VIII,Edea,ASB,Ice Dark,MAG,False
+Grief Judgment,VIII,Edea,ASB,Ice Dark,MAG,True
 Power Succession,VIII,Edea,GL,Ice,NA,True
 Cold-Hearted Guise,VIII,Edea,GL2,Ice,NA,True
 Sweet Frozen Dream,VIII,Edea,GL2,Ice,MAG,False
@@ -2855,7 +2855,7 @@ Holy Swordplay,FFT,Orlandeau,AD,Holy,PHY,True
 Duskblade,FFT,Gaffgarion,SSB,Dark,PHY,False
 Fellsword Dance,FFT,Gaffgarion,BSB,Dark,PHY,False
 Dance with Shadows,FFT,Gaffgarion,USB,Dark,PHY,True
-Unholy Sacrifice,FFT,Gaffgarion,USB,Dark,PHY,False
+Unholy Sacrifice,FFT,Gaffgarion,USB,Dark,PHY,True
 Cimmerian Edge,FFT,Gaffgarion,ASB,Dark,PHY,True
 Shadowy Stance,FFT,Gaffgarion,GL2,Dark,NA,True
 Mercenary's Worth,FFT,Gaffgarion,GL,Dark,NA,True
@@ -3135,7 +3135,7 @@ Shining Cheer,FFBe,Fina,GL2,NE,NA,False
 Superior Healing,FFBe,Fina,AW,NE,NA,False
 Eternal Light,FFBe,Fina,Sync,NE,NA,False
 Blade Flash-Awakened,FFBe,Lasswell,USB,Ice Wind,PHY,False
-Exorcising Storm,FFBe,Lasswell,ASB,Ice Wind,PHY,False
+Exorcising Storm,FFBe,Lasswell,ASB,Ice Wind,PHY,True
 Knightly Bonds,FFBe,Lasswell,GL2,Ice,NA,False
 Azure Sky,FFBe,Lasswell,AW,Ice Wind,PHY,False
 Winter's Oblivion,FFBe,Lasswell,Sync,Ice,PHY,False
