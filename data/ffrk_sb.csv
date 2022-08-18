@@ -222,7 +222,7 @@ Poison Bond,II,Leila,Chain4,Poison,PHY MAG,True
 Water Bond,II,Leila,Chain4,Water,PHY MAG,False
 Splash LXIV,II,Leila,ASB,Water,PHY,False
 Aqua Venom,II,Leila,GL2,Water Poison,PHY,False
-Pirate's Pluck,II,Leila,GL2,Water,NA,False
+Pirate's Pluck,II,Leila,GL2,Water,NA,True
 Pirate's Cutlass,II,Leila,AW,Water,PHY,True
 Bio Splash,II,Leila,AW,Water Poison,PHY,False
 Split Edge,II,Leila,Sync,Water,PHY,False
@@ -785,7 +785,7 @@ Faithful Friends,V,Gilgamesh,AW,Fire,PHY,True
 Future Ally,V,Gilgamesh,Sync,Fire,PHY,False
 Captain's Duel,V,Gilgamesh,OLB,Fire,PHY,False
 Big Bridge Battle,V,Gilgamesh,AD,Fire,PHY,False
-Awoken Gilgamesh Scorching Time,V,Gilgamesh,DuAW,Fire,PHY,False
+Awoken Gilgamesh Scorching Time,V,Gilgamesh,DuAW,Fire,PHY,True
 Blade Wing,V,Bartz,Unique,Wind,PHY,True
 Choco Romp,V,Bartz,Unique,Wind,PHY,True
 Lupine Barrage,V,Bartz,Unique,NE,PHY,True
@@ -2955,7 +2955,7 @@ Siphon Delta,T-0,Rem,BSB,Holy Dark,MAG,True
 Cleansing Flame,T-0,Rem,OSB,Holy Fire,MAG,False
 Manalchemy,T-0,Rem,USB,Holy Dark,MAG,True
 Live Another Day,T-0,Rem,USB,NE,NA,True
-Saintly Dagger Toss,T-0,Rem,ASB,Holy Dark,MAG,False
+Saintly Dagger Toss,T-0,Rem,ASB,Holy Dark,MAG,True
 Tenacious Stand,T-0,Rem,GL2,NE,NA,False
 Saintly Magic,T-0,Rem,GL2,Holy,MAG,False
 Saintly Aura,T-0,Rem,GL,Holy,NA,True
@@ -3022,7 +3022,7 @@ Negative Aura (Type-0),T-0,Sice,ASB,Dark,PHY,False
 Dark Fog,T-0,Sice,GL2,Dark,NA,False
 Black Abyss,T-0,Sice,GL2,NE,NA,True
 Grim Reaper,T-0,Sice,AW,Dark,PHY,True
-Death Maelstrom,T-0,Sice,AW,Dark,PHY,False
+Death Maelstrom,T-0,Sice,AW,Dark,PHY,True
 Doomshadow Scythe,T-0,Sice,Sync,Dark,PHY,False
 Apex Negative Aura,T-0,Sice,AD,Dark,PHY,False
 Awoken Grim Reaper,T-0,Sice,DuAW,Dark,PHY,False

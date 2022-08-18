@@ -528,7 +528,7 @@ Connected Hearts,5,Sora,KH,0.2,Every1,Spellblade,AdditionalTrigger,False
 Seeker of Darkness,5,Riku,KH,1.0,Start,Dark,Infusion,False
 Mysterious Key,5,Roxas,KH,1.0,Start,Holy,Infusion,False
 Organization's Finest,5,Axel,KH,1.0,Start,Fire,Infusion,False
-Symphony of Ice,5,Reynn,FFBe,0.2,Every1,Ice,AdditionalTrigger,False
+Symphony of Ice,5,Reynn,FFBe,0.2,Every1,Ice,AdditionalTrigger,True
 Harmony of Fire,5,Lann,FFBe,1.0,Start,Fire,Infusion,False
 Eddies of Time,5,Morrow,FFBe,1.0,Auto,NA,Debuff 1.2xDuration,False
 Gentle Bloom,5,Aemo,FFBe,0.2,Every1,White,AdditionalTrigger,True
