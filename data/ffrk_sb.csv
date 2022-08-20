@@ -376,7 +376,7 @@ Violet Flash,III,Desch,GL,Lightning,NA,True
 Shattering Thunder,III,Desch,GL,Lightning,MAG,False
 Violet Strike,III,Desch,GL2,Lightning,NA,False
 Growling Thunder,III,Desch,GL2,Lightning,NA,False
-Amethyst Lightning,III,Desch,GL2,Lightning,NA,False
+Amethyst Lightning,III,Desch,GL2,Lightning,NA,True
 Owen's Rage,III,Desch,AW,Lightning,MAG,False
 Distant Lightning,III,Desch,AW,Lightning,MAG,False
 Life Spark,III,Desch,Sync,Lightning,MAG,False
@@ -1923,7 +1923,7 @@ Slice & Dice,X,Tidus,Unique,NE,PHY,True
 Swiftform,X,Tidus,Unique,NE,NA,True
 Leap & Rush,X,Tidus,Unique,NE,PHY,False
 Jecht Shot,X,Tidus,SSB,Water,PHY,False
-Abes All-star,X,Tidus,BSB,Water,PHY,False
+Abes All-star,X,Tidus,BSB,Water,PHY,True
 Sonic Strike,X,Tidus,BSB,Water,PHY,True
 Energy Rain,X,Tidus,OSB,Water,PHY,False
 Day to Remember,X,Tidus,USB,Water,PHY,True
@@ -2724,7 +2724,7 @@ Analysis Sting,XV,Ignis,SSB,Fire Lightning Ice,PHY,False
 Stalwart Cook,XV,Ignis,BSB,Fire Lightning Ice,PHY,True
 Sagefire,XV,Ignis,USB,Fire,PHY,False
 Regroup,XV,Ignis,Chain2,ALL,PHY MAG,True
-Tactical Sense,XV,Ignis,GL,Fire,NA,False
+Tactical Sense,XV,Ignis,GL,Fire,NA,True
 Flameboost Bite,XV,Ignis,AW,Fire,PHY,True
 Tactical Mind,XV,Ignis,AW,Fire,PHY,True
 Sage's Hellfire,XV,Ignis,Sync,Fire,PHY,False
@@ -2915,7 +2915,7 @@ Bond (Ace),T-0,Ace,Chain4,ALL,PHY MAG,False
 Monolith Beam,T-0,Ace,ASB,Fire,MAG,True
 Cut Cards,T-0,Ace,GL,Fire,NA,False
 Support Hand,T-0,Ace,GL2,Fire,NA,False
-Wild Card,T-0,Ace,AW,Fire,MAG,False
+Wild Card,T-0,Ace,AW,Fire,MAG,True
 Assault Cards,T-0,Ace,Sync,Fire,MAG,True
 Volcano Card,T-0,Ace,Sync,Fire,MAG,False
 Crimson Cards,T-0,Ace,OLB,Fire,MAG,False

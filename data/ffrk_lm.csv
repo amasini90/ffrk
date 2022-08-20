@@ -189,7 +189,7 @@ Defying Flame,5,Strago,VI,0.2,Every1,Water,AdditionalTrigger,True
 Ancient Blood,5,Relm,VI,1.0,Every1,White,IncreaseMND,True
 Passionate Painter,5,Relm,VI,0.2,Every1,White,SmallGroup Healing,False
 Stroke of Genius,5,Relm,VI,0.2,Every1,White,AdditionalTrigger,False
-Wondrous Hues,5,Relm,VI,0.2,Every1,White,Grant MagicBarrier,False
+Wondrous Hues,5,Relm,VI,0.2,Every1,White,Grant MagicBarrier,True
 Heroic Mimicry,5,Gogo (VI),VI,0.3,Every1,Mimic,ReduceDelay,False
 Masterful Mimic,5,Gogo (VI),VI,1.0,Auto,NA,Dmg 1.3xMimic,False
 Hastening (Gogo (VI)),6,Gogo (VI),VI,1.0,Every3,Black Combat,ReduceDelay,False
