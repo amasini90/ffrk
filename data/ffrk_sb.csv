@@ -36,7 +36,7 @@ True Twist Drill,I,Garland,AW,Dark,PHY,False
 Sinister Reincarnation,I,Garland,Sync,Dark,PHY,False
 True Round Edge,I,Garland,Sync,Dark,PHY,False
 Dark Raiment,I,Garland,GLB,Dark,NA,True
-Dark Flash (Garland),I,Garland,GLB,Dark,PHY,False
+Dark Flash (Garland),I,Garland,GLB,Dark,PHY,True
 Apex Soul of Chaos,I,Garland,AD,Dark,PHY,True
 Awoken Chaos Bringer,I,Garland,DuAW,Dark,PHY,False
 Sacred Prayer,I,Sarah,Unique,NE,NA,False
@@ -1196,7 +1196,7 @@ Sonic Braver,VII,Cloud,ASB,Wind,PHY,False
 Eye of Darkness,VII,Cloud,ASB,Dark,PHY,True
 Mako Abyss,VII,Cloud,GL,Dark,PHY,True
 Mako Power,VII,Cloud,GL,Wind,PHY,False
-Jenova Cell Power,VII,Cloud,GL2,Dark,NA,False
+Jenova Cell Power,VII,Cloud,GL2,Dark,NA,True
 Aerial Fang,VII,Cloud,GL2,Wind,PHY,True
 Triple Slash,VII,Cloud,GL2,Wind Dark,PHY,True
 Truth and Illusion,VII,Cloud,GL2,Wind Dark,NA,False
@@ -1561,8 +1561,8 @@ Combat King,VIII,Zell,SSB,NE,PHY,True
 Duelist,VIII,Zell,BSB,Fire,PHY,True
 Fiery Meteor Barret,VIII,Zell,BSB,NE,PHY,False
 Burning Duel,VIII,Zell,USB,Fire,PHY,True
-King of the Ring,VIII,Zell,ASB,Fire,PHY,False
-Assiduous Heat,VIII,Zell,GL2,Fire,NA,False
+King of the Ring,VIII,Zell,ASB,Fire,PHY,True
+Assiduous Heat,VIII,Zell,GL2,Fire,NA,True
 Cram Session,VIII,Zell,GL2,NE,NA,False
 Academic Arts,VIII,Zell,GL,Fire,PHY,False
 My Final Punch,VIII,Zell,AW,Fire,PHY,True
