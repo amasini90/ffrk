@@ -127,7 +127,7 @@ Divine Bloodline,5,Ceodore,IV,0.2,Every1,Holy,AdditionalTrigger,True
 Purest Prince,5,Ceodore,IV,1.0,Start,Holy,Infusion,True
 His Father's Justice,5,Ceodore,IV,0.3,TakeDamage Ally,NA,Cover,True
 Red-cloaked Terror,5,Rubicante,IV,1.0,Start,Fire,Infusion,True
-Fiercest Fiend,5,Rubicante,IV,0.2,Every1,Black,Fire Imperil,False
+Fiercest Fiend,5,Rubicante,IV,0.2,Every1,Black,Fire Imperil,True
 Filial Devotion,5,Ursula,IV,1.0,Start,Earth,Infusion,True
 Back Unbent,5,Ursula,IV,0.2,Every1,Monk,AdditionalTrigger,True
 Ruler of the Wind,5,Barbariccia,IV,1.0,Start,Wind,Infusion,False
