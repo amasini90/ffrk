@@ -273,7 +273,7 @@ Tyrannical Directive,II,Emperor,GL,Dark Earth Wind,MAG,True
 Hellish Gale,II,Emperor,GL2,Dark Earth Wind,MAG,True
 Imperious Tyrant,II,Emperor,GL2,NE,NA,False
 Elemental Domination,II,Emperor,AW,Dark Earth Wind,MAG,True
-Illegal Flare,II,Emperor,AW,Dark,MAG,False
+Illegal Flare,II,Emperor,AW,Dark,MAG,True
 World Dominator,II,Emperor,Sync,Dark Earth Wind,MAG,False
 Imperial Elements,II,Emperor,OLB,Dark Earth Wind,MAG,False
 Accursed Storm,II,Emperor,AD,Dark Earth Wind,MAG,False
@@ -1958,7 +1958,7 @@ Fanciful Ballad,X,Yuna,Chain3,Holy,MAG,False
 Grand Summon Dragonlord,X,Yuna,ASB,Holy Wind,MAG,False
 Boundless Heart,X,Yuna,GL2,Holy,NA,False
 Fayth's Refuge,X,Yuna,GL,Holy,NA,True
-Bright Prospects,X,Yuna,GL,Holy,NA,False
+Bright Prospects,X,Yuna,GL,Holy,NA,True
 Yearning Prayer,X,Yuna,GL2,NE,NA,False
 Final Wall,X,Yuna,GL2,NE,NA,False
 Cradling Words,X,Yuna,AW,NE,NA,False
@@ -3206,7 +3206,7 @@ Bubble Mode,Core,Dr. Mog,GL,Water,NA,False
 Aqua Mode,Core,Dr. Mog,GL2,Water,NA,False
 Royal Sentinel,Core,Dr. Mog,GL,NE,NA,True
 Royal Resourcefulness,Core,Dr. Mog,GL2,ALL,NA,False
-Tetra Catastrophe,Core,Dr. Mog,AW,Holy Fire Ice Lightning,MAG,False
+Tetra Catastrophe,Core,Dr. Mog,AW,Holy Fire Ice Lightning,MAG,True
 Marine Expanse,Core,Dr. Mog,AW,Water,MAG,True
 Waverider Moogle V2,Core,Dr. Mog,AW,ALL,MAG,True
 Rainbow Magic,Core,Dr. Mog,Sync,ALL,MAG,False
