@@ -423,7 +423,7 @@ Hastening (Cid Raines),6,Cid Raines,XIII,1.0,Every3,Dark Holy,ReduceDelay,False
 A Hunter's Heart,5,Noel,XIII,0.2,Every1,Ice,AdditionalTrigger,True
 Nomad Child,5,Noel,XIII,1.0,Start,Water,Infusion,True
 Vitality Overflowing,5,Noel,XIII,1.0,Start,Ice,Infusion,False
-Trailblazing Swordsman,5,Noel,XIII,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,False
+Trailblazing Swordsman,5,Noel,XIII,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,True
 Manifest Evil,5,Nabaat,XIII,0.2,Every1,Dark,AdditionalTrigger,True
 Top of the Class,5,Nabaat,XIII,0.3,Every1,Dark,ReduceDelay,False
 Master Matoya,5,Y'shtola,XIV,0.2,Every1,Black Witch,AdditionalTrigger,True
