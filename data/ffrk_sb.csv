@@ -2269,7 +2269,7 @@ Whip Kick,XII,Fran,Unique,NE,PHY,True
 Shatterheart,XII,Fran,Unique,NE,PHY,False
 Mist Overload,XII,Fran,SSB,NE,PHY,False
 Pinpoint,XII,Fran,SSB,Lightning,PHY,False
-Gaze of the Void,XII,Fran,BSB,NE,PHY,False
+Gaze of the Void,XII,Fran,BSB,NE,PHY,True
 Thundering Hail,XII,Fran,BSB,Ice Lightning,PHY,True
 Vanquished Cries,XII,Fran,USB,Ice Dark,PHY,True
 Sparkchill Fang,XII,Fran,USB,Ice Lightning,PHY,True
