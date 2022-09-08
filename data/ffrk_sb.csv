@@ -150,7 +150,7 @@ Kerplode XXXII,II,Maria,OSB,Earth,MAG,False
 Magma XXXII,II,Maria,USB,Earth,MAG,True
 Earth Bond,II,Maria,Chain4,Earth,MAG,False
 Meteor Shower LXIV,II,Maria,ASB,Earth,MAG,True
-Faith VIII,II,Maria,GL,Earth,MAG,False
+Faith VIII,II,Maria,GL,Earth,MAG,True
 Earth Infusion XVI,II,Maria,GL2,Earth,MAG,False
 Sagittarius LXIV,II,Maria,AW,Earth,MAG,False
 Armageddon XCIX,II,Maria,Sync,Earth,MAG,True
@@ -510,7 +510,7 @@ Awoken Gungnir,IV,Kain,DuAW,Lightning,PHY,False
 Radiant Breath,IV,Rydia,Unique,Holy,MAG,True
 Summon Eidolon II,IV,Rydia,Unique,Ice,MAG,True
 Odin,IV,Rydia,SSB,NE,MAG,False
-Mournful Cry,IV,Rydia,BSB,Earth,MAG,False
+Mournful Cry,IV,Rydia,BSB,Earth,MAG,True
 Law of the Eidolons,IV,Rydia,BSB,Holy Water,MAG,True
 Eidolon Emissary,IV,Rydia,OSB,Earth Water Holy,MAG,True
 Lord of the Seas,IV,Rydia,USB,Water,MAG,True
@@ -1556,7 +1556,7 @@ Guardian Doomtrain,VIII,Quistis,Guardian,Poison,MAG,False
 Awoken Hail to the Queen,VIII,Quistis,DuAW,Poison,MAG,False
 Burning Rave,VIII,Zell,Unique,NE,PHY,False
 Meteor Barrage,VIII,Zell,Unique,NE,PHY,True
-Different Beat,VIII,Zell,SSB,NE,PHY,False
+Different Beat,VIII,Zell,SSB,NE,PHY,True
 Combat King,VIII,Zell,SSB,NE,PHY,True
 Duelist,VIII,Zell,BSB,Fire,PHY,True
 Fiery Meteor Barret,VIII,Zell,BSB,NE,PHY,False
@@ -1696,7 +1696,7 @@ Repeated Exsanguination,VIII,Kiros,AW,Dark Ice,PHY,False
 Exotic Impact,VIII,Kiros,Sync,Dark Ice,PHY,False
 Thirst for Life,VIII,Kiros,OLB,Dark Ice,PHY,True
 Wordless Promise,VIII,Ward,SSB,NE,NA,False
-Massive Anchor,VIII,Ward,BSB,Earth Wind,PHY,False
+Massive Anchor,VIII,Ward,BSB,Earth Wind,PHY,True
 Anchor Rain,VIII,Ward,USB,Water Ice Earth,PHY,True
 Quick Critical,VIII,Ward,GL2,NE,NA,False
 Anchor Crush,VIII,Ward,AW,Water Ice Earth,PHY,True
@@ -1808,7 +1808,7 @@ Reckless Blade,IX,Steiner,Sync,Fire Lightning Ice,PHY,False
 Frostfire Thunder Carnage,IX,Steiner,OLB,Fire Lightning Ice,PHY,True
 Charge!,IX,Steiner,AD,Fire Lightning Ice,PHY,False
 Dragon Breath,IX,Freya,Unique,NE,PHY,False
-Six Dragons,IX,Freya,SSB,Wind,PHY,False
+Six Dragons,IX,Freya,SSB,Wind,PHY,True
 Cherry Blossom,IX,Freya,SSB,Wind,PHY,False
 Dragon's Crest,IX,Freya,BSB,Wind,PHY,True
 Moonblossom Dragon,IX,Freya,USB,Wind,PHY,True
@@ -1886,7 +1886,7 @@ Seiken Climcross,IX,Beatrix,AW,Holy,PHY,False
 Seiken Shock End,IX,Beatrix,Sync,Holy,PHY,False
 Spectral Break,IX,Beatrix,Sync,Holy,PHY,False
 Seiken,IX,Beatrix,AD,Holy,PHY,False
-Dread of Death,IX,Kuja,Unique,Dark,MAG,False
+Dread of Death,IX,Kuja,Unique,Dark,MAG,True
 Darkflare Star,IX,Kuja,SSB,Dark,MAG,False
 Clutch Strike,IX,Kuja,SSB,Dark,MAG,True
 Force Symphony,IX,Kuja,BSB,Dark,MAG,True
@@ -2410,11 +2410,11 @@ Zanzetsuken,XIII,Lightning,AD,Lightning,PHY,True
 Guardian Odin,XIII,Lightning,Guardian,Lightning Holy,PHY,True
 Awoken Flourish of Steel,XIII,Lightning,DuAW,Lightning,PHY,False
 Sovereign Fist,XIII,Snow,Unique,NE,PHY,True
-Challenge,XIII,Snow,Unique,Ice,PHY,False
+Challenge,XIII,Snow,Unique,Ice,PHY,True
 Froststrike,XIII,Snow,Unique,Ice,PHY,True
 Diamond Dust,XIII,Snow,SSB,Ice,PHY,False
 Entrench,XIII,Snow,SSB,NE,PHY,True
-A Hero Rides,XIII,Snow,BSB,Ice,PHY,False
+A Hero Rides,XIII,Snow,BSB,Ice,PHY,True
 Here we go!,XIII,Snow,BSB,Ice,PHY,False
 Dogged Hero,XIII,Snow,USB,Ice,PHY,False
 Soaring Tension,XIII,Snow,USB,Ice,PHY,True
@@ -2432,7 +2432,7 @@ Ice Chain Promise,XIII,Snow,OLB,Ice,PHY,False
 Ice Raiment (Snow),XIII,Snow,GLB,Ice,NA,True
 Frost Sanction,XIII,Snow,AD,Ice,PHY,False
 Awoken Froststrike,XIII,Snow,DuAW,Ice,PHY,False
-Deprotega,XIII,Vanille,Unique,NE,MAG,False
+Deprotega,XIII,Vanille,Unique,NE,MAG,True
 Oerba's Boon,XIII,Vanille,Unique,NE,NA,False
 Miracle Prayer,XIII,Vanille,SSB,NE,NA,True
 Transcendent Dream,XIII,Vanille,BSB,Holy,MAG,False

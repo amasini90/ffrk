@@ -1,6 +1,5 @@
 from secrets import choice
 import streamlit as st
-from streamlit import legacy_caching
 import numpy as np
 import pandas as pd
 import plot,analysis
@@ -35,8 +34,6 @@ def main():
     # Title of the App
     st.title('FFRK Helper')
 
-    if st.button('Update/Refresh'):
-        legacy_caching.clear_cache()
     
     if page == 'Relics':
         # Read in the data

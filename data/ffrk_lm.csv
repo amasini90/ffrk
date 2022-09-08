@@ -391,7 +391,7 @@ Youngest Knight,5,Reks,XII,0.2,Every1,Spellblade,Target Healing,True
 Refinement (Reks),6,Reks,XII,1.0,Auto,NA,Dmg 1.3xLightning,False
 Chosen of Etro,5,Lightning,XIII,1.0,Start,Holy,Infusion,True
 Gleaming Blade,5,Lightning,XIII,0.2,Every1,Lightning,AdditionalTrigger,True
-Heir of the Goddess,5,Lightning,XIII,0.2,Every1,Holy,AdditionalTrigger,False
+Heir of the Goddess,5,Lightning,XIII,0.2,Every1,Holy,AdditionalTrigger,True
 Stoic Warrior,5,Lightning,XIII,1.0,Start,Lightning,Infusion,False
 Living Free,5,Snow,XIII,1.0,Start,NA,Haste NoDelay1,True
 Fiery Fighter,5,Snow,XIII,0.2,Every1,Monk,AdditionalTrigger,False
