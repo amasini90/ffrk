@@ -201,10 +201,10 @@ Born General,5,Leo,VI,1.0,Start,Earth,Infusion,True
 In Search of Peace,5,Leo,VI,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,True
 Self Forgiveness,5,Cloud,VII,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,True
 Truth Surmounted,5,Cloud,VII,0.2,Every1,Wind,AdditionalTrigger,True
-Borrowed Blade,5,Cloud,VII,1.0,Start,Dark,Infusion,False
+Borrowed Blade,5,Cloud,VII,1.0,Start,Dark,Infusion,True
 Broken Illusions,5,Cloud,VII,1.0,Start,Wind,Infusion,True
 Light Seeker,5,Cloud,VII,0.3,Every1,Dark,ReduceDelay,False
-Sprinting Wolf,5,Cloud,VII,0.3,Every1,Wind,ReduceDelay,False
+Sprinting Wolf,5,Cloud,VII,0.3,Every1,Wind,ReduceDelay,True
 Opposition Leader,5,Barret,VII,0.2,Every1,Machinist,AdditionalTrigger,True
 Armed and Dangerous,5,Barret,VII,1.0,EquipWeapon,Gun-arm,Dmg 1.5xPHY,False
 Swiftness (Barret),6,Barret,VII,1.0,Start,NA,Haste NoDelay3,False
@@ -242,12 +242,12 @@ Paying Respect,5,Rude,VII,1.0,Start,Earth,Infusion,False
 Faint Respect,5,Elena,VII,0.2,Every1,Sharpshooter,AdditionalTrigger,False
 Fierce Opposition,5,Genesis,VII,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,False
 Lion of Battle,5,Squall,VIII,1.0,Start,NA,ReduceDelay,True
-Hidden Charms,5,Squall,VIII,1.0,Start,Fire,Infusion,False
-Slavering Fangs,5,Squall,VIII,1.0,Start,Ice,Infusion,False
+Hidden Charms,5,Squall,VIII,1.0,Start,Fire,Infusion,True
+Slavering Fangs,5,Squall,VIII,1.0,Start,Ice,Infusion,True
 Reluctant Successor,5,Rinoa,VIII,0.2,Every1,Witch,AdditionalTrigger,True
 Lovestruck Sorceress,5,Rinoa,VIII,1.0,Start,Earth,Infusion,True
-Witching Wings,5,Rinoa,VIII,0.1,Every1,Black,AdditionalTrigger,False
-Daughter of the Resistance,5,Rinoa,VIII,1.0,Start,Ice,Infusion,False
+Witching Wings,5,Rinoa,VIII,0.1,Every1,Black,AdditionalTrigger,True
+Daughter of the Resistance,5,Rinoa,VIII,1.0,Start,Ice,Infusion,True
 Defier of Fate,5,Rinoa,VIII,1.0,Every1,Black,IncreaseMAG,True
 SeeD Star,5,Quistis,VIII,0.1,Every1,Black,AdditionalTrigger,True
 Prize Fighter,5,Zell,VIII,0.2,Every1,Monk,AdditionalTrigger,True
@@ -290,7 +290,7 @@ Your Canary,5,Garnet,IX,1.0,Start,NA,ReduceDelay,False
 Re-action (Garnet),6,Garnet,IX,1.0,Every3,Summon,AdditionalTrigger,False
 Part of the Sky,5,Vivi,IX,1.0,Start,Fire,Infusion,True
 Untapped Power,5,Vivi,IX,1.0,EquipWeapon,Rod Staff,Dmg 1.5xMAG,True
-Magic Suffusion,5,Vivi,IX,1.0,Auto,NA,Dmg 1.5xMAG 1.5xCastTime,False
+Magic Suffusion,5,Vivi,IX,1.0,Auto,NA,Dmg 1.5xMAG 1.5xCastTime,True
 Honed Judgment,5,Steiner,IX,1.0,EquipWeapon,Sword,Dmg 1.5xSpellblade,True
 Loyal Guard,5,Steiner,IX,0.2,Every1,Spellblade,AdditionalTrigger,False
 Opportunity Strikes,5,Steiner,IX,0.2,Every1,Spellblade,Fire Imperil,False
