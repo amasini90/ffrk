@@ -46,7 +46,7 @@ Re-action (Leila),6,Leila,II,1.0,Every3,Thief,AdditionalTrigger,False
 Storm Strider,5,Ricard,II,1.0,Start,Lightning,Infusion,True
 Windslice Wyvern,5,Ricard,II,1.0,Start,Wind,Infusion,False
 A Father's Love,5,Josef,II,0.2,Every1,Monk,AdditionalTrigger,True
-Man of Virtue,5,Josef,II,1.0,Start,Ice,Infusion,False
+Man of Virtue,5,Josef,II,1.0,Start,Ice,Infusion,True
 Bloody Past,5,Emperor,II,0.2,Every1,Black Darkness,AdditionalTrigger,True
 Drastic Despot,5,Emperor,II,1.0,Start,Dark,Infusion,True
 Risen Tyrant,5,Emperor,II,1.0,EquipWeapon,Rod,Dmg 1.5xMAG,True
