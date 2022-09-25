@@ -11,7 +11,7 @@ Onslaught (Garland),6,Garland,I,0.3,Every1,Dark,Followup PHY,False
 Warrior's Ballad,5,Sarah,I,0.2,Every1,Bard,SmallGroup Healing,False
 Windsong,5,Sarah,I,0.3,Every1,Bard,ReduceDelay,False
 Breaker of Laws,5,Wol,I,1.0,LowHP,NA,Dmg 1.3xALL,False
-Aspirant of Light,5,Wol,I,0.2,Every1,Earth,Earth Imperil,False
+Aspirant of Light,5,Wol,I,0.2,Every1,Earth,Earth Imperil,True
 Fickle Fortune,5,Echo,I,0.2,Every1,Dancer,SmallGroup Healing,True
 Faerie Helper,5,Echo,I,0.2,Every1,Dancer,AdditionalTrigger,True
 Fabled Spirit,5,Echo,I,1.0,Start,NA,Haste NoDelay1,False
@@ -229,7 +229,7 @@ Refinement (Sephiroth),6,Sephiroth,VII,1.0,Auto,NA,Dmg 1.5xPHY,False
 Spacefarer,5,Cid (VII),VII,1.0,Start,NA,Haste NoDelay1,False
 Champion of the Skies,5,Cid (VII),VII,1.0,EquipWeapon,Spear,Dmg 1.5xJump,False
 Re-action (Cid (VII)),6,Cid (VII),VII,1.0,Every3,Dragoon,AdditionalTrigger,False
-Swaggering Investigator,5,Reno,VII,1.0,Start,Lightning,Infusion,False
+Swaggering Investigator,5,Reno,VII,1.0,Start,Lightning,Infusion,True
 Refinement (Reno),6,Reno,VII,1.0,Auto,NA,Dmg 1.3xLightning,False
 Beating Wings,5,Angeal,VII,0.2,Every1,Holy Wind,AdditionalTrigger,False
 Presidential Prerogative,5,Rufus,VII,0.2,Every1,Dark,AdditionalTrigger,True
@@ -453,7 +453,7 @@ Divine Revelation,5,Noctis,XV,0.2,Every1,Combat,AdditionalTrigger,True
 Unwavering Friendship,5,Noctis,XV,1.0,Start,Fire,Infusion,False
 Trusted Shield,5,Gladiolus,XV,1.0,Start,Earth,Infusion,True
 Prince's Pillar,5,Gladiolus,XV,0.2,Every1,Knight,AdditionalTrigger,True
-Shield of the King,5,Gladiolus,XV,0.3,TakeDamage Ally,NA,Cover,False
+Shield of the King,5,Gladiolus,XV,0.3,TakeDamage Ally,NA,Cover,True
 Overcoming Adversity,5,Ignis,XV,1.0,Start,Fire,Infusion,True
 Earnest Chef,5,Ignis,XV,1.0,Start,NA,ReduceDelay,True
 Uncommon Friendship,5,Prompto,XV,1.0,Start,NA,Haste NoDelay1,False

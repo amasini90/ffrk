@@ -888,7 +888,7 @@ Dearest Friends,V,Krile,Chain2,ALL,PHY MAG,False
 Gaia's Rage,V,Krile,ASB,Eart,MAG,False
 Raging Hellfire,V,Krile,ASB,Fire,MAG,False
 Cloud of Dust,V,Krile,GL,Earth,NA,True
-Boundless Love,V,Krile,GL,Fire,NA,False
+Boundless Love,V,Krile,GL,Fire,NA,True
 Ancestral Devotion,V,Krile,GL2,Fire Earth,MAG,False
 Bestial Exodus,V,Krile,AW,Fire Earth,MAG,False
 Baldesion Attack,V,Krile,Sync,Fire Earth,MAG,False
@@ -1637,7 +1637,7 @@ Tactical Freeze,VIII,Laguna,OLB,Ice,PHY,False
 Ultimate Ragnarok Cannon,VIII,Laguna,AD,Ice,PHY,False
 Woven Bond: Laguna - Ice,VIII,Laguna,CLB,Ice,PHY,False
 Awoken Desperado,VIII,Laguna,DuAW,Ice,PHY,False
-Inaugural Parade,VIII,Edea,Unique,NE,NA,False
+Inaugural Parade,VIII,Edea,Unique,NE,NA,True
 Ice Strike,VIII,Edea,SSB,Ice,MAG,True
 Time Crush,VIII,Edea,SSB,Dark,MAG,False
 Maelstrom,VIII,Edea,BSB,Ice Dark,MAG,True
