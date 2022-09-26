@@ -108,7 +108,7 @@ Fata Fiore,I,Meia,ASB,Water,MAG,False
 Fiat Lux,I,Meia,GL,Water,MAG,True
 True Lux,I,Meia,GL2,Water,MAG,False
 Witch Energy,I,Meia,GL2,NE,NA,False
-Megido Flood,I,Meia,AW,Water,MAG,False
+Megido Flood,I,Meia,AW,Water,MAG,True
 Farfall Nera,I,Meia,AW,Water,MAG,False
 Primal Undine,I,Meia,Sync,Water,MAG,False
 Fanatical Dance,I,Meia,AD,Water,MAG,False
@@ -219,7 +219,7 @@ Poison Cloud XVI,II,Leila,BSB,Poison,PHY,True
 Pirate Scourge,II,Leila,USB,Water Poison,PHY,True
 Pirate's Gaze,II,Leila,USB,Water,PHY,False
 Poison Bond,II,Leila,Chain4,Poison,PHY MAG,True
-Water Bond,II,Leila,Chain4,Water,PHY MAG,False
+Water Bond (Leila),II,Leila,Chain4,Water,PHY MAG,True
 Splash LXIV,II,Leila,ASB,Water,PHY,False
 Aqua Venom,II,Leila,GL2,Water Poison,PHY,False
 Pirate's Pluck,II,Leila,GL2,Water,NA,True
@@ -501,7 +501,7 @@ Dragon's Descent,IV,Kain,GL2,NE,NA,True
 Primed Jump,IV,Kain,GL2,NE,NA,False
 Lance of the Dragon,IV,Kain,AW,Lightning,PHY,True
 Raging Dragoon,IV,Kain,AW,Lightning Dark,PHY,False
-Blood Dragoon,IV,Kain,Sync,Lightning,PHY,False
+Blood Dragoon,IV,Kain,Sync,Lightning,PHY,True
 Cross Javelin,IV,Kain,Sync,Lightning Dark,PHY,True
 Lightning Raiment (Kain),IV,Kain,GLB,Lightning,NA,False
 Dual Dragon Dive,IV,Kain,OLB,Lightning Dark,PHY,False
@@ -926,7 +926,7 @@ Blood of Espers,VI,Terra,BSB,Fire Water,MAG,False
 Finding Love,VI,Terra,BSB,Fire,MAG,False
 Scorching Flames,VI,Terra,OSB,Fire,MAG,True
 Omen,VI,Terra,USB,Fire,MAG,False
-Tornado Combo,VI,Terra,USB,Wind,MAG,False
+Tornado Combo,VI,Terra,USB,Wind,MAG,True
 Magitek Inferno,VI,Terra,USB,Fire,MAG,False
 Riot Wind,VI,Terra,ASB,Wind,MAG,True
 Inferno Combo,VI,Terra,ASB,Fire,MAG,True
@@ -1104,7 +1104,7 @@ Dealer Shuffle,VI,Setzer,Sync,Dark,PHY,True
 Sabre Soul,VI,Strago,Unique,NE,MAG,False
 Aqua Breath,VI,Strago,Unique,Water,MAG,False
 Mighty Guard (VI),VI,Strago,SSB,NE,NA,False
-Lore,VI,Strago,BSB,Water Wind Earth,MAG,False
+Lore,VI,Strago,BSB,Water Wind Earth,MAG,True
 Blue Soul,VI,Strago,OSB,Water Earth,MAG,True
 El Nino Breath,VI,Strago,USB,Water,MAG,True
 Twin Mage,VI,Strago,USB,Water Wind,MAG,False
@@ -1289,7 +1289,7 @@ Guardian of Wutai,VII,Yuffie,BSB,Water,PHY,True
 Clearest Tranquil,VII,Yuffie,USB,Water,PHY,True
 Landscaper (KH),VII,Yuffie,USB,Earth,PHY,False
 Freewheeling Gauntlet,VII,Yuffie,USB,Water,PHY,False
-Improvised Camouflage,VII,Yuffie,USB,Water Earth,PHY,False
+Improvised Camouflage,VII,Yuffie,USB,Water Earth,PHY,True
 Smoke Shell,VII,Yuffie,Chain3,Water,PHY,True
 Freewheeling Bloodfest,VII,Yuffie,ASB,Water,PHY,True
 Freewheeling Earthrite,VII,Yuffie,ASB,Earth,PHY,True
@@ -1433,7 +1433,7 @@ Countertek,VII,Shelke,SSB,NE,NA,True
 Synaptic Net Dive,VII,Shelke,BSB,Lightning,PHY,True
 Transparent Spark,VII,Shelke,USB,Lightning,PHY,True
 Transparent Glimmer,VII,Shelke,USB,Lightning,PHY,False
-Synaptic Current,VII,Shelke,Chain2,Lightning,PHY,False
+Synaptic Current,VII,Shelke,Chain2,Lightning,PHY,True
 Technical Defense,VII,Shelke,GL,NE,NA,False
 Amber Eyes,VII,Shelke,GL2,Lightning,NA,False
 Transparent Bolt,VII,Shelke,AW,Lightning,PHY,True
@@ -1983,7 +1983,7 @@ Aurochs Charge,X,Wakka,GL2,Water,NA,True
 Ace Lesson,X,Wakka,AW,Water,PHY,True
 Last Blitz,X,Wakka,AW,Water,PHY,False
 Aurochs Spirit+,X,Wakka,Sync,Water,PHY,False
-Water Flash (Wakka),X,Wakka,GLB,Water,PHY,False
+Water Flash (Wakka),X,Wakka,GLB,Water,PHY,True
 Spiraling Flash (Wakka),X,Wakka,GLB,Water,NA,True
 Blitz Off,X,Wakka,OLB,Water,PHY,False
 Apex Aurochs Reels,X,Wakka,AD,Water,PHY,False
@@ -2029,7 +2029,7 @@ Master Thief,X,Rikku,SSB,NE,PHY,False
 Al Bhed Brew,X,Rikku,SSB,NE,NA,True
 Machinations,X,Rikku,BSB,Water Lightning,PHY,True
 Team Bomb,X,Rikku,BSB,Water,PHY,False
-Thief Dressphere,X,Rikku,USB,Water,PHY,False
+Thief Dressphere,X,Rikku,USB,Water,PHY,True
 Hyper Mighty G,X,Rikku,USB,NE,NA,True
 Eternal Dedication,X,Rikku,Chain2,ALL,PHY MAG,False
 Hyper Enwater,X,Rikku,Chain2,Water,PHY,False
@@ -2398,12 +2398,12 @@ Blaze Slash,XIII,Lightning,ASB,Lightning,PHY,True
 Glittering Feather,XIII,Lightning,ASB,Holy,PHY,True
 Bond (Lightning),XIII,Lightning,Chain4,ALL,PHY MAG,False
 Seismic Strike,XIII,Lightning,GL,Lightning,PHY,False
-Rending Thunder,XIII,Lightning,GL2,Lightning,PHY,False
+Rending Thunder,XIII,Lightning,GL2,Lightning,PHY,True
 War God's Resolve,XIII,Lightning,GL2,Holy,NA,False
 Army of One Evolved,XIII,Lightning,AW,Lightning,PHY,False
 Elegant Drive,XIII,Lightning,AW,Holy,PHY,True
 Blinding Requiem,XIII,Lightning,AW,Lightning Holy,PHY,False
-Gestalt Drive,XIII,Lightning,Sync,Lightning,PHY,False
+Gestalt Drive,XIII,Lightning,Sync,Lightning,PHY,True
 Centuria of One,XIII,Lightning,Sync,Holy,PHY,True
 Artemis's Arrows,XIII,Lightning,OLB,Lightning,PHY,True
 Zanzetsuken,XIII,Lightning,AD,Lightning,PHY,True

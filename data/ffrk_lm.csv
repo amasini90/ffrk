@@ -18,7 +18,7 @@ Fabled Spirit,5,Echo,I,1.0,Start,NA,Haste NoDelay1,False
 Glimmer of Insight,5,Master,I,0.2,Every1,Monk,1.3xATK,False
 Martial Mentor,5,Master,I,1.0,EquipWeapon,Fist,Dmg 1.5xPHY,True
 Mystic Master,5,Matoya,I,1.0,EquipWeapon,Staff,Dmg 1.5xWitch,False
-Apt Apothecary,5,Matoya,I,0.3,Every1,Witch,ReduceDelay,False
+Apt Apothecary,5,Matoya,I,0.3,Every1,Witch,ReduceDelay,True
 Free from Hatred,5,Meia,I,0.2,Every1,Water,AdditionalTrigger,True
 Azure Witchcraft,5,Meia,I,1.0,Start,Water,Infusion,False
 Thief's Fortune,5,Thief (I),I,0.8,EquipWeapon,Dagger,Drop 1.3xGil,True
@@ -136,7 +136,7 @@ Regal Nature,5,Galuf,V,1.0,Start,Earth,Infusion,False
 Old and Bold,5,Galuf,V,1.0,Start,NA,ReduceDelay,False
 Priceless Experience,5,Galuf,V,0.2,Every1,Monk,AdditionalTrigger,False
 Waterlogged Misfit,5,Gogo (V),V,1.0,EquipWeapon,Rod,Dmg 1.5xWater,False
-Subversion (Gogo (V)),6,Gogo (V),V,1.0,Every3,Water,Water Imperil,False
+Subversion (Gogo (V)),6,Gogo (V),V,1.0,Every3,Water,Water Imperil,True
 Melodramatic Swordsman,5,Gilgamesh,V,1.0,Start,Fire,Infusion,True
 Hero's Kindness,5,Gilgamesh,V,0.2,Every1,Samurai,AdditionalTrigger,False
 Hereditary Skill,5,Bartz,V,1.0,EquipWeapon,Sword,Dmg 1.5xSpellblade,True
@@ -269,7 +269,7 @@ Succession Broken,5,Edea,VIII,1.0,Start,Ice,Infusion,False
 Semper Seifer,5,Raijin,VIII,0.2,Every1,Monk,AdditionalTrigger,False
 Bad Crowd,5,Raijin,VIII,1.0,Start,Lightning,Infusion,False
 Thunderous Crescendo,5,Raijin,VIII,0.3,Every1,Monk,ReduceDelay,False
-Raging Winds,5,Fujin,VIII,1.0,Start,Wind,Infusion,False
+Raging Winds,5,Fujin,VIII,1.0,Start,Wind,Infusion,True
 AFFIRMATIVE!,5,Fujin,VIII,0.2,Every1,Wind,AdditionalTrigger,False
 Onslaught (Fujin),6,Fujin,VIII,0.3,Every1,Wind,Followup MAG,False
 Exotic Presence,5,Kiros,VIII,0.2,Every1,Ninja Sharpshooter,Dark Imperil,True
@@ -321,7 +321,7 @@ Technical Control,5,Wakka,X,1.0,Auto,NA,Debuff 1.2xDuration,False
 Third Pilgrimage,5,Lulu,X,1.0,Every1,Black,IncreaseMAG,True
 Harshest Judge,5,Lulu,X,1.0,Start,Water,Infusion,False
 Depths of Knowledge,5,Lulu,X,1.0,Start,Ice,Infusion,False
-Devoted Guardian,5,Kimahri,X,1.0,Start,Water,Infusion,False
+Devoted Guardian,5,Kimahri,X,1.0,Start,Water,Infusion,True
 Spear of Wrath,5,Kimahri,X,1.0,EquipWeapon,Spear,Dmg 1.5xPHY,False
 Re-action (Kimahri),6,Kimahri,X,1.0,Every3,Water,AdditionalTrigger,True
 Assiduous Al Bhed,5,Rikku,X,0.2,Every1,Water,AdditionalTrigger,True
