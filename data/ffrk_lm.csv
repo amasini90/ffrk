@@ -1,7 +1,7 @@
 Name,Tier,Character,Realm,Chance,Trigger,Element/Class,Effect,Owned
 Absolute Justice,5,Warrior of Light,I,1.0,Start,Holy,Infusion,True
 Cycle Breaker,5,Warrior of Light,I,1.0,Start,NA,ReduceDelay,True
-Light Within,5,Warrior of Light,I,1.0,TakeDamage,NA,IncreaseATK,False
+Light Within,5,Warrior of Light,I,1.0,TakeDamage,NA,IncreaseATK,True
 Steadfast Warrior,5,Warrior of Light,I,0.2,TakeDamage,Holy,Counter Healing,True
 Re-action (Warrior of Light),6,Warrior of Light,I,1.0,Every3,Holy,AdditionalTrigger,True
 Frenzied Warrior,5,Garland,I,1.0,LowHP,NA,ReduceDelay Healing,True
@@ -25,8 +25,8 @@ Thief's Fortune,5,Thief (I),I,0.8,EquipWeapon,Dagger,Drop 1.3xGil,True
 Thieving Flair,5,Thief (I),I,0.3,Every1,Wind Poison,ReduceDelay,False
 Future's Edge,5,Firion,II,0.2,Every1,Samurai,AdditionalTrigger,True
 Impassioned Leader,5,Firion,II,0.2,Every1,Knight,AdditionalTrigger,True
-Untarnished Honor,5,Firion,II,0.2,Every1,Combat,AdditionalTrigger,False
-Defying Oppression,5,Firion,II,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,False
+Untarnished Honor,5,Firion,II,0.2,Every1,Combat,AdditionalTrigger,True
+Defying Oppression,5,Firion,II,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,True
 Depths of Sorrow,5,Maria,II,1.0,Start,Earth,Infusion,True
 Searching Sister,5,Maria,II,0.2,Every1,Earth,AdditionalTrigger,True
 Refinement (Maria),6,Maria,II,1.0,Auto,NA,Dmg 1.3xMAG,False
@@ -76,7 +76,7 @@ Lovestruck Wanderer,5,Desch,III,1.0,Start,Lightning,Infusion,False
 Total Devotion,5,Desch,III,1.0,Every1,Black,IncreaseMAG,False
 Bounding Growth,5,Onion Kinght,III,1.0,Start,Water,Infusion,True
 Nom de Guerre,5,Onion Knight,III,1.0,Start,NA,NoDelay2,True
-Power Overflowing,5,Onion Knight,III,1.0,EquipWeapon,Rod Sword,Dmg 1.5xMAG,False
+Power Overflowing,5,Onion Knight,III,1.0,EquipWeapon,Rod Sword,Dmg 1.5xMAG,True
 Herald of Darkness,5,Cloud of Darkness,III,1.0,Start,NA,Haste NoDelay1,True
 Spawn of Darkness,5,Cloud of Darkness,III,1.0,Start,Dark,Infusion,True
 Oblivion Seeker,5,Cloud of Darkness,III,0.2,Every1,Dark,AdditionalTrigger,False
@@ -90,9 +90,9 @@ Dark Elite,5,Decil,IV,0.2,Every1,Dark,AdditionalTrigger,False
 Hastening (Cecil (Dark Knight)),6,Decil,IV,1.0,Every3,Dark,ReduceDelay,False
 Indomitable,5,Pecil,IV,1.0,TakeDamage,NA,IncreaseDEF,True
 Holy Promise,5,Pecil,IV,0.2,Every1,White,AdditionalTrigger,True
-Holy Dawn,5,Pecil,IV,1.0,Every1,White,IncreaseMND,False
-Led by the Moon,5,Pecil,IV,0.2,Every1,Knight,AdditionalTrigger,False
-Ardor's Light,5,Pecil,IV,1.0,Start,Holy,Infusion,False
+Holy Dawn,5,Pecil,IV,1.0,Every1,White,IncreaseMND,True
+Led by the Moon,5,Pecil,IV,0.2,Every1,Knight,AdditionalTrigger,True
+Ardor's Light,5,Pecil,IV,1.0,Start,Holy,Infusion,True
 Dragoon Resolute,5,Kain,IV,0.2,Every1,Dragoon,AdditionalTrigger,True
 Weak No More,5,Kain,IV,1.0,Start,Lightning,Infusion,True
 Dragoon's Essence,5,Kain,IV,1.0,EquipWeapon,Spear,Dmg 1.5xDragoon,False
@@ -150,7 +150,7 @@ Wandering Adventurer,5,Dorgann,V,1.0,Start,Earth,Infusion,False
 Born of Evil,5,Exdeath,V,1.0,Start,Dark,Infusion,True
 Tree Most Foul,5,Exdeath,V,1.0,EquipWeapon,Staff Sword,Dmg 1.5xMAG,False
 Unbridled Enthusiasm,5,Krile,V,1.0,Start,Fire,Infusion,False
-A Granddaughter's Drive,5,Krile,V,0.2,Every1,Fire,AdditionalTrigger,False
+A Granddaughter's Drive,5,Krile,V,0.2,Every1,Fire,AdditionalTrigger,True
 Innate Cheer,5,Krile,V,1.0,Start,Earth,Infusion,True
 Natural Connection,5,Krile,V,1.0,Start,NA,Haste NoDelay1,False
 Refinement (Krile),6,Krile,V,1.0,Auto,NA,Dmg 1.3xMAG,False
@@ -254,8 +254,8 @@ Prize Fighter,5,Zell,VIII,0.2,Every1,Monk,AdditionalTrigger,True
 Untamed Spirit,5,Zell,VIII,1.0,Start,NA,CritHitChance 0.5,True
 Renowned Recklessness,5,Zell,VIII,1.0,Start,Fire,Infusion,True
 SeeD Spirit,5,Selphie,VIII,0.2,Every1,White,Grant LastStand,True
-Spirit of Trabia,5,Selphie,VIII,1.0,Every1,Dancer,IncreaseMND,False
-Dream Fulfilled,5,Selphie,VIII,0.2,Every1,Dancer,SmallGroup Healing,False
+Spirit of Trabia,5,Selphie,VIII,1.0,Every1,Dancer,IncreaseMND,True
+Dream Fulfilled,5,Selphie,VIII,0.2,Every1,Dancer,SmallGroup Healing,True
 Key to the Past,5,Irvine,VIII,0.2,Every1,Sharpshooter Machinist,Fire Imperil,True
 Re-action (Irvine),6,Irvine,VIII,1.0,Every3,Fire,AdditionalTrigger,False
 Egoistical Dreamer,5,Seifer,VIII,0.2,Every1,Dark,AdditionalTrigger,False
@@ -283,10 +283,10 @@ Refinement (Ultimecia),6,Ultimecia,VIII,1.0,Auto,NA,Dmg 1.3xMAG,False
 Thief's Ploy,5,Zidane,IX,0.2,Every1,Wind,AdditionalTrigger,True
 Snap Judgment,5,Zidane,IX,0.3,Every1,Thief,ReduceDelay,True
 Swiftness (Zidane),6,Zidane,IX,1.0,Start,NA,Haste NoDelay3,False
-Noble Resolve,5,Garnet,IX,1.0,Auto,NA,Buff 1.2xDuration,False
-Lover of the Arts,5,Garnet,IX,0.2,Every1,Bard,SmallGroup Healing,False
-Proven Princess,5,Garnet,IX,1.0,Start,Lightning,Infusion,False
-Your Canary,5,Garnet,IX,1.0,Start,NA,ReduceDelay,False
+Noble Resolve,5,Garnet,IX,1.0,Auto,NA,Buff 1.2xDuration,True
+Lover of the Arts,5,Garnet,IX,0.2,Every1,Bard,SmallGroup Healing,True
+Proven Princess,5,Garnet,IX,1.0,Start,Lightning,Infusion,True
+Your Canary,5,Garnet,IX,1.0,Start,NA,ReduceDelay,True
 Re-action (Garnet),6,Garnet,IX,1.0,Every3,Summon,AdditionalTrigger,False
 Part of the Sky,5,Vivi,IX,1.0,Start,Fire,Infusion,True
 Untapped Power,5,Vivi,IX,1.0,EquipWeapon,Rod Staff,Dmg 1.5xMAG,True
@@ -312,7 +312,7 @@ Ashen Narcissist,5,Kuja,IX,1.0,Start,Dark,Infusion,True
 Perseverance (Kuja),6,Kuja,IX,1.0,LowHP,NA,Healing -1.5xRES 1.5xMAG ReduceDelay,False
 Grim Grin,5,Marcus,IX,0.2,Every1,Thief,Wind Imperil,False
 Moonflow's Grace,5,Tidus,X,1.0,Start,Water,Infusion,True
-Blitz Basics,5,Tidus,X,0.3,Every1,Water,ReduceDelay,False
+Blitz Basics,5,Tidus,X,0.3,Every1,Water,ReduceDelay,True
 Family Tradition,5,Yuna,X,0.2,Every1,Summon,AdditionalTrigger,True
 Unfaltering Devotion,5,Yuna,X,1.0,Start,Holy,Infusion,False
 Just Whistle,5,Yuna,X,0.2,Every1,White,AdditionalTrigger,False
@@ -342,7 +342,7 @@ A Son's Hatred,5,Seymour,X,1.0,Start,Dark,Infusion,True
 Hastening (Seymour),6,Seymour,X,1.0,Every3,Dark,ReduceDelay,False
 Menacing Black Mage,5,Shantotto,XI,1.0,Every1,Black,IncreaseMAG,True
 Master Caster,5,Shantotto,XI,0.1,Every1,Witch,3xTrigger,True
-Superiority Complex,5,Shantotto,XI,1.0,Start,Lightning,Infusion,False
+Superiority Complex,5,Shantotto,XI,1.0,Start,Lightning,Infusion,True
 Herald (Shantotto),6,Shantotto,XI,1.0,Start,Lightning,Infusion ReduceDelay,False
 No Hesitation,5,Ayame,XI,0.3,Every1,Samurai,ReduceDelay,False
 Young Gun,5,Ayame,XI,1.0,Start,Ice,Infusion,False
@@ -364,8 +364,8 @@ Hastening (Lilisette),6,Lilisette,XI,1.0,Every3,Dancer Support,ReduceDelay,True
 Dream of Glory,5,Naja,XI,1.0,Start,Earth,Infusion,False
 Tactless Thief,5,Vaan,XII,0.2,Every1,Thief,AdditionalTrigger,True
 Skyward Dreams,5,Vaan,XII,0.2,Every1,Thief,RestoreAbility,True
-Brother's Trust,5,Vaan,XII,0.3,Every1,Thief,ReduceDelay,False
-Undaunted Courage,5,Vaan,XII,1.0,Auto,NA,Debuff 1.2xDuration,False
+Brother's Trust,5,Vaan,XII,0.3,Every1,Thief,ReduceDelay,True
+Undaunted Courage,5,Vaan,XII,1.0,Auto,NA,Debuff 1.2xDuration,True
 A Pirate's Life,5,Balthier,XII,1.0,Start,Fire,Infusion,False
 Leading Man,5,Balthier,XII,0.2,Every1,Machinist,AdditionalTrigger,False
 Viera Mysteries,5,Fran,XII,1.0,Start,NA,ReduceDelay,True
@@ -392,7 +392,7 @@ Refinement (Reks),6,Reks,XII,1.0,Auto,NA,Dmg 1.3xLightning,False
 Chosen of Etro,5,Lightning,XIII,1.0,Start,Holy,Infusion,True
 Gleaming Blade,5,Lightning,XIII,0.2,Every1,Lightning,AdditionalTrigger,True
 Heir of the Goddess,5,Lightning,XIII,0.2,Every1,Holy,AdditionalTrigger,True
-Stoic Warrior,5,Lightning,XIII,1.0,Start,Lightning,Infusion,False
+Stoic Warrior,5,Lightning,XIII,1.0,Start,Lightning,Infusion,True
 Living Free,5,Snow,XIII,1.0,Start,NA,Haste NoDelay1,True
 Fiery Fighter,5,Snow,XIII,0.2,Every1,Monk,AdditionalTrigger,False
 NORA Architect,5,Snow,XIII,1.0,Start,Ice,Infusion,False
@@ -450,7 +450,7 @@ Re-action (Estinien),6,Estinien,XIV,1.0,Every3,Wind Dark,AdditionalTrigger,True
 Onslaught (Alisaie),6,Alisaie,XIV,0.8,Every1,Black White,Followup MAG,False
 Bringer of Dawn,5,Noctis,XV,1.0,EquipWeapon,Sword,Dmg 1.5xPHY,True
 Divine Revelation,5,Noctis,XV,0.2,Every1,Combat,AdditionalTrigger,True
-Unwavering Friendship,5,Noctis,XV,1.0,Start,Fire,Infusion,False
+Unwavering Friendship,5,Noctis,XV,1.0,Start,Fire,Infusion,True
 Trusted Shield,5,Gladiolus,XV,1.0,Start,Earth,Infusion,True
 Prince's Pillar,5,Gladiolus,XV,0.2,Every1,Knight,AdditionalTrigger,True
 Shield of the King,5,Gladiolus,XV,0.3,TakeDamage Ally,NA,Cover,True
@@ -467,8 +467,8 @@ Stern Veteran,5,Cor,XV,1.0,Start,Fire,Infusion,False
 Guide of Kingsn,5,Lunafreya,XV,1.0,Start,Water,Infusion,True
 Onslaught (Ardyn),6,Ardyn,XV,0.3,Every1,Dark Fire,Self Healing Followup PHY,True
 True Hero,5,Ramza,FFT,1.0,Start,NA,FullATB NoDelay1,True
-Martial Pedigree,5,Ramza,FFT,1.0,Start,Holy,Infusion,False
-Ambitious Knight,5,Ramza,FFT,0.2,Every1,Holy,AdditionalTrigger,False
+Martial Pedigree,5,Ramza,FFT,1.0,Start,Holy,Infusion,True
+Ambitious Knight,5,Ramza,FFT,0.2,Every1,Holy,AdditionalTrigger,True
 Princess's Shield,5,Agrias,FFT,1.0,Start,Holy,Infusion,True
 Unshakeable Faith,5,Agrias,FFT,0.2,Every1,Knight,AdditionalTrigger,False
 Ask Knight's Finesse,5,Delita,FFT,1.0,Every1,Spellblade,IncreaseATK,True
@@ -505,8 +505,8 @@ Power Hungry,5,Machina,T-0,1.0,Start,Earth,Infusion,True
 Chichiri's Godfather,5,Machina,T-0,0.2,Every1,Spellblade,AdditionalTrigger,False
 Swiftness (Machina),6,Machina,T-0,1.0,Start Every1,Spellblade,ReduceDelay Followup PHY,False
 Saint's Fire,5,Rem,T-0,0.8,Every1,Holy,Followup MAG,True
-Magic Expert,5,Rem,T-0,1.0,Start,Holy,Infusion,False
-Gentle Spirit,5,Rem,T-0,1.0,Every1,White,IncreaseMND,False
+Magic Expert,5,Rem,T-0,1.0,Start,Holy,Infusion,True
+Gentle Spirit,5,Rem,T-0,1.0,Every1,White,IncreaseMND,True
 Mercurial Will,5,Queen,T-0,1.0,Start,Lightning,Infusion,True
 Calculated Craft,5,Queen,T-0,0.2,Every1,Lightning,AdditionalTrigger,True
 Depths Within,5,King,T-0,1.0,Start,Lightning,Infusion,False
@@ -537,8 +537,8 @@ Lifeline,5,Tama,FFBe,0.2,Every1,White,Grant LastStand,True
 Mystic Presence,5,Enna Kros,FFBe,0.1,Every1,Black,AdditionalTrigger,False
 Re-action (Serafie),6,Serafie,FFBe,1.0,Every3,Wind,AdditionalTrigger,False
 Archival Secrets,5,Tyro,Core,1.0,Start,NA,NoDelay2,True
-Wisdom's Pupil,5,Tyro,Core,1.0,AttackWeakness,NA,Dmg 1.5xPHY 1.5xMAG,False
-Heroic Aspiration,5,Tyro,Core,1.0,EquipWeapon,Book,1.3xATK 1.3xMAG 1.3xMND 1.2xRES 1.2xDEF,False
+Wisdom's Pupil,5,Tyro,Core,1.0,AttackWeakness,NA,Dmg 1.5xPHY 1.5xMAG,True
+Heroic Aspiration,5,Tyro,Core,1.0,EquipWeapon,Book,1.3xATK 1.3xMAG 1.3xMND 1.2xRES 1.2xDEF,True
 Aspiring Artisan,5,Elarra,Core,0.2,Every1,Bard,SmallGroup Healing,False
 Hidden Valor,5,Biggs,Core,1.0,Start,Earth,Infusion,True
 Hidden Kindness,5,Wedge,Core,1.0,Start,Wind,Infusion,True
