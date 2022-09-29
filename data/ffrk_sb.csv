@@ -152,7 +152,7 @@ Earth Bond,II,Maria,Chain4,Earth,MAG,False
 Meteor Shower LXIV,II,Maria,ASB,Earth,MAG,True
 Faith VIII,II,Maria,GL,Earth,MAG,True
 Earth Infusion XVI,II,Maria,GL2,Earth,MAG,False
-Sagittarius LXIV,II,Maria,AW,Earth,MAG,False
+Sagittarius LXIV,II,Maria,AW,Earth,MAG,True
 Armageddon XCIX,II,Maria,Sync,Earth,MAG,True
 Cosmic Arrow XCIX,II,Maria,Sync,Earth,MAG,False
 Galaxia XCIX,II,Maria,AD,Earth,MAG,False
@@ -357,7 +357,7 @@ Titanic Bash,III,Ingus,ASB,Earth,PHY,False
 Gaia Sword,III,Ingus,GL,Earth,PHY,False
 Titanic Force,III,Ingus,GL2,Earth,NA,False
 Order of Sasune,III,Ingus,GL2,NE,NA,True
-Solid Titan,III,Ingus,AW,Earth,PHY,False
+Solid Titan,III,Ingus,AW,Earth,PHY,True
 Monolith Sword,III,Ingus,AW,Earth,PHY,False
 Knight's Assault,III,Ingus,Sync,Earth,PHY,False
 Paragon of Chivalry,III,Ingus,Sync,Earth,PHY,True
@@ -455,7 +455,7 @@ Nightmare Blade,IV,Decil,ASB,Dark,PHY,True
 Evil Force,IV,Decil,GL,NE,NA,True
 Evil Zone,IV,Decil,GL2,Dark,NA,False
 Dark Bond (Cecil (Dark Knight)),IV,Decil,Chain4,Dark,PHY,False
-Dark Crescent,IV,Decil,AW,Dark,PHY,False
+Dark Crescent,IV,Decil,AW,Dark,PHY,True
 Shadow Blazer,IV,Decil,Sync,Dark,PHY,False
 Tenebrous Blast,IV,Decil,Sync,Dark,PHY,False
 Abyssal Onslaught,IV,Decil,OLB,Dark,PHY,False
@@ -1252,8 +1252,8 @@ Crushing Palm,VII,Tifa,OLB,Earth,PHY,False
 Final Heaven,VII,Tifa,AD,Earth,PHY,True
 Awoken Meteor Arts,VII,Tifa,DuAW,Earth,PHY,True
 Healing Wind,VII,Aerith,Unique,NE,NA,False
-Planet Protector,VII,Aerith,Unique,NE,NA,False
-Fury Brand,VII,Aerith,Unique,NE,NA,False
+Planet Protector,VII,Aerith,Unique,NE,NA,True
+Fury Brand,VII,Aerith,Unique,NE,NA,True
 Dargon Force,VII,Aerith,Unique,NE,NA,False
 Pulse of Life,VII,Aerith,SSB,NE,NA,False
 White Materia,VII,Aerith,BSB,Holy,MAG,True
@@ -1350,7 +1350,7 @@ Awoken Proud Heritage,VII,Zack,DuAW,Wind,PHY,False
 Shadow Flare,VII,Sephiroth,Unique,NE,PHY,True
 Hell's Gate,VII,Sephiroth,Unique,NE,PHY,True
 Nibelheim Nightmare,VII,Sephiroth,Unique,Fire,PHY,False
-Black Materia,VII,Sephiroth,SSB,NE,PHY,False
+Black Materia,VII,Sephiroth,SSB,NE,PHY,True
 Transience,VII,Sephiroth,SSB,Dark,PHY,False
 Reunion,VII,Sephiroth,BSB,Fire,PHY,True
 Octaslash,VII,Sephiroth,BSB,Dark,PHY,True
@@ -1363,7 +1363,7 @@ Setting Sun,VII,Sephiroth,ASB,Dark,PHY,True
 Jenova's Might,VII,Sephiroth,GL,Dark,NA,True
 Fervent Shadow,VII,Sephiroth,GL2,Dark,NA,False
 Shimmer Flash,VII,Sephiroth,GL2,NE,NA,True
-Stigma,VII,Sephiroth,AW,Dark,PHY,False
+Stigma,VII,Sephiroth,AW,Dark,PHY,True
 Underworld Guardian,VII,Sephiroth,AW,Fire,PHY,False
 Flames of Nibelheim,VII,Sephiroth,AW,Dark Fire,PHY,False
 Demonic Lord,VII,Sephiroth,Sync,Dark,PHY,False
@@ -1942,24 +1942,24 @@ Water Raiment (Tidus),X,Tidus,GLB,Water,NA,False
 Apex Blitz Ace,X,Tidus,AD,Water,PHY,False
 Awoken Rising Dream,X,Tidus,DuAW,Water,PHY,False
 Woven Bond: Tidus - Water,X,Tidus,CLB,Water,PHY,False
-The Sending,X,Yuna,Unique,Holy,MAG,False
+The Sending,X,Yuna,Unique,Holy,MAG,True
 Hymn of the Fayth,X,Yuna,Unique,NE,NA,True
 Farplane Wind,X,Yuna,Unique,Holy,MAG,True
-Dragon's Roar,X,Yuna,SSB,NE,MAG,False
-Miracle Veil,X,Yuna,SSB,NE,NA,False
+Dragon's Roar,X,Yuna,SSB,NE,MAG,True
+Miracle Veil,X,Yuna,SSB,NE,NA,True
 Trigger Happy,X,Yuna,BSB,NE,MAG,True
-Tenets of the Fayth,X,Yuna,BSB,NE,MAG,False
+Tenets of the Fayth,X,Yuna,BSB,NE,MAG,True
 Song for Spira,X,Yuna,USB,NE,NA,True
-Grand Summon Overdrive,X,Yuna,USB,Holy Wind,MAG,False
-Heavenly Blessing,X,Yuna,USB,NE,NA,False
+Grand Summon Overdrive,X,Yuna,USB,Holy Wind,MAG,True
+Heavenly Blessing,X,Yuna,USB,NE,NA,True
 Whistle Promise,X,Yuna,USB,NE,NA,True
-Calm Prayer,X,Yuna,USB,NE,NA,False
+Calm Prayer,X,Yuna,USB,NE,NA,True
 Fanciful Ballad,X,Yuna,Chain3,Holy,MAG,False
-Grand Summon Dragonlord,X,Yuna,ASB,Holy Wind,MAG,False
-Boundless Heart,X,Yuna,GL2,Holy,NA,False
+Grand Summon Dragonlord,X,Yuna,ASB,Holy Wind,MAG,True
+Boundless Heart,X,Yuna,GL2,Holy,NA,True
 Fayth's Refuge,X,Yuna,GL,Holy,NA,True
 Bright Prospects,X,Yuna,GL,Holy,NA,True
-Yearning Prayer,X,Yuna,GL2,NE,NA,False
+Yearning Prayer,X,Yuna,GL2,NE,NA,True
 Final Wall,X,Yuna,GL2,NE,NA,False
 Cradling Words,X,Yuna,AW,NE,NA,False
 For the Calm,X,Yuna,AW,Holy Wind,MAG,True
@@ -2738,7 +2738,7 @@ Party Shot,XV,Prompto,Chain3,ALL,PHY MAG,False
 Ballistic,XV,Prompto,GL2,Lightning,PHY,False
 Spark Rave,XV,Prompto,GL2,Lightning,NA,True
 Chronicler of Fates,XV,Prompto,GL2,NE,NA,False
-Prized Quarry,XV,Prompto,AW,Lightning,PHY,False
+Prized Quarry,XV,Prompto,AW,Lightning,PHY,True
 Miracle Trigger,XV,Prompto,Sync,Lightning,PHY,False
 Trigger Hunt,XV,Prompto,OLB,Lightning,PHY,False
 Crackshot,XV,Prompto,AD,Lightning,PHY,False
@@ -3178,7 +3178,7 @@ Magika Album,Core,Elarra,USB,NE,NA,True
 Magika Orare,Core,Elarra,USB,NE,NA,False
 Magika Plus,Core,Elarra,GL,NE,NA,True
 Magika Amuletum,Core,Elarra,GL2,NE,NA,False
-Magika Phoenix,Core,Elarra,AW,NE,NA,False
+Magika Phoenix,Core,Elarra,AW,NE,NA,True
 Magika Animus,Core,Elarra,Sync,NE,NA,True
 Magika Stella,Core,Elarra,Sync,NE,NA,False
 Awoken Magika Album,Core,Elarra,DuAW,NE,NA,False

@@ -79,7 +79,7 @@ Nom de Guerre,5,Onion Knight,III,1.0,Start,NA,NoDelay2,True
 Power Overflowing,5,Onion Knight,III,1.0,EquipWeapon,Rod Sword,Dmg 1.5xMAG,True
 Herald of Darkness,5,Cloud of Darkness,III,1.0,Start,NA,Haste NoDelay1,True
 Spawn of Darkness,5,Cloud of Darkness,III,1.0,Start,Dark,Infusion,True
-Oblivion Seeker,5,Cloud of Darkness,III,0.2,Every1,Dark,AdditionalTrigger,False
+Oblivion Seeker,5,Cloud of Darkness,III,0.2,Every1,Dark,AdditionalTrigger,True
 Hastening (Cloud of Darkness),6,Cloid of Darkness,III,1.0,Every3,Dark,ReduceDelay,False
 Duty First,5,Aria,III,0.2,Every1,White,AdditionalTrigger,True
 Maiden of the Wreck,5,Aria,III,0.2,Every1,White,SmallGroup Healing,True
@@ -314,8 +314,8 @@ Grim Grin,5,Marcus,IX,0.2,Every1,Thief,Wind Imperil,False
 Moonflow's Grace,5,Tidus,X,1.0,Start,Water,Infusion,True
 Blitz Basics,5,Tidus,X,0.3,Every1,Water,ReduceDelay,True
 Family Tradition,5,Yuna,X,0.2,Every1,Summon,AdditionalTrigger,True
-Unfaltering Devotion,5,Yuna,X,1.0,Start,Holy,Infusion,False
-Just Whistle,5,Yuna,X,0.2,Every1,White,AdditionalTrigger,False
+Unfaltering Devotion,5,Yuna,X,1.0,Start,Holy,Infusion,True
+Just Whistle,5,Yuna,X,0.2,Every1,White,AdditionalTrigger,True
 Victory Awaits,5,Wakka,X,0.2,Every1,Sharpshooter,AdditionalTrigger,True
 Technical Control,5,Wakka,X,1.0,Auto,NA,Debuff 1.2xDuration,False
 Third Pilgrimage,5,Lulu,X,1.0,Every1,Black,IncreaseMAG,True
